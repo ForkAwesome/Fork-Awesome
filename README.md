@@ -1,23 +1,21 @@
-# [Font Awesome v4.7.0](http://fontawesome.io) [![Changelog #226](https://img.shields.io/badge/changelog-%23226-9E978E.svg)](https://changelog.com/podcast/226)
-### The iconic font and CSS framework
+# Fork Awesome
+### A fork of the iconic font and CSS framework
 
-Font Awesome is a full suite of 677 pictographic icons for easy scalable vector graphics on websites,
-created and maintained by [Dave Gandy](https://twitter.com/davegandy).
-Stay up to date with the latest release and announcements on Twitter:
-[@fontawesome](https://twitter.com/fontawesome).
+Fork Awesome is a full suite of 677 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
-Get started at http://fontawesome.io!
+Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction Fort Awesome is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this incredible tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
+
+A tremendous gratitude is given to the whole team behind [Font Awesome](https://fontawesome.io), and you are encouraged to support them and buy Font Awesome Pro for your project.
+
+This fork is still in its very early stage of development. Though If you wish to be part of the adventure, please start submitting patches.
 
 ## License
-- The Font Awesome font is licensed under the SIL OFL 1.1:
+- The Fork Awesome font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
-- Font Awesome CSS, LESS, and Sass files are licensed under the MIT License:
+- Fork Awesome CSS, LESS, and Sass files are licensed under the MIT License:
   - https://opensource.org/licenses/mit-license.html
-- The Font Awesome documentation is licensed under the CC BY 3.0 License:
+- The Fork Awesome documentation is licensed under the CC BY 3.0 License:
   - https://creativecommons.org/licenses/by/3.0/
-- Attribution is no longer required as of Font Awesome 3.0, but much appreciated:
-  - `Font Awesome by Dave Gandy - http://fontawesome.io`
-- Full details: http://fontawesome.io/license/
 
 ## Changelog
 - [v4.7.0 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/10012)
@@ -70,11 +68,11 @@ For more information on SemVer, please visit http://semver.org.
 ## Component
 To include as a [component](https://github.com/componentjs/component), just run
 
-    $ component install FortAwesome/Font-Awesome
+    $ component install ForkAwesome/Fork-Awesome
 
 Or add
 
-    "FortAwesome/Font-Awesome": "*"
+    "ForkAwesome/Fork-Awesome": "*"
 
 to the `dependencies` in your `component.json`.
 
@@ -100,6 +98,6 @@ Build the project and documentation:
 
     $ bundle exec jekyll build
 
-Or serve it on a local server on http://localhost:7998/Font-Awesome/:
+Or serve it on a local server on http://localhost:7998/Fork-Awesome/:
 
     $ bundle exec jekyll -w serve
