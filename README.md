@@ -1,5 +1,5 @@
 # Fork Awesome
-### A fork of the iconic font and CSS framework
+### A fork of the iconic font and CSS toolkit
 
 Fork Awesome is a full suite of 677 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
@@ -10,11 +10,11 @@ A tremendous gratitude is given to the whole team behind [Font Awesome](https://
 This fork is still in its very early stage of development. Though If you wish to be part of the adventure, please start submitting patches.
 
 ## License
-- The Fork Awesome font is licensed under the SIL OFL 1.1:
+- The Font Awesome font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
-- Fork Awesome CSS, LESS, and Sass files are licensed under the MIT License:
+- Font Awesome CSS, LESS, and Sass files are licensed under the MIT License:
   - https://opensource.org/licenses/mit-license.html
-- The Fork Awesome documentation is licensed under the CC BY 3.0 License:
+- The Font Awesome documentation is licensed under the CC BY 3.0 License:
   - https://creativecommons.org/licenses/by/3.0/
 
 ## Changelog
@@ -42,12 +42,12 @@ This fork is still in its very early stage of development. Though If you wish to
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/FortAwesome/Font-Awesome/blob/master/CONTRIBUTING.md).
+Please read through our [contributing guidelines](https://github.com/ForkAwesome/Fork-Awesome/blob/master/CONTRIBUTING.md).
 Included are directions for opening issues, coding standards, and notes on development.
 
 ## Versioning
 
-Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
+Fork Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
 with the following format:
 
 `<major>.<minor>.<patch>`
@@ -57,10 +57,11 @@ And constructed with the following guidelines:
 * Breaking backward compatibility bumps the major (and resets the minor and patch)
 * New additions, including new icons, without breaking backward compatibility bumps the minor (and resets the patch)
 * Bug fixes, changes to brand logos, and misc changes bumps the patch
+* The fork is based on FontAwesome 4.7 and renamed. So it starts at version 0.4.7
 
 For more information on SemVer, please visit http://semver.org.
 
-## Author
+## Original authors ot Font Awesome:
 - Email: dave@fontawesome.io
 - Twitter: http://twitter.com/davegandy
 - GitHub: https://github.com/davegandy

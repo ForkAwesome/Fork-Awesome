@@ -1,8 +1,8 @@
 {
-  "name": "fortawesome/font-awesome",
-  "description": "The iconic font and CSS framework",
+  "name": "forkawesome/fork-awesome",
+  "description": "A fork of the iconic font and CSS framework",
   "keywords": ["font", "awesome", "fontawesome", "icon", "font", "bootstrap"],
-  "homepage": "http://fontawesome.io/",
+  "homepage": "http://forkawesome.github.io/",
   "type": "component",
   "authors": [
     {

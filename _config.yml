@@ -1,6 +1,6 @@
 safe:             false
 port:             7998
-baseurl:          /Font-Awesome/  # Where GitHub serves the project up from
+baseurl:          /Fork-Awesome/  # Where GitHub serves the project up from
 url:              http://localhost:7998
 
 source:           src
@@ -17,6 +17,31 @@ include:          [_*.scss]
 icon_meta:        src/icons.yml
 icon_layout:      icon.html    # Relative to _layouts directory
 icon_destination: icon         # Relative to destination
+
+forkawesome:
+  name:           Fork Awesome
+  version:        0.4.7
+  minor_version:  0.4
+  major_version:  0
+  doc_blob:       v0.4.7
+  url:            http://forkawesome.github.com/
+  legacy_url:     http://forkawesome.github.com/Fork-Awesome/
+  tagline:        A fork of the iconic font and CSS toolkit
+  css_prefix:     fa
+  github:
+    url:          https://github.com/ForkAwesome/Fork-Awesome
+    project:      Fork-Awesome
+    org:          ForkAwesome
+  license:
+    font:
+      version:      SIL OFL 1.1
+      url:          http://scripts.sil.org/OFL
+    code:
+      version:      MIT License
+      url:          http://opensource.org/licenses/mit-license.html
+    documentation:
+      version:      CC BY 3.0
+      url:          http://creativecommons.org/licenses/by/3.0/
 
 fontawesome:
   version:        4.7.0

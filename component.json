@@ -1,8 +1,8 @@
 {
-  "name": "font-awesome",
-  "repo": "FortAwesome/Font-Awesome",
-  "description": "Font Awesome",
-  "version": "4.7.0",
+  "name": "fork-awesome",
+  "repo": "ForkAwesome/Fork-Awesome",
+  "description": "Fork Awesome",
+  "version": "0.4.7",
   "keywords": [],
   "dependencies": {},
   "development": {},

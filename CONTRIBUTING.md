@@ -1,8 +1,6 @@
-# Contributing to Font Awesome
+# Contributing to Fork Awesome
 
 Looking to contribute something to Font Awesome? **Here's how you can help.**
-
-
 
 ## Requesting new icons
 
@@ -63,9 +61,6 @@ As of v3.2.0, Font Awesome's CSS, LESS, SCSS, and documentation are all powered 
 
 ## Pull requests
 
-- At the moment we are not accepting pull requests containing icons
-- Submit all pull requests against the appropriate `*-wip` branch for easier merging
-- If your PR only affect the docs, feel free to push against the `master` branch
 - Any changes to the docs must be made to the Liquid templates in the `src` directory
 - Any changes to the styles must be made to the .less and .scss files in the `src` directory
 - If modifying the .less and .scss files, always recompile and commit the compiled files
