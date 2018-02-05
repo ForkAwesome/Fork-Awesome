@@ -38,10 +38,8 @@ And constructed with the following guidelines:
 
 For more information on SemVer, please visit http://semver.org.
 
-## Original authors ot Font Awesome:
-- Email: dave@fontawesome.io
-- Twitter: http://twitter.com/davegandy
-- GitHub: https://github.com/davegandy
+## Original author of Font Awesome:
+- [Dave Gandy](https://github.com/davegandy)
 
 ## Component
 To include as a [component](https://github.com/componentjs/component), just run
@@ -54,7 +52,7 @@ Or add
 
 to the `dependencies` in your `component.json`.
 
-## Hacking on Font Awesome
+## Building on Fork Awesome
 
 **Before you can build the project**, you must first have the following installed:
 
