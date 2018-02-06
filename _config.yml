@@ -45,6 +45,7 @@ forkawesome:
       url:          http://creativecommons.org/licenses/by/3.0/
 
 fontawesome:
+  name:           Font Awesome
   url:            http://fontawesome.com
   author:
     name:         Dave Gandy
