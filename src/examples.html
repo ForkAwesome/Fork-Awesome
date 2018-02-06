@@ -1,23 +1,21 @@
 ---
 layout: base
-title: Font Awesome Examples
+title: Fork Awesome Examples
 navbar_active: examples
 relative_path: ../
 ---
 {% capture jumbotron_h1 %}<i class="fa fa-magic" aria-hidden="true"></i>&nbsp; Examples{% endcapture %}
-{% capture jumbotron_p %}Lots of easy ways to use Font Awesome{% endcapture %}
+{% capture jumbotron_p %}Lots of easy ways to use {{ site.forkawesome.name }}{% endcapture %}
 
 {% include jumbotron.html %}
 {% include stripe-social.html %}
 
 <div class="container">
-  {% capture stripe_ad_content %}
   <p class="lead">
-    After you <a href="{{ page.relative_path }}get-started/">get up and running</a>, you can place Font Awesome icons just about
+    After you <a href="{{ page.relative_path }}get-started/">get up and running</a>, you can place {{ site.forkawesome.name }} icons just about
     anywhere with the <code>&lt;i&gt;</code> tag.
     Some examples appreciatively re-used from the <a href="{{ site.bootstrap.url }}">Bootstrap documentation</a>.
   </p>
-  {% endcapture %}
 
   <div class="alert alert-success gg">
     <div class="gg-col min-width">
