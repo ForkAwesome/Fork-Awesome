@@ -9,6 +9,7 @@
 .DS_Store
 .installed.cfg
 _gh_pages/*
+_site/*
 
 .idea/*
 .svn/*
