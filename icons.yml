@@ -6584,7 +6584,7 @@ icons:
   - name:       Mastodon
     id:         mastodon
     unicode:    f2e1
-    created:    5.0
+    created:    0.4
     url:        joinmastodon.org
     filter:
       - toot
@@ -6596,7 +6596,7 @@ icons:
   - name:       Mastodon Alt
     id:         mastodon-alt
     unicode:    f2e2
-    created:    5.0
+    created:    0.4
     url:        joinmastodon.org
     filter:
       - toot
