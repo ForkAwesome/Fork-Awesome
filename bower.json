@@ -1,14 +1,14 @@
 {
-  "name": "font-awesome",
-  "description": "Font Awesome",
+  "name": "fork-awesome",
+  "description": "Fork Awesome",
   "keywords": [],
-  "homepage": "http://fontawesome.io",
+  "homepage": "http://forkawesome.github.io/Fork-Awesome",
   "dependencies": {},
   "devDependencies": {},
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
   "main": [
-    "less/font-awesome.less",
-    "scss/font-awesome.scss"
+    "less/fork-awesome.less",
+    "scss/fork-awesome.scss"
   ],
   "ignore": [
     "*/.*",

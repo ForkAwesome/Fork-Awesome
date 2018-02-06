@@ -1,29 +1,30 @@
 {
   "name": "fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
-  "version": "4.7.0",
-  "style": "css/font-awesome.css",
+  "version": "0.4.7",
+  "style": "css/fork-awesome.css",
   "keywords": [
     "font",
     "awesome",
+    "forkawesome",
     "fontawesome",
     "icon",
     "bootstrap"
   ],
-  "homepage": "",
+  "homepage": "https://forkawesome.github.io/Fork-Awesome",
   "bugs": {
     "url": "http://github.com/ForkAwesome/Fork-Awesome/issues"
   },
-  "author": {
-    "name": "Dave Gandy",
-    "email": "dave@fontawesome.io",
-    "web": "http://twitter.com/davegandy"
-  },
+  "author": "Fork Awesome Community",
   "repository": {
     "type": "git",
     "url": "https://github.com/ForkAwesome/Fork-Awesome.git"
   },
   "contributors": [
+    {
+      "name": "Dave Gandy",
+      "web": "http://twitter.com/davegandy"
+    },
     {
       "name": "Brian Talbot",
       "web": "http://twitter.com/talbs"
@@ -43,14 +44,14 @@
   ],
   "license": "(OFL-1.1 AND MIT)",
   "dependencies": {},
+  "devDependencies": {
+    "less-plugin-clean-css": "^1.5.1"
+  },
   "engines": {
     "node": ">=0.10.3"
   },
   "scripts": {
     "build": "bundle exec jekyll build",
     "dev": "bundle exec jekyll -w serve"
-  },
-  "devDependencies": {
-    "less-plugin-clean-css": "^1.5.1"
   }
 }
