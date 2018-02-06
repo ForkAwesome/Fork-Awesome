@@ -4,7 +4,7 @@ baseurl:          /Fork-Awesome/  # Where GitHub serves the project up from
 url:              http://localhost:7998
 
 source:           src
-destination:      _gh_pages
+destination:      _site
 plugins:          src/_plugins
 
 pygments:         true
@@ -24,7 +24,7 @@ forkawesome:
   minor_version:  0.4
   major_version:  0
   doc_blob:       v0.4.7
-  url:            http://forkawesome.github.com/
+  url:            http://forkawesome.github.com/Fork-Awesome/
   legacy_url:     http://forkawesome.github.com/Fork-Awesome/
   tagline:        A fork of the iconic font and CSS toolkit
   css_prefix:     fa

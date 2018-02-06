@@ -1,0 +1,7 @@
+safe:             false
+port:             7998
+baseurl:          /Fork-Awesome/  # Where GitHub serves the project up from
+url:              //forkawesome.github.com/
+
+source:           src
+destination:      _site
