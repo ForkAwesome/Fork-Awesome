@@ -4872,6 +4872,8 @@ icons:
     id:         toggle-off
     unicode:    f204
     created:    4.2
+    filter:
+    - switch
     categories:
       - Web Application Icons
 
@@ -4879,6 +4881,8 @@ icons:
     id:         toggle-on
     unicode:    f205
     created:    4.2
+    filter:
+    - switch
     categories:
       - Web Application Icons
 
@@ -6575,4 +6579,28 @@ icons:
     unicode:    f2e0
     created:    4.7
     categories:
+      - Brand Icons
+
+  - name:       Mastodon
+    id:         mastodon
+    unicode:    f2e1
+    created:    5.0
+    url:        joinmastodon.org
+    filter:
+      - toot
+      - social network
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Mastodon Alt
+    id:         mastodon-alt
+    unicode:    f2e2
+    created:    5.0
+    url:        joinmastodon.org
+    filter:
+      - toot
+      - social network
+    categories:
+      - Web Application Icons
       - Brand Icons
