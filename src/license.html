@@ -11,22 +11,24 @@ relative_path: ../
 {% include stripe-social.html %}
 
 <div class="container">
-  {% capture stripe_ad_content %}
   <p class="lead">
-    Font Awesome is fully open source and is GPL friendly. You can use it for commercial projects, open source
-    projects, or really just about whatever you want.
+    {{ site.forkawesome.name }} is fully open source and is GPL friendly. You
+    can use it for commercial projects, open source projects, or really just
+    about whatever you want.
   </p>
-  {% endcapture %}
 
   <section>
     <h2 class="page-header">Font License</h2>
     <ul>
       <li>
         Applies to all desktop and webfont files in the following directory:
-        <code>font-awesome/fonts/</code>.
+        <code>fork-awesome/fonts/</code>.
       </li>
-      <li>License: {{ site.fontawesome.license.font.version }}</li>
-      <li>URL: <a href="{{ site.fontawesome.license.font.url }}">{{ site.fontawesome.license.font.url }}</a></li>
+      <li>License: {{ site.forkawesome.license.font.version }}</li>
+      <li>
+        URL: <a href="{{ site.forkawesome.license.font.url }}">
+        {{ site.forkawesome.license.font.url }}</a>
+      </li>
     </ul>
   </section>
 
@@ -35,21 +37,30 @@ relative_path: ../
     <ul>
       <li>
         Applies to all CSS and LESS files in the following directories:
-        <code>font-awesome/css/</code>,
-        <code>font-awesome/less/</code>, and
-        <code>font-awesome/scss/</code>.
+        <code>fork-awesome/css/</code>,
+        <code>fork-awesome/less/</code>, and
+        <code>fork-awesome/scss/</code>.
       </li>
-      <li>License: {{ site.fontawesome.license.code.version }}</li>
-      <li>URL: <a href="{{ site.fontawesome.license.code.url }}">{{ site.fontawesome.license.code.url }}</a></li>
+      <li>License: {{ site.forkawesome.license.code.version }}</li>
+      <li>
+        URL: <a href="{{ site.forkawesome.license.code.url }}">
+        {{ site.forkawesome.license.code.url }}</a>
+      </li>
     </ul>
   </section>
 
   <section>
     <h2 class="page-header">Documentation License</h2>
     <ul>
-      <li>Applies to all Font Awesome project files that are not a part of the Font or Code licenses.</li>
-      <li>License: {{ site.fontawesome.license.documentation.version }}</li>
-      <li>URL: <a href="{{ site.fontawesome.license.documentation.url }}">{{ site.fontawesome.license.documentation.url }}</a></li>
+      <li>
+        Applies to all {{ site.forkawesome.name }} project files that are not
+        a part of the Font or Code licenses.
+      </li>
+      <li>License: {{ site.forkawesome.license.documentation.version }}</li>
+      <li>
+        URL: <a href="{{ site.forkawesome.license.documentation.url }}">
+        {{ site.forkawesome.license.documentation.url }}</a>
+      </li>
     </ul>
   </section>
 
