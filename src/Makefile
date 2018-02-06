@@ -24,10 +24,10 @@ build:
 	@mkdir -p ${FA_CSS_DIRECTORY}
 
 	bundle exec lessc ${FA_LESS_MODERN} > ${FA_CSS_MODERN}
-	bundle exec lessc ${FA_LESS_MODERN} > ${FA_CSS_MODERN_MIN}
+	bundle exec lessc --clean-css="--compatibility=ie8" ${FA_LESS_MODERN} > ${FA_CSS_MODERN_MIN}
 #	sass ${FA_SCSS_MODERN} ${FA_CSS_MODERN}
 
-	bundle exec lessc  ${SITE_LESS} > ${SITE_CSS}
+	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
 	cp -r ${FA_ROOT_DIRECTORY}/* ../
 	mv README.md-nobuild ../README.md
 	cd assets && mv fork-awesome fork-awesome-{{ site.forkawesome.version }} && zip -r9 fork-awesome-{{ site.forkawesome.version }}.zip fork-awesome-{{ site.forkawesome.version }} && mv fork-awesome-{{ site.forkawesome.version }} fork-awesome

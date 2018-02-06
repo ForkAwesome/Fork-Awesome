@@ -20,13 +20,13 @@ icon_destination: icon         # Relative to destination
 
 forkawesome:
   name:           Fork Awesome
+  tagline:        A fork of the iconic font and CSS toolkit
   version:        0.4.7
   minor_version:  0.4
   major_version:  0
   doc_blob:       v0.4.7
   url:            http://forkawesome.github.com/Fork-Awesome/
   legacy_url:     http://forkawesome.github.com/Fork-Awesome/
-  tagline:        A fork of the iconic font and CSS toolkit
   css_prefix:     fa
   font_family:    ForkAwesome
   github:
@@ -45,17 +45,7 @@ forkawesome:
       url:          http://creativecommons.org/licenses/by/3.0/
 
 fontawesome:
-  version:        4.7.0
-  minor_version:  4.7
-  major_version:  4
-  doc_blob:       v4.7.0
-  url:            http://fontawesome.io
-  legacy_url:     http://fortawesome.github.com/Font-Awesome/
-  blog_url:       http://articles.fortawesome.com
-  twitter:        fontawesome
-  tagline:        The iconic font and CSS toolkit
-  css_prefix:     fa
-  font_family:    FontAwesome
+  url:            http://fontawesome.com
   author:
     name:         Dave Gandy
     email:        dave@fontawesome.io
@@ -65,16 +55,6 @@ fontawesome:
     url:          https://github.com/FortAwesome/Font-Awesome
     project:      Font-Awesome
     org:          FortAwesome
-  license:
-    font:
-      version:      SIL OFL 1.1
-      url:          http://scripts.sil.org/OFL
-    code:
-      version:      MIT License
-      url:          http://opensource.org/licenses/mit-license.html
-    documentation:
-      version:      CC BY 3.0
-      url:          http://creativecommons.org/licenses/by/3.0/
 
 bootstrap:
   version:        3.3.5

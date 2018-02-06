@@ -3,10 +3,16 @@
   "description": "A fork of the iconic font and CSS framework",
   "version": "4.7.0",
   "style": "css/font-awesome.css",
-  "keywords": ["font", "awesome", "fontawesome", "icon", "bootstrap"],
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "bootstrap"
+  ],
   "homepage": "",
   "bugs": {
-    "url" : "http://github.com/ForkAwesome/Fork-Awesome/issues"
+    "url": "http://github.com/ForkAwesome/Fork-Awesome/issues"
   },
   "author": {
     "name": "Dave Gandy",
@@ -36,13 +42,15 @@
     }
   ],
   "license": "(OFL-1.1 AND MIT)",
-  "dependencies": {
-  },
+  "dependencies": {},
   "engines": {
     "node": ">=0.10.3"
   },
   "scripts": {
     "build": "bundle exec jekyll build",
     "dev": "bundle exec jekyll -w serve"
+  },
+  "devDependencies": {
+    "less-plugin-clean-css": "^1.5.1"
   }
 }
