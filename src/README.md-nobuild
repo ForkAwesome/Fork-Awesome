@@ -76,7 +76,7 @@ Build the project and documentation:
 
     $ npm run build
 
-Or serve it on a local server on (http://localhost:7998/Fork-Awesome/):
+Or serve it on a local server on http://localhost:7998/Fork-Awesome/:
 
     $ npm run dev
 
