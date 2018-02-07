@@ -5,7 +5,7 @@ Fork Awesome is a full suite of 677 pictographic icons for easy scalable vector 
 
 Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction Fort Awesome is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this incredible tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
 
-A tremendous gratitude is given to the whole team behind [Font Awesome](https://fontawesome.io), and you are encouraged to support them and buy Font Awesome Pro for your project.
+A tremendous gratitude is given to the whole team behind [Font Awesome](https://fontawesome.com), and you are encouraged to support them and buy Font Awesome Pro for your project.
 
 This fork is still in its very early stage of development. Though If you wish to be part of the adventure, please start submitting patches.
 
@@ -74,7 +74,7 @@ Build the project and documentation:
 
     $ npm run build
 
-Or serve it on a local server on (http://localhost:7998/Fork-Awesome/):
+Or serve it on a local server on http://localhost:7998/Fork-Awesome/:
 
     $ npm run dev
 
