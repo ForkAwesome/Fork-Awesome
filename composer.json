@@ -1,20 +1,23 @@
 {
   "name": "forkawesome/fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
-  "keywords": ["font", "awesome", "fontawesome", "icon", "font", "bootstrap"],
+  "keywords": ["font", "awesome", "fontawesome", "forkawesome", "icon",  "bootstrap"],
   "homepage": "http://forkawesome.github.io/Fork-Awesome/",
   "type": "component",
   "authors": [
     {
       "name": "Dave Gandy",
       "email": "dave@fontawesome.io",
-      "role": "Developer",
+      "role": "Original author",
       "homepage": "http://twitter.com/davegandy"
     }
   ],
+  "support": {
+    "issues": "https://github.com/ForkAwesome/Fork-Awesome/issues"
+  },
   "extra": {
     "branch-alias": {
-      "dev-master": "4.7.x-dev"
+      "dev-master": "0.4.x-dev"
     }
   },
   "license": [
