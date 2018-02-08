@@ -1,7 +1,7 @@
 {
   "name": "fork-awesome",
   "description": "Fork Awesome",
-  "keywords": [],
+  "keywords": ["font", "fork", "awesome", "icon" ],
   "homepage": "http://forkawesome.github.io/Fork-Awesome",
   "dependencies": {},
   "devDependencies": {},
