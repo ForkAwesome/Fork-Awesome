@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="_387" unicode="&#xf19c;" horiz-adv-x="2048"
+
+d="M960 1536l960 -384v-128h-128q0 -26 -20.5 -45t-48.5 -19h-1526q-28 0 -48.5 19t-20.5 45h-128v128zM256 896h256v-768h128v768h256v-768h128v768h256v-768h128v768h256v-768h59q28 0 48.5 -19t20.5 -45v-64h-1664v64q0 26 20.5 45t48.5 19h59v768zM1851 -64
+q28 0 48.5 -19t20.5 -45v-128h-1920v128q0 26 20.5 45t48.5 19h1782z" />
+</svg>

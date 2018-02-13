@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="_479" unicode="&#xf1fe;" horiz-adv-x="2048"
+
+d="M2048 0v-128h-2048v1536h128v-1408h1920zM1664 1024l256 -896h-1664v576l448 576l576 -576z" />
+</svg>

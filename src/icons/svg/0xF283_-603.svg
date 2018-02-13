@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="_603" unicode="&#xf283;" horiz-adv-x="2304"
+
+d="M0 32v608h2304v-608q0 -66 -47 -113t-113 -47h-1984q-66 0 -113 47t-47 113zM640 256v-128h384v128h-384zM256 256v-128h256v128h-256zM2144 1408q66 0 113 -47t47 -113v-224h-2304v224q0 66 47 113t113 47h1984z" />
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="ellipsis_vertical" unicode="&#xf142;" horiz-adv-x="384"
+
+d="M384 288v-192q0 -40 -28 -68t-68 -28h-192q-40 0 -68 28t-28 68v192q0 40 28 68t68 28h192q40 0 68 -28t28 -68zM384 800v-192q0 -40 -28 -68t-68 -28h-192q-40 0 -68 28t-28 68v192q0 40 28 68t68 28h192q40 0 68 -28t28 -68zM384 1312v-192q0 -40 -28 -68t-68 -28h-192
+q-40 0 -68 28t-28 68v192q0 40 28 68t68 28h192q40 0 68 -28t28 -68z" />
+</svg>
