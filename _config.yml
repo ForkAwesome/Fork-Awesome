@@ -1,11 +1,11 @@
 safe:             false
 port:             7998
-baseurl:          /Fork-Awesome/  # Where GitHub serves the project up from
+baseurl:          /             # Where GitHub serves the project up from
 url:              http://localhost:7998
 
-source:           src
+source:           src/doc/
 destination:      _site
-plugins:          src/_plugins
+plugins:          src/doc/_plugins
 
 pygments:         true
 permalink:        pretty
@@ -14,7 +14,7 @@ permalink:        pretty
 include:          [_*.scss]
 
 # used in building icon pages
-icon_meta:        src/icons.yml
+icon_meta:        src/doc/icons.yml
 icon_layout:      icon.html    # Relative to _layouts directory
 icon_destination: icon         # Relative to destination
 
