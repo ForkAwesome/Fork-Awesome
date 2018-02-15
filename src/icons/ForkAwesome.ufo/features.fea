@@ -1,0 +1,114 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\asterisk \plus \question \minus \glass \music \search 
+	\envelope_alt \heart \star \star_o \user \film \th_large \th \th_list \check 
+	\remove \search_plus \search_minus \power_off \signal \cog \trash_o \home 
+	\file_o \clock_o \road \download \arrow_circle_o_down \arrow_circle_o_up 
+	\inbox \play_circle_o \repeat \refresh \list_alt \lock \flag \headphones 
+	\volume_off \volume_down \volume_up \qrcode \barcode \tag \tags \book \bookmark 
+	\print \camera \font \bold \italic \text_height \text_width \align_left 
+	\align_center \align_right \align_justify \list \dedent \indent \video_camera 
+	\picture_o \pencil \map_marker \adjust \tint \edit \share_square_o 
+	\check_square_o \arrrows \step_backward \fast_backward \backward \play \pause 
+	\stop \forward \fast_forward \step_forward \eject \chevron_left \chevron_right 
+	\plus_circle \minus_circle \times_circle \check_circle \question_circle 
+	\info_circle \crosshairs \times_circle_o \check_circle_o \ban \arrow_left 
+	\arrow_right \arrow_up \arrow_down \uniF1E0 \expand \compress 
+	\exclamation_circle \gift \leaf \fire \eye \eye_slash \exclamation_triangle 
+	\plane \calendar \random \comment \magnet \chevron_up \chevron_down \retweet 
+	\shopping_cart \folder \folder_open \arrows_v \arrows_h \bar_chart 
+	\twitter_square \facebook_square \camera_retro \key \cogs \comments 
+	\thumbs_o_up \thumbs_o_down \star_half \heart_o \sign_out \linkedin_square 
+	\thumb_tack \external_link \sign_in \trophy \github_square \upload \lemon_o 
+	\phone \square_o \bookmark_o \phone_square \twitter \facebook \github \unlock 
+	\credit_card \rss \hdd_o \bullhorn \bell \certificate \hand_o_right 
+	\hand_o_left \hand_o_up \hand_o_down \arrow_circle_left \arrow_circle_right 
+	\arrow_circle_up \arrow_circle_down \globe \wrench \tasks \filter \briefcase 
+	\arrows_alt \users \link \cloud \flask \scissors \files_o \paperclip \floppy_o 
+	\square \bars \list_ul \list_ol \strikethrough \underline \table \magic \truck 
+	\pinterest \pinterest_square \google_plus_square \google_plus \money 
+	\caret_down \caret_up \caret_left \caret_right \columns \sort \sort_desc 
+	\sort_asc \envelope \linkedin \undo \gavel \tachometer \comment_o \comments_o 
+	\bolt \sitemap \umbrella \clipboard \lightbulb_o \exchange \cloud_download 
+	\cloud_upload \user_md \stethoscope \suitcase \bell_o \coffee \cutlery 
+	\file_text_o \building_o \hospital_o \ambulance \medkit \fighter_jet \beer 
+	\h_square \plus_square \angle_double_left \angle_double_right 
+	\angle_double_up \angle_double_down \angle_left \angle_right \angle_up 
+	\angle_down \desktop \laptop \tablet \mobile \circle_o \quote_left \quote_right 
+	\spinner \circle \reply \github_alt \folder_o \folder_open_o \smile_o \frown_o 
+	\meh_o \gamepad \keyboard_o \flag_o \flag_checkered \terminal \code \reply_all 
+	\star_half_o \location_arrow \crop \code_fork \chain_broken \info \exclamation 
+	\superscript \subscript \eraser \puzzle_piece \microphone \microphone_slash 
+	\shield \calendar_o \fire_extinguisher \rocket \maxcdn \chevron_circle_left 
+	\chevron_circle_right \chevron_circle_up \chevron_circle_down \html5 \css3 
+	\anchor \unlock_alt \bullseye \ellipsis_h \ellipsis_v \rss_square \play_circle 
+	\ticket \minus_square \minus_square_o \level_up \level_down \check_square 
+	\pencil_square \external_link_square \share_square \compass 
+	\caret_square_o_down \caret_square_o_up \caret_square_o_right \eur \gbp \usd 
+	\inr \jpy \rub \krw \btc \file \file_text \sort_alphabet_asc \sort_alphabet_desc 
+	\sort_amount_asc \sort_amount_desc \sort_numeric_asc \sort_numeric_desc 
+	\thumbs_up \thumbs_down \youtube_square \youtube \xing \xing_square 
+	\youtube_play \dropbox \stack_overflow \instagram \flickr \adn \f171 
+	\bitbucket_square \tumblr \tumblr_square \long_arrow_down \long_arrow_up 
+	\long_arrow_left \long_arrow_right \apple \windows \android \linux \dribble 
+	\skype \foursquare \trello \female \male \gratipay \sun_o \moon_o \archive \bug 
+	\vk \weibo \renren \pagelines \stack_exchange \arrow_circle_o_right 
+	\arrow_circle_o_left \caret_square_o_left \dot_circle_o \wheelchair 
+	\vimeo_square \try \plus_square_o \space_shuttle \slack \envelope_square 
+	\wordpress \openid \university \graduation_cap \yahoo \google \reddit 
+	\reddit_square \stumbleupon_circle \stumbleupon \delicious \digg \drupal 
+	\joomla \language \fax \building \child \paw \spoon \cube \cubes \behance 
+	\behance_square \steam \steam_square \recycle \car \taxi \tree \spotify 
+	\deviantart \soundcloud \database \file_pdf_o \file_word_o \file_excel_o 
+	\file_powerpoint_o \file_image_o \file_archive_o \file_audio_o \file_video_o 
+	\file_code_o \vine \codepen \jsfiddle \life_ring \circle_o_notch \rebel \empire 
+	\git_square \git \hacker_news \tecent_weibo \qq \weixin \paper_plane 
+	\paper_plane_o \history \circle_thin \header \paragraph \sliders \share_alt 
+	\share_alt_square \bomb \futbol_o \tty \binoculars \plug \slideshare \twitch 
+	\yelp \newspaper_o \wifi \calculator \paypal \google_wallet \visa \mastercard 
+	\discover \amex \cc_paypal \stripe \bell_slash \bell_slash_o \trash \copyright 
+	\at \eyedropper \paint_brush \birthday_cake \area_chart \pie_chart \line_chart 
+	\lastfm \lastfm_square \toggle_off \toggle_on \bicycle \bus \ioxhost \argellist 
+	\cc \ils \meanpath \buysellads \connectdevelop \dashcube \forumbee \leanpub 
+	\sellsy \shirtsinbulk \simplybuilt \skyatlas \cart_plus \cart_arrow_down 
+	\diamond \ship \user_secret \motorcycle \street_view \heartbeat \venus \mars 
+	\mercury \transgender \transgender_alt \venus_double \mars_double \venu_mars 
+	\mars_stroke \mars_stroke_v \mars_stroke_h \neuter \genderless 
+	\facebook_official \pinterest_p \whatsapp \server \user_plus \user_times \bed 
+	\viacoin \train \subway \medium \y_combinator \optin_monster \opencart 
+	\expeditedssl \battery_full \battery_three_quarters \battery_half 
+	\battery_quarter \battery_empty \mouse_pointer \i_cursor \object_group 
+	\object_ungroup \sticky_note \sticky_note_o \cc_jcb \cc_diners_club \clone 
+	\balance_scale \hourglass_o \hourglass_start \hourglass_half \hourglass_end 
+	\hourglass \hand_rock_o \hand_paper_o \hand_scissors_o \hand_lizard_o 
+	\hand_spock_o \hand_pointer_o \hand_peace_o \tardemark \registered 
+	\creative_commons \gg \gg_circle \tripadvisor \odnoklassniki 
+	\odnoklassnike_square \get_pocket \wikipedia_w \safari \chrome \firefox \opera 
+	\internet_explorer \television \contao \_500px \amazon \calendar_plus_o 
+	\calendar_minus_o \calendar_times_o \calendar_check_o \industry \map_pin 
+	\map_signs \map_o \map \commenting \commenting_o \houzz \vimeo \black_tie 
+	\fonticons \reddit_alien \edge \credit_card_alt \codepie \modx \fort_awesome 
+	\usb \product_hunt \mixcloud \scribd \pause_circle \pause_circle_o 
+	\stop_circle \stop_circle_o \shopping_bag \shopping_basket \hashtag 
+	\bluetooth \bluetooth_b \percent \gitlab \wpbeginner \wpforms \envira 
+	\universal_access \wheelchair_alt \question_circle_o \blind 
+	\audio_description \volume_control_phone \braille 
+	\assistive_listening_systems \american_sign_language_interp \deaf \glide 
+	\glide_g \sign_language \low_vision \viadeo \viadeo_square \snapchat 
+	\snapchat_ghost \snapchat_square \first_order \yoast \themeisle 
+	\google_plus_official \font_awesome \handshake_o \envelope_open 
+	\envelope_open_o \linode \address_book \address_book_o \address_card 
+	\address_card_o \user_circle \user_circle_o \user_o \id_badge \id_card 
+	\id_card_o \quora \free_code_camp \telegram \thermometer_full 
+	\thermometer_three_quarters \thermometer_half \thermometer_quarter 
+	\thermometer_empty \shower \bath \podcast \window_maximize \window_minimize 
+	\window_restore \window_close \window_close_o \bandcamp \grav \etsy \imdb 
+	\ravelry \eercast \microchip \snowflake_o \superpowers \wpexplorer \meetup 
+	\mastodon \mastodon_alt ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

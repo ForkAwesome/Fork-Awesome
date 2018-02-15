@@ -1,6 +1,0 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="_480" unicode="&#xf200;" horiz-adv-x="1792"
-
-d="M768 646l546 -546q-106 -108 -247.5 -168t-298.5 -60q-209 0 -385.5 103t-279.5 279.5t-103 385.5t103 385.5t279.5 279.5t385.5 103v-762zM955 640h773q0 -157 -60 -298.5t-168 -247.5zM1664 768h-768v768q209 0 385.5 -103t279.5 -279.5t103 -385.5z" />
-</svg>
