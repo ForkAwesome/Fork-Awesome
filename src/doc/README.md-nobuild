@@ -12,11 +12,11 @@ A tremendous gratitude is given to the whole team behind [Font Awesome](https://
 This fork is still in its very early stage of development. Though If you wish to be part of the adventure, please start submitting patches.
 
 ## License
-- The Font Awesome font is licensed under the SIL OFL 1.1:
+- The {{ site.forkawesome.name }} font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
-- Font Awesome CSS, LESS, and Sass files are licensed under the MIT License:
+- {{ site.forkawesome.name }} CSS, LESS, and Sass files are licensed under the MIT License:
   - https://opensource.org/licenses/mit-license.html
-- The Font Awesome documentation is licensed under the CC BY 3.0 License:
+- The {{ site.forkawesome.name }} documentation is licensed under the CC BY 3.0 License:
   - https://creativecommons.org/licenses/by/3.0/
 
 ## Contributing
