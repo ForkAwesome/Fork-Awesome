@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="map_pin" unicode="&#xf276;" horiz-adv-x="1024" 
+
+d="M512 448c44 0 87 5 128 15v-655c0 -35 -29 -64 -64 -64h-128c-35 0 -64 29 -64 64v655c41 -10 84 -15 128 -15zM512 1536c283 0 512 -229 512 -512s-229 -512 -512 -512s-512 229 -512 512s229 512 512 512zM512 1312c18 0 32 14 32 32s-14 32 -32 32
+c-194 0 -352 -158 -352 -352c0 -18 14 -32 32 -32s32 14 32 32c0 159 129 288 288 288z" />
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="long_arrow_up" unicode="&#xf176;" horiz-adv-x="768" 
+
+d="M765 1043c-5 -11 -16 -19 -29 -19h-224v-1248c0 -18 -14 -32 -32 -32h-192c-18 0 -32 14 -32 32v1248h-224c-13 0 -24 7 -29 19s-3 25 5 35l350 384c6 6 14 10 23 10v0c9 0 18 -4 24 -10l355 -384c8 -10 10 -23 5 -35z" />
+</svg>

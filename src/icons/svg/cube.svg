@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="cube" unicode="&#xf1b2;" horiz-adv-x="1792" 
+
+d="M896 -93l640 349v636l-640 -233v-752zM832 772l698 254l-698 254l-698 -254zM1664 1024v-768c0 -47 -26 -90 -67 -112l-704 -384c-19 -11 -40 -16 -61 -16s-42 5 -61 16l-704 384c-41 22 -67 65 -67 112v768c0 54 34 102 84 120l704 256c14 5 29 8 44 8s30 -3 44 -8
+l704 -256c50 -18 84 -66 84 -120z" />
+</svg>

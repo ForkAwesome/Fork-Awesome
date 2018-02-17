@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="bed" unicode="&#xf236;" horiz-adv-x="2048" 
+
+d="M256 512h1728c35 0 64 -29 64 -64v-448h-256v256h-1536v-256h-256v1216c0 35 29 64 64 64h128c35 0 64 -29 64 -64v-704zM832 832c0 141 -115 256 -256 256s-256 -115 -256 -256s115 -256 256 -256s256 115 256 256zM2048 576v64c0 212 -172 384 -384 384h-704
+c-35 0 -64 -29 -64 -64v-384h1152z" />
+</svg>

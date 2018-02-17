@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="credit_card" unicode="&#xf09d;" horiz-adv-x="1920" 
+
+d="M1760 1408c88 0 160 -72 160 -160v-1216c0 -88 -72 -160 -160 -160h-1600c-88 0 -160 72 -160 160v1216c0 88 72 160 160 160h1600zM160 1280c-17 0 -32 -15 -32 -32v-224h1664v224c0 17 -15 32 -32 32h-1600zM1760 0c17 0 32 15 32 32v608h-1664v-608
+c0 -17 15 -32 32 -32h1600zM256 128v128h256v-128h-256zM640 128v128h384v-128h-384z" />
+</svg>

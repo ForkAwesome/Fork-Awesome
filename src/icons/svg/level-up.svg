@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="level_up" unicode="&#xf148;" horiz-adv-x="1024" 
+
+d="M1018 933c-11 -23 -33 -37 -58 -37h-192v-864c0 -18 -14 -32 -32 -32h-704c-12 0 -24 7 -29 18c-5 12 -4 25 4 35l160 192c6 7 16 11 25 11h320v640h-192c-25 0 -47 14 -58 37c-10 22 -7 49 9 68l320 384c24 29 74 29 98 0l320 -384c16 -19 20 -46 9 -68z" />
+</svg>

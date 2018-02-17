@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="binoculars" unicode="&#xf1e5;" horiz-adv-x="1792" 
+
+d="M704 1216v-768c0 -35 -29 -64 -64 -64v0v-576c0 -35 -29 -64 -64 -64h-512c-35 0 -64 29 -64 64v512l249 873c4 14 17 23 31 23h424zM1024 1216v-704h-256v704h256zM1792 320v-512c0 -35 -29 -64 -64 -64h-512c-35 0 -64 29 -64 64v576v0c-35 0 -64 29 -64 64v768h424
+c14 0 27 -9 31 -23zM736 1504v-224h-352v224c0 18 14 32 32 32h288c18 0 32 -14 32 -32zM1408 1504v-224h-352v224c0 18 14 32 32 32h288c18 0 32 -14 32 -32z" />
+</svg>

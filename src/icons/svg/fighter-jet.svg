@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="fighter_jet" unicode="&#xf0fb;" horiz-adv-x="1920" 
+
+d="M1920 576c0 0 0 -32 -288 -96l-352 -32l-224 -64h-64l-293 -352h69c35 0 64 -7 64 -16s-29 -16 -64 -16h-96h-160h-64v32h64v416h-160l-192 -224h-96l-32 32v192h32v32h128v8l-192 24v128l192 24v8h-128v32h-32v192l32 32h96l192 -224h160v416h-64v32h64h160h96
+c35 0 64 -7 64 -16s-29 -16 -64 -16h-69l293 -352h64l224 -64l352 -32c288 -64 288 -96 288 -96z" />
+</svg>

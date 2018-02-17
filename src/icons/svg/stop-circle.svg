@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="stop_circle" unicode="&#xf28d;" 
+
+d="M1088 352v576c0 18 -14 32 -32 32h-576c-18 0 -32 -14 -32 -32v-576c0 -18 14 -32 32 -32h576c18 0 32 14 32 32zM1536 640c0 -424 -344 -768 -768 -768s-768 344 -768 768s344 768 768 768s768 -344 768 -768z" />
+</svg>

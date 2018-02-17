@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="battery_empty" unicode="&#xf244;" horiz-adv-x="2304" 
+
+d="M2176 960c71 0 128 -57 128 -128v-384c0 -71 -57 -128 -128 -128v-160c0 -88 -72 -160 -160 -160h-1856c-88 0 -160 72 -160 160v960c0 88 72 160 160 160h1856c88 0 160 -72 160 -160v-160zM2176 448v384h-128v288c0 18 -14 32 -32 32h-1856c-18 0 -32 -14 -32 -32v-960
+c0 -18 14 -32 32 -32h1856c18 0 32 14 32 32v288h128z" />
+</svg>

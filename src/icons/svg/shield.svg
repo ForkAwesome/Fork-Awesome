@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="shield" unicode="&#xf132;" horiz-adv-x="1280" 
+
+d="M1088 576v640h-448v-1137c51 27 133 74 213 137c107 84 235 215 235 360zM1280 1344v-768c0 -421 -589 -687 -614 -698c-8 -4 -17 -6 -26 -6s-18 2 -26 6c-25 11 -614 277 -614 698v768c0 35 29 64 64 64h1152c35 0 64 -29 64 -64z" />
+</svg>

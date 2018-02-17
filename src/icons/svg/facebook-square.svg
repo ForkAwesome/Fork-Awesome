@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="facebook_square" unicode="&#xf082;" 
+
+d="M1248 1408c159 0 288 -129 288 -288v-960c0 -159 -129 -288 -288 -288h-188v595h199l30 232h-229v148c0 67 18 112 115 112l122 1v207c-21 3 -94 9 -178 9c-177 0 -299 -108 -299 -306v-171h-200v-232h200v-595h-532c-159 0 -288 129 -288 288v960c0 159 129 288 288 288
+h960z" />
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="eraser" unicode="&#xf12d;" horiz-adv-x="1920" 
+
+d="M896 128l336 384h-768l-336 -384h768zM1909 1205c20 -46 12 -99 -21 -137l-896 -1024c-24 -28 -59 -44 -96 -44h-768c-50 0 -96 29 -117 75c-20 46 -12 99 21 137l896 1024c24 28 59 44 96 44h768c50 0 96 -29 117 -75z" />
+</svg>

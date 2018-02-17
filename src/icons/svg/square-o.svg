@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="square_o" unicode="&#xf096;" horiz-adv-x="1408" 
+
+d="M1120 1280h-832c-88 0 -160 -72 -160 -160v-832c0 -88 72 -160 160 -160h832c88 0 160 72 160 160v832c0 88 -72 160 -160 160zM1408 1120v-832c0 -159 -129 -288 -288 -288h-832c-159 0 -288 129 -288 288v832c0 159 129 288 288 288h832v0c159 0 288 -129 288 -288z
+" />
+</svg>

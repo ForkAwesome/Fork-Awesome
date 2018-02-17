@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="flickr" unicode="&#xf16e;" 
+
+d="M1248 1408c159 0 288 -129 288 -288v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960zM698 640c0 117 -95 212 -212 212s-212 -95 -212 -212s95 -212 212 -212s212 95 212 212zM1262 640c0 117 -95 212 -212 212
+s-212 -95 -212 -212s95 -212 212 -212s212 95 212 212z" />
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="briefcase" unicode="&#xf0b1;" horiz-adv-x="1792" 
+
+d="M640 1280h512v128h-512v-128zM1792 640v-480c0 -88 -72 -160 -160 -160h-1472c-88 0 -160 72 -160 160v480h672v-160c0 -35 29 -64 64 -64h320c35 0 64 29 64 64v160h672zM1024 640v-128h-256v128h256zM1792 1120v-384h-1792v384c0 88 72 160 160 160h352v160
+c0 53 43 96 96 96h576c53 0 96 -43 96 -96v-160h352c88 0 160 -72 160 -160z" />
+</svg>

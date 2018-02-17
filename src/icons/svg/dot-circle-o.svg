@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="dot_circle_o" unicode="&#xf192;" 
+
+d="M1024 640c0 -141 -115 -256 -256 -256s-256 115 -256 256s115 256 256 256s256 -115 256 -256zM768 1184c-300 0 -544 -244 -544 -544s244 -544 544 -544s544 244 544 544s-244 544 -544 544zM1536 640c0 -424 -344 -768 -768 -768s-768 344 -768 768s344 768 768 768v0
+c424 0 768 -344 768 -768z" />
+</svg>

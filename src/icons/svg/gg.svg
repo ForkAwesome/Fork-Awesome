@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="gg" unicode="&#xf260;" horiz-adv-x="2048" 
+
+d="M736 736l384 -384l-384 -384l-672 672l672 672l168 -168l-96 -96l-72 72l-480 -480l480 -480l193 193l-289 287zM1312 1312l672 -672l-672 -672l-168 168l96 96l72 -72l480 480l-480 480l-193 -193l289 -287l-96 -96l-384 384z" />
+</svg>

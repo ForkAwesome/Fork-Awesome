@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="pencil_square" unicode="&#xf14b;" 
+
+d="M404 428l152 -152l-52 -52h-56v96h-96v56zM818 818c8 -7 6 -21 -3 -30l-291 -291c-9 -9 -23 -11 -30 -3c-8 7 -6 21 3 30l291 291c9 9 23 11 30 3zM544 128l544 544l-288 288l-544 -544v-288h288zM1152 736l92 92c37 37 37 99 0 136l-152 152c-37 37 -99 37 -136 0
+l-92 -92zM1536 1120v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+</svg>

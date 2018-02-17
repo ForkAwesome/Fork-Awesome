@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="beer" unicode="&#xf0fc;" horiz-adv-x="1664" 
+
+d="M640 640v384h-256v-256c0 -71 57 -128 128 -128h128zM1664 192v-192h-1152v192l128 192h-128c-212 0 -384 172 -384 384v320l-64 64l32 128h480l32 128h960l32 -192l-64 -32v-800z" />
+</svg>

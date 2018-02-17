@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="plug" unicode="&#xf1e6;" horiz-adv-x="1792" 
+
+d="M1755 1083c49 -50 49 -131 0 -181l-401 -400l150 -150l-160 -160c-219 -219 -553 -250 -801 -86l-362 -362h-181v181l362 362c-164 248 -133 582 86 801l160 160l150 -150l400 401c50 49 131 49 181 0c50 -50 50 -132 0 -181l-400 -401l234 -234l401 400
+c50 50 131 50 181 0z" />
+</svg>

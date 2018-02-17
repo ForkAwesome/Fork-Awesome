@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="clipboard" unicode="&#xf0ea;" horiz-adv-x="1792" 
+
+d="M768 -128h896v640h-416c-53 0 -96 43 -96 96v416h-384v-1152zM1024 1312v64c0 17 -15 32 -32 32h-704c-17 0 -32 -15 -32 -32v-64c0 -17 15 -32 32 -32h704c17 0 32 15 32 32zM1280 640h299l-299 299v-299zM1792 512v-672c0 -53 -43 -96 -96 -96h-960
+c-53 0 -96 43 -96 96v160h-544c-53 0 -96 43 -96 96v1344c0 53 43 96 96 96h1088c53 0 96 -43 96 -96v-328c13 -8 25 -17 36 -28l408 -408c38 -38 68 -111 68 -164z" />
+</svg>

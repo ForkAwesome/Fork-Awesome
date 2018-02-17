@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="plus_square" unicode="&#xf0fe;" 
+
+d="M1280 576v128c0 35 -29 64 -64 64h-320v320c0 35 -29 64 -64 64h-128c-35 0 -64 -29 -64 -64v-320h-320c-35 0 -64 -29 -64 -64v-128c0 -35 29 -64 64 -64h320v-320c0 -35 29 -64 64 -64h128c35 0 64 29 64 64v320h320c35 0 64 29 64 64zM1536 1120v-960
+c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+</svg>

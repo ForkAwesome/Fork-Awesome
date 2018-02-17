@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="arrow_down" unicode="&#xf063;" horiz-adv-x="1664" 
+
+d="M1611 704c0 -34 -14 -67 -37 -90l-651 -652c-24 -23 -57 -37 -91 -37s-67 14 -90 37l-651 652c-24 23 -38 56 -38 90s14 67 38 91l74 75c24 23 57 37 91 37s67 -14 90 -37l294 -294v704c0 70 58 128 128 128h128c70 0 128 -58 128 -128v-704l294 294c23 23 56 37 90 37
+s67 -14 91 -37l75 -75c23 -24 37 -57 37 -91z" />
+</svg>

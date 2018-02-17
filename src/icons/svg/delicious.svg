@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="delicious" unicode="&#xf1a5;" 
+
+d="M1472 160v480h-704v704h-480c-124 0 -224 -100 -224 -224v-480h704v-704h480c124 0 224 100 224 224zM1536 1120v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+</svg>

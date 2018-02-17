@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="ellipsis_v" unicode="&#xf142;" horiz-adv-x="384" 
+
+d="M384 288v-192c0 -53 -43 -96 -96 -96h-192c-53 0 -96 43 -96 96v192c0 53 43 96 96 96h192c53 0 96 -43 96 -96zM384 800v-192c0 -53 -43 -96 -96 -96h-192c-53 0 -96 43 -96 96v192c0 53 43 96 96 96h192c53 0 96 -43 96 -96zM384 1312v-192c0 -53 -43 -96 -96 -96h-192
+c-53 0 -96 43 -96 96v192c0 53 43 96 96 96h192c53 0 96 -43 96 -96z" />
+</svg>

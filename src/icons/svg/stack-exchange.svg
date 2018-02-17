@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="stack_exchange" unicode="&#xf18d;" horiz-adv-x="1280" 
+
+d="M1259 283v-66c0 -113 -88 -204 -196 -204h-57l-260 -269v269h-529c-108 0 -196 91 -196 204v66h1238zM1259 609v-255h-1238v255h1238zM1259 937v-255h-1238v255h1238zM1259 1077v-67h-1238v67c0 112 88 203 196 203h846c108 0 196 -91 196 -203z" />
+</svg>

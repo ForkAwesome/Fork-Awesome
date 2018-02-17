@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="child" unicode="&#xf1ae;" horiz-adv-x="1280" 
+
+d="M1188 988l-292 -292v-824c0 -62 -50 -112 -112 -112s-112 50 -112 112v384h-64v-384c0 -62 -50 -112 -112 -112s-112 50 -112 112v824l-292 292c-37 38 -37 98 0 136c38 37 98 37 136 0l228 -228h368l228 228c38 37 98 37 136 0c37 -38 37 -98 0 -136zM864 1152
+c0 -124 -100 -224 -224 -224s-224 100 -224 224s100 224 224 224s224 -100 224 -224z" />
+</svg>

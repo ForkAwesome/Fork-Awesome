@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="map_o" unicode="&#xf278;" horiz-adv-x="2048" 
+
+d="M2020 1525c17 -12 28 -32 28 -53v-1408c0 -26 -16 -50 -40 -59l-640 -256c-16 -7 -32 -7 -48 0l-616 246l-616 -246c-8 -4 -16 -5 -24 -5c-13 0 -25 4 -36 11c-17 12 -28 32 -28 53v1408c0 26 16 50 40 59l640 256c16 7 32 7 48 0l616 -246l616 246c20 8 42 6 60 -6z
+M736 1390v-1270l576 -230v1270zM128 1173v-1270l544 217v1270zM1920 107v1270l-544 -217v-1270z" />
+</svg>

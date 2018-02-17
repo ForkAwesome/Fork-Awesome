@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="university" unicode="&#xf19c;" horiz-adv-x="2048" 
+
+d="M960 1536l960 -384v-128h-128c0 -35 -31 -64 -69 -64h-1526c-38 0 -69 29 -69 64h-128v128zM256 896h256v-768h128v768h256v-768h128v768h256v-768h128v768h256v-768h59c38 0 69 -29 69 -64v-64h-1664v64c0 35 31 64 69 64h59v768zM1851 -64c38 0 69 -29 69 -64v-128
+h-1920v128c0 35 31 64 69 64h1782z" />
+</svg>

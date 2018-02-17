@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="map_marker" unicode="&#xf041;" horiz-adv-x="1024" 
+
+d="M768 896c0 141 -115 256 -256 256s-256 -115 -256 -256s115 -256 256 -256s256 115 256 256zM1024 896c0 -61 -7 -124 -33 -179l-364 -774c-21 -44 -67 -71 -115 -71s-94 27 -114 71l-365 774c-26 55 -33 118 -33 179c0 283 229 512 512 512s512 -229 512 -512z" />
+</svg>

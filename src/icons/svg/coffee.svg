@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="coffee" unicode="&#xf0f4;" horiz-adv-x="1920" 
+
+d="M1664 896c0 106 -86 192 -192 192h-64v-384h64c106 0 192 86 192 192zM0 128h1792c0 -141 -115 -256 -256 -256h-1280c-141 0 -256 115 -256 256zM1856 896c0 -212 -172 -384 -384 -384h-64v-32c0 -123 -101 -224 -224 -224h-704c-123 0 -224 101 -224 224v736
+c0 35 29 64 64 64h1152c212 0 384 -172 384 -384z" />
+</svg>

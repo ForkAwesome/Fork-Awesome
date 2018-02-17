@@ -1,0 +1,17 @@
+font_name: forkawesome
+css_selector: .fa-{{glyph}}
+preprocessor_path: ""
+autowidth: true
+no_hash: true
+force: false
+debug: false
+quiet: false
+
+copyright: The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
+
+font_em: 1792
+font_ascent: 1536
+font_descent: 256
+
+input:
+  vectors: svg

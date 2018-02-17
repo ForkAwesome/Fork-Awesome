@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="stop_circle_o" unicode="&#xf28e;" 
+
+d="M768 1408c424 0 768 -344 768 -768s-344 -768 -768 -768s-768 344 -768 768s344 768 768 768zM768 96c300 0 544 244 544 544s-244 544 -544 544s-544 -244 -544 -544s244 -544 544 -544zM480 320c-18 0 -32 14 -32 32v576c0 18 14 32 32 32h576c18 0 32 -14 32 -32v-576
+c0 -18 -14 -32 -32 -32h-576z" />
+</svg>

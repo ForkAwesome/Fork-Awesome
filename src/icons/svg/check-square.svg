@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="check_square" unicode="&#xf14a;" 
+
+d="M685 237l614 614c25 25 25 65 0 90l-102 102c-25 25 -65 25 -90 0l-467 -467l-211 211c-25 25 -65 25 -90 0l-102 -102c-25 -25 -25 -65 0 -90l358 -358c25 -25 65 -25 90 0zM1536 1120v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960
+c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+</svg>

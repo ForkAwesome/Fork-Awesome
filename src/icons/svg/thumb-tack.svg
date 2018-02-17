@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="thumb_tack" unicode="&#xf08d;" horiz-adv-x="1152" 
+
+d="M480 672v448c0 18 -14 32 -32 32s-32 -14 -32 -32v-448c0 -18 14 -32 32 -32s32 14 32 32zM1152 320c0 -35 -29 -64 -64 -64h-429l-51 -483c-2 -16 -15 -29 -31 -29h-1c-16 0 -29 11 -32 27l-76 485h-404c-35 0 -64 29 -64 64c0 164 124 320 256 320v512
+c-70 0 -128 58 -128 128s58 128 128 128h640c70 0 128 -58 128 -128s-58 -128 -128 -128v-512c132 0 256 -156 256 -320z" />
+</svg>

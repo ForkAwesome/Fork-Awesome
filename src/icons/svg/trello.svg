@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="trello" unicode="&#xf181;" 
+
+d="M704 192v1024c0 18 -14 32 -32 32h-480c-18 0 -32 -14 -32 -32v-1024c0 -18 14 -32 32 -32h480c18 0 32 14 32 32zM1376 576v640c0 18 -14 32 -32 32h-480c-18 0 -32 -14 -32 -32v-640c0 -18 14 -32 32 -32h480c18 0 32 14 32 32zM1536 1344v-1408c0 -35 -29 -64 -64 -64
+h-1408c-35 0 -64 29 -64 64v1408c0 35 29 64 64 64h1408c35 0 64 -29 64 -64z" />
+</svg>

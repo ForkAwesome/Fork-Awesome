@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="lock" unicode="&#xf023;" horiz-adv-x="1152" 
+
+d="M320 768h512v192c0 141 -115 256 -256 256s-256 -115 -256 -256v-192zM1152 672v-576c0 -53 -43 -96 -96 -96h-960c-53 0 -96 43 -96 96v576c0 53 43 96 96 96h32v192c0 246 202 448 448 448s448 -202 448 -448v-192h32c53 0 96 -43 96 -96z" />
+</svg>

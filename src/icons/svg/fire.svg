@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="fire" unicode="&#xf06d;" horiz-adv-x="1408" 
+
+d="M1408 -160v-64c0 -17 -15 -32 -32 -32h-1344c-17 0 -32 15 -32 32v64c0 17 15 32 32 32h1344c17 0 32 -15 32 -32zM1152 896c0 -383 -448 -417 -448 -672c0 -70 35 -163 67 -224l-4 1l1 -1c-276 127 -512 302 -512 640c0 383 448 417 448 672c0 70 -35 163 -66 224l3 -1
+l-1 1c276 -127 512 -302 512 -640z" />
+</svg>

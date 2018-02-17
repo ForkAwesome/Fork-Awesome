@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="chevron_circle_left" unicode="&#xf137;" 
+
+d="M909 141l102 102c25 25 25 65 0 90l-307 307l307 307c25 25 25 65 0 90l-102 102c-25 25 -65 25 -90 0l-454 -454c-25 -25 -25 -65 0 -90l454 -454c25 -25 65 -25 90 0zM1536 640c0 -424 -344 -768 -768 -768s-768 344 -768 768s344 768 768 768s768 -344 768 -768z" />
+</svg>

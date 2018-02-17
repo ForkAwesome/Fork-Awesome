@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="wpexplorer" unicode="&#xf2de;" horiz-adv-x="1792" 
+
+d="M948 508l163 -329h-51l-175 350l-171 -350h-49l179 374l-78 33l21 49l240 -102l-21 -50zM563 1100l304 -130l-130 -304l-304 130zM907 915l240 -103l-103 -239l-239 102zM1188 765l191 -81l-82 -190l-190 81zM1680 640c0 432 -352 784 -784 784s-784 -352 -784 -784
+s352 -784 784 -784s784 352 784 784zM1792 640c0 -494 -402 -896 -896 -896s-896 402 -896 896s402 896 896 896s896 -402 896 -896z" />
+</svg>

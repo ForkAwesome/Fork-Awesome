@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="sticky_note" unicode="&#xf249;" 
+
+d="M1024 288v-416h-928c-53 0 -96 43 -96 96v1344c0 53 43 96 96 96h1344c53 0 96 -43 96 -96v-928h-416c-53 0 -96 -43 -96 -96zM1152 256h381c-9 -48 -35 -102 -65 -132l-184 -184c-30 -30 -84 -56 -132 -65v381z" />
+</svg>

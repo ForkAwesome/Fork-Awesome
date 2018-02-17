@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="bluetooth" unicode="&#xf293;" 
+
+d="M841 483l148 -148l-149 -149v0zM840 1094l149 -149l-148 -148l-1 297v0zM710 -130l464 464l-306 306l306 306l-464 464v-611l-255 255l-93 -93l320 -321v0l-320 -321l93 -93l255 255v-611zM1429 640c0 -710 -270 -896 -661 -896v0c-391 0 -661 186 -661 896
+s270 896 661 896s661 -186 661 -896z" />
+</svg>

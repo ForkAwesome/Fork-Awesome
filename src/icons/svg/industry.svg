@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="industry" unicode="&#xf275;" horiz-adv-x="1792" 
+
+d="M448 1536c35 0 64 -29 64 -64v-891l536 429c11 9 26 14 40 14c35 0 64 -29 64 -64v-379l536 429c11 9 26 14 40 14c35 0 64 -29 64 -64v-1152c0 -35 -29 -64 -64 -64h-1664c-35 0 -64 29 -64 64v1664c0 35 29 64 64 64h384z" />
+</svg>

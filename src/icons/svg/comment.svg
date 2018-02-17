@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="comment" unicode="&#xf075;" horiz-adv-x="1792" 
+
+d="M1792 640c0 -354 -401 -640 -896 -640c-49 0 -98 3 -145 8c-131 -116 -287 -198 -460 -242c-36 -10 -75 -17 -114 -22c-22 -2 -43 14 -48 38v1c-5 25 12 40 27 58c63 71 135 131 182 298c-206 117 -338 298 -338 501c0 353 401 640 896 640s896 -286 896 -640z" />
+</svg>
