@@ -35,7 +35,7 @@ while line:
             unicode_char = get_glyph_unicode(line)
 
             if unicode_char:
-                filename = './' + folder + '/' + unicode_char + '_' + name + '.svg'
+                filename = './' + folder + '/' + name + '.svg'
                 with open(filename, 'w') as w:
                     w.write('<?xml version="1.0" standalone="no"?>\n')
                     w.write('<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">\n')
