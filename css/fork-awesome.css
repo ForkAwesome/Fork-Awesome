@@ -1383,12 +1383,6 @@
 .fa-digg:before {
   content: "\f1a6";
 }
-.fa-pied-piper-pp:before {
-  content: "\f1a7";
-}
-.fa-pied-piper-alt:before {
-  content: "\f1a8";
-}
 .fa-drupal:before {
   content: "\f1a9";
 }
@@ -2158,9 +2152,6 @@
 }
 .fa-snapchat-square:before {
   content: "\f2ad";
-}
-.fa-pied-piper:before {
-  content: "\f2ae";
 }
 .fa-first-order:before {
   content: "\f2b0";
