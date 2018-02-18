@@ -6,10 +6,8 @@
   "type": "component",
   "authors": [
     {
-      "name": "Dave Gandy",
-      "email": "dave@fontawesome.io",
-      "role": "Original author",
-      "homepage": "http://twitter.com/davegandy"
+      "name": "Fork Awesome Community",
+      "homepage": "https://forkawesome.github.io"
     }
   ],
   "support": {
@@ -17,7 +15,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "0.4.x-dev"
+      "dev-master": "1.0.x-dev"
     }
   },
   "license": [

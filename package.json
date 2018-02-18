@@ -1,7 +1,7 @@
 {
   "name": "fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
-  "version": "0.4.7",
+  "version": "1.0.1",
   "style": "css/fork-awesome.css",
   "keywords": [
     "font",
@@ -40,6 +40,10 @@
     {
       "name": "Geremia Taglialatela",
       "web": "http://twitter.com/gtagliala"
+    },
+    {
+      "name": "Julien Deswaef",
+      "web": "http://twitter.com/xuv"
     }
   ],
   "license": "(OFL-1.1 AND MIT)",
