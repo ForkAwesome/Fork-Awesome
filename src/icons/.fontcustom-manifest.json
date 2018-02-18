@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e199075cc394c781c899ae8220e235ec15154e2832249399089160587927daec",
-    "current": "e199075cc394c781c899ae8220e235ec15154e2832249399089160587927daec"
+    "previous": "115f36929b747e82d84639da45bc342e45fd8b67507319610a80f8c879ac455a",
+    "current": "115f36929b747e82d84639da45bc342e45fd8b67507319610a80f8c879ac455a"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1154,6 +1154,10 @@
     "globe": {
       "codepoint": 61612,
       "source": "svg/globe.svg"
+    },
+    "gnu-social": {
+      "codepoint": 62183,
+      "source": "svg/gnu-social.svg"
     },
     "google": {
       "codepoint": 61856,

@@ -6626,3 +6626,13 @@ icons:
       - social-network
     categories:
       - Brand Icons
+
+  - name:       GNU Social
+    id:         gnu-social
+    unicode:    f2e7
+    created:    1.0
+    url:        gnu.io
+    filter:
+      - social-network
+    categories:
+      - Brand Icons
