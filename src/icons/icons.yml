@@ -6606,3 +6606,13 @@ icons:
       - video
     categories:
       - Brand Icons
+
+  - name:       Diaspora*
+    id:         diaspora
+    unicode:    f2e5
+    created:    1.0
+    url:        diasporafoundation.org
+    filter:
+      - social-network
+    categories:
+      - Brand Icons

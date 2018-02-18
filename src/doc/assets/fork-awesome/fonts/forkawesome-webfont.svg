@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-2-17: Created with FontForge (http://fontforge.org)
+2018-2-18: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Sat Feb 17 20:43:44 2018
+Created by FontForge 20170925 at Sun Feb 18 11:44:38 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.470077 -256.313 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2E4"
+    unicode-range="U+0020-F2E5"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -932,6 +932,10 @@ d="M1188 214c0 -25 -10 -50 -28 -68l-136 -136c-18 -18 -43 -28 -68 -28s-50 10 -68 
 c18 18 43 28 68 28s50 -10 68 -28l294 -294l294 294c18 18 43 28 68 28s50 -10 68 -28l136 -136c18 -18 28 -43 28 -68s-10 -50 -28 -68l-294 -294l294 -294c18 -18 28 -43 28 -68z" />
     <glyph glyph-name="buysellads" unicode="&#xf20d;" 
 d="M915 450h-294l147 551zM1001 128h311l-324 1024h-440l-324 -1024h311v0l383 314zM1536 1120v-960c0 -158 -130 -288 -288 -288h-960c-158 0 -288 130 -288 288v960c0 158 130 288 288 288h960c158 0 288 -130 288 -288z" />
+    <glyph glyph-name="diaspora" unicode="&#xf2e5;" 
+d="M976 133c-43 60 -110 153 -149 208c-40 56 -72 99 -74 99s-64 -84 -148 -199c-80 -110 -146 -200 -147 -200c-2 0 -287 202 -288 204c0 1 64 95 143 210s144 211 144 213c0 4 -25 13 -227 80c-125 42 -229 76 -230 77c-2 1 10 40 51 169c29 93 54 169 55 170
+s109 -34 241 -77s241 -79 242 -79s3 3 4 5s1 114 2 249s3 247 4 248c1 2 38 3 174 3c95 0 174 -1 175 -2c2 -1 5 -75 9 -242c7 -273 7 -277 11 -277c2 0 107 35 233 78s229 77 230 76c3 -3 106 -340 105 -341s-106 -37 -234 -80c-176 -60 -233 -79 -233 -82
+c0 -2 60 -92 137 -205c76 -111 137 -202 137 -203c-1 -2 -285 -212 -287 -212c-1 0 -37 50 -80 110z" />
     <glyph glyph-name="fonticons" unicode="&#xf280;" 
 d="M0 1408h1536v-1536h-1536v1536zM908 1088l-12 -33l75 -83l-31 -114l25 -25l107 57l107 -57l25 25l-31 114l75 83l-12 33h-95l-53 96h-32l-53 -96h-95zM641 925c41 0 57 -15 56 -79l174 21c0 153 -105 181 -222 181c-174 0 -265 -70 -265 -240v-72h-96v-128h76
 c10 0 20 0 20 -8v-382c0 -19 -5 -25 -23 -27l-73 -7v-88h448v86l-149 14c-18 2 -11 5 -11 25v387h191l38 128h-231c-10 0 2 7 2 15v80c0 60 2 94 65 94zM1248 96v86l-54 9c-19 3 -10 5 -10 25v520h-275l-23 -101l83 -22c13 -4 23 -13 23 -27v-370c0 -19 -8 -23 -26 -25
