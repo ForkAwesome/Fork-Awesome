@@ -6596,3 +6596,13 @@ icons:
       - fork-circle
     categories:
       - Brand Icons
+
+  - name:       PeerTube
+    id:         peertube
+    unicode:    f2e4
+    created:    1.0
+    url:        github.com/Chocobozzz/PeerTube
+    filter:
+      - video
+    categories:
+      - Brand Icons

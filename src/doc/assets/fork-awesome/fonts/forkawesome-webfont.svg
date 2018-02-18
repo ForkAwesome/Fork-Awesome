@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Sat Feb 17 20:00:05 2018
+Created by FontForge 20170925 at Sat Feb 17 20:43:44 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.470077 -256.313 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2E3"
+    unicode-range="U+0020-F2E4"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -534,6 +534,8 @@ c-30 4 -59 9 -86 16c-101 26 -195 69 -278 128c-56 -10 -115 -16 -176 -16c-181 0 -3
 d="M1292 832c0 -6 8 -34 10 -41c27 -82 90 -99 165 -120c167 -47 325 -136 325 -332c0 -199 -166 -339 -360 -339c-322 0 -422 394 -515 634c-77 198 -158 314 -381 314c-198 0 -372 -190 -372 -385c0 -207 155 -399 370 -399c95 0 194 20 258 95v0c31 35 61 73 83 116
 l84 -152c-11 -25 -27 -49 -44 -70l1 -1c-101 -117 -239 -152 -388 -152c-302 0 -528 267 -528 561c0 285 248 550 536 550c478 0 502 -414 664 -747c44 -92 119 -200 233 -200c104 0 196 67 196 177c0 238 -437 76 -499 467c-2 11 -3 22 -3 33c0 148 139 275 286 270
 c88 -3 141 -6 211 -68h-1c27 -25 47 -59 68 -88l-129 -99c-15 28 -29 51 -54 70v1c-24 22 -67 21 -97 21c-65 0 -119 -49 -119 -116z" />
+    <glyph glyph-name="peertube" unicode="&#xf2e4;" horiz-adv-x="1109" 
+d="M0 1505l555 -370l-555 -370v740zM555 1135l554 -370l-554 -370v740zM0 765l555 -370l-555 -369v739z" />
     <glyph glyph-name="pagelines" unicode="&#xf18c;" horiz-adv-x="1402" 
 d="M1402 433c-201 -499 -683 -197 -683 -197c-148 -299 -392 -491 -674 -492c-25 0 -45 20 -45 45s20 44 45 44c235 1 440 156 574 402c-150 -58 -433 -102 -590 300c398 164 581 -41 651 -166c36 89 62 186 79 291c0 0 -510 -80 -546 358c435 175 557 -280 557 -280
 c6 61 12 192 12 195c0 0 -388 269 -139 603c455 -157 224 -593 224 -593c2 -6 2 -87 0 -122c0 0 165 325 498 210c-15 -489 -518 -388 -518 -388c-16 -100 -41 -195 -73 -283c0 0 303 335 628 73z" />

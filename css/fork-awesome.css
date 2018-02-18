@@ -2318,6 +2318,9 @@
 .fa-fork-awesome:before {
   content: "\f2e3";
 }
+.fa-peertube:before {
+  content: "\f2e4";
+}
 .sr-only {
   position: absolute;
   width: 1px;
