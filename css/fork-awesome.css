@@ -698,6 +698,7 @@
 .fa-arrows-alt:before {
   content: "\f0b2";
 }
+.fa-community:before,
 .fa-group:before,
 .fa-users:before {
   content: "\f0c0";

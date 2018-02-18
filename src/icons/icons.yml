@@ -2,7 +2,7 @@ icons:
   - name:       Glass
     id:         glass
     unicode:    f000
-    created:    1.0
+    created:    0.4
     filter:
       - martini
       - drink
@@ -15,7 +15,7 @@ icons:
   - name:       Music
     id:         music
     unicode:    f001
-    created:    1.0
+    created:    0.4
     filter:
       - note
       - sound
@@ -25,7 +25,7 @@ icons:
   - name:       Search
     id:         search
     unicode:    f002
-    created:    1.0
+    created:    0.4
     filter:
       - magnify
       - zoom
@@ -37,7 +37,7 @@ icons:
   - name:       Envelope Outlined
     id:         envelope-o
     unicode:    f003
-    created:    1.0
+    created:    0.4
     filter:
       - email
       - e-mail
@@ -52,7 +52,7 @@ icons:
   - name:       Heart
     id:         heart
     unicode:    f004
-    created:    1.0
+    created:    0.4
     filter:
       - love
       - like
@@ -64,7 +64,7 @@ icons:
   - name:       Star
     id:         star
     unicode:    f005
-    created:    1.0
+    created:    0.4
     filter:
       - award
       - achievement
@@ -78,7 +78,7 @@ icons:
   - name:       Star Outlined
     id:         star-o
     unicode:    f006
-    created:    1.0
+    created:    0.4
     filter:
       - award
       - achievement
@@ -92,7 +92,7 @@ icons:
   - name:       User
     id:         user
     unicode:    f007
-    created:    1.0
+    created:    0.4
     filter:
       - person
       - man
@@ -104,7 +104,7 @@ icons:
   - name:       Film
     id:         film
     unicode:    f008
-    created:    1.0
+    created:    0.4
     filter:
       - movie
     categories:
@@ -113,7 +113,7 @@ icons:
   - name:       th-large
     id:         th-large
     unicode:    f009
-    created:    1.0
+    created:    0.4
     filter:
       - blocks
       - squares
@@ -125,7 +125,7 @@ icons:
   - name:       th
     id:         th
     unicode:    f00a
-    created:    1.0
+    created:    0.4
     filter:
       - blocks
       - squares
@@ -137,7 +137,7 @@ icons:
   - name:       th-list
     id:         th-list
     unicode:    f00b
-    created:    1.0
+    created:    0.4
     filter:
       - ul
       - ol
@@ -152,7 +152,7 @@ icons:
   - name:       Check
     id:         check
     unicode:    f00c
-    created:    1.0
+    created:    0.4
     filter:
       - checkmark
       - done
@@ -168,7 +168,7 @@ icons:
   - name:       Times
     id:         times
     unicode:    f00d
-    created:    1.0
+    created:    0.4
     aliases:
       - remove
       - close
@@ -183,7 +183,7 @@ icons:
   - name:       Search Plus
     id:         search-plus
     unicode:    f00e
-    created:    1.0
+    created:    0.4
     filter:
       - magnify
       - zoom
@@ -196,7 +196,7 @@ icons:
   - name:       Search Minus
     id:         search-minus
     unicode:    f010
-    created:    1.0
+    created:    0.4
     filter:
       - magnify
       - minify
@@ -208,7 +208,7 @@ icons:
   - name:       Power Off
     id:         power-off
     unicode:    f011
-    created:    1.0
+    created:    0.4
     filter:
       - "on"
     categories:
@@ -217,7 +217,7 @@ icons:
   - name:       signal
     id:         signal
     unicode:    f012
-    created:    1.0
+    created:    0.4
     filter:
       - graph
       - bars
@@ -227,7 +227,7 @@ icons:
   - name:       cog
     id:         cog
     unicode:    f013
-    created:    1.0
+    created:    0.4
     filter:
       - settings
     aliases:
@@ -239,7 +239,7 @@ icons:
   - name:       Trash Outlined
     id:         trash-o
     unicode:    f014
-    created:    1.0
+    created:    0.4
     filter:
       - garbage
       - delete
@@ -252,7 +252,7 @@ icons:
   - name:       home
     id:         home
     unicode:    f015
-    created:    1.0
+    created:    0.4
     filter:
       - main
       - house
@@ -262,7 +262,7 @@ icons:
   - name:       File Outlined
     id:         file-o
     unicode:    f016
-    created:    1.0
+    created:    0.4
     filter:
       - new
       - page
@@ -275,7 +275,7 @@ icons:
   - name:       Clock Outlined
     id:         clock-o
     unicode:    f017
-    created:    1.0
+    created:    0.4
     filter:
       - watch
       - timer
@@ -287,7 +287,7 @@ icons:
   - name:       road
     id:         road
     unicode:    f018
-    created:    1.0
+    created:    0.4
     filter:
       - street
     categories:
@@ -296,7 +296,7 @@ icons:
   - name:       Download
     id:         download
     unicode:    f019
-    created:    1.0
+    created:    0.4
     filter:
      - import
     categories:
@@ -305,7 +305,7 @@ icons:
   - name:       Arrow Circle Outlined Down
     id:         arrow-circle-o-down
     unicode:    f01a
-    created:    1.0
+    created:    0.4
     filter:
       - download
     categories:
@@ -314,28 +314,28 @@ icons:
   - name:       Arrow Circle Outlined Up
     id:         arrow-circle-o-up
     unicode:    f01b
-    created:    1.0
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       inbox
     id:         inbox
     unicode:    f01c
-    created:    1.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Play Circle Outlined
     id:         play-circle-o
     unicode:    f01d
-    created:    1.0
+    created:    0.4
     categories:
       - Video Player Icons
 
   - name:       Repeat
     id:         repeat
     unicode:    f01e
-    created:    1.0
+    created:    0.4
     filter:
       - redo
       - forward
@@ -348,7 +348,7 @@ icons:
   - name:       refresh
     id:         refresh
     unicode:    f021
-    created:    1.0
+    created:    0.4
     filter:
       - reload
       - sync
@@ -359,7 +359,7 @@ icons:
   - name:       list-alt
     id:         list-alt
     unicode:    f022
-    created:    1.0
+    created:    0.4
     filter:
       - ul
       - ol
@@ -374,7 +374,7 @@ icons:
   - name:       lock
     id:         lock
     unicode:    f023
-    created:    1.0
+    created:    0.4
     filter:
       - protect
       - admin
@@ -385,7 +385,7 @@ icons:
   - name:       flag
     id:         flag
     unicode:    f024
-    created:    1.0
+    created:    0.4
     filter:
       - report
       - notification
@@ -396,7 +396,7 @@ icons:
   - name:       headphones
     id:         headphones
     unicode:    f025
-    created:    1.0
+    created:    0.4
     filter:
       - sound
       - listen
@@ -408,7 +408,7 @@ icons:
   - name:       volume-off
     id:         volume-off
     unicode:    f026
-    created:    1.0
+    created:    0.4
     filter:
       - audio
       - mute
@@ -420,7 +420,7 @@ icons:
   - name:       volume-down
     id:         volume-down
     unicode:    f027
-    created:    1.0
+    created:    0.4
     filter:
       - audio
       - lower
@@ -433,7 +433,7 @@ icons:
   - name:       volume-up
     id:         volume-up
     unicode:    f028
-    created:    1.0
+    created:    0.4
     filter:
       - audio
       - higher
@@ -446,7 +446,7 @@ icons:
   - name:       qrcode
     id:         qrcode
     unicode:    f029
-    created:    1.0
+    created:    0.4
     filter:
       - scan
     categories:
@@ -455,7 +455,7 @@ icons:
   - name:       barcode
     id:         barcode
     unicode:    f02a
-    created:    1.0
+    created:    0.4
     filter:
       - scan
     categories:
@@ -464,7 +464,7 @@ icons:
   - name:       tag
     id:         tag
     unicode:    f02b
-    created:    1.0
+    created:    0.4
     filter:
       - label
     categories:
@@ -473,7 +473,7 @@ icons:
   - name:       tags
     id:         tags
     unicode:    f02c
-    created:    1.0
+    created:    0.4
     filter:
       - labels
     categories:
@@ -482,7 +482,7 @@ icons:
   - name:       book
     id:         book
     unicode:    f02d
-    created:    1.0
+    created:    0.4
     filter:
       - read
       - documentation
@@ -492,7 +492,7 @@ icons:
   - name:       bookmark
     id:         bookmark
     unicode:    f02e
-    created:    1.0
+    created:    0.4
     filter:
       - save
     categories:
@@ -501,7 +501,7 @@ icons:
   - name:       print
     id:         print
     unicode:    f02f
-    created:    1.0
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -509,7 +509,7 @@ icons:
   - name:       camera
     id:         camera
     unicode:    f030
-    created:    1.0
+    created:    0.4
     filter:
       - photo
       - picture
@@ -520,7 +520,7 @@ icons:
   - name:       font
     id:         font
     unicode:    f031
-    created:    1.0
+    created:    0.4
     filter:
       - text
     categories:
@@ -529,14 +529,14 @@ icons:
   - name:       bold
     id:         bold
     unicode:    f032
-    created:    1.0
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       italic
     id:         italic
     unicode:    f033
-    created:    1.0
+    created:    0.4
     filter:
       - italics
     categories:
@@ -545,21 +545,21 @@ icons:
   - name:       text-height
     id:         text-height
     unicode:    f034
-    created:    1.0
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       text-width
     id:         text-width
     unicode:    f035
-    created:    1.0
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       align-left
     id:         align-left
     unicode:    f036
-    created:    1.0
+    created:    0.4
     filter:
       - text
     categories:
@@ -568,7 +568,7 @@ icons:
   - name:       align-center
     id:         align-center
     unicode:    f037
-    created:    1.0
+    created:    0.4
     filter:
       - middle
       - text
@@ -578,7 +578,7 @@ icons:
   - name:       align-right
     id:         align-right
     unicode:    f038
-    created:    1.0
+    created:    0.4
     filter:
       - text
     categories:
@@ -587,7 +587,7 @@ icons:
   - name:       align-justify
     id:         align-justify
     unicode:    f039
-    created:    1.0
+    created:    0.4
     filter:
       - text
     categories:
@@ -596,7 +596,7 @@ icons:
   - name:       list
     id:         list
     unicode:    f03a
-    created:    1.0
+    created:    0.4
     filter:
       - ul
       - ol
@@ -611,7 +611,7 @@ icons:
   - name:       Outdent
     id:         outdent
     unicode:    f03b
-    created:    1.0
+    created:    0.4
     aliases:
       - dedent
     categories:
@@ -620,14 +620,14 @@ icons:
   - name:       Indent
     id:         indent
     unicode:    f03c
-    created:    1.0
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       Video Camera
     id:         video-camera
     unicode:    f03d
-    created:    1.0
+    created:    0.4
     filter:
       - film
       - movie
@@ -638,7 +638,7 @@ icons:
   - name:       Picture Outlined
     id:         picture-o
     unicode:    f03e
-    created:    1.0
+    created:    0.4
     aliases:
       - photo
       - image
@@ -649,7 +649,7 @@ icons:
   - name:       pencil
     id:         pencil
     unicode:    f040
-    created:    1.0
+    created:    0.4
     filter:
       - write
       - edit
@@ -660,7 +660,7 @@ icons:
   - name:       map-marker
     id:         map-marker
     unicode:    f041
-    created:    1.0
+    created:    0.4
     filter:
       - map
       - pin
@@ -677,7 +677,7 @@ icons:
   - name:       adjust
     id:         adjust
     unicode:    f042
-    created:    1.0
+    created:    0.4
     filter:
       - contrast
     categories:
@@ -686,7 +686,7 @@ icons:
   - name:       tint
     id:         tint
     unicode:    f043
-    created:    1.0
+    created:    0.4
     filter:
       - raindrop
       - waterdrop
@@ -698,7 +698,7 @@ icons:
   - name:       Pencil Square Outlined
     id:         pencil-square-o
     unicode:    f044
-    created:    1.0
+    created:    0.4
     filter:
       - write
       - edit
@@ -711,7 +711,7 @@ icons:
   - name:       Share Square Outlined
     id:         share-square-o
     unicode:    f045
-    created:    1.0
+    created:    0.4
     filter:
       - social
       - send
@@ -722,7 +722,7 @@ icons:
   - name:       Check Square Outlined
     id:         check-square-o
     unicode:    f046
-    created:    1.0
+    created:    0.4
     filter:
       - todo
       - done
@@ -737,7 +737,7 @@ icons:
   - name:       Arrows
     id:         arrows
     unicode:    f047
-    created:    1.0
+    created:    0.4
     filter:
       - move
       - reorder
@@ -749,7 +749,7 @@ icons:
   - name:       step-backward
     id:         step-backward
     unicode:    f048
-    created:    1.0
+    created:    0.4
     filter:
       - rewind
       - previous
@@ -762,7 +762,7 @@ icons:
   - name:       fast-backward
     id:         fast-backward
     unicode:    f049
-    created:    1.0
+    created:    0.4
     filter:
       - rewind
       - previous
@@ -775,7 +775,7 @@ icons:
   - name:       backward
     id:         backward
     unicode:    f04a
-    created:    1.0
+    created:    0.4
     filter:
       - rewind
       - previous
@@ -785,7 +785,7 @@ icons:
   - name:       play
     id:         play
     unicode:    f04b
-    created:    1.0
+    created:    0.4
     filter:
       - start
       - playing
@@ -797,7 +797,7 @@ icons:
   - name:       pause
     id:         pause
     unicode:    f04c
-    created:    1.0
+    created:    0.4
     filter:
       - wait
     categories:
@@ -806,7 +806,7 @@ icons:
   - name:       stop
     id:         stop
     unicode:    f04d
-    created:    1.0
+    created:    0.4
     filter:
       - block
       - box
@@ -817,7 +817,7 @@ icons:
   - name:       forward
     id:         forward
     unicode:    f04e
-    created:    1.0
+    created:    0.4
     filter:
       - forward
       - next
@@ -828,7 +828,7 @@ icons:
   - name:       fast-forward
     id:         fast-forward
     unicode:    f050
-    created:    1.0
+    created:    0.4
     filter:
       - next
       - end
@@ -839,7 +839,7 @@ icons:
   - name:       step-forward
     id:         step-forward
     unicode:    f051
-    created:    1.0
+    created:    0.4
     filter:
       - next
       - end
@@ -850,14 +850,14 @@ icons:
   - name:       eject
     id:         eject
     unicode:    f052
-    created:    1.0
+    created:    0.4
     categories:
       - Video Player Icons
 
   - name:       chevron-left
     id:         chevron-left
     unicode:    f053
-    created:    1.0
+    created:    0.4
     filter:
       - bracket
       - previous
@@ -868,7 +868,7 @@ icons:
   - name:       chevron-right
     id:         chevron-right
     unicode:    f054
-    created:    1.0
+    created:    0.4
     filter:
       - bracket
       - next
@@ -879,7 +879,7 @@ icons:
   - name:       Plus Circle
     id:         plus-circle
     unicode:    f055
-    created:    1.0
+    created:    0.4
     filter:
       - add
       - new
@@ -891,7 +891,7 @@ icons:
   - name:       Minus Circle
     id:         minus-circle
     unicode:    f056
-    created:    1.0
+    created:    0.4
     filter:
       - delete
       - remove
@@ -903,7 +903,7 @@ icons:
   - name:       Times Circle
     id:         times-circle
     unicode:    f057
-    created:    1.0
+    created:    0.4
     filter:
       - close
       - exit
@@ -914,7 +914,7 @@ icons:
   - name:       Check Circle
     id:         check-circle
     unicode:    f058
-    created:    1.0
+    created:    0.4
     filter:
       - todo
       - done
@@ -933,14 +933,14 @@ icons:
       - information
       - unknown
       - support
-    created:    1.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Info Circle
     id:         info-circle
     unicode:    f05a
-    created:    1.0
+    created:    0.4
     filter:
       - help
       - information
@@ -952,7 +952,7 @@ icons:
   - name:       Crosshairs
     id:         crosshairs
     unicode:    f05b
-    created:    1.0
+    created:    0.4
     filter:
       - picker
     categories:
@@ -961,7 +961,7 @@ icons:
   - name:       Times Circle Outlined
     id:         times-circle-o
     unicode:    f05c
-    created:    1.0
+    created:    0.4
     filter:
       - close
       - exit
@@ -972,7 +972,7 @@ icons:
   - name:       Check Circle Outlined
     id:         check-circle-o
     unicode:    f05d
-    created:    1.0
+    created:    0.4
     filter:
       - todo
       - done
@@ -986,7 +986,7 @@ icons:
   - name:       ban
     id:         ban
     unicode:    f05e
-    created:    1.0
+    created:    0.4
     filter:
       - delete
       - remove
@@ -1003,7 +1003,7 @@ icons:
   - name:       arrow-left
     id:         arrow-left
     unicode:    f060
-    created:    1.0
+    created:    0.4
     filter:
       - previous
       - back
@@ -1013,7 +1013,7 @@ icons:
   - name:       arrow-right
     id:         arrow-right
     unicode:    f061
-    created:    1.0
+    created:    0.4
     filter:
       - next
       - forward
@@ -1023,14 +1023,14 @@ icons:
   - name:       arrow-up
     id:         arrow-up
     unicode:    f062
-    created:    1.0
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       arrow-down
     id:         arrow-down
     unicode:    f063
-    created:    1.0
+    created:    0.4
     filter:
       - download
     categories:
@@ -1039,7 +1039,7 @@ icons:
   - name:       Share
     id:         share
     unicode:    f064
-    created:    1.0
+    created:    0.4
     aliases:
       - mail-forward
     categories:
@@ -1048,7 +1048,7 @@ icons:
   - name:       Expand
     id:         expand
     unicode:    f065
-    created:    1.0
+    created:    0.4
     filter:
       - enlarge
       - bigger
@@ -1059,7 +1059,7 @@ icons:
   - name:       Compress
     id:         compress
     unicode:    f066
-    created:    1.0
+    created:    0.4
     filter:
       - collapse
       - combine
@@ -1072,7 +1072,7 @@ icons:
   - name:       plus
     id:         plus
     unicode:    f067
-    created:    1.0
+    created:    0.4
     filter:
       - add
       - new
@@ -1084,7 +1084,7 @@ icons:
   - name:       minus
     id:         minus
     unicode:    f068
-    created:    1.0
+    created:    0.4
     filter:
       - hide
       - minify
@@ -1099,7 +1099,7 @@ icons:
   - name:       asterisk
     id:         asterisk
     unicode:    f069
-    created:    1.0
+    created:    0.4
     filter:
       - details
     categories:
@@ -1108,7 +1108,7 @@ icons:
   - name:       Exclamation Circle
     id:         exclamation-circle
     unicode:    f06a
-    created:    1.0
+    created:    0.4
     filter:
       - warning
       - error
@@ -1121,7 +1121,7 @@ icons:
   - name:       gift
     id:         gift
     unicode:    f06b
-    created:    1.0
+    created:    0.4
     filter:
       - present
     categories:
@@ -1130,7 +1130,7 @@ icons:
   - name:       leaf
     id:         leaf
     unicode:    f06c
-    created:    1.0
+    created:    0.4
     filter:
       - eco
       - nature
@@ -1141,7 +1141,7 @@ icons:
   - name:       fire
     id:         fire
     unicode:    f06d
-    created:    1.0
+    created:    0.4
     filter:
       - flame
       - hot
@@ -1152,7 +1152,7 @@ icons:
   - name:       Eye
     id:         eye
     unicode:    f06e
-    created:    1.0
+    created:    0.4
     filter:
       - show
       - visible
@@ -1164,7 +1164,7 @@ icons:
   - name:       Eye Slash
     id:         eye-slash
     unicode:    f070
-    created:    1.0
+    created:    0.4
     filter:
       - toggle
       - show
@@ -1178,7 +1178,7 @@ icons:
   - name:       Exclamation Triangle
     id:         exclamation-triangle
     unicode:    f071
-    created:    1.0
+    created:    0.4
     filter:
       - warning
       - error
@@ -1193,7 +1193,7 @@ icons:
   - name:       plane
     id:         plane
     unicode:    f072
-    created:    1.0
+    created:    0.4
     filter:
       - travel
       - trip
@@ -1209,7 +1209,7 @@ icons:
   - name:       calendar
     id:         calendar
     unicode:    f073
-    created:    1.0
+    created:    0.4
     filter:
       - date
       - time
@@ -1221,7 +1221,7 @@ icons:
   - name:       random
     id:         random
     unicode:    f074
-    created:    1.0
+    created:    0.4
     filter:
       - sort
       - shuffle
@@ -1232,7 +1232,7 @@ icons:
   - name:       comment
     id:         comment
     unicode:    f075
-    created:    1.0
+    created:    0.4
     filter:
       - speech
       - notification
@@ -1250,28 +1250,28 @@ icons:
   - name:       magnet
     id:         magnet
     unicode:    f076
-    created:    1.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       chevron-up
     id:         chevron-up
     unicode:    f077
-    created:    1.0
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       chevron-down
     id:         chevron-down
     unicode:    f078
-    created:    1.0
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       retweet
     id:         retweet
     unicode:    f079
-    created:    1.0
+    created:    0.4
     filter:
       - refresh
       - reload
@@ -1282,7 +1282,7 @@ icons:
   - name:       shopping-cart
     id:         shopping-cart
     unicode:    f07a
-    created:    1.0
+    created:    0.4
     filter:
       - checkout
       - buy
@@ -1294,21 +1294,21 @@ icons:
   - name:       Folder
     id:         folder
     unicode:    f07b
-    created:    1.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Folder Open
     id:         folder-open
     unicode:    f07c
-    created:    1.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Arrows Vertical
     id:         arrows-v
     unicode:    f07d
-    created:    1.0
+    created:    0.4
     filter:
       - resize
     categories:
@@ -1318,7 +1318,7 @@ icons:
   - name:       Arrows Horizontal
     id:         arrows-h
     unicode:    f07e
-    created:    1.0
+    created:    0.4
     filter:
       - resize
     categories:
@@ -1329,7 +1329,7 @@ icons:
   - name:       Bar Chart
     id:         bar-chart
     unicode:    f080
-    created:    1.0
+    created:    0.4
     aliases:
       - bar-chart-o
     filter:
@@ -1343,7 +1343,7 @@ icons:
   - name:       Twitter Square
     id:         twitter-square
     unicode:    f081
-    created:    1.0
+    created:    0.4
     filter:
       - tweet
       - social network
@@ -1353,7 +1353,7 @@ icons:
   - name:       Facebook Square
     id:         facebook-square
     unicode:    f082
-    created:    1.0
+    created:    0.4
     filter:
       - social network
     categories:
@@ -1362,7 +1362,7 @@ icons:
   - name:       camera-retro
     id:         camera-retro
     unicode:    f083
-    created:    1.0
+    created:    0.4
     filter:
       - photo
       - picture
@@ -1373,7 +1373,7 @@ icons:
   - name:       key
     id:         key
     unicode:    f084
-    created:    1.0
+    created:    0.4
     filter:
       - unlock
       - password
@@ -1383,7 +1383,7 @@ icons:
   - name:       cogs
     id:         cogs
     unicode:    f085
-    created:    1.0
+    created:    0.4
     aliases:
       - gears
     filter:
@@ -1394,7 +1394,7 @@ icons:
   - name:       comments
     id:         comments
     unicode:    f086
-    created:    1.0
+    created:    0.4
     filter:
       - speech
       - notification
@@ -1412,7 +1412,7 @@ icons:
   - name:       Thumbs Up Outlined
     id:         thumbs-o-up
     unicode:    f087
-    created:    1.0
+    created:    0.4
     filter:
       - like
       - approve
@@ -1426,7 +1426,7 @@ icons:
   - name:       Thumbs Down Outlined
     id:         thumbs-o-down
     unicode:    f088
-    created:    1.0
+    created:    0.4
     filter:
       - dislike
       - disapprove
@@ -1439,7 +1439,7 @@ icons:
   - name:       star-half
     id:         star-half
     unicode:    f089
-    created:    1.0
+    created:    0.4
     filter:
       - award
       - achievement
@@ -1451,7 +1451,7 @@ icons:
   - name:       Heart Outlined
     id:         heart-o
     unicode:    f08a
-    created:    1.0
+    created:    0.4
     filter:
       - love
       - like
@@ -1463,7 +1463,7 @@ icons:
   - name:       Sign Out
     id:         sign-out
     unicode:    f08b
-    created:    1.0
+    created:    0.4
     filter:
       - log out
       - logout
@@ -1476,14 +1476,14 @@ icons:
   - name:       LinkedIn Square
     id:         linkedin-square
     unicode:    f08c
-    created:    1.0
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Thumb Tack
     id:         thumb-tack
     unicode:    f08d
-    created:    1.0
+    created:    0.4
     filter:
       - marker
       - pin
@@ -1495,7 +1495,7 @@ icons:
   - name:       External Link
     id:         external-link
     unicode:    f08e
-    created:    1.0
+    created:    0.4
     filter:
       - open
       - new
@@ -1506,7 +1506,7 @@ icons:
   - name:       Sign In
     id:         sign-in
     unicode:    f090
-    created:    1.0
+    created:    0.4
     filter:
       - enter
       - join
@@ -1523,7 +1523,7 @@ icons:
   - name:       trophy
     id:         trophy
     unicode:    f091
-    created:    1.0
+    created:    0.4
     filter:
       - award
       - achievement
@@ -1536,7 +1536,7 @@ icons:
   - name:       GitHub Square
     id:         github-square
     unicode:    f092
-    created:    1.0
+    created:    0.4
     url:        github.com/logos
     filter:
       - octocat
@@ -1546,7 +1546,7 @@ icons:
   - name:       Upload
     id:         upload
     unicode:    f093
-    created:    1.0
+    created:    0.4
     filter:
      - import
     categories:
@@ -1555,7 +1555,7 @@ icons:
   - name:       Lemon Outlined
     id:         lemon-o
     unicode:    f094
-    created:    1.0
+    created:    0.4
     filter:
       - food
     categories:
@@ -1564,7 +1564,7 @@ icons:
   - name:       Phone
     id:         phone
     unicode:    f095
-    created:    2.0
+    created:    0.4
     filter:
       - call
       - voice
@@ -1578,7 +1578,7 @@ icons:
   - name:       Square Outlined
     id:         square-o
     unicode:    f096
-    created:    2.0
+    created:    0.4
     filter:
       - block
       - square
@@ -1591,7 +1591,7 @@ icons:
   - name:       Bookmark Outlined
     id:         bookmark-o
     unicode:    f097
-    created:    2.0
+    created:    0.4
     filter:
       - save
     categories:
@@ -1600,7 +1600,7 @@ icons:
   - name:       Phone Square
     id:         phone-square
     unicode:    f098
-    created:    2.0
+    created:    0.4
     filter:
       - call
       - voice
@@ -1613,7 +1613,7 @@ icons:
   - name:       Twitter
     id:         twitter
     unicode:    f099
-    created:    2.0
+    created:    0.4
     filter:
       - tweet
       - social network
@@ -1623,7 +1623,7 @@ icons:
   - name:       Facebook
     id:         facebook
     unicode:    f09a
-    created:    2.0
+    created:    0.4
     aliases:
       - facebook-f
     filter:
@@ -1634,7 +1634,7 @@ icons:
   - name:       GitHub
     id:         github
     unicode:    f09b
-    created:    2.0
+    created:    0.4
     url:        github.com/logos
     filter:
       - octocat
@@ -1644,7 +1644,7 @@ icons:
   - name:       unlock
     id:         unlock
     unicode:    f09c
-    created:    2.0
+    created:    0.4
     filter:
       - protect
       - admin
@@ -1656,7 +1656,7 @@ icons:
   - name:       credit-card
     id:         credit-card
     unicode:    f09d
-    created:    2.0
+    created:    0.4
     filter:
       - money
       - buy
@@ -1671,7 +1671,7 @@ icons:
   - name:       rss
     id:         rss
     unicode:    f09e
-    created:    2.0
+    created:    0.4
     filter:
       - blog
     aliases:
@@ -1683,7 +1683,7 @@ icons:
   - name:       HDD
     id:         hdd-o
     unicode:    f0a0
-    created:    2.0
+    created:    0.4
     filter:
       - harddrive
       - hard drive
@@ -1695,7 +1695,7 @@ icons:
   - name:       bullhorn
     id:         bullhorn
     unicode:    f0a1
-    created:    2.0
+    created:    0.4
     filter:
       - announcement
       - share
@@ -1708,7 +1708,7 @@ icons:
   - name:       bell
     id:         bell
     unicode:    f0f3
-    created:    2.0
+    created:    0.4
     filter:
       - alert
       - reminder
@@ -1719,7 +1719,7 @@ icons:
   - name:       certificate
     id:         certificate
     unicode:    f0a3
-    created:    2.0
+    created:    0.4
     filter:
       - badge
       - star
@@ -1729,7 +1729,7 @@ icons:
   - name:       Hand Outlined Right
     id:         hand-o-right
     unicode:    f0a4
-    created:    2.0
+    created:    0.4
     filter:
       - point
       - right
@@ -1743,7 +1743,7 @@ icons:
   - name:       Hand Outlined Left
     id:         hand-o-left
     unicode:    f0a5
-    created:    2.0
+    created:    0.4
     filter:
       - point
       - left
@@ -1757,7 +1757,7 @@ icons:
   - name:       Hand Outlined Up
     id:         hand-o-up
     unicode:    f0a6
-    created:    2.0
+    created:    0.4
     filter:
       - point
       - finger
@@ -1768,7 +1768,7 @@ icons:
   - name:       Hand Outlined Down
     id:         hand-o-down
     unicode:    f0a7
-    created:    2.0
+    created:    0.4
     filter:
       - point
       - finger
@@ -1779,7 +1779,7 @@ icons:
   - name:       Arrow Circle Left
     id:         arrow-circle-left
     unicode:    f0a8
-    created:    2.0
+    created:    0.4
     filter:
       - previous
       - back
@@ -1789,7 +1789,7 @@ icons:
   - name:       Arrow Circle Right
     id:         arrow-circle-right
     unicode:    f0a9
-    created:    2.0
+    created:    0.4
     filter:
       - next
       - forward
@@ -1799,14 +1799,14 @@ icons:
   - name:       Arrow Circle Up
     id:         arrow-circle-up
     unicode:    f0aa
-    created:    2.0
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       Arrow Circle Down
     id:         arrow-circle-down
     unicode:    f0ab
-    created:    2.0
+    created:    0.4
     filter:
       - download
     categories:
@@ -1815,7 +1815,7 @@ icons:
   - name:       Globe
     id:         globe
     unicode:    f0ac
-    created:    2.0
+    created:    0.4
     filter:
       - world
       - planet
@@ -1837,7 +1837,7 @@ icons:
   - name:       Wrench
     id:         wrench
     unicode:    f0ad
-    created:    2.0
+    created:    0.4
     filter:
       - settings
       - fix
@@ -1849,7 +1849,7 @@ icons:
   - name:       Tasks
     id:         tasks
     unicode:    f0ae
-    created:    2.0
+    created:    0.4
     filter:
       - progress
       - loading
@@ -1863,7 +1863,7 @@ icons:
   - name:       Filter
     id:         filter
     unicode:    f0b0
-    created:    2.0
+    created:    0.4
     filter:
       - funnel
       - options
@@ -1873,7 +1873,7 @@ icons:
   - name:       Briefcase
     id:         briefcase
     unicode:    f0b1
-    created:    2.0
+    created:    0.4
     filter:
       - work
       - business
@@ -1886,7 +1886,7 @@ icons:
   - name:       Arrows Alt
     id:         arrows-alt
     unicode:    f0b2
-    created:    2.0
+    created:    0.4
     filter:
       - expand
       - enlarge
@@ -1904,12 +1904,13 @@ icons:
   - name:       Users
     id:         users
     unicode:    f0c0
-    created:    2.0
+    created:    0.4
     filter:
       - people
       - profiles
       - persons
     aliases:
+      - community
       - group
     categories:
       - Web Application Icons
@@ -1917,7 +1918,7 @@ icons:
   - name:       Link
     id:         link
     unicode:    f0c1
-    created:    2.0
+    created:    0.4
     filter:
       - chain
     aliases:
@@ -1930,14 +1931,14 @@ icons:
     filter:
       - save
     unicode:    f0c2
-    created:    2.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Flask
     id:         flask
     unicode:    f0c3
-    created:    2.0
+    created:    0.4
     filter:
       - science
       - beaker
@@ -1949,7 +1950,7 @@ icons:
   - name:       Scissors
     id:         scissors
     unicode:    f0c4
-    created:    2.0
+    created:    0.4
     aliases:
       - cut
     categories:
@@ -1958,7 +1959,7 @@ icons:
   - name:       Files Outlined
     id:         files-o
     unicode:    f0c5
-    created:    2.0
+    created:    0.4
     filter:
       - duplicate
       - clone
@@ -1971,7 +1972,7 @@ icons:
   - name:       Paperclip
     id:         paperclip
     unicode:    f0c6
-    created:    2.0
+    created:    0.4
     filter:
       - attachment
     categories:
@@ -1980,7 +1981,7 @@ icons:
   - name:       Floppy Outlined
     id:         floppy-o
     unicode:    f0c7
-    created:    2.0
+    created:    0.4
     aliases:
       - save
     categories:
@@ -1989,7 +1990,7 @@ icons:
   - name:       Square
     id:         square
     unicode:    f0c8
-    created:    2.0
+    created:    0.4
     filter:
       - block
       - box
@@ -2000,7 +2001,7 @@ icons:
   - name:       Bars
     id:         bars
     unicode:    f0c9
-    created:    2.0
+    created:    0.4
     aliases:
       - navicon
       - reorder
@@ -2022,7 +2023,7 @@ icons:
   - name:       list-ul
     id:         list-ul
     unicode:    f0ca
-    created:    2.0
+    created:    0.4
     filter:
       - ul
       - ol
@@ -2035,7 +2036,7 @@ icons:
   - name:       list-ol
     id:         list-ol
     unicode:    f0cb
-    created:    2.0
+    created:    0.4
     filter:
       - ul
       - ol
@@ -2050,21 +2051,21 @@ icons:
   - name:       Strikethrough
     id:         strikethrough
     unicode:    f0cc
-    created:    2.0
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       Underline
     id:         underline
     unicode:    f0cd
-    created:    2.0
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       table
     id:         table
     unicode:    f0ce
-    created:    2.0
+    created:    0.4
     filter:
       - data
       - excel
@@ -2076,7 +2077,7 @@ icons:
   - name:       magic
     id:         magic
     unicode:    f0d0
-    created:    2.0
+    created:    0.4
     filter:
       - wizard
       - automatic
@@ -2087,7 +2088,7 @@ icons:
   - name:       truck
     id:         truck
     unicode:    f0d1
-    created:    2.0
+    created:    0.4
     filter:
       - shipping
     categories:
@@ -2097,21 +2098,21 @@ icons:
   - name:       Pinterest
     id:         pinterest
     unicode:    f0d2
-    created:    2.0
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Pinterest Square
     id:         pinterest-square
     unicode:    f0d3
-    created:    2.0
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Google Plus Square
     id:         google-plus-square
     unicode:    f0d4
-    created:    2.0
+    created:    0.4
     filter:
       - social network
     categories:
@@ -2120,7 +2121,7 @@ icons:
   - name:       Google Plus
     id:         google-plus
     unicode:    f0d5
-    created:    2.0
+    created:    0.4
     filter:
       - social network
     categories:
@@ -2129,7 +2130,7 @@ icons:
   - name:       Money
     id:         money
     unicode:    f0d6
-    created:    2.0
+    created:    0.4
     filter:
       - cash
       - money
@@ -2144,7 +2145,7 @@ icons:
   - name:       Caret Down
     id:         caret-down
     unicode:    f0d7
-    created:    2.0
+    created:    0.4
     filter:
       - more
       - dropdown
@@ -2157,7 +2158,7 @@ icons:
   - name:       Caret Up
     id:         caret-up
     unicode:    f0d8
-    created:    2.0
+    created:    0.4
     filter:
       - triangle up
       - arrow
@@ -2167,7 +2168,7 @@ icons:
   - name:       Caret Left
     id:         caret-left
     unicode:    f0d9
-    created:    2.0
+    created:    0.4
     filter:
       - previous
       - back
@@ -2179,7 +2180,7 @@ icons:
   - name:       Caret Right
     id:         caret-right
     unicode:    f0da
-    created:    2.0
+    created:    0.4
     filter:
       - next
       - forward
@@ -2191,7 +2192,7 @@ icons:
   - name:       Columns
     id:         columns
     unicode:    f0db
-    created:    2.0
+    created:    0.4
     filter:
       - split
       - panes
@@ -2201,7 +2202,7 @@ icons:
   - name:       Sort
     id:         sort
     unicode:    f0dc
-    created:    2.0
+    created:    0.4
     filter:
       - order
     aliases:
@@ -2212,7 +2213,7 @@ icons:
   - name:       Sort Descending
     id:         sort-desc
     unicode:    f0dd
-    created:    2.0
+    created:    0.4
     filter:
       - dropdown
       - more
@@ -2226,7 +2227,7 @@ icons:
   - name:       Sort Ascending
     id:         sort-asc
     unicode:    f0de
-    created:    2.0
+    created:    0.4
     aliases:
       - sort-up
     filter:
@@ -2238,7 +2239,7 @@ icons:
   - name:       Envelope
     id:         envelope
     unicode:    f0e0
-    created:    2.0
+    created:    0.4
     filter:
       - email
       - e-mail
@@ -2253,7 +2254,7 @@ icons:
   - name:       LinkedIn
     id:         linkedin
     unicode:    f0e1
-    created:    2.0
+    created:    0.4
     categories:
       - Brand Icons
 
@@ -2261,7 +2262,7 @@ icons:
   - name:       Undo
     id:         undo
     unicode:    f0e2
-    created:    2.0
+    created:    0.4
     filter:
       - back
     aliases:
@@ -2272,7 +2273,7 @@ icons:
   - name:       Gavel
     id:         gavel
     unicode:    f0e3
-    created:    2.0
+    created:    0.4
     filter:
       - judge
       - lawyer
@@ -2285,7 +2286,7 @@ icons:
   - name:       Tachometer
     id:         tachometer
     unicode:    f0e4
-    created:    2.0
+    created:    0.4
     filter:
       - speedometer
       - fast
@@ -2297,7 +2298,7 @@ icons:
   - name:       comment-o
     id:         comment-o
     unicode:    f0e5
-    created:    2.0
+    created:    0.4
     filter:
       - speech
       - notification
@@ -2315,7 +2316,7 @@ icons:
   - name:       comments-o
     id:         comments-o
     unicode:    f0e6
-    created:    2.0
+    created:    0.4
     filter:
       - speech
       - notification
@@ -2333,7 +2334,7 @@ icons:
   - name:       Lightning Bolt
     id:         bolt
     unicode:    f0e7
-    created:    2.0
+    created:    0.4
     filter:
       - lightning
       - weather
@@ -2345,7 +2346,7 @@ icons:
   - name:       Sitemap
     id:         sitemap
     unicode:    f0e8
-    created:    2.0
+    created:    0.4
     filter:
       - directory
       - hierarchy
@@ -2356,14 +2357,14 @@ icons:
   - name:       Umbrella
     id:         umbrella
     unicode:    f0e9
-    created:    2.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Clipboard
     id:         clipboard
     unicode:    f0ea
-    created:    2.0
+    created:    0.4
     filter:
       - copy
     aliases:
@@ -2374,7 +2375,7 @@ icons:
   - name:       Lightbulb Outlined
     id:         lightbulb-o
     unicode:    f0eb
-    created:    3.0
+    created:    0.4
     filter:
       - idea
       - inspiration
@@ -2384,7 +2385,7 @@ icons:
   - name:       Exchange
     id:         exchange
     unicode:    f0ec
-    created:    3.0
+    created:    0.4
     filter:
       - transfer
       - arrows
@@ -2396,7 +2397,7 @@ icons:
   - name:       Cloud Download
     id:         cloud-download
     unicode:    f0ed
-    created:    3.0
+    created:    0.4
     filter:
       - import
     categories:
@@ -2405,7 +2406,7 @@ icons:
   - name:       Cloud Upload
     id:         cloud-upload
     unicode:    f0ee
-    created:    3.0
+    created:    0.4
     filter:
       - import
     categories:
@@ -2415,7 +2416,7 @@ icons:
   - name:       user-md
     id:         user-md
     unicode:    f0f0
-    created:    2.0
+    created:    0.4
     filter:
       - doctor
       - profile
@@ -2427,14 +2428,14 @@ icons:
   - name:       Stethoscope
     id:         stethoscope
     unicode:    f0f1
-    created:    3.0
+    created:    0.4
     categories:
       - Medical Icons
 
   - name:       Suitcase
     id:         suitcase
     unicode:    f0f2
-    created:    3.0
+    created:    0.4
     filter:
       - trip
       - luggage
@@ -2447,7 +2448,7 @@ icons:
   - name:       Bell Outlined
     id:         bell-o
     unicode:    f0a2
-    created:    3.0
+    created:    0.4
     filter:
       - alert
       - reminder
@@ -2458,7 +2459,7 @@ icons:
   - name:       Coffee
     id:         coffee
     unicode:    f0f4
-    created:    3.0
+    created:    0.4
     filter:
       - morning
       - mug
@@ -2472,7 +2473,7 @@ icons:
   - name:       Cutlery
     id:         cutlery
     unicode:    f0f5
-    created:    3.0
+    created:    0.4
     filter:
       - food
       - restaurant
@@ -2486,7 +2487,7 @@ icons:
   - name:       File Text Outlined
     id:         file-text-o
     unicode:    f0f6
-    created:    3.0
+    created:    0.4
     filter:
       - new
       - page
@@ -2499,7 +2500,7 @@ icons:
   - name:       Building Outlined
     id:         building-o
     unicode:    f0f7
-    created:    3.0
+    created:    0.4
     filter:
       - work
       - business
@@ -2512,7 +2513,7 @@ icons:
   - name:       hospital Outlined
     id:         hospital-o
     unicode:    f0f8
-    created:    3.0
+    created:    0.4
     filter:
       - building
     categories:
@@ -2521,7 +2522,7 @@ icons:
   - name:       ambulance
     id:         ambulance
     unicode:    f0f9
-    created:    3.0
+    created:    0.4
     filter:
       - vehicle
       - support
@@ -2533,7 +2534,7 @@ icons:
   - name:       medkit
     id:         medkit
     unicode:    f0fa
-    created:    3.0
+    created:    0.4
     filter:
       - first aid
       - firstaid
@@ -2546,7 +2547,7 @@ icons:
   - name:       fighter-jet
     id:         fighter-jet
     unicode:    f0fb
-    created:    3.0
+    created:    0.4
     filter:
       - fly
       - plane
@@ -2561,7 +2562,7 @@ icons:
   - name:       beer
     id:         beer
     unicode:    f0fc
-    created:    3.0
+    created:    0.4
     filter:
       - alcohol
       - stein
@@ -2575,7 +2576,7 @@ icons:
   - name:       H Square
     id:         h-square
     unicode:    f0fd
-    created:    3.0
+    created:    0.4
     filter:
       - hospital
       - hotel
@@ -2585,7 +2586,7 @@ icons:
   - name:       Plus Square
     id:         plus-square
     unicode:    f0fe
-    created:    3.0
+    created:    0.4
     filter:
       - add
       - new
@@ -2600,7 +2601,7 @@ icons:
   - name:       Angle Double Left
     id:         angle-double-left
     unicode:    f100
-    created:    3.0
+    created:    0.4
     filter:
       - laquo
       - quote
@@ -2613,7 +2614,7 @@ icons:
   - name:       Angle Double Right
     id:         angle-double-right
     unicode:    f101
-    created:    3.0
+    created:    0.4
     filter:
       - raquo
       - quote
@@ -2626,7 +2627,7 @@ icons:
   - name:       Angle Double Up
     id:         angle-double-up
     unicode:    f102
-    created:    3.0
+    created:    0.4
     filter:
       - arrows
     categories:
@@ -2635,7 +2636,7 @@ icons:
   - name:       Angle Double Down
     id:         angle-double-down
     unicode:    f103
-    created:    3.0
+    created:    0.4
     filter:
       - arrows
     categories:
@@ -2644,7 +2645,7 @@ icons:
   - name:       angle-left
     id:         angle-left
     unicode:    f104
-    created:    3.0
+    created:    0.4
     filter:
       - previous
       - back
@@ -2655,7 +2656,7 @@ icons:
   - name:       angle-right
     id:         angle-right
     unicode:    f105
-    created:    3.0
+    created:    0.4
     filter:
       - next
       - forward
@@ -2666,7 +2667,7 @@ icons:
   - name:       angle-up
     id:         angle-up
     unicode:    f106
-    created:    3.0
+    created:    0.4
     filter:
       - arrow
     categories:
@@ -2675,7 +2676,7 @@ icons:
   - name:       angle-down
     id:         angle-down
     unicode:    f107
-    created:    3.0
+    created:    0.4
     filter:
       - arrow
     categories:
@@ -2684,7 +2685,7 @@ icons:
   - name:       Desktop
     id:         desktop
     unicode:    f108
-    created:    3.0
+    created:    0.4
     filter:
       - monitor
       - screen
@@ -2698,7 +2699,7 @@ icons:
   - name:       Laptop
     id:         laptop
     unicode:    f109
-    created:    3.0
+    created:    0.4
     filter:
       - demo
       - computer
@@ -2709,7 +2710,7 @@ icons:
   - name:       tablet
     id:         tablet
     unicode:    f10a
-    created:    3.0
+    created:    0.4
     filter:
       - ipad
       - device
@@ -2719,7 +2720,7 @@ icons:
   - name:       Mobile Phone
     id:         mobile
     unicode:    f10b
-    created:    3.0
+    created:    0.4
     filter:
       - cell phone
       - cellphone
@@ -2736,7 +2737,7 @@ icons:
   - name:       Circle Outlined
     id:         circle-o
     unicode:    f10c
-    created:    3.0
+    created:    0.4
     categories:
       - Web Application Icons
       - Form Control Icons
@@ -2744,14 +2745,14 @@ icons:
   - name:       quote-left
     id:         quote-left
     unicode:    f10d
-    created:    3.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       quote-right
     id:         quote-right
     unicode:    f10e
-    created:    3.0
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -2759,7 +2760,7 @@ icons:
   - name:       Spinner
     id:         spinner
     unicode:    f110
-    created:    3.0
+    created:    0.4
     filter:
       - loading
       - progress
@@ -2770,7 +2771,7 @@ icons:
   - name:       Circle
     id:         circle
     unicode:    f111
-    created:    3.0
+    created:    0.4
     filter:
       - dot
       - notification
@@ -2781,7 +2782,7 @@ icons:
   - name:       Reply
     id:         reply
     unicode:    f112
-    created:    3.0
+    created:    0.4
     aliases:
       - mail-reply
     categories:
@@ -2790,7 +2791,7 @@ icons:
   - name:       GitHub Alt
     id:         github-alt
     unicode:    f113
-    created:    3.0
+    created:    0.4
     url:        github.com/logos
     filter:
       - octocat
@@ -2800,21 +2801,21 @@ icons:
   - name:       Folder Outlined
     id:         folder-o
     unicode:    f114
-    created:    3.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Folder Open Outlined
     id:         folder-open-o
     unicode:    f115
-    created:    3.0
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Smile Outlined
     id:         smile-o
     unicode:    f118
-    created:    3.1
+    created:    0.4
     filter:
       - face
       - emoticon
@@ -2828,7 +2829,7 @@ icons:
   - name:       Frown Outlined
     id:         frown-o
     unicode:    f119
-    created:    3.1
+    created:    0.4
     filter:
       - face
       - emoticon
@@ -2841,7 +2842,7 @@ icons:
   - name:       Meh Outlined
     id:         meh-o
     unicode:    f11a
-    created:    3.1
+    created:    0.4
     filter:
       - face
       - emoticon
@@ -2853,7 +2854,7 @@ icons:
   - name:       Gamepad
     id:         gamepad
     unicode:    f11b
-    created:    3.1
+    created:    0.4
     filter:
       - controller
     categories:
@@ -2862,7 +2863,7 @@ icons:
   - name:       Keyboard Outlined
     id:         keyboard-o
     unicode:    f11c
-    created:    3.1
+    created:    0.4
     filter:
       - type
       - input
@@ -2872,7 +2873,7 @@ icons:
   - name:       Flag Outlined
     id:         flag-o
     unicode:    f11d
-    created:    3.1
+    created:    0.4
     filter:
       - report
       - notification
@@ -2882,7 +2883,7 @@ icons:
   - name:       flag-checkered
     id:         flag-checkered
     unicode:    f11e
-    created:    3.1
+    created:    0.4
     filter:
       - report
       - notification
@@ -2894,7 +2895,7 @@ icons:
   - name:       Terminal
     id:         terminal
     unicode:    f120
-    created:    3.1
+    created:    0.4
     filter:
       - command
       - prompt
@@ -2905,7 +2906,7 @@ icons:
   - name:       Code
     id:         code
     unicode:    f121
-    created:    3.1
+    created:    0.4
     filter:
       - html
       - brackets
@@ -2915,7 +2916,7 @@ icons:
   - name:       reply-all
     id:         reply-all
     unicode:    f122
-    created:    3.1
+    created:    0.4
     aliases:
       - mail-reply-all
     categories:
@@ -2924,7 +2925,7 @@ icons:
   - name:       Star Half Outlined
     id:         star-half-o
     unicode:    f123
-    created:    3.1
+    created:    0.4
     filter:
       - award
       - achievement
@@ -2939,7 +2940,7 @@ icons:
   - name:       location-arrow
     id:         location-arrow
     unicode:    f124
-    created:    3.1
+    created:    0.4
     filter:
       - map
       - coordinates
@@ -2953,14 +2954,14 @@ icons:
   - name:       crop
     id:         crop
     unicode:    f125
-    created:    3.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       code-fork
     id:         code-fork
     unicode:    f126
-    created:    3.1
+    created:    0.4
     filter:
       - git
       - fork
@@ -2976,7 +2977,7 @@ icons:
   - name:       Chain Broken
     id:         chain-broken
     unicode:    f127
-    created:    3.1
+    created:    0.4
     filter:
       - remove
     aliases:
@@ -2987,7 +2988,7 @@ icons:
   - name:       Question
     id:         question
     unicode:    f128
-    created:    3.1
+    created:    0.4
     filter:
       - help
       - information
@@ -2999,7 +3000,7 @@ icons:
   - name:       Info
     id:         info
     unicode:    f129
-    created:    3.1
+    created:    0.4
     filter:
       - help
       - information
@@ -3011,7 +3012,7 @@ icons:
   - name:       exclamation
     id:         exclamation
     unicode:    f12a
-    created:    3.1
+    created:    0.4
     filter:
       - warning
       - error
@@ -3025,7 +3026,7 @@ icons:
   - name:       superscript
     id:         superscript
     unicode:    f12b
-    created:    3.1
+    created:    0.4
     filter:
       - exponential
     categories:
@@ -3034,14 +3035,14 @@ icons:
   - name:       subscript
     id:         subscript
     unicode:    f12c
-    created:    3.1
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       eraser
     id:         eraser
     unicode:    f12d
-    created:    3.1
+    created:    0.4
     filter:
       - remove
       - delete
@@ -3052,7 +3053,7 @@ icons:
   - name:       Puzzle Piece
     id:         puzzle-piece
     unicode:    f12e
-    created:    3.1
+    created:    0.4
     filter:
       - addon
       - add-on
@@ -3064,7 +3065,7 @@ icons:
   - name:       microphone
     id:         microphone
     unicode:    f130
-    created:    3.1
+    created:    0.4
     filter:
       - record
       - voice
@@ -3075,7 +3076,7 @@ icons:
   - name:       Microphone Slash
     id:         microphone-slash
     unicode:    f131
-    created:    3.1
+    created:    0.4
     filter:
       - record
       - voice
@@ -3087,7 +3088,7 @@ icons:
   - name:       shield
     id:         shield
     unicode:    f132
-    created:    3.1
+    created:    0.4
     filter:
       - award
       - achievement
@@ -3099,7 +3100,7 @@ icons:
   - name:       calendar-o
     id:         calendar-o
     unicode:    f133
-    created:    3.1
+    created:    0.4
     filter:
       - date
       - time
@@ -3111,14 +3112,14 @@ icons:
   - name:       fire-extinguisher
     id:         fire-extinguisher
     unicode:    f134
-    created:    3.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       rocket
     id:         rocket
     unicode:    f135
-    created:    3.1
+    created:    0.4
     filter:
       - app
     categories:
@@ -3128,14 +3129,14 @@ icons:
   - name:       MaxCDN
     id:         maxcdn
     unicode:    f136
-    created:    3.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Chevron Circle Left
     id:         chevron-circle-left
     unicode:    f137
-    created:    3.1
+    created:    0.4
     filter:
       - previous
       - back
@@ -3146,7 +3147,7 @@ icons:
   - name:       Chevron Circle Right
     id:         chevron-circle-right
     unicode:    f138
-    created:    3.1
+    created:    0.4
     filter:
       - next
       - forward
@@ -3157,7 +3158,7 @@ icons:
   - name:       Chevron Circle Up
     id:         chevron-circle-up
     unicode:    f139
-    created:    3.1
+    created:    0.4
     filter:
       - arrow
     categories:
@@ -3166,7 +3167,7 @@ icons:
   - name:       Chevron Circle Down
     id:         chevron-circle-down
     unicode:    f13a
-    created:    3.1
+    created:    0.4
     filter:
       - more
       - dropdown
@@ -3178,7 +3179,7 @@ icons:
   - name:       HTML 5 Logo
     id:         html5
     unicode:    f13b
-    created:    3.1
+    created:    0.4
     code:
       - code
       - html5
@@ -3188,7 +3189,7 @@ icons:
   - name:       CSS 3 Logo
     id:         css3
     unicode:    f13c
-    created:    3.1
+    created:    0.4
     filter:
       - code
     categories:
@@ -3197,7 +3198,7 @@ icons:
   - name:       Anchor
     id:         anchor
     unicode:    f13d
-    created:    3.1
+    created:    0.4
     filter:
       - link
     categories:
@@ -3206,7 +3207,7 @@ icons:
   - name:       Unlock Alt
     id:         unlock-alt
     unicode:    f13e
-    created:    3.1
+    created:    0.4
     filter:
       - protect
       - admin
@@ -3219,7 +3220,7 @@ icons:
   - name:       Bullseye
     id:         bullseye
     unicode:    f140
-    created:    3.1
+    created:    0.4
     filter:
       - target
     categories:
@@ -3228,7 +3229,7 @@ icons:
   - name:       Ellipsis Horizontal
     id:         ellipsis-h
     unicode:    f141
-    created:    3.1
+    created:    0.4
     filter:
       - dots
     categories:
@@ -3237,7 +3238,7 @@ icons:
   - name:       Ellipsis Vertical
     id:         ellipsis-v
     unicode:    f142
-    created:    3.1
+    created:    0.4
     filter:
       - dots
     categories:
@@ -3246,7 +3247,7 @@ icons:
   - name:       RSS Square
     id:         rss-square
     unicode:    f143
-    created:    3.1
+    created:    0.4
     filter:
       - feed
       - blog
@@ -3256,7 +3257,7 @@ icons:
   - name:       Play Circle
     id:         play-circle
     unicode:    f144
-    created:    3.1
+    created:    0.4
     filter:
       - start
       - playing
@@ -3266,7 +3267,7 @@ icons:
   - name:       Ticket
     id:         ticket
     unicode:    f145
-    created:    3.1
+    created:    0.4
     filter:
       - movie
       - pass
@@ -3277,7 +3278,7 @@ icons:
   - name:       Minus Square
     id:         minus-square
     unicode:    f146
-    created:    3.1
+    created:    0.4
     filter:
       - hide
       - minify
@@ -3293,7 +3294,7 @@ icons:
   - name:       Minus Square Outlined
     id:         minus-square-o
     unicode:    f147
-    created:    3.1
+    created:    0.4
     filter:
       - hide
       - minify
@@ -3310,7 +3311,7 @@ icons:
   - name:       Level Up
     id:         level-up
     unicode:    f148
-    created:    3.1
+    created:    0.4
     filter:
       - arrow
     categories:
@@ -3319,7 +3320,7 @@ icons:
   - name:       Level Down
     id:         level-down
     unicode:    f149
-    created:    3.1
+    created:    0.4
     filter:
       - arrow
     categories:
@@ -3328,7 +3329,7 @@ icons:
   - name:       Check Square
     id:         check-square
     unicode:    f14a
-    created:    3.1
+    created:    0.4
     filter:
       - checkmark
       - done
@@ -3344,7 +3345,7 @@ icons:
   - name:       Pencil Square
     id:         pencil-square
     unicode:    f14b
-    created:    3.1
+    created:    0.4
     filter:
       - write
       - edit
@@ -3355,7 +3356,7 @@ icons:
   - name:       External Link Square
     id:         external-link-square
     unicode:    f14c
-    created:    3.1
+    created:    0.4
     filter:
       - open
       - new
@@ -3365,7 +3366,7 @@ icons:
   - name:       Share Square
     id:         share-square
     unicode:    f14d
-    created:    3.1
+    created:    0.4
     filter:
       - social
       - send
@@ -3375,7 +3376,7 @@ icons:
   - name:       Compass
     id:         compass
     unicode:    f14e
-    created:    3.2
+    created:    0.4
     filter:
       - safari
       - directory
@@ -3388,7 +3389,7 @@ icons:
   - name:       Caret Square Outlined Down
     id:         caret-square-o-down
     unicode:    f150
-    created:    3.2
+    created:    0.4
     aliases:
       - toggle-down
     filter:
@@ -3402,7 +3403,7 @@ icons:
   - name:       Caret Square Outlined Up
     id:         caret-square-o-up
     unicode:    f151
-    created:    3.2
+    created:    0.4
     aliases:
       - toggle-up
     categories:
@@ -3412,7 +3413,7 @@ icons:
   - name:       Caret Square Outlined Right
     id:         caret-square-o-right
     unicode:    f152
-    created:    3.2
+    created:    0.4
     filter:
       - next
       - forward
@@ -3425,7 +3426,7 @@ icons:
   - name:       Euro (EUR)
     id:         eur
     unicode:    f153
-    created:    3.2
+    created:    0.4
     aliases:
       - euro
     categories:
@@ -3434,14 +3435,14 @@ icons:
   - name:       GBP
     id:         gbp
     unicode:    f154
-    created:    3.2
+    created:    0.4
     categories:
       - Currency Icons
 
   - name:       US Dollar
     id:         usd
     unicode:    f155
-    created:    3.2
+    created:    0.4
     aliases:
       - dollar
     categories:
@@ -3450,7 +3451,7 @@ icons:
   - name:       Indian Rupee (INR)
     id:         inr
     unicode:    f156
-    created:    3.2
+    created:    0.4
     aliases:
       - rupee
     categories:
@@ -3459,7 +3460,7 @@ icons:
   - name:       Japanese Yen (JPY)
     id:         jpy
     unicode:    f157
-    created:    3.2
+    created:    0.4
     aliases:
       - cny
       - rmb
@@ -3470,7 +3471,7 @@ icons:
   - name:       Russian Ruble (RUB)
     id:         rub
     unicode:    f158
-    created:    4.0
+    created:    0.4
     aliases:
       - ruble
       - rouble
@@ -3480,7 +3481,7 @@ icons:
   - name:       Korean Won (KRW)
     id:         krw
     unicode:    f159
-    created:    3.2
+    created:    0.4
     aliases:
       - won
     categories:
@@ -3489,7 +3490,7 @@ icons:
   - name:       Bitcoin (BTC)
     id:         btc
     unicode:    f15a
-    created:    3.2
+    created:    0.4
     aliases:
       - bitcoin
     categories:
@@ -3499,7 +3500,7 @@ icons:
   - name:       File
     id:         file
     unicode:    f15b
-    created:    3.2
+    created:    0.4
     filter:
       - new
       - page
@@ -3512,7 +3513,7 @@ icons:
   - name:       File Text
     id:         file-text
     unicode:    f15c
-    created:    3.2
+    created:    0.4
     filter:
       - new
       - page
@@ -3525,14 +3526,14 @@ icons:
   - name:       Sort Alpha Ascending
     id:         sort-alpha-asc
     unicode:    f15d
-    created:    3.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Sort Alpha Descending
     id:         sort-alpha-desc
     unicode:    f15e
-    created:    3.2
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -3540,21 +3541,21 @@ icons:
   - name:       Sort Amount Ascending
     id:         sort-amount-asc
     unicode:    f160
-    created:    3.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Sort Amount Descending
     id:         sort-amount-desc
     unicode:    f161
-    created:    3.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Sort Numeric Ascending
     id:         sort-numeric-asc
     unicode:    f162
-    created:    3.2
+    created:    0.4
     filter:
       - numbers
     categories:
@@ -3563,7 +3564,7 @@ icons:
   - name:       Sort Numeric Descending
     id:         sort-numeric-desc
     unicode:    f163
-    created:    3.2
+    created:    0.4
     filter:
       - numbers
     categories:
@@ -3573,7 +3574,7 @@ icons:
   - name:       thumbs-up
     id:         thumbs-up
     unicode:    f164
-    created:    3.2
+    created:    0.4
     filter:
       - like
       - favorite
@@ -3587,7 +3588,7 @@ icons:
   - name:       thumbs-down
     id:         thumbs-down
     unicode:    f165
-    created:    3.2
+    created:    0.4
     filter:
       - dislike
       - disapprove
@@ -3600,7 +3601,7 @@ icons:
   - name:       YouTube Square
     id:         youtube-square
     unicode:    f166
-    created:    3.2
+    created:    0.4
     filter:
       - video
       - film
@@ -3610,7 +3611,7 @@ icons:
   - name:       YouTube
     id:         youtube
     unicode:    f167
-    created:    3.2
+    created:    0.4
     filter:
       - video
       - film
@@ -3620,21 +3621,21 @@ icons:
   - name:       Xing
     id:         xing
     unicode:    f168
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Xing Square
     id:         xing-square
     unicode:    f169
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       YouTube Play
     id:         youtube-play
     unicode:    f16a
-    created:    3.2
+    created:    0.4
     filter:
       - start
       - playing
@@ -3645,42 +3646,42 @@ icons:
   - name:       Dropbox
     id:         dropbox
     unicode:    f16b
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Stack Overflow
     id:         stack-overflow
     unicode:    f16c
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Instagram
     id:         instagram
     unicode:    f16d
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Flickr
     id:         flickr
     unicode:    f16e
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       App.net
     id:         adn
     unicode:    f170
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Bitbucket
     id:         bitbucket
     unicode:    f171
-    created:    3.2
+    created:    0.4
     filter:
       - git
     categories:
@@ -3689,7 +3690,7 @@ icons:
   - name:       Bitbucket Square
     id:         bitbucket-square
     unicode:    f172
-    created:    3.2
+    created:    0.4
     filter:
       - git
     categories:
@@ -3698,35 +3699,35 @@ icons:
   - name:       Tumblr
     id:         tumblr
     unicode:    f173
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Tumblr Square
     id:         tumblr-square
     unicode:    f174
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Long Arrow Down
     id:         long-arrow-down
     unicode:    f175
-    created:    3.2
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       Long Arrow Up
     id:         long-arrow-up
     unicode:    f176
-    created:    3.2
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       Long Arrow Left
     id:         long-arrow-left
     unicode:    f177
-    created:    3.2
+    created:    0.4
     filter:
       - previous
       - back
@@ -3736,14 +3737,14 @@ icons:
   - name:       Long Arrow Right
     id:         long-arrow-right
     unicode:    f178
-    created:    3.2
+    created:    0.4
     categories:
       - Directional Icons
 
   - name:       Apple
     id:         apple
     unicode:    f179
-    created:    3.2
+    created:    0.4
     filter:
       - osx
       - food
@@ -3753,7 +3754,7 @@ icons:
   - name:       Windows
     id:         windows
     unicode:    f17a
-    created:    3.2
+    created:    0.4
     filter:
       - microsoft
     categories:
@@ -3762,7 +3763,7 @@ icons:
   - name:       Android
     id:         android
     unicode:    f17b
-    created:    3.2
+    created:    0.4
     filter:
       - robot
     categories:
@@ -3771,7 +3772,7 @@ icons:
   - name:       Linux
     id:         linux
     unicode:    f17c
-    created:    3.2
+    created:    0.4
     filter:
       - tux
     categories:
@@ -3780,14 +3781,14 @@ icons:
   - name:       Dribbble
     id:         dribbble
     unicode:    f17d
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Skype
     id:         skype
     unicode:    f17e
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
@@ -3795,21 +3796,21 @@ icons:
   - name:       Foursquare
     id:         foursquare
     unicode:    f180
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Trello
     id:         trello
     unicode:    f181
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Female
     id:         female
     unicode:    f182
-    created:    3.2
+    created:    0.4
     filter:
       - woman
       - user
@@ -3821,7 +3822,7 @@ icons:
   - name:       Male
     id:         male
     unicode:    f183
-    created:    3.2
+    created:    0.4
     filter:
       - man
       - user
@@ -3833,7 +3834,7 @@ icons:
   - name:       Gratipay (Gittip)
     id:         gratipay
     unicode:    f184
-    created:    3.2
+    created:    0.4
     aliases:
       - gittip
     filter:
@@ -3847,7 +3848,7 @@ icons:
   - name:       Sun Outlined
     id:         sun-o
     unicode:    f185
-    created:    3.2
+    created:    0.4
     filter:
       - weather
       - contrast
@@ -3860,7 +3861,7 @@ icons:
   - name:       Moon Outlined
     id:         moon-o
     unicode:    f186
-    created:    3.2
+    created:    0.4
     filter:
       - night
       - darker
@@ -3871,7 +3872,7 @@ icons:
   - name:       Archive
     id:         archive
     unicode:    f187
-    created:    3.2
+    created:    0.4
     filter:
       - box
       - storage
@@ -3881,7 +3882,7 @@ icons:
   - name:       Bug
     id:         bug
     unicode:    f188
-    created:    3.2
+    created:    0.4
     filter:
       - report
       - insect
@@ -3891,21 +3892,21 @@ icons:
   - name:       VK
     id:         vk
     unicode:    f189
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Weibo
     id:         weibo
     unicode:    f18a
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Renren
     id:         renren
     unicode:    f18b
-    created:    3.2
+    created:    0.4
     categories:
       - Brand Icons
 
@@ -3913,7 +3914,7 @@ icons:
   - name:       Pagelines
     id:         pagelines
     unicode:    f18c
-    created:    4.0
+    created:    0.4
     filter:
       - leaf
       - leaves
@@ -3927,14 +3928,14 @@ icons:
   - name:       Stack Exchange
     id:         stack-exchange
     unicode:    f18d
-    created:    4.0
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Arrow Circle Outlined Right
     id:         arrow-circle-o-right
     unicode:    f18e
-    created:    4.0
+    created:    0.4
     filter:
       - next
       - forward
@@ -3945,7 +3946,7 @@ icons:
   - name:       Arrow Circle Outlined Left
     id:         arrow-circle-o-left
     unicode:    f190
-    created:    4.0
+    created:    0.4
     filter:
       - previous
       - back
@@ -3955,7 +3956,7 @@ icons:
   - name:       Caret Square Outlined Left
     id:         caret-square-o-left
     unicode:    f191
-    created:    4.0
+    created:    0.4
     filter:
       - previous
       - back
@@ -3968,7 +3969,7 @@ icons:
   - name:       Dot Circle Outlined
     id:         dot-circle-o
     unicode:    f192
-    created:    4.0
+    created:    0.4
     filter:
       - target
       - bullseye
@@ -3980,7 +3981,7 @@ icons:
   - name:       Wheelchair
     id:         wheelchair
     unicode:    f193
-    created:    4.0
+    created:    0.4
     filter:
       - handicap
       - person
@@ -3993,14 +3994,14 @@ icons:
   - name:       Vimeo Square
     id:         vimeo-square
     unicode:    f194
-    created:    4.0
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Turkish Lira (TRY)
     id:         try
     unicode:    f195
-    created:    4.0
+    created:    0.4
     aliases:
       - turkish-lira
     categories:
@@ -4009,7 +4010,7 @@ icons:
   - name:       Plus Square Outlined
     id:         plus-square-o
     unicode:    f196
-    created:    4.0
+    created:    0.4
     filter:
       - add
       - new
@@ -4022,7 +4023,7 @@ icons:
   - name:       Space Shuttle
     id:         space-shuttle
     unicode:    f197
-    created:    4.1
+    created:    0.4
     filter:
     categories:
       - Web Application Icons
@@ -4031,7 +4032,7 @@ icons:
   - name:       Slack Logo
     id:         slack
     unicode:    f198
-    created:    4.1
+    created:    0.4
     filter:
       - hashtag
       - anchor
@@ -4042,7 +4043,7 @@ icons:
   - name:       Envelope Square
     id:         envelope-square
     unicode:    f199
-    created:    4.1
+    created:    0.4
     filter:
       - email
       - e-mail
@@ -4057,21 +4058,21 @@ icons:
   - name:       WordPress Logo
     id:         wordpress
     unicode:    f19a
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       OpenID
     id:         openid
     unicode:    f19b
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       University
     id:         university
     unicode:    f19c
-    created:    4.1
+    created:    0.4
     aliases:
       - institution
       - bank
@@ -4081,7 +4082,7 @@ icons:
   - name:       Graduation Cap
     id:         graduation-cap
     unicode:    f19d
-    created:    4.1
+    created:    0.4
     aliases:
       - mortar-board
     filter:
@@ -4094,7 +4095,7 @@ icons:
   - name:       Yahoo Logo
     id:         yahoo
     unicode:    f19e
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
@@ -4102,70 +4103,70 @@ icons:
   - name:       Google Logo
     id:         google
     unicode:    f1a0
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       reddit Logo
     id:         reddit
     unicode:    f1a1
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       reddit Square
     id:         reddit-square
     unicode:    f1a2
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       StumbleUpon Circle
     id:         stumbleupon-circle
     unicode:    f1a3
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       StumbleUpon Logo
     id:         stumbleupon
     unicode:    f1a4
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Delicious Logo
     id:         delicious
     unicode:    f1a5
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Digg Logo
     id:         digg
     unicode:    f1a6
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Drupal Logo
     id:         drupal
     unicode:    f1a9
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Joomla Logo
     id:         joomla
     unicode:    f1aa
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Language
     id:         language
     unicode:    f1ab
-    created:    4.1
+    created:    0.4
     filter:
       - translate
     categories:
@@ -4174,14 +4175,14 @@ icons:
   - name:       Fax
     id:         fax
     unicode:    f1ac
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Building
     id:         building
     unicode:    f1ad
-    created:    4.1
+    created:    0.4
     filter:
       - work
       - business
@@ -4194,7 +4195,7 @@ icons:
   - name:       Child
     id:         child
     unicode:    f1ae
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -4202,7 +4203,7 @@ icons:
   - name:       Paw
     id:         paw
     unicode:    f1b0
-    created:    4.1
+    created:    0.4
     filter:
       - pet
     categories:
@@ -4211,63 +4212,63 @@ icons:
   - name:       spoon
     id:         spoon
     unicode:    f1b1
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Cube
     id:         cube
     unicode:    f1b2
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Cubes
     id:         cubes
     unicode:    f1b3
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Behance
     id:         behance
     unicode:    f1b4
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Behance Square
     id:         behance-square
     unicode:    f1b5
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Steam
     id:         steam
     unicode:    f1b6
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Steam Square
     id:         steam-square
     unicode:    f1b7
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Recycle
     id:         recycle
     unicode:    f1b8
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Car
     id:         car
     unicode:    f1b9
-    created:    4.1
+    created:    0.4
     aliases:
       - automobile
     filter:
@@ -4279,7 +4280,7 @@ icons:
   - name:       Taxi
     id:         taxi
     unicode:    f1ba
-    created:    4.1
+    created:    0.4
     aliases:
       - cab
     filter:
@@ -4291,42 +4292,42 @@ icons:
   - name:       Tree
     id:         tree
     unicode:    f1bb
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Spotify
     id:         spotify
     unicode:    f1bc
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       deviantART
     id:         deviantart
     unicode:    f1bd
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       SoundCloud
     id:         soundcloud
     unicode:    f1be
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Database
     id:         database
     unicode:    f1c0
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       PDF File Outlined
     id:         file-pdf-o
     unicode:    f1c1
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - File Type Icons
@@ -4334,7 +4335,7 @@ icons:
   - name:       Word File Outlined
     id:         file-word-o
     unicode:    f1c2
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - File Type Icons
@@ -4342,7 +4343,7 @@ icons:
   - name:       Excel File Outlined
     id:         file-excel-o
     unicode:    f1c3
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - File Type Icons
@@ -4350,7 +4351,7 @@ icons:
   - name:       Powerpoint File Outlined
     id:         file-powerpoint-o
     unicode:    f1c4
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - File Type Icons
@@ -4358,7 +4359,7 @@ icons:
   - name:       Image File Outlined
     id:         file-image-o
     unicode:    f1c5
-    created:    4.1
+    created:    0.4
     aliases:
       - file-photo-o
       - file-picture-o
@@ -4369,7 +4370,7 @@ icons:
   - name:       Archive File Outlined
     id:         file-archive-o
     unicode:    f1c6
-    created:    4.1
+    created:    0.4
     aliases:
       - file-zip-o
     categories:
@@ -4379,7 +4380,7 @@ icons:
   - name:       Audio File Outlined
     id:         file-audio-o
     unicode:    f1c7
-    created:    4.1
+    created:    0.4
     aliases:
       - file-sound-o
     categories:
@@ -4389,7 +4390,7 @@ icons:
   - name:       Video File Outlined
     id:         file-video-o
     unicode:    f1c8
-    created:    4.1
+    created:    0.4
     aliases:
       - file-movie-o
     categories:
@@ -4399,7 +4400,7 @@ icons:
   - name:       Code File Outlined
     id:         file-code-o
     unicode:    f1c9
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - File Type Icons
@@ -4407,28 +4408,28 @@ icons:
   - name:       Vine
     id:         vine
     unicode:    f1ca
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Codepen
     id:         codepen
     unicode:    f1cb
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       jsFiddle
     id:         jsfiddle
     unicode:    f1cc
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Life Ring
     id:         life-ring
     unicode:    f1cd
-    created:    4.1
+    created:    0.4
     aliases:
       - life-bouy # TODO: Deprecated - remove in 5.0.0
       - life-buoy
@@ -4440,7 +4441,7 @@ icons:
   - name:       Circle Outlined Notched
     id:         circle-o-notch
     unicode:    f1ce
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - Spinner Icons
@@ -4449,7 +4450,7 @@ icons:
   - name:       Rebel Alliance
     id:         rebel
     unicode:    f1d0
-    created:    4.1
+    created:    0.4
     aliases:
       - ra
       - resistance
@@ -4459,7 +4460,7 @@ icons:
   - name:       Galactic Empire
     id:         empire
     unicode:    f1d1
-    created:    4.1
+    created:    0.4
     aliases:
       - ge
     categories:
@@ -4468,21 +4469,21 @@ icons:
   - name:       Git Square
     id:         git-square
     unicode:    f1d2
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Git
     id:         git
     unicode:    f1d3
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Hacker News
     id:         hacker-news
     unicode:    f1d4
-    created:    4.1
+    created:    0.4
     aliases:
       - y-combinator-square
       - yc-square
@@ -4492,21 +4493,21 @@ icons:
   - name:       Tencent Weibo
     id:         tencent-weibo
     unicode:    f1d5
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       QQ
     id:         qq
     unicode:    f1d6
-    created:    4.1
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Weixin (WeChat)
     id:         weixin
     unicode:    f1d7
-    created:    4.1
+    created:    0.4
     aliases:
       - wechat
     categories:
@@ -4515,7 +4516,7 @@ icons:
   - name:       Paper Plane
     id:         paper-plane
     unicode:    f1d8
-    created:    4.1
+    created:    0.4
     aliases:
       - send
     categories:
@@ -4524,7 +4525,7 @@ icons:
   - name:       Paper Plane Outlined
     id:         paper-plane-o
     unicode:    f1d9
-    created:    4.1
+    created:    0.4
     aliases:
       - send-o
     categories:
@@ -4533,7 +4534,7 @@ icons:
   - name:       History
     id:         history
     unicode:    f1da
-    created:    4.1
+    created:    0.4
     filter:
       - recent
     categories:
@@ -4542,14 +4543,14 @@ icons:
   - name:       Circle Outlined Thin
     id:         circle-thin
     unicode:    f1db
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       header
     id:         header
     unicode:    f1dc
-    created:    4.1
+    created:    0.4
     filter:
       - heading
     categories:
@@ -4558,14 +4559,14 @@ icons:
   - name:       paragraph
     id:         paragraph
     unicode:    f1dd
-    created:    4.1
+    created:    0.4
     categories:
       - Text Editor Icons
 
   - name:       Sliders
     id:         sliders
     unicode:    f1de
-    created:    4.1
+    created:    0.4
     filter:
       - settings
     categories:
@@ -4575,7 +4576,7 @@ icons:
   - name:       Share Alt
     id:         share-alt
     unicode:    f1e0
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - Brand Icons
@@ -4583,7 +4584,7 @@ icons:
   - name:       Share Alt Square
     id:         share-alt-square
     unicode:    f1e1
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
       - Brand Icons
@@ -4591,14 +4592,14 @@ icons:
   - name:       Bomb
     id:         bomb
     unicode:    f1e2
-    created:    4.1
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Futbol Outlined
     id:         futbol-o
     unicode:    f1e3
-    created:    4.2
+    created:    0.4
     aliases:
       - soccer-ball-o
     categories:
@@ -4607,7 +4608,7 @@ icons:
   - name:       TTY
     id:         tty
     unicode:    f1e4
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -4615,14 +4616,14 @@ icons:
   - name:       Binoculars
     id:         binoculars
     unicode:    f1e5
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Plug
     id:         plug
     unicode:    f1e6
-    created:    4.2
+    created:    0.4
     filter:
       - power
       - connect
@@ -4632,28 +4633,28 @@ icons:
   - name:       Slideshare
     id:         slideshare
     unicode:    f1e7
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Twitch
     id:         twitch
     unicode:    f1e8
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Yelp
     id:         yelp
     unicode:    f1e9
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Newspaper Outlined
     id:         newspaper-o
     unicode:    f1ea
-    created:    4.2
+    created:    0.4
     filter:
       - press
     categories:
@@ -4662,21 +4663,21 @@ icons:
   - name:       WiFi
     id:         wifi
     unicode:    f1eb
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Calculator
     id:         calculator
     unicode:    f1ec
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Paypal
     id:         paypal
     unicode:    f1ed
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -4684,7 +4685,7 @@ icons:
   - name:       Google Wallet
     id:         google-wallet
     unicode:    f1ee
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -4693,7 +4694,7 @@ icons:
   - name:       Visa Credit Card
     id:         cc-visa
     unicode:    f1f0
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -4701,7 +4702,7 @@ icons:
   - name:       MasterCard Credit Card
     id:         cc-mastercard
     unicode:    f1f1
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -4709,7 +4710,7 @@ icons:
   - name:       Discover Credit Card
     id:         cc-discover
     unicode:    f1f2
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -4717,7 +4718,7 @@ icons:
   - name:       American Express Credit Card
     id:         cc-amex
     unicode:    f1f3
-    created:    4.2
+    created:    0.4
     filter:
       - amex
     categories:
@@ -4727,7 +4728,7 @@ icons:
   - name:       Paypal Credit Card
     id:         cc-paypal
     unicode:    f1f4
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -4735,7 +4736,7 @@ icons:
   - name:       Stripe Credit Card
     id:         cc-stripe
     unicode:    f1f5
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -4743,21 +4744,21 @@ icons:
   - name:       Bell Slash
     id:         bell-slash
     unicode:    f1f6
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Bell Slash Outlined
     id:         bell-slash-o
     unicode:    f1f7
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Trash
     id:         trash
     unicode:    f1f8
-    created:    4.2
+    created:    0.4
     filter:
       - garbage
       - delete
@@ -4769,14 +4770,14 @@ icons:
   - name:       Copyright
     id:         copyright
     unicode:    f1f9
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       At
     id:         at
     unicode:    f1fa
-    created:    4.2
+    created:    0.4
     filter:
       - email
       - e-mail
@@ -4786,28 +4787,28 @@ icons:
   - name:       Eyedropper
     id:         eyedropper
     unicode:    f1fb
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Paint Brush
     id:         paint-brush
     unicode:    f1fc
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Birthday Cake
     id:         birthday-cake
     unicode:    f1fd
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Area Chart
     id:         area-chart
     unicode:    f1fe
-    created:    4.2
+    created:    0.4
     filter:
       - graph
       - analytics
@@ -4819,7 +4820,7 @@ icons:
   - name:       Pie Chart
     id:         pie-chart
     unicode:    f200
-    created:    4.2
+    created:    0.4
     filter:
       - graph
       - analytics
@@ -4831,7 +4832,7 @@ icons:
   - name:       Line Chart
     id:         line-chart
     unicode:    f201
-    created:    4.2
+    created:    0.4
     filter:
       - graph
       - analytics
@@ -4843,21 +4844,21 @@ icons:
   - name:       last.fm
     id:         lastfm
     unicode:    f202
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       last.fm Square
     id:         lastfm-square
     unicode:    f203
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Toggle Off
     id:         toggle-off
     unicode:    f204
-    created:    4.2
+    created:    0.4
     filter:
     - switch
     categories:
@@ -4866,7 +4867,7 @@ icons:
   - name:       Toggle On
     id:         toggle-on
     unicode:    f205
-    created:    4.2
+    created:    0.4
     filter:
     - switch
     categories:
@@ -4875,7 +4876,7 @@ icons:
   - name:       Bicycle
     id:         bicycle
     unicode:    f206
-    created:    4.2
+    created:    0.4
     filter:
       - vehicle
       - bike
@@ -4886,7 +4887,7 @@ icons:
   - name:       Bus
     id:         bus
     unicode:    f207
-    created:    4.2
+    created:    0.4
     filter:
       - vehicle
     categories:
@@ -4896,7 +4897,7 @@ icons:
   - name:       ioxhost
     id:         ioxhost
     unicode:    f208
-    created:    4.2
+    created:    0.4
     url:        ioxhost.co.uk
     categories:
       - Brand Icons
@@ -4904,14 +4905,14 @@ icons:
   - name:       AngelList
     id:         angellist
     unicode:    f209
-    created:    4.2
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Closed Captions
     id:         cc
     unicode:    f20a
-    created:    4.2
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -4919,7 +4920,7 @@ icons:
   - name:       Shekel (ILS)
     id:         ils
     unicode:    f20b
-    created:    4.2
+    created:    0.4
     aliases:
       - shekel
       - sheqel
@@ -4929,7 +4930,7 @@ icons:
   - name:       meanpath
     id:         meanpath
     unicode:    f20c
-    created:    4.2
+    created:    0.4
     url:        meanpath.com
     categories:
       - Brand Icons
@@ -4937,7 +4938,7 @@ icons:
   - name:       BuySellAds
     id:         buysellads
     unicode:    f20d
-    created:    4.3
+    created:    0.4
     url:        buysellads.com
     categories:
       - Brand Icons
@@ -4945,7 +4946,7 @@ icons:
   - name:       Connect Develop
     id:         connectdevelop
     unicode:    f20e
-    created:    4.3
+    created:    0.4
     url:        connectdevelop.com
     categories:
       - Brand Icons
@@ -4954,7 +4955,7 @@ icons:
   - name:       DashCube
     id:         dashcube
     unicode:    f210
-    created:    4.3
+    created:    0.4
     url:        dashcube.com
     categories:
       - Brand Icons
@@ -4962,7 +4963,7 @@ icons:
   - name:       Forumbee
     id:         forumbee
     unicode:    f211
-    created:    4.3
+    created:    0.4
     url:        forumbee.com
     categories:
       - Brand Icons
@@ -4970,7 +4971,7 @@ icons:
   - name:       Leanpub
     id:         leanpub
     unicode:    f212
-    created:    4.3
+    created:    0.4
     url:        leanpub.com
     categories:
       - Brand Icons
@@ -4978,7 +4979,7 @@ icons:
   - name:       Sellsy
     id:         sellsy
     unicode:    f213
-    created:    4.3
+    created:    0.4
     url:        sellsy.com
     categories:
       - Brand Icons
@@ -4986,7 +4987,7 @@ icons:
   - name:       Shirts in Bulk
     id:         shirtsinbulk
     unicode:    f214
-    created:    4.3
+    created:    0.4
     url:        shirtsinbulk.com
     categories:
       - Brand Icons
@@ -4994,7 +4995,7 @@ icons:
   - name:       SimplyBuilt
     id:         simplybuilt
     unicode:    f215
-    created:    4.3
+    created:    0.4
     url:        simplybuilt.com
     categories:
       - Brand Icons
@@ -5002,7 +5003,7 @@ icons:
   - name:       skyatlas
     id:         skyatlas
     unicode:    f216
-    created:    4.3
+    created:    0.4
     url:        skyatlas.com
     categories:
       - Brand Icons
@@ -5010,7 +5011,7 @@ icons:
   - name:       Add to Shopping Cart
     id:         cart-plus
     unicode:    f217
-    created:    4.3
+    created:    0.4
     filter:
       - add
       - shopping
@@ -5020,7 +5021,7 @@ icons:
   - name:       Shopping Cart Arrow Down
     id:         cart-arrow-down
     unicode:    f218
-    created:    4.3
+    created:    0.4
     filter:
       - shopping
     categories:
@@ -5029,7 +5030,7 @@ icons:
   - name:       Diamond
     id:         diamond
     unicode:    f219
-    created:    4.3
+    created:    0.4
     filter:
       - gem
       - gemstone
@@ -5039,7 +5040,7 @@ icons:
   - name:       Ship
     id:         ship
     unicode:    f21a
-    created:    4.3
+    created:    0.4
     filter:
       - boat
       - sea
@@ -5050,7 +5051,7 @@ icons:
   - name:       User Secret
     id:         user-secret
     unicode:    f21b
-    created:    4.3
+    created:    0.4
     filter:
       - whisper
       - spy
@@ -5062,7 +5063,7 @@ icons:
   - name:       Motorcycle
     id:         motorcycle
     unicode:    f21c
-    created:    4.3
+    created:    0.4
     filter:
       - vehicle
       - bike
@@ -5073,7 +5074,7 @@ icons:
   - name:       Street View
     id:         street-view
     unicode:    f21d
-    created:    4.3
+    created:    0.4
     filter:
       - map
     categories:
@@ -5082,7 +5083,7 @@ icons:
   - name:       Heartbeat
     id:         heartbeat
     unicode:    f21e
-    created:    4.3
+    created:    0.4
     filter:
       - ekg
     categories:
@@ -5093,7 +5094,7 @@ icons:
   - name:       Venus
     id:         venus
     unicode:    f221
-    created:    4.3
+    created:    0.4
     filter:
       - female
     categories:
@@ -5102,7 +5103,7 @@ icons:
   - name:       Mars
     id:         mars
     unicode:    f222
-    created:    4.3
+    created:    0.4
     filter:
       - male
     categories:
@@ -5111,7 +5112,7 @@ icons:
   - name:       Mercury
     id:         mercury
     unicode:    f223
-    created:    4.3
+    created:    0.4
     filter:
       - transgender
     categories:
@@ -5120,7 +5121,7 @@ icons:
   - name:       Transgender
     id:         transgender
     unicode:    f224
-    created:    4.3
+    created:    0.4
     aliases:
       - intersex
     categories:
@@ -5129,63 +5130,63 @@ icons:
   - name:       Transgender Alt
     id:         transgender-alt
     unicode:    f225
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Venus Double
     id:         venus-double
     unicode:    f226
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Mars Double
     id:         mars-double
     unicode:    f227
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Venus Mars
     id:         venus-mars
     unicode:    f228
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Mars Stroke
     id:         mars-stroke
     unicode:    f229
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Mars Stroke Vertical
     id:         mars-stroke-v
     unicode:    f22a
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Mars Stroke Horizontal
     id:         mars-stroke-h
     unicode:    f22b
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Neuter
     id:         neuter
     unicode:    f22c
-    created:    4.3
+    created:    0.4
     categories:
       - Gender Icons
 
   - name:       Genderless
     id:         genderless
     unicode:    f22d
-    created:    4.4
+    created:    0.4
     categories:
       - Gender Icons
 
@@ -5193,35 +5194,35 @@ icons:
   - name:       Facebook Official
     id:         facebook-official
     unicode:    f230
-    created:    4.3
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Pinterest P
     id:         pinterest-p
     unicode:    f231
-    created:    4.3
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       What's App
     id:         whatsapp
     unicode:    f232
-    created:    4.3
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Server
     id:         server
     unicode:    f233
-    created:    4.3
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Add User
     id:         user-plus
     unicode:    f234
-    created:    4.3
+    created:    0.4
     filter:
       - sign up
       - signup
@@ -5231,14 +5232,14 @@ icons:
   - name:       Remove User
     id:         user-times
     unicode:    f235
-    created:    4.3
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Bed
     id:         bed
     unicode:    f236
-    created:    4.3
+    created:    0.4
     filter:
       - travel
     aliases:
@@ -5249,7 +5250,7 @@ icons:
   - name:       Viacoin (VIA)
     id:         viacoin
     unicode:    f237
-    created:    4.3
+    created:    0.4
     url:        viacoin.org
     categories:
       - Currency Icons
@@ -5258,28 +5259,28 @@ icons:
   - name:       Train
     id:         train
     unicode:    f238
-    created:    4.3
+    created:    0.4
     categories:
       - Transportation Icons
 
   - name:       Subway
     id:         subway
     unicode:    f239
-    created:    4.3
+    created:    0.4
     categories:
       - Transportation Icons
 
   - name:       Medium
     id:         medium
     unicode:    f23a
-    created:    4.3
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Y Combinator
     id:         y-combinator
     unicode:    f23b
-    created:    4.4
+    created:    0.4
     aliases:
       - yc
     categories:
@@ -5288,7 +5289,7 @@ icons:
   - name:       Optin Monster
     id:         optin-monster
     unicode:    f23c
-    created:    4.4
+    created:    0.4
     url:        optinmonster.com
     categories:
       - Brand Icons
@@ -5296,7 +5297,7 @@ icons:
   - name:       OpenCart
     id:         opencart
     unicode:    f23d
-    created:    4.4
+    created:    0.4
     url:        opencart.com
     categories:
       - Brand Icons
@@ -5304,7 +5305,7 @@ icons:
   - name:       ExpeditedSSL
     id:         expeditedssl
     unicode:    f23e
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
@@ -5312,7 +5313,7 @@ icons:
   - name:       Battery Full
     id:         battery-full
     unicode:    f240
-    created:    4.4
+    created:    0.4
     aliases:
       - battery-4
       - battery
@@ -5324,7 +5325,7 @@ icons:
   - name:       Battery 3/4 Full
     id:         battery-three-quarters
     unicode:    f241
-    created:    4.4
+    created:    0.4
     aliases:
       - battery-3
     filter:
@@ -5335,7 +5336,7 @@ icons:
   - name:       Battery 1/2 Full
     id:         battery-half
     unicode:    f242
-    created:    4.4
+    created:    0.4
     aliases:
       - battery-2
     filter:
@@ -5346,7 +5347,7 @@ icons:
   - name:       Battery 1/4 Full
     id:         battery-quarter
     unicode:    f243
-    created:    4.4
+    created:    0.4
     aliases:
       - battery-1
     filter:
@@ -5357,7 +5358,7 @@ icons:
   - name:       Battery Empty
     id:         battery-empty
     unicode:    f244
-    created:    4.4
+    created:    0.4
     aliases:
       - battery-0
     filter:
@@ -5368,49 +5369,49 @@ icons:
   - name:       Mouse Pointer
     id:         mouse-pointer
     unicode:    f245
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       I Beam Cursor
     id:         i-cursor
     unicode:    f246
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Object Group
     id:         object-group
     unicode:    f247
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Object Ungroup
     id:         object-ungroup
     unicode:    f248
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Sticky Note
     id:         sticky-note
     unicode:    f249
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Sticky Note Outlined
     id:         sticky-note-o
     unicode:    f24a
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       JCB Credit Card
     id:         cc-jcb
     unicode:    f24b
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -5418,7 +5419,7 @@ icons:
   - name:       Diner's Club Credit Card
     id:         cc-diners-club
     unicode:    f24c
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
       - Payment Icons
@@ -5426,7 +5427,7 @@ icons:
   - name:       Clone
     id:         clone
     unicode:    f24d
-    created:    4.4
+    created:    0.4
     filter:
       - copy
     categories:
@@ -5435,7 +5436,7 @@ icons:
   - name:       Balance Scale
     id:         balance-scale
     unicode:    f24e
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -5443,14 +5444,14 @@ icons:
   - name:       Hourglass Outlined
     id:         hourglass-o
     unicode:    f250
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Hourglass Start
     id:         hourglass-start
     unicode:    f251
-    created:    4.4
+    created:    0.4
     aliases:
       - hourglass-1
     categories:
@@ -5459,7 +5460,7 @@ icons:
   - name:       Hourglass Half
     id:         hourglass-half
     unicode:    f252
-    created:    4.4
+    created:    0.4
     aliases:
       - hourglass-2
     categories:
@@ -5468,7 +5469,7 @@ icons:
   - name:       Hourglass End
     id:         hourglass-end
     unicode:    f253
-    created:    4.4
+    created:    0.4
     aliases:
       - hourglass-3
     categories:
@@ -5477,14 +5478,14 @@ icons:
   - name:       Hourglass
     id:         hourglass
     unicode:    f254
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Rock (Hand)
     id:         hand-rock-o
     unicode:    f255
-    created:    4.4
+    created:    0.4
     aliases:
       - hand-grab-o
     categories:
@@ -5494,7 +5495,7 @@ icons:
   - name:       Paper (Hand)
     id:         hand-paper-o
     unicode:    f256
-    created:    4.4
+    created:    0.4
     aliases:
       - hand-stop-o
     filter:
@@ -5506,7 +5507,7 @@ icons:
   - name:       Scissors (Hand)
     id:         hand-scissors-o
     unicode:    f257
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
       - Hand Icons
@@ -5514,7 +5515,7 @@ icons:
   - name:       Lizard (Hand)
     id:         hand-lizard-o
     unicode:    f258
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
       - Hand Icons
@@ -5522,7 +5523,7 @@ icons:
   - name:       Spock (Hand)
     id:         hand-spock-o
     unicode:    f259
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
       - Hand Icons
@@ -5530,7 +5531,7 @@ icons:
   - name:       Hand Pointer
     id:         hand-pointer-o
     unicode:    f25a
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
       - Hand Icons
@@ -5538,7 +5539,7 @@ icons:
   - name:       Hand Peace
     id:         hand-peace-o
     unicode:    f25b
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
       - Hand Icons
@@ -5546,21 +5547,21 @@ icons:
   - name:       Trademark
     id:         trademark
     unicode:    f25c
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Registered Trademark
     id:         registered
     unicode:    f25d
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Creative Commons
     id:         creative-commons
     unicode:    f25e
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -5568,7 +5569,7 @@ icons:
   - name:       GG Currency
     id:         gg
     unicode:    f260
-    created:    4.4
+    created:    0.4
     categories:
       - Currency Icons
       - Brand Icons
@@ -5576,7 +5577,7 @@ icons:
   - name:       GG Currency Circle
     id:         gg-circle
     unicode:    f261
-    created:    4.4
+    created:    0.4
     categories:
       - Currency Icons
       - Brand Icons
@@ -5584,42 +5585,42 @@ icons:
   - name:       TripAdvisor
     id:         tripadvisor
     unicode:    f262
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Odnoklassniki
     id:         odnoklassniki
     unicode:    f263
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Odnoklassniki Square
     id:         odnoklassniki-square
     unicode:    f264
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Get Pocket
     id:         get-pocket
     unicode:    f265
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Wikipedia W
     id:         wikipedia-w
     unicode:    f266
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Safari
     id:         safari
     unicode:    f267
-    created:    4.4
+    created:    0.4
     filter:
       - browser
     categories:
@@ -5628,7 +5629,7 @@ icons:
   - name:       Chrome
     id:         chrome
     unicode:    f268
-    created:    4.4
+    created:    0.4
     filter:
       - browser
     categories:
@@ -5637,7 +5638,7 @@ icons:
   - name:       Firefox
     id:         firefox
     unicode:    f269
-    created:    4.4
+    created:    0.4
     filter:
       - browser
     categories:
@@ -5646,14 +5647,14 @@ icons:
   - name:       Opera
     id:         opera
     unicode:    f26a
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Internet-explorer
     id:         internet-explorer
     unicode:    f26b
-    created:    4.4
+    created:    0.4
     filter:
       - browser
       - ie
@@ -5663,7 +5664,7 @@ icons:
   - name:       Television
     id:         television
     unicode:    f26c
-    created:    4.4
+    created:    0.4
     aliases:
       - tv
     filter:
@@ -5676,14 +5677,14 @@ icons:
   - name:       Contao
     id:         contao
     unicode:    f26d
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       500px
     id:         500px
     unicode:    f26e
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
@@ -5691,35 +5692,35 @@ icons:
   - name:       Amazon
     id:         amazon
     unicode:    f270
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Calendar Plus Outlined
     id:         calendar-plus-o
     unicode:    f271
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Calendar Minus Outlined
     id:         calendar-minus-o
     unicode:    f272
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Calendar Times Outlined
     id:         calendar-times-o
     unicode:    f273
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Calendar Check Outlined
     id:         calendar-check-o
     unicode:    f274
-    created:    4.4
+    created:    0.4
     filter:
       - ok
     categories:
@@ -5728,7 +5729,7 @@ icons:
   - name:       Industry
     id:         industry
     unicode:    f275
-    created:    4.4
+    created:    0.4
     filter:
       - factory
     categories:
@@ -5737,35 +5738,35 @@ icons:
   - name:       Map Pin
     id:         map-pin
     unicode:    f276
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Map Signs
     id:         map-signs
     unicode:    f277
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Map Outlined
     id:         map-o
     unicode:    f278
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Map
     id:         map
     unicode:    f279
-    created:    4.4
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Commenting
     id:         commenting
     unicode:    f27a
-    created:    4.4
+    created:    0.4
     filter:
       - speech
       - notification
@@ -5783,7 +5784,7 @@ icons:
   - name:       Commenting Outlined
     id:         commenting-o
     unicode:    f27b
-    created:    4.4
+    created:    0.4
     filter:
       - speech
       - notification
@@ -5801,21 +5802,21 @@ icons:
   - name:       Houzz
     id:         houzz
     unicode:    f27c
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Vimeo
     id:         vimeo
     unicode:    f27d
-    created:    4.4
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Font Awesome Black Tie
     id:         black-tie
     unicode:    f27e
-    created:    4.4
+    created:    0.4
     url:        blacktie.io
     categories:
       - Brand Icons
@@ -5824,7 +5825,7 @@ icons:
   - name:       Fonticons
     id:         fonticons
     unicode:    f280
-    created:    4.4
+    created:    0.4
     url:        fonticons.com
     categories:
       - Brand Icons
@@ -5832,14 +5833,14 @@ icons:
   - name:       reddit Alien
     id:         reddit-alien
     unicode:    f281
-    created:    4.5
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Edge Browser
     id:         edge
     unicode:    f282
-    created:    4.5
+    created:    0.4
     filter:
       - browser
       - ie
@@ -5849,7 +5850,7 @@ icons:
   - name:       Credit Card
     id:         credit-card-alt
     unicode:    f283
-    created:    4.5
+    created:    0.4
     filter:
       - money
       - buy
@@ -5865,7 +5866,7 @@ icons:
   - name:       Codie Pie
     id:         codiepie
     unicode:    f284
-    created:    4.5
+    created:    0.4
     url:        codiepie.com
     categories:
       - Brand Icons
@@ -5873,14 +5874,14 @@ icons:
   - name:       MODX
     id:         modx
     unicode:    f285
-    created:    4.5
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Fort Awesome
     id:         fort-awesome
     unicode:    f286
-    created:    4.5
+    created:    0.4
     url:        fortawesome.com
     categories:
       - Brand Icons
@@ -5888,56 +5889,56 @@ icons:
   - name:       USB
     id:         usb
     unicode:    f287
-    created:    4.5
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Product Hunt
     id:         product-hunt
     unicode:    f288
-    created:    4.5
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Mixcloud
     id:         mixcloud
     unicode:    f289
-    created:    4.5
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Scribd
     id:         scribd
     unicode:    f28a
-    created:    4.5
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Pause Circle
     id:         pause-circle
     unicode:    f28b
-    created:    4.5
+    created:    0.4
     categories:
       - Video Player Icons
 
   - name:       Pause Circle Outlined
     id:         pause-circle-o
     unicode:    f28c
-    created:    4.5
+    created:    0.4
     categories:
       - Video Player Icons
 
   - name:       Stop Circle
     id:         stop-circle
     unicode:    f28d
-    created:    4.5
+    created:    0.4
     categories:
       - Video Player Icons
 
   - name:       Stop Circle Outlined
     id:         stop-circle-o
     unicode:    f28e
-    created:    4.5
+    created:    0.4
     categories:
       - Video Player Icons
 
@@ -5945,28 +5946,28 @@ icons:
   - name:       Shopping Bag
     id:         shopping-bag
     unicode:    f290
-    created:    4.5
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Shopping Basket
     id:         shopping-basket
     unicode:    f291
-    created:    4.5
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Hashtag
     id:         hashtag
     unicode:    f292
-    created:    4.5
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Bluetooth
     id:         bluetooth
     unicode:    f293
-    created:    4.5
+    created:    0.4
     categories:
       - Web Application Icons
       - Brand Icons
@@ -5974,7 +5975,7 @@ icons:
   - name:       Bluetooth
     id:         bluetooth-b
     unicode:    f294
-    created:    4.5
+    created:    0.4
     categories:
       - Web Application Icons
       - Brand Icons
@@ -5982,7 +5983,7 @@ icons:
   - name:       Percent
     id:         percent
     unicode:    f295
-    created:    4.5
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -5990,7 +5991,7 @@ icons:
   - name:       GitLab
     id:         gitlab
     unicode:    f296
-    created:    4.6
+    created:    0.4
     url:        gitlab.com
     categories:
       - Brand Icons
@@ -5998,7 +5999,7 @@ icons:
   - name:       WPBeginner
     id:         wpbeginner
     unicode:    f297
-    created:    4.6
+    created:    0.4
     url:        wpbeginner.com
     categories:
       - Brand Icons
@@ -6006,7 +6007,7 @@ icons:
   - name:       WPForms
     id:         wpforms
     unicode:    f298
-    created:    4.6
+    created:    0.4
     url:        wpforms.com
     categories:
       - Brand Icons
@@ -6014,7 +6015,7 @@ icons:
   - name:       Envira Gallery
     id:         envira
     unicode:    f299
-    created:    4.6
+    created:    0.4
     url:        enviragallery.com
     filter:
       - leaf
@@ -6024,7 +6025,7 @@ icons:
   - name:       Universal Access
     id:         universal-access
     unicode:    f29a
-    created:    4.6
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -6032,7 +6033,7 @@ icons:
   - name:       Wheelchair Alt
     id:         wheelchair-alt
     unicode:    f29b
-    created:    4.6
+    created:    0.4
     filter:
       - handicap
       - person
@@ -6045,7 +6046,7 @@ icons:
   - name:       Question Circle Outlined
     id:         question-circle-o
     unicode:    f29c
-    created:    4.6
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -6053,7 +6054,7 @@ icons:
   - name:       Blind
     id:         blind
     unicode:    f29d
-    created:    4.6
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -6061,7 +6062,7 @@ icons:
   - name:       Audio Description
     id:         audio-description
     unicode:    f29e
-    created:    4.6
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -6070,7 +6071,7 @@ icons:
   - name:       Volume Control Phone
     id:         volume-control-phone
     unicode:    f2a0
-    created:    4.6
+    created:    0.4
     filter:
       - telephone
     categories:
@@ -6080,7 +6081,7 @@ icons:
   - name:       Braille
     id:         braille
     unicode:    f2a1
-    created:    4.6
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -6088,7 +6089,7 @@ icons:
   - name:       Assistive Listening Systems
     id:         assistive-listening-systems
     unicode:    f2a2
-    created:    4.6
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -6096,7 +6097,7 @@ icons:
   - name:       American Sign Language Interpreting
     id:         american-sign-language-interpreting
     unicode:    f2a3
-    created:    4.6
+    created:    0.4
     aliases:
       - asl-interpreting
     categories:
@@ -6106,7 +6107,7 @@ icons:
   - name:       Deaf
     id:         deaf
     unicode:    f2a4
-    created:    4.6
+    created:    0.4
     aliases:
       - deafness
       - hard-of-hearing
@@ -6117,21 +6118,21 @@ icons:
   - name:       Glide
     id:         glide
     unicode:    f2a5
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Glide G
     id:         glide-g
     unicode:    f2a6
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Sign Language
     id:         sign-language
     unicode:    f2a7
-    created:    4.6
+    created:    0.4
     aliases:
       - signing
     categories:
@@ -6142,7 +6143,7 @@ icons:
   - name:       Low Vision
     id:         low-vision
     unicode:    f2a8
-    created:    4.6
+    created:    0.4
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -6150,49 +6151,49 @@ icons:
   - name:       Viadeo
     id:         viadeo
     unicode:    f2a9
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Viadeo Square
     id:         viadeo-square
     unicode:    f2aa
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Snapchat
     id:         snapchat
     unicode:    f2ab
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Snapchat Ghost
     id:         snapchat-ghost
     unicode:    f2ac
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Snapchat Square
     id:         snapchat-square
     unicode:    f2ad
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       First Order
     id:         first-order
     unicode:    f2b0
-    created:    4.6
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Yoast
     id:         yoast
     unicode:    f2b1
-    created:    4.6
+    created:    0.4
     url:        yoast.com
     categories:
       - Brand Icons
@@ -6200,7 +6201,7 @@ icons:
   - name:       ThemeIsle
     id:         themeisle
     unicode:    f2b2
-    created:    4.6
+    created:    0.4
     url:        themeisle.com
     categories:
       - Brand Icons
@@ -6208,7 +6209,7 @@ icons:
   - name:       Google Plus Official
     id:         google-plus-official
     unicode:    f2b3
-    created:    4.6
+    created:    0.4
     aliases:
       - google-plus-circle
     categories:
@@ -6217,7 +6218,7 @@ icons:
   - name:       Font Awesome
     id:         font-awesome
     unicode:    f2b4
-    created:    4.6
+    created:    0.4
     aliases:
       - fa
     categories:
@@ -6226,14 +6227,14 @@ icons:
   - name:       Handshake Outlined
     id:         handshake-o
     unicode:    f2b5
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Envelope Open
     id:         envelope-open
     unicode:    f2b6
-    created:    4.7
+    created:    0.4
     filter:
       - email
       - e-mail
@@ -6248,7 +6249,7 @@ icons:
   - name:       Envelope Open Outlined
     id:         envelope-open-o
     unicode:    f2b7
-    created:    4.7
+    created:    0.4
     filter:
       - email
       - e-mail
@@ -6263,7 +6264,7 @@ icons:
   - name:       Linode
     id:         linode
     unicode:    f2b8
-    created:    4.7
+    created:    0.4
     url:        linode.com
     categories:
       - Brand Icons
@@ -6271,21 +6272,21 @@ icons:
   - name:       Address Book
     id:         address-book
     unicode:    f2b9
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Address Book Outlined
     id:         address-book-o
     unicode:    f2ba
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Address Card
     id:         address-card
     unicode:    f2bb
-    created:    4.7
+    created:    0.4
     aliases:
       - vcard
     categories:
@@ -6294,7 +6295,7 @@ icons:
   - name:       Address Card Outlined
     id:         address-card-o
     unicode:    f2bc
-    created:    4.7
+    created:    0.4
     aliases:
       - vcard-o
     categories:
@@ -6303,14 +6304,14 @@ icons:
   - name:       User Circle
     id:         user-circle
     unicode:    f2bd
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       User Circle Outlined
     id:         user-circle-o
     unicode:    f2be
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -6318,21 +6319,21 @@ icons:
   - name:       User Outlined
     id:         user-o
     unicode:    f2c0
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Identification Badge
     id:         id-badge
     unicode:    f2c1
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Identification Card
     id:         id-card
     unicode:    f2c2
-    created:    4.7
+    created:    0.4
     aliases:
       - drivers-license
     categories:
@@ -6341,7 +6342,7 @@ icons:
   - name:       Identification Card Outlined
     id:         id-card-o
     unicode:    f2c3
-    created:    4.7
+    created:    0.4
     aliases:
       - drivers-license-o
     categories:
@@ -6350,28 +6351,28 @@ icons:
   - name:       Quora
     id:         quora
     unicode:    f2c4
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Free Code Camp
     id:         free-code-camp
     unicode:    f2c5
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Telegram
     id:         telegram
     unicode:    f2c6
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Thermometer Full
     id:         thermometer-full
     unicode:    f2c7
-    created:    4.7
+    created:    0.4
     aliases:
       - thermometer-4
       - thermometer
@@ -6381,7 +6382,7 @@ icons:
   - name:       Thermometer 3/4 Full
     id:         thermometer-three-quarters
     unicode:    f2c8
-    created:    4.7
+    created:    0.4
     aliases:
       - thermometer-3
     categories:
@@ -6390,7 +6391,7 @@ icons:
   - name:       Thermometer 1/2 Full
     id:         thermometer-half
     unicode:    f2c9
-    created:    4.7
+    created:    0.4
     aliases:
       - thermometer-2
     categories:
@@ -6399,7 +6400,7 @@ icons:
   - name:       Thermometer 1/4 Full
     id:         thermometer-quarter
     unicode:    f2ca
-    created:    4.7
+    created:    0.4
     aliases:
       - thermometer-1
     categories:
@@ -6408,7 +6409,7 @@ icons:
   - name:       Thermometer Empty
     id:         thermometer-empty
     unicode:    f2cb
-    created:    4.7
+    created:    0.4
     aliases:
       - thermometer-0
     categories:
@@ -6417,14 +6418,14 @@ icons:
   - name:       Shower
     id:         shower
     unicode:    f2cc
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Bath
     id:         bath
     unicode:    f2cd
-    created:    4.7
+    created:    0.4
     aliases:
       - bathtub
       - s15
@@ -6434,7 +6435,7 @@ icons:
   - name:       Podcast
     id:         podcast
     unicode:    f2ce
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
@@ -6442,28 +6443,28 @@ icons:
   - name:       Window Maximize
     id:         window-maximize
     unicode:    f2d0
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Window Minimize
     id:         window-minimize
     unicode:    f2d1
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Window Restore
     id:         window-restore
     unicode:    f2d2
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Window Close
     id:         window-close
     unicode:    f2d3
-    created:    4.7
+    created:    0.4
     aliases:
       - times-rectangle
     categories:
@@ -6472,7 +6473,7 @@ icons:
   - name:       Window Close Outline
     id:         window-close-o
     unicode:    f2d4
-    created:    4.7
+    created:    0.4
     aliases:
       - times-rectangle-o
     categories:
@@ -6481,42 +6482,42 @@ icons:
   - name:       Bandcamp
     id:         bandcamp
     unicode:    f2d5
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Grav
     id:         grav
     unicode:    f2d6
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Etsy
     id:         etsy
     unicode:    f2d7
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       IMDB
     id:         imdb
     unicode:    f2d8
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Ravelry
     id:         ravelry
     unicode:    f2d9
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Eercast
     id:         eercast
     unicode:    f2da
-    created:    4.7
+    created:    0.4
     url:        eercast.com
     categories:
       - Brand Icons
@@ -6524,21 +6525,21 @@ icons:
   - name:       Microchip
     id:         microchip
     unicode:    f2db
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Snowflake Outlined
     id:         snowflake-o
     unicode:    f2dc
-    created:    4.7
+    created:    0.4
     categories:
       - Web Application Icons
 
   - name:       Superpowers
     id:         superpowers
     unicode:    f2dd
-    created:    4.7
+    created:    0.4
     url:        superpowers.io
     categories:
       - Brand Icons
@@ -6546,7 +6547,7 @@ icons:
   - name:       WPExplorer
     id:         wpexplorer
     unicode:    f2de
-    created:    4.7
+    created:    0.4
     url:        wpexplorer.com
     categories:
       - Brand Icons
@@ -6555,14 +6556,14 @@ icons:
   - name:       Meetup
     id:         meetup
     unicode:    f2e0
-    created:    4.7
+    created:    0.4
     categories:
       - Brand Icons
 
   - name:       Mastodon
     id:         mastodon
     unicode:    f2e1
-    created:    0.4
+    created:    1.0
     url:        joinmastodon.org
     filter:
       - toot
@@ -6574,7 +6575,7 @@ icons:
   - name:       Mastodon Alt
     id:         mastodon-alt
     unicode:    f2e2
-    created:    0.4
+    created:    1.0
     url:        joinmastodon.org
     filter:
       - toot
