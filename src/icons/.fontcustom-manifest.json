@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b9e74749061a6bccecfc07daf00aff914ab8d4e83c7521ce825423f3b8a648c5",
-    "current": "b9e74749061a6bccecfc07daf00aff914ab8d4e83c7521ce825423f3b8a648c5"
+    "previous": "c6208bd920b15ac42de81192996f4fe32421c90b38de33b3c59673efbb58e4ae",
+    "current": "c6208bd920b15ac42de81192996f4fe32421c90b38de33b3c59673efbb58e4ae"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1438,6 +1438,14 @@
     "level-up": {
       "codepoint": 61768,
       "source": "svg/level-up.svg"
+    },
+    "liberapay": {
+      "codepoint": 62185,
+      "source": "svg/liberapay.svg"
+    },
+    "liberapay-square": {
+      "codepoint": 62184,
+      "source": "svg/liberapay-square.svg"
     },
     "life-ring": {
       "codepoint": 61901,

@@ -6636,3 +6636,21 @@ icons:
       - social-network
     categories:
       - Brand Icons
+
+  - name:       Liberapay
+    id:         liberapay-square
+    unicode:    f2e8
+    created:    1.0
+    url:        liberapay.com
+    categories:
+      - Payment Icons
+      - Brand Icons
+
+  - name:       Liberapay
+    id:         liberapay
+    unicode:    f2e9
+    created:    1.0
+    url:        liberapay.com
+    categories:
+      - Payment Icons
+      - Brand Icons
