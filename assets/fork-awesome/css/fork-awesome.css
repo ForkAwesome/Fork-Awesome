@@ -698,6 +698,7 @@
 .fa-arrows-alt:before {
   content: "\f0b2";
 }
+.fa-community:before,
 .fa-group:before,
 .fa-users:before {
   content: "\f0c0";
@@ -2312,6 +2313,13 @@
 }
 .fa-mastodon-alt:before {
   content: "\f2e2";
+}
+.fa-fork-circle:before,
+.fa-fork-awesome:before {
+  content: "\f2e3";
+}
+.fa-peertube:before {
+  content: "\f2e4";
 }
 .sr-only {
   position: absolute;
