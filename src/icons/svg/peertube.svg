@@ -5,10 +5,41 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
    height="1536px"
-   width="1536px">
+   width="1536px"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="peertube.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1196"
+     inkscape:window-height="779"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.15364583"
+     inkscape:cx="-45.559322"
+     inkscape:cy="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="1041.3559,-273.35593"
+       orientation="0,1"
+       id="guide3334" />
+  </sodipodi:namedview>
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -17,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -25,7 +56,8 @@
      id="defs8" />
   <path
      id="path4"
-     d="m 305.32203,31.238145 0,739.683765 L 860.01707,401.08038 305.32203,31.238145 Z m 554.69504,369.842235 0,739.54782 L 1414.7122,770.92191 860.01707,401.08038 Z m -554.69504,369.84153 0,739.54859 554.69504,-369.7064 -554.69504,-369.84219 z"
+     d="m 93.02075,0 0,900.0823 L 767.99996,450.04154 93.02075,0 Z m 674.97921,450.04154 0,899.91686 L 1442.9792,900.0823 767.99996,450.04154 Z M 93.02075,900.0823 93.02075,1800 767.99996,1350.1238 93.02075,900.0823 Z"
      horiz-adv-x="1792"
-     glyph-name="peertube" />
+     glyph-name="peertube"
+     inkscape:connector-curvature="0" />
 </svg>
