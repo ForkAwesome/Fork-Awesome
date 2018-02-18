@@ -2321,6 +2321,31 @@
 .fa-peertube:before {
   content: "\f2e4";
 }
+.fa-diaspora:before {
+  content: "\f2e5";
+}
+.fa-friendica:before {
+  content: "\f2e6";
+}
+.fa-gnu-social:before {
+  content: "\f2e7";
+}
+.fa-liberapay-square:before {
+  content: "\f2e8";
+}
+.fa-liberapay:before {
+  content: "\f2e9";
+}
+.fa-ssb:before,
+.fa-scuttlebutt:before {
+  content: "\f2ea";
+}
+.fa-hubzilla:before {
+  content: "\f2eb";
+}
+.fa-social-home:before {
+  content: "\f2ec";
+}
 .sr-only {
   position: absolute;
   width: 1px;

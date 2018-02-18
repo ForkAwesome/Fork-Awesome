@@ -46,6 +46,7 @@ forkawesome:
 
 fontawesome:
   name:           Font Awesome
+  minor_version:  4.7
   url:            http://fontawesome.com
   author:
     name:         Dave Gandy
