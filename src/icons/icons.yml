@@ -6552,7 +6552,6 @@ icons:
     categories:
       - Brand Icons
 
-
   - name:       Meetup
     id:         meetup
     unicode:    f2e0
@@ -6567,7 +6566,8 @@ icons:
     url:        joinmastodon.org
     filter:
       - toot
-      - social network
+      - social-network
+      - federation
     categories:
       - Web Application Icons
       - Brand Icons
@@ -6579,7 +6579,8 @@ icons:
     url:        joinmastodon.org
     filter:
       - toot
-      - social network
+      - social-network
+      - federation
     categories:
       - Web Application Icons
       - Brand Icons
@@ -6604,7 +6605,9 @@ icons:
     url:        github.com/Chocobozzz/PeerTube
     filter:
       - video
+      - federation
     categories:
+      - Web Application Icons
       - Brand Icons
 
   - name:       Diaspora*
@@ -6614,7 +6617,9 @@ icons:
     url:        diasporafoundation.org
     filter:
       - social-network
+      - federation
     categories:
+      - Web Application Icons
       - Brand Icons
 
   - name:       Friendica
@@ -6624,7 +6629,9 @@ icons:
     url:        friendi.ca
     filter:
       - social-network
+      - federation
     categories:
+      - Web Application Icons
       - Brand Icons
 
   - name:       GNU Social
@@ -6634,7 +6641,9 @@ icons:
     url:        gnu.io
     filter:
       - social-network
+      - federation
     categories:
+      - Web Application Icons
       - Brand Icons
 
   - name:       Liberapay
@@ -6643,6 +6652,7 @@ icons:
     created:    1.0
     url:        liberapay.com
     categories:
+      - Web Application Icons
       - Payment Icons
       - Brand Icons
 
@@ -6652,5 +6662,44 @@ icons:
     created:    1.0
     url:        liberapay.com
     categories:
+      - Web Application Icons
       - Payment Icons
+      - Brand Icons
+
+  - name:       Scuttlebutt
+    id:         scuttlebutt
+    unicode:    f2ea
+    created:    1.0
+    url:        scuttlebutt.nz
+    filter:
+      - social-network
+      - federation
+    aliases:
+      - ssb
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Hubzilla
+    id:         hubzilla
+    unicode:    f2eb
+    created:    1.0
+    url:        hubzilla.org
+    filter:
+      - social-network
+      - federation
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Socialhome
+    id:         social-home
+    unicode:    f2ec
+    created:    1.0
+    url:        socialhome.network
+    filter:
+      - social-network
+      - federation
+    categories:
+      - Web Application Icons
       - Brand Icons

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c6208bd920b15ac42de81192996f4fe32421c90b38de33b3c59673efbb58e4ae",
-    "current": "c6208bd920b15ac42de81192996f4fe32421c90b38de33b3c59673efbb58e4ae"
+    "previous": "68bd61a3aa87ece604290b067fbba27ec201d5b548cf9c727b579c9d98b1f4d6",
+    "current": "68bd61a3aa87ece604290b067fbba27ec201d5b548cf9c727b579c9d98b1f4d6"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1315,6 +1315,10 @@
       "codepoint": 61755,
       "source": "svg/html5.svg"
     },
+    "hubzilla": {
+      "codepoint": 62187,
+      "source": "svg/hubzilla.svg"
+    },
     "i-cursor": {
       "codepoint": 62022,
       "source": "svg/i-cursor.svg"
@@ -1983,6 +1987,10 @@
       "codepoint": 62090,
       "source": "svg/scribd.svg"
     },
+    "scuttlebutt": {
+      "codepoint": 62186,
+      "source": "svg/scuttlebutt.svg"
+    },
     "search": {
       "codepoint": 61442,
       "source": "svg/search.svg"
@@ -2114,6 +2122,10 @@
     "snowflake-o": {
       "codepoint": 62172,
       "source": "svg/snowflake-o.svg"
+    },
+    "social-home": {
+      "codepoint": 62188,
+      "source": "svg/social-home.svg"
     },
     "sort": {
       "codepoint": 61660,
