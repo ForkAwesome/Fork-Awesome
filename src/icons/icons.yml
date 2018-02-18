@@ -6583,3 +6583,16 @@ icons:
     categories:
       - Web Application Icons
       - Brand Icons
+
+  - name:       Fork Awesome
+    id:         fork-awesome
+    unicode:    f2e3
+    created:    1.0
+    url:        forkawesome.github.io
+    filter:
+      - font
+      - fork
+    aliases:
+      - fork-circle
+    categories:
+      - Brand Icons

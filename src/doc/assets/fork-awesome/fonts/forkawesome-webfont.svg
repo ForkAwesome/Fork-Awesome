@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Sat Feb 17 17:23:27 2018
+Created by FontForge 20170925 at Sat Feb 17 20:00:05 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.470077 -256.313 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2E2"
+    unicode-range="U+0020-F2E3"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2199,6 +2199,10 @@ c-14 -76 -69 -430 -85 -530c-1 -7 -4 -10 -12 -10h-295c-30 0 -52 26 -48 55l232 147
     <glyph glyph-name="child" unicode="&#xf1ae;" horiz-adv-x="1152" 
 d="M1124 988l-292 -292v-824c0 -62 -50 -112 -112 -112s-112 50 -112 112v384h-64v-384c0 -62 -50 -112 -112 -112s-112 50 -112 112v824l-292 292c-37 38 -37 98 0 136c38 37 98 37 136 0l228 -228h368l228 228c38 37 98 37 136 0c37 -38 37 -98 0 -136zM800 1152
 c0 -124 -100 -224 -224 -224s-224 100 -224 224s100 224 224 224s224 -100 224 -224z" />
+    <glyph glyph-name="fork-awesome" unicode="&#xf2e3;" horiz-adv-x="1792" 
+d="M896 1536c495 0 896 -401 896 -896v-1v-1v-1v-15s-1 -10 -1 -15v-3c-17 -454 -371 -820 -819 -858v1c-25 -2 -50 -3 -76 -3s-52 1 -77 3v-1c-448 38 -801 405 -818 858v3c0 5 -1 10 -1 15v15v1v1v1c0 495 401 896 896 896zM631 1151c-29 -296 -78 -603 -48 -821
+c30 -219 170 -183 212 -410c6 -34 13 -70 17 -105c28 -3 56 -4 84 -4s57 1 84 4c4 36 10 71 16 105c42 227 182 191 212 410s-19 525 -48 821h-48c-7 -251 -16 -466 -23 -717c-1 -95 -125 -104 -125 -2c-13 246 -34 473 -47 719h-21h-22c-13 -246 -34 -473 -47 -719
+c0 -102 -124 -93 -125 2c-7 251 -15 466 -22 717h-49z" />
     <glyph glyph-name="angle-double-up" unicode="&#xf102;" horiz-adv-x="998" 
 d="M998 224c0 -8 -4 -17 -10 -23l-50 -50c-6 -6 -14 -10 -23 -10c-8 0 -17 4 -23 10l-393 393l-393 -393c-6 -6 -15 -10 -23 -10s-17 4 -23 10l-50 50c-6 6 -10 15 -10 23s4 17 10 23l466 466c6 6 15 10 23 10s17 -4 23 -10l466 -466c6 -6 10 -15 10 -23zM998 608
 c0 -8 -4 -17 -10 -23l-50 -50c-6 -6 -14 -10 -23 -10c-8 0 -17 4 -23 10l-393 393l-393 -393c-6 -6 -15 -10 -23 -10s-17 4 -23 10l-50 50c-6 6 -10 15 -10 23s4 17 10 23l466 466c6 6 15 10 23 10s17 -4 23 -10l466 -466c6 -6 10 -15 10 -23z" />

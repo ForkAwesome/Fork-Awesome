@@ -2314,6 +2314,10 @@
 .fa-mastodon-alt:before {
   content: "\f2e2";
 }
+.fa-fork-circle:before,
+.fa-fork-awesome:before {
+  content: "\f2e3";
+}
 .sr-only {
   position: absolute;
   width: 1px;
