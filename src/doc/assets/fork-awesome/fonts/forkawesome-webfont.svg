@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Sun Feb 18 11:44:38 2018
+Created by FontForge 20170925 at Sun Feb 18 11:59:36 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.470077 -256.313 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2E5"
+    unicode-range="U+0020-F2E6"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1782,6 +1782,8 @@ d="M576 640c0 -17 -7 -33 -19 -45l-448 -448c-12 -12 -28 -19 -45 -19c-35 0 -64 29 
     <glyph glyph-name="tree" unicode="&#xf1bb;" horiz-adv-x="1472" 
 d="M1472 64c0 -35 -29 -64 -64 -64h-462c3 -64 11 -131 11 -196c0 -33 -27 -60 -61 -60h-320c-34 0 -61 27 -61 60c0 65 8 132 11 196h-462c-35 0 -64 29 -64 64c0 17 7 33 19 45l402 403h-229c-35 0 -64 29 -64 64c0 17 7 33 19 45l402 403h-197c-35 0 -64 29 -64 64
 c0 17 7 33 19 45l384 384c12 12 28 19 45 19s33 -7 45 -19l384 -384c12 -12 19 -28 19 -45c0 -35 -29 -64 -64 -64h-197l402 -403c12 -12 19 -28 19 -45c0 -35 -29 -64 -64 -64h-229l402 -403c12 -12 19 -28 19 -45z" />
+    <glyph glyph-name="friendica" unicode="&#xf2e6;" horiz-adv-x="1524" 
+d="M274 1536v0h975c152 0 275 -124 275 -276v-984c0 -152 -123 -276 -275 -276h-975c-152 0 -274 124 -274 276v984c0 152 122 276 274 276zM1006 1475h243c118 0 214 -95 214 -215v-984c0 -120 -96 -215 -214 -215h-731v369h488l-2 368l-486 -3v311h488v369v0z" />
     <glyph glyph-name="gratipay" unicode="&#xf184;" 
 d="M773 234l350 473c27 37 59 156 -43 223c-86 56 -168 13 -211 -37c-16 -18 -44 -40 -96 -40s-79 22 -95 40c-43 50 -125 93 -212 37c-101 -67 -69 -186 -42 -223zM1536 640c0 -424 -344 -768 -768 -768s-768 344 -768 768s344 768 768 768s768 -344 768 -768z" />
     <glyph glyph-name="map-marker" unicode="&#xf041;" horiz-adv-x="1024" 

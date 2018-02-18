@@ -6616,3 +6616,13 @@ icons:
       - social-network
     categories:
       - Brand Icons
+
+  - name:       Friendica
+    id:         friendica
+    unicode:    f2e6
+    created:    1.0
+    url:        friendi.ca
+    filter:
+      - social-network
+    categories:
+      - Brand Icons
