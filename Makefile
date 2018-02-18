@@ -28,7 +28,7 @@ build:
 	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
 	cp -r ${FA_ROOT_DIRECTORY}/* ../
 	mv README.md-nobuild ../README.md
-	cd assets && mv fork-awesome fork-awesome-0.4.7 && zip -r9 fork-awesome-0.4.7.zip fork-awesome-0.4.7 && mv fork-awesome-0.4.7 fork-awesome
+	cd assets && mv fork-awesome fork-awesome-1.0.0 && zip -r9 fork-awesome-1.0.0.zip fork-awesome-1.0.0 && mv fork-awesome-1.0.0 fork-awesome
 
 	find .. -type f ! -perm 644 -exec chmod 644 {} \;
 

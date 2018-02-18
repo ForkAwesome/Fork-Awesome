@@ -61,7 +61,7 @@
           <ul class="dropdown-menu pull-right">
             <li><a href="../icons/"><i class="fa fa-flag fa-fw" aria-hidden="true"></i>&nbsp; All Icons</a></li>
             <li class="divider"></li>
-            <li><a href="../icons/#new"><i class="fa fa-handshake-o fa-fw" aria-hidden="true"></i>&nbsp; New Icons in </a></li>
+            <li><a href="../icons/#new"><i class="fa fa-handshake-o fa-fw" aria-hidden="true"></i>&nbsp; New Icons in 4.7</a></li>
             <li><a href="../icons/#web-application"><i class="fa fa-camera-retro fa-fw" aria-hidden="true"></i>&nbsp; Web Application Icons</a></li>
             <li><a href="../icons/#accessibility"><i class="fa fa-universal-access fa-fw" aria-hidden="true"></i>&nbsp; Accessibility Icons</a></li>
             <li><a href="../icons/#hand"><i class="fa fa-hand-spock-o fa-fw" aria-hidden="true"></i>&nbsp; Hand Icons</a></li>
@@ -120,7 +120,7 @@
   <div class="container">
     
     <h1><i class="fa fa-cogs" aria-hidden="true"></i>&nbsp; Get Started</h1>
-    <p>Easy ways to get Fork Awesome 0.4.7 onto your website</p>
+    <p>Easy ways to get Fork Awesome 1.0.0 onto your website</p>
     
   </div>
 </div>
@@ -137,14 +137,13 @@
     <div class="row">
       <div class="col-md-9">
         <p class="text-lg">
-          Want to manage and host Font Awesome assets yourself? You can
-          <a href="#modal-download" data-toggle="modal" onClick="_gaq.push(['_trackEvent', 'Launch Modal', 'Launch Download Modal']);">download</a>,
+          Want to manage and host Fork Awesome assets yourself? You can
+          <a href="#modal-download" data-toggle="modal">download</a>,
           customize, and use the icons and default styling manually. Both CSS and CSS Preprocessor (Sass and Less) formats are included.</p>
       </div>
 
       <div class="col-md-3">
-        <a class="btn btn-default btn-lg btn-block" href="#modal-download" data-toggle="modal"
-           onClick="_gaq.push(['_trackEvent', 'Launch Modal', 'Launch Download Modal']);">
+        <a class="btn btn-default btn-lg btn-block" href="#modal-download" data-toggle="modal">
           <i class="fa fa-download fa-lg margin-right-sm"></i>
           Download
         </a>
@@ -158,7 +157,7 @@
         <li>Copy the entire <code>font-awesome</code> directory into your project.</li>
         <li>
           In the <code>&lt;head&gt;</code> of your html, reference the location to your font-awesome.min.css.
-<div class="highlight"><pre><code class="html"><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href=</span><span class="s">&quot;path/to/font-awesome/css/font-awesome.min.css&quot;</span><span class="nt">&gt;</span>
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href=</span><span class="s">&quot;path/to/fork-awesome/css/fork-awesome.min.css&quot;</span><span class="nt">&gt;</span>
 </code></pre></div>
         </li>
         <li>Check out the <a href="../examples/">examples</a> to start using Font Awesome!</li>
@@ -168,11 +167,11 @@
     <div class="download-preprocessors" id="download-preprocessors">
       <h3>Using Sass or Less</h3>
 
-      <p>Use this method to customize Font Awesome  using Less or Sass.</p>
+      <p>Use this method to customize Font Awesome 1.0.0 using Less or Sass.</p>
       <ol>
-        <li>Copy the <code>font-awesome/</code> directory into your project.</li>
+        <li>Copy the <code>fork-awesome/</code> directory into your project.</li>
         <li>
-          Open your project's <code>font-awesome/less/variables.less</code> or <code>font-awesome/scss/_variables.scss</code> and edit the <code>@fa-font-path</code> or <code>$fa-font-path</code>
+          Open your project's <code>fork-awesome/less/variables.less</code> or <code>fork-awesome/scss/_variables.scss</code> and edit the <code>@fa-font-path</code> or <code>$fa-font-path</code>
           variable to point to your font directory.
 <div class="highlight"><pre><code class="scss"><span class="k">@fa-font-path</span><span class="nd">:</span>   <span class="s2">&quot;../font&quot;</span><span class="o">;</span>
 </code></pre></div>
@@ -181,77 +180,6 @@
         <li>Re-compile your Less or Sass if using a static compiler. Otherwise, you should be good to go.</li>
         <li>Check out the <a href="../examples/">examples</a> to start using Font Awesome!</li>
       </ol>
-    </div>
-  </section>
-
-  <div class="hr margin-top-lg">
-    <span class="hr-text text-xl text-muted">or</span>
-  </div>
-
-  <section class="get-started-advanced" id="get-started-advanced">
-    <h2 class="page-header clearfix">
-      Advanced &amp; Packages
-      <span class="label label-default text-base pull-right">Pro</span>
-    </h2>
-
-    <div class="ruby-gem-less margin-bottom-xl" id="ruby-gem-less">
-      <h3><a href="https://github.com/FortAwesome/font-awesome-less">Less Ruby Gem</a></h3>
-      <p>
-        Use the <a href="https://github.com/FortAwesome/font-awesome-less">Official Font Awesome Less Ruby Gem</a> to easily get Font
-        Awesome Less into a Rails project. Generously maintained by <a href="https://twitter.com/supercodepoet/">@supercodepoet</a>.
-      </p>
-      <ol>
-        <li>
-          Add this line to your application's Gemfile:
-<div class="highlight"><pre><code class="bash">gem <span class="s1">&#39;font-awesome-less&#39;</span>
-</code></pre></div>
-        </li>
-        <li>
-          And then execute:
-<div class="highlight"><pre><code class="bash"><span class="nv">$ </span>bundle
-</code></pre></div>
-        </li>
-        <li>Or install it yourself as:
-<div class="highlight"><pre><code class="bash"><span class="nv">$ </span>gem install font-awesome-less
-</code></pre></div>
-        </li>
-      </ol>
-      <p>
-      If you use Rails, add this to your e.g. <code>application.less</code>:
-      </p>
-<div class="highlight"><pre><code class="css"><span class="k">@import</span> <span class="s2">&quot;font-awesome-sprockets&quot;</span><span class="p">;</span>
-<span class="k">@import</span> <span class="s2">&quot;font-awesome&quot;</span><span class="p">;</span>
-</code></pre></div>
-    </div>
-
-    <div class="ruby-gem-sass" id="ruby-gem-sass">
-      <h3><a href="https://github.com/FortAwesome/font-awesome-sass">Sass Ruby Gem</a></h3>
-      <p>
-        Use the <a href="https://github.com/FortAwesome/font-awesome-sass">Official Font Awesome Sass Ruby Gem</a> to easily get Font
-        Awesome Sass into a Rails or Compass project. Generously maintained by <a href="https://twitter.com/supercodepoet/">@supercodepoet</a>.
-      </p>
-      <ol>
-        <li>
-          Add this line to your application's Gemfile:
-<div class="highlight"><pre><code class="bash">gem <span class="s1">&#39;font-awesome-sass&#39;</span>
-</code></pre></div>
-        </li>
-        <li>
-          And then execute:
-<div class="highlight"><pre><code class="bash"><span class="nv">$ </span>bundle
-</code></pre></div>
-        </li>
-        <li>Or install it yourself as:
-<div class="highlight"><pre><code class="bash"><span class="nv">$ </span>gem install font-awesome-sass
-</code></pre></div>
-        </li>
-      </ol>
-      <p>
-      If you use Rails, add this to your e.g. <code>application.scss</code>:
-      </p>
-<div class="highlight"><pre><code class="css"><span class="k">@import</span> <span class="s2">&quot;font-awesome-sprockets&quot;</span><span class="p">;</span>
-<span class="k">@import</span> <span class="s2">&quot;font-awesome&quot;</span><span class="p">;</span>
-</code></pre></div>
     </div>
   </section>
 
@@ -270,30 +198,17 @@
     <div class="col-md-6" id="ie8-font-face">
       <h4>Internet Explorer 8 and @font-face</h4>
       <p>IE8 has some issues with <code>@font-face</code> when combined with <code>:before</code>.
-        Font Awesome uses that combination. If a page is cached, and loaded without the mouse over the window
+        Fork Awesome uses that combination. If a page is cached, and loaded without the mouse over the window
         (i.e. hit the refresh button or load something in an iframe) then the page gets rendered before the font loads.
         Hovering over the page (body) will show some of the icons and hovering over the remaining icons will show those as well.
         <a href="https://github.com/FortAwesome/Font-Awesome/issues/954">See issue #954</a> for details.</p>
       <p><a href="http://getbootstrap.com/getting-started/#support-ie8-font-face">Getting started - Internet Explorer 8 and @font-face</a> by <a href="http://getbootstrap.com/about/#team">Bootstrap Team</a> is licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></p>
-    </div>
-  </div>
 
-  <div class="row">
-    <div class="col-md-6" id="need-ie7">
       <h4>Need IE7 Support?</h4>
       <p>
-        If you need IE7 support, you have my condolences. Really. Font Awesome 
-        doesn't support IE7, but an older version does. You'll need to check out the
-        <a href="../3.2.1/get-started/#need-ie7">3.2.1 instructions for using IE7</a>. Then go complain to
-        whoever decided your project needs IE7 support.
+        Sorry, Fork Awesome 1.0.0
+        doesn't support IE7, but an older version of Font Awesome does (v3.2.1, if you can still find it).
       </p>
-    </div>
-
-    <div class="col-md-6" id="troubleshooting">
-      <h4>Troubleshooting</h4>
-      <p>If you're having trouble with Font Awesome, make sure to check out the
-        <a href="https://github.com/FortAwesome/Font-Awesome/wiki/Troubleshooting">troubleshooting wiki page</a>.
-        Generously maintained by <a href="https://twitter.com/gtagliala">@gtagliala</a>.</p>
     </div>
   </div>
 
@@ -309,8 +224,8 @@
         </h2>
       </div>
       <div class="modal-body">
-        <a class="btn btn-primary btn-lg btn-block" href="../assets/fork-awesome-0.4.7.zip">
-          Fork Awesome 0.4
+        <a class="btn btn-primary btn-lg btn-block" href="../assets/fork-awesome-1.0.0.zip">
+          Fork Awesome 1.0
         </a>
         <div class="row margin-bottom-lg margin-top-lg">
           <div class="col-md-12 text-center">
@@ -328,16 +243,16 @@
   <footer id="footer" class="footer hidden-print">
   <div class="container text-center">
     <div>
-      <i class="fa fa-fork" aria-hidden="true"></i> Fork Awesome 0.4.7
+      <i class="fa fa-fork" aria-hidden="true"></i> Fork Awesome 1.0.0
       <span class="hide-xs">&middot;</span><br class="hide-sm hide-md hide-lg">
       A fork of Font Awesome, originally created by <a href="https://twitter.com/davegandy">Dave Gandy</a>
     </div>
     <div>
-      Fork Awesome licensed under <a href="http://scripts.sil.org/OFL">SIL OFL 1.1</a>
+      Fork Awesome is licensed under <a href="http://scripts.sil.org/OFL">SIL OFL 1.1</a>
       <span class="hide-xs">&middot;</span><br class="hide-sm hide-md hide-lg">
-      Code licensed under <a href="http://opensource.org/licenses/mit-license.html">MIT License</a>
+      Code is licensed under <a href="http://opensource.org/licenses/mit-license.html">MIT License</a>
       <span class="hide-xs hide-sm">&middot;</span><br class="hide-md hide-lg">
-      Documentation licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>
+      Documentation is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>
     </div>
     <div class="project">
       <a href="https://github.com/ForkAwesome/Fork-Awesome">GitHub Project</a> &middot;
