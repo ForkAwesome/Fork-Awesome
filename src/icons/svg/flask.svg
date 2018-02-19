@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="flask" unicode="&#xf0c3;" horiz-adv-x="1664" 
-
-d="M1527 88c75 -119 22 -216 -119 -216h-1152c-141 0 -194 97 -119 216l503 793v399h-64c-35 0 -64 29 -64 64s29 64 64 64h512c35 0 64 -29 64 -64s-29 -64 -64 -64h-64v-399zM748 813l-272 -429h712l-272 429l-20 31v37v399h-128v-399v-37z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1527 1448c75 119 22 216-119 216H256c-141 0-194-97-119-216l503-793V256h-64c-35 0-64-29-64-64s29-64 64-64h512c35 0 64 29 64 64s-29 64-64 64h-64v399zM748 723l-272 429h712L916 723l-20-31V256H768v436z"/>
 </svg>

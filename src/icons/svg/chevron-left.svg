@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="chevron_left" unicode="&#xf053;" horiz-adv-x="1280" 
-
-d="M1171 1235l-531 -531l531 -531c25 -25 25 -65 0 -90l-166 -166c-25 -25 -65 -25 -90 0l-742 742c-25 25 -25 65 0 90l742 742c25 25 65 25 90 0l166 -166c25 -25 25 -65 0 -90z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1171 301L640 832l531 531c25 25 25 65 0 90l-166 166c-25 25-65 25-90 0L173 877c-25-25-25-65 0-90L915 45c25-25 65-25 90 0l166 166c25 25 25 65 0 90z"/>
 </svg>

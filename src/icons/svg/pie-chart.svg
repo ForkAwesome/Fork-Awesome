@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="pie_chart" unicode="&#xf200;" horiz-adv-x="1792" 
-
-d="M768 646l546 -546c-139 -141 -333 -228 -546 -228c-424 0 -768 344 -768 768s344 768 768 768v-762zM955 640h773c0 -213 -87 -407 -228 -546zM1664 768h-768v768c424 0 768 -344 768 -768z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M768 890l546 546c-139 141-333 228-546 228-424 0-768-344-768-768s344-768 768-768v762zm187 6h773c0 213-87 407-228 546zm709-128H896V0c424 0 768 344 768 768z"/>
 </svg>

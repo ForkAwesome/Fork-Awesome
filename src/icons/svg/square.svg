@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="square" unicode="&#xf0c8;" 
-
-d="M1536 1120v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1536 416v960c0 159-129 288-288 288H288c-159 0-288-129-288-288V416c0-159 129-288 288-288h960c159 0 288 129 288 288z"/>
 </svg>

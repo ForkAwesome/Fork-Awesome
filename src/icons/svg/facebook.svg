@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="facebook" unicode="&#xf09a;" horiz-adv-x="1024" 
-
-d="M959 1524v-264h-157c-123 0 -146 -59 -146 -144v-189h293l-39 -296h-254v-759h-306v759h-255v296h255v218c0 253 155 391 381 391c108 0 201 -8 228 -12z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M959 12v264H802c-123 0-146 59-146 144v189h293l-39 296H656v759H350V905H95V609h255V391C350 138 505 0 731 0c108 0 201 8 228 12z"/>
 </svg>

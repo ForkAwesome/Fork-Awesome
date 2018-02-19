@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="html5" unicode="&#xf13b;" horiz-adv-x="1408" 
-
-d="M1130 939l16 175h-884l47 -534h612l-22 -228l-197 -53l-196 53l-13 140h-175l22 -278l362 -100h4v1l359 99l50 544h-644l-15 181h674zM0 1408h1408l-128 -1438l-578 -162l-574 162z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1130 597l16-175H262l47 534h612l-22 228-197 53-196-53-13-140H318l22 278 362 100h4v-1l359-99 50-544H471l-15-181h674zM0 128h1408l-128 1438-578 162-574-162z"/>
 </svg>

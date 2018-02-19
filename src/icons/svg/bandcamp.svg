@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="bandcamp" unicode="&#xf2d5;" horiz-adv-x="1792" 
-
-d="M1070 358l306 564h-654l-306 -564h654zM1792 640c0 -495 -401 -896 -896 -896s-896 401 -896 896s401 896 896 896s896 -401 896 -896z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1070 1178l306-564H722l-306 564h654zm722-282c0 495-401 896-896 896S0 1391 0 896 401 0 896 0s896 401 896 896z"/>
 </svg>

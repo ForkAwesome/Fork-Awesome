@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="windows" unicode="&#xf17a;" horiz-adv-x="1664" 
-
-d="M682 530v-651l-682 94v557h682v0zM682 1273v-659h-682v565zM1664 530v-786l-907 125v661h907zM1664 1408v-794h-907v669z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M682 1006v651L0 1563v-557h682zm0-743v659H0V357zm982 743v786l-907-125v-661h907zm0-878v794H757V253z"/>
 </svg>

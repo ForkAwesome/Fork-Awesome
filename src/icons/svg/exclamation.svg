@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="exclamation" unicode="&#xf12a;" horiz-adv-x="640" 
-
-d="M512 288v-224c0 -35 -29 -64 -64 -64h-256c-35 0 -64 29 -64 64v224c0 35 29 64 64 64h256c35 0 64 -29 64 -64zM542 1344l-28 -768c-1 -35 -31 -64 -66 -64h-256c-35 0 -65 29 -66 64l-28 768c-1 35 27 64 62 64h320c35 0 63 -29 62 -64z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M512 1248v224c0 35-29 64-64 64H192c-35 0-64-29-64-64v-224c0-35 29-64 64-64h256c35 0 64 29 64 64zm30-1056l-28 768c-1 35-31 64-66 64H192c-35 0-65-29-66-64L98 192c-1-35 27-64 62-64h320c35 0 63 29 62 64z"/>
 </svg>

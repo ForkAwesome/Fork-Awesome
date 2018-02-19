@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="backward" unicode="&#xf04a;" horiz-adv-x="1664" 
-
-d="M1619 1395c25 25 45 16 45 -19v-1472c0 -35 -20 -44 -45 -19l-710 710c-6 6 -10 12 -13 19v-710c0 -35 -20 -44 -45 -19l-710 710c-25 25 -25 65 0 90l710 710c25 25 45 16 45 -19v-710c3 7 7 13 13 19z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1619 141c25-25 45-16 45 19v1472c0 35-20 44-45 19L909 941c-6-6-10-12-13-19v710c0 35-20 44-45 19L141 941c-25-25-25-65 0-90l710-710c25-25 45-16 45 19v710c3-7 7-13 13-19z"/>
 </svg>
