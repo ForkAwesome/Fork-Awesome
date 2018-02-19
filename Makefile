@@ -26,8 +26,12 @@ build:
 #	sass ${FA_SCSS_MODERN} ${FA_CSS_MODERN}
 
 	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
-	cp -r ${FA_ROOT_DIRECTORY}/* ../../
-	mv README.md-nobuild ../../README.md
+
+	@echo "Moving font filse and README"
+	cp -r ${FA_ROOT_DIRECTORY}/* ../
+	mv README.md-nobuild ../README.md
+
+	@echo "Generating zip file"
 	cd assets && mv fork-awesome fork-awesome-1.0.1 && zip -r9 fork-awesome-1.0.1.zip fork-awesome-1.0.1 && mv fork-awesome-1.0.1 fork-awesome
 
 	find .. -type f ! -perm 644 -exec chmod 644 {} \;
