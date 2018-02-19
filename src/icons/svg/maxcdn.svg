@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="maxcdn" unicode="&#xf136;" horiz-adv-x="1792" 
-
-d="M1745 763l-164 -763h-334l178 832c8 35 3 67 -15 88c-17 21 -47 33 -83 33h-169l-204 -953h-334l204 953h-286l-204 -953h-334l204 953l-153 327h1276c135 0 258 -56 337 -154c80 -98 109 -231 81 -363z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1745 773l-164 763h-334l178-832c8-35 3-67-15-88-17-21-47-33-83-33h-169l-204 953H620l204-953H538l-204 953H0l204-953L51 256h1276c135 0 258 56 337 154 80 98 109 231 81 363z"/>
 </svg>

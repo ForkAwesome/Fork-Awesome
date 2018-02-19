@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="gitlab" unicode="&#xf296;" horiz-adv-x="1792" 
-
-d="M104 830l792 -1015l-868 630c-24 18 -34 49 -25 77l101 308v0v0zM566 830h660l-330 -1015v0v0zM368 1442l198 -612h-462v0l198 612c11 31 55 31 66 0zM1688 830l101 -308c9 -28 -1 -59 -25 -77l-868 -630l792 1015v0v0zM1688 830h-462l198 612c11 31 55 31 66 0z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M104 706l792 1015-868-630c-24-18-34-49-25-77l101-308zm462 0h660L896 1721zM368 94l198 612H104L302 94c11-31 55-31 66 0zm1320 612l101 308c9 28-1 59-25 77l-868 630 792-1015zm0 0h-462l198-612c11-31 55-31 66 0z"/>
 </svg>

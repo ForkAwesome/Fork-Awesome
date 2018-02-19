@@ -1,6 +1,3 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="1536px" height="1536px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <path transform="scale(1, -1) translate(0, -1536)" glyph-name="columns" unicode="&#xf0db;" horiz-adv-x="1664" 
-
-d="M160 0h608v1152h-640v-1120c0 -17 15 -32 32 -32zM1536 32v1120h-640v-1152h608c17 0 32 15 32 32zM1664 1248v-1216c0 -88 -72 -160 -160 -160h-1344c-88 0 -160 72 -160 160v1216c0 88 72 160 160 160h1344c88 0 160 -72 160 -160z" />
+<svg width="1536" height="1536" xmlns="http://www.w3.org/2000/svg">
+    <path d="M160 1536h608V384H128v1120c0 17 15 32 32 32zm1376-32V384H896v1152h608c17 0 32-15 32-32zm128-1216v1216c0 88-72 160-160 160H160c-88 0-160-72-160-160V288c0-88 72-160 160-160h1344c88 0 160 72 160 160z"/>
 </svg>
