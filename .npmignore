@@ -34,6 +34,7 @@ stunnel.log
 # don't need these in the npm package.
 src/
 _config.yml
+_config-deploy.yml
 bower.json
 component.json
 composer.json
