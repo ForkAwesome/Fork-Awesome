@@ -3,13 +3,13 @@
 # {{ site.forkawesome.name }}
 ### {{ site.forkawesome.tagline }}
 
-{{ site.forkawesome.name }} is a full suite of 677 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
+{{ site.forkawesome.name }} is a full suite of {{ icons | size }} pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
 Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction Fort Awesome is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this incredible tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
 
 A tremendous gratitude is given to the whole team behind [Font Awesome](https://fontawesome.com), and you are encouraged to support them and buy Font Awesome Pro for your project.
 
-This fork is still in its very early stage of development. Though If you wish to be part of the adventure, please start submitting patches.
+Though If you believe in distributed open source design and wish to be part of this new adventure, please start submitting patches and suggestions of improvement.
 
 ## License
 - The {{ site.forkawesome.name }} font is licensed under the SIL OFL 1.1:
@@ -36,7 +36,8 @@ And constructed with the following guidelines:
 * Breaking backward compatibility bumps the major (and resets the minor and patch)
 * New additions, including new icons, without breaking backward compatibility bumps the minor (and resets the patch)
 * Bug fixes, changes to brand logos, and misc changes bumps the patch
-* The fork is based on FontAwesome 4.7 and renamed. So it starts at version 0.4.7
+* The fork started from FontAwesome 4.7 (last commit by Dave is [bdfa9823](https://github.com/ForkAwesome/Fork-Awesome/commits/master?after=b0bc8f6fb74e05c987ef7ce1525cd3ab8390a1c3+69)).
+* The project starts at version 1.0.0. All references to versions before the fork are named 0.4.7
 
 For more information on SemVer, please visit http://semver.org.
 
@@ -66,13 +67,18 @@ to the `dependencies` in your `component.json`.
 - [Node Package Manager (AKA NPM)](https://docs.npmjs.com/getting-started/installing-node)
 - [Less](http://lesscss.org/) (Run `npm install -g less` to install).
 - [Less Plugin: Clean CSS](https://github.com/less/less-plugin-clean-css) (Run `npm install -g less-plugin-clean-css` to install).
+- [FontCustom](https://github.com/FontCustom/fontcustom) (requires FontForge to be installed)
 
 From the root of the repository, install the tools used to develop.
 
     $ bundle install
     $ npm install
 
-Build the project and documentation:
+Build the font:
+
+    $:/src/icons make
+
+Build the web documentation:
 
     $ npm run build
 
