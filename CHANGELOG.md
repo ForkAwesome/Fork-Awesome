@@ -1,5 +1,19 @@
 # Changelog
 
+## Changelog of Fork awesome
+- v1.0.2
+  - Solves a Makefile bug that packaged files that were not updated.
+  - Correction of typos in the documentation.
+- v1.0.1
+  − Mainly solving a packaging bug.
+- v1.0.0
+  - Forked from Font Awesome 4.7.0. Rename of the project to Fork Awesome.
+  - Cleaned up the doc and removed 3rd party trackers and advertisement from documentation.
+  - Extracted all the icons from the SVG webfont into individual SVG files.
+  - Added 12 new icons.
+  - Removed 3 imaginary brand icons.
+  - Added FontCustom as a build tool to create the webfonts.
+
 ## Changelog of Font Awesome
 - [v4.7.0 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/10012)
 - [v4.6.3 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/9189)
