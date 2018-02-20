@@ -6703,3 +6703,15 @@ icons:
     categories:
       - Web Application Icons
       - Brand Icons
+
+  - name:       ArtStation
+    id:         artstation
+    unicode:    f2ed
+    created:    1.0
+    url:        artstation.com
+    filter:
+      - social-network
+      - art
+    categories:
+      - Web Application Icons
+      - Brand Icons
