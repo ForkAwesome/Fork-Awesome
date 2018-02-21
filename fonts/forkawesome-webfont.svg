@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170731 at Wed Feb 21 12:27:22 2018
+Created by FontForge 20170731 at Wed Feb 21 12:51:53 2018
  By Micah Ilbery,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2EF"
+    unicode-range="U+0020-F2F0"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2275,6 +2275,8 @@ s14 32 32 32s32 -14 32 -32zM960 1248c0 -18 -14 -32 -32 -32s-32 14 -32 32s14 32 3
 d="M640 454v-70c0 -26 -16 -49 -39 -59c-8 -3 -17 -5 -25 -5c-17 0 -33 6 -45 19l-512 512c-25 25 -25 65 0 90l512 512c18 19 46 24 70 14c23 -10 39 -33 39 -59v-69l-397 -398c-25 -25 -25 -65 0 -90zM1792 416c0 -208 -157 -514 -164 -527c-5 -11 -16 -17 -28 -17
 c-3 0 -6 0 -9 1c-15 5 -24 19 -23 34c29 273 -5 453 -106 565c-85 95 -223 146 -438 163v-251c0 -26 -16 -49 -39 -59c-8 -3 -17 -5 -25 -5c-17 0 -33 6 -45 19l-512 512c-25 25 -25 65 0 90l512 512c18 19 46 24 70 14c23 -10 39 -33 39 -59v-262c276 -19 473 -92 599 -221
 c151 -155 169 -365 169 -509z" />
+    <glyph glyph-name="patreon" unicode="&#xf2f0;" 
+d="M985 1213c-305 0 -553 -248 -553 -553c0 -304 248 -551 553 -551c304 0 551 247 551 551c0 305 -247 553 -551 553zM270 -260h-270v1473h270v-1473z" />
     <glyph glyph-name="inbox" unicode="&#xf01c;" 
 d="M1023 576h316c-2 5 -3 11 -5 16l-212 496h-708l-212 -496c-2 -5 -3 -11 -5 -16h316l95 -192h320zM1536 546v-482c0 -35 -29 -64 -64 -64h-1408c-35 0 -64 29 -64 64v482c0 36 11 89 25 123l238 552c14 33 54 59 89 59h832c35 0 75 -26 89 -59l238 -552
 c14 -34 25 -87 25 -123z" />

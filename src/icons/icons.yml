@@ -6737,3 +6737,14 @@ icons:
     categories:
       - Web Application Icons
       - Brand Icons
+
+  - name:       Patreon
+    id:         patreon
+    unicode:    f2f0
+    created:    1.0
+    url:        patreon.com
+    filter:
+      - funding
+    categories:
+      - Payment Icons
+      - Brand Icons
