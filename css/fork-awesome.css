@@ -2346,6 +2346,9 @@
 .fa-social-home:before {
   content: "\f2ec";
 }
+.fa-artstation:before {
+  content: "\f2ed";
+}
 .sr-only {
   position: absolute;
   width: 1px;
