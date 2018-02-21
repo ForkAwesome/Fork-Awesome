@@ -2349,6 +2349,15 @@
 .fa-artstation:before {
   content: "\f2ed";
 }
+.fa-discord:before {
+  content: "\f2ee";
+}
+.fa-discord-alt:before {
+  content: "\f2ef";
+}
+.fa-patreon:before {
+  content: "\f2f0";
+}
 .sr-only {
   position: absolute;
   width: 1px;
