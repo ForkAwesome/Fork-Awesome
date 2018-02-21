@@ -6748,3 +6748,11 @@ icons:
     categories:
       - Payment Icons
       - Brand Icons
+
+  - name:       Snowdrift
+    id:         snowdrift
+    unicode:    f2f1
+    created:    1.0
+    url:        snowdrift.coop
+    categories:
+      - Brand Icons
