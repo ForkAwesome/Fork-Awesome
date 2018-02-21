@@ -32,7 +32,7 @@ build:
 	mv README.md-nobuild ../README.md
 
 	@echo "Generating zip file"
-	cd assets && mv fork-awesome fork-awesome-1.0.1 && zip -r9 fork-awesome-1.0.1.zip fork-awesome-1.0.1 && mv fork-awesome-1.0.1 fork-awesome
+	cd assets && mv fork-awesome fork-awesome-1.0.3 && zip -r9 fork-awesome-1.0.3.zip fork-awesome-1.0.3 && mv fork-awesome-1.0.3 fork-awesome
 
 	find .. -type f ! -perm 644 -exec chmod 644 {} \;
 
