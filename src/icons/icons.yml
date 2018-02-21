@@ -6715,3 +6715,25 @@ icons:
     categories:
       - Web Application Icons
       - Brand Icons
+
+  - name:       Discord
+    id:         discord
+    unicode:    f2ee
+    created:    1.0
+    url:        discordapp.com
+    filter:
+      - chat
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Discord
+    id:         discord-alt
+    unicode:    f2ef
+    created:    1.0
+    url:        discordapp.com
+    filter:
+      - chat
+    categories:
+      - Web Application Icons
+      - Brand Icons
