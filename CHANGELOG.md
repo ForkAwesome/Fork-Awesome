@@ -1,6 +1,9 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.0.3
+  - Adding Artstation icon #19
+  - Adding an SVG Inkscape template for icon sizing and positioning
 - v1.0.2
   - Solves a Makefile bug that packaged files that were not updated.
   - Correction of typos in the documentation.
