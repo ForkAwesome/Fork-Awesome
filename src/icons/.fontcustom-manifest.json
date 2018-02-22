@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "0a67ff19555ca5d4f735d25f3a6739c87b6e42cc96d15d370225876ae7f7f18b",
-    "current": "0a67ff19555ca5d4f735d25f3a6739c87b6e42cc96d15d370225876ae7f7f18b"
+    "previous": "9ba625b9de7805f9b597b000cb0a50615c42fb7b4544670520d87b9a7489f820",
+    "current": "9ba625b9de7805f9b597b000cb0a50615c42fb7b4544670520d87b9a7489f820"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1418,6 +1418,10 @@
     "key": {
       "codepoint": 61572,
       "source": "svg/key.svg"
+    },
+    "keybase": {
+      "codepoint": 62196,
+      "source": "svg/keybase.svg"
     },
     "keyboard-o": {
       "codepoint": 61724,

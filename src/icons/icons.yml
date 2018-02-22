@@ -6774,3 +6774,11 @@ icons:
     categories:
       - Payment Icons
       - Brand Icons
+
+  - name:       Keybase
+    id:         keybase
+    unicode:    f2f4
+    created:    1.0
+    url:        keybase.io
+    categories:
+      - Brand Icons
