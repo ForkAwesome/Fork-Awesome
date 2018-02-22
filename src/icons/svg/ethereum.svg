@@ -1,0 +1,11 @@
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" width="1536" height="1792" viewBox="0 0 1536.0001 1792">
+    <defs>
+        <linearGradient osb:paint="solid" id="a">
+            <stop offset="0" stop-color="#c678c5"/>
+        </linearGradient>
+        <linearGradient osb:paint="solid" id="b">
+            <stop offset="0" stop-color="#6d6d6d"/>
+        </linearGradient>
+    </defs>
+    <path d="M1063.65 912.8L532 1237.6 0 912.8 532 0zM532 1341.9L0 1017.1 532 1792l532-774.9z" fill="currentColor"/>
+</svg>

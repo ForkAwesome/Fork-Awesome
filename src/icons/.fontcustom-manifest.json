@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ba3a2288e7b23e7f0a09e86efa6cb6beb3bf4d9e8d9bdf4a2281cb4e1b91d467",
-    "current": "ba3a2288e7b23e7f0a09e86efa6cb6beb3bf4d9e8d9bdf4a2281cb4e1b91d467"
+    "previous": "0a67ff19555ca5d4f735d25f3a6739c87b6e42cc96d15d370225876ae7f7f18b",
+    "current": "0a67ff19555ca5d4f735d25f3a6739c87b6e42cc96d15d370225876ae7f7f18b"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -846,6 +846,10 @@
     "eraser": {
       "codepoint": 61741,
       "source": "svg/eraser.svg"
+    },
+    "ethereum": {
+      "codepoint": 62195,
+      "source": "svg/ethereum.svg"
     },
     "etsy": {
       "codepoint": 62167,

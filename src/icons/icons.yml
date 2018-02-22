@@ -3494,6 +3494,7 @@ icons:
     aliases:
       - bitcoin
     categories:
+      - Payment Icons
       - Currency Icons
       - Brand Icons
 
@@ -6763,4 +6764,13 @@ icons:
     created:    1.0
     url:        activitypub.rocks
     categories:
+      - Brand Icons
+
+  - name:       Ethereum
+    id:         ethereum
+    unicode:    f2f3
+    created:    1.0
+    url:        ethereum.org
+    categories:
+      - Payment Icons
       - Brand Icons
