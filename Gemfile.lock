@@ -27,7 +27,7 @@ GEM
       safe_yaml (~> 1.0)
       toml (~> 0.1.0)
     json (1.8.3)
-    less (2.5.1)
+    less (2.6.0)
       commonjs (~> 0.2.7)
     libv8 (3.16.14.19)
     liquid (2.5.5)
@@ -69,7 +69,7 @@ PLATFORMS
 DEPENDENCIES
   fontcustom
   jekyll (~> 1.0)
-  less (~> 2.5.0)
+  less (~> 2.6.0)
   libv8 (~> 3.16.14.0)
   safe_yaml (~> 1.0.4)
   sass (~> 3.0)
