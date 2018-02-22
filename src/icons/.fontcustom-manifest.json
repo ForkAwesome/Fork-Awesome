@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "58ca894ed710c44aeaf100d90dec2ebb2bfe2ea5aa4975cf0123efe7cce0c69d",
-    "current": "58ca894ed710c44aeaf100d90dec2ebb2bfe2ea5aa4975cf0123efe7cce0c69d"
+    "previous": "ba3a2288e7b23e7f0a09e86efa6cb6beb3bf4d9e8d9bdf4a2281cb4e1b91d467",
+    "current": "ba3a2288e7b23e7f0a09e86efa6cb6beb3bf4d9e8d9bdf4a2281cb4e1b91d467"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -14,6 +14,10 @@
     "500px": {
       "codepoint": 62062,
       "source": "svg/500px.svg"
+    },
+    "activitypub": {
+      "codepoint": 62194,
+      "source": "svg/activitypub.svg"
     },
     "address-book": {
       "codepoint": 62137,
