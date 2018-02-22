@@ -64,7 +64,7 @@ to the `dependencies` in your `component.json`.
   - **Ubuntu:** `sudo apt-get install ruby-dev` *(Only if you're __NOT__ using `rbenv` or `rvm`)*
   - **Windows:** [DevKit](http://rubyinstaller.org/)
 - [Bundler](http://bundler.io/) (Run `gem install bundler` to install).
-- [Node Package Manager (AKA NPM)](https://docs.npmjs.com/getting-started/installing-node)
+- [Node Package Manager (aka. `npm`)](https://docs.npmjs.com/getting-started/installing-node)
 
 From the root of the repository, install the tools used to develop.
 
