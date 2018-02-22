@@ -1,8 +1,12 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.0.4
+  - Some build process changes
+  - Adds a SVG template file in src/icons for better icon placement and sizing comparison
+  - Adds Discord, Patreon, Snowdrift, Ethereum, ActivityPub and Keybase icons
 - v1.0.3
-  - Adding Artstation icon #19
+  - Adding Artstation icon [#19](https://github.com/ForkAwesome/Fork-Awesome/pull/19)
   - Adding an SVG Inkscape template for icon sizing and positioning
 - v1.0.2
   - Solves a Makefile bug that packaged files that were not updated.
