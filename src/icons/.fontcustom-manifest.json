@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "027bbbf57c9d9ac1dd4744d3adc2dc40b5c1b3474b987a4fb14b5d21d57c318f",
-    "current": "027bbbf57c9d9ac1dd4744d3adc2dc40b5c1b3474b987a4fb14b5d21d57c318f"
+    "previous": "d4070ad39f365ffdf43edf72ca8d7577906d72be6727b4673d3a49a3812910f7",
+    "current": "d4070ad39f365ffdf43edf72ca8d7577906d72be6727b4673d3a49a3812910f7"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2134,6 +2134,10 @@
     "snapchat-square": {
       "codepoint": 62125,
       "source": "svg/snapchat-square.svg"
+    },
+    "snowdrift": {
+      "codepoint": 62193,
+      "source": "svg/snowdrift.svg"
     },
     "snowflake-o": {
       "codepoint": 62172,

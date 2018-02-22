@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170731 at Wed Feb 21 15:23:28 2018
+Created by FontForge 20170731 at Wed Feb 21 16:50:23 2018
  By Micah Ilbery,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2F0"
+    unicode-range="U+0020-F2F1"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -733,6 +733,9 @@ M1792 640c0 -495 -401 -896 -896 -896s-896 401 -896 896s401 896 896 896s896 -401 
 d="M640 640c0 -71 -57 -128 -128 -128s-128 57 -128 128s57 128 128 128s128 -57 128 -128zM1024 640c0 -71 -57 -128 -128 -128s-128 57 -128 128s57 128 128 128s128 -57 128 -128zM1408 640c0 -71 -57 -128 -128 -128s-128 57 -128 128s57 128 128 128s128 -57 128 -128z
 M896 1152c-416 0 -768 -234 -768 -512c0 -149 100 -291 273 -389l87 -50l-27 -96c-19 -71 -44 -126 -70 -172c101 42 193 99 275 171l43 38l57 -6c43 -5 87 -8 130 -8c416 0 768 234 768 512s-352 512 -768 512zM1792 640c0 -354 -401 -640 -896 -640c-49 0 -98 3 -145 8
 c-131 -116 -287 -198 -460 -242c-36 -10 -75 -17 -114 -22h-5c-20 0 -38 16 -43 38v1c-5 25 12 40 27 58c63 71 135 131 182 298c-206 117 -338 298 -338 501c0 353 401 640 896 640s896 -287 896 -640z" />
+    <glyph glyph-name="snowdrift" unicode="&#xf2f1;" horiz-adv-x="1448" 
+d="M1007 384c104 116 30 287 -165 383c7 -6 44 24 83 67s65 84 58 90c-195 96 -438 80 -542 -36s-30 -287 165 -383c-7 6 -44 -24 -83 -67s-65 -84 -58 -90c195 -96 438 -80 542 36zM103 1188v0c228 253 760 288 1188 78c15 -14 -42 -101 -127 -196s-167 -161 -182 -147
+c428 -210 591 -585 363 -839c-228 -253 -760 -288 -1188 -78c-15 14 42 101 127 196s167 161 182 147c-428 210 -591 585 -363 839z" />
     <glyph glyph-name="black-tie" unicode="&#xf27e;" 
 d="M0 1408h1536v-1536h-1536v1536zM1085 293l-221 631l221 297h-634l221 -297l-221 -631l317 -304z" />
     <glyph glyph-name="youtube-play" unicode="&#xf16a;" horiz-adv-x="1792" 

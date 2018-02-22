@@ -1,6 +1,6 @@
 ---
 ---
-PATH := ../node_modules/.bin:$(PATH)
+PATH  := ../node_modules/.bin:$(PATH)
 
 FA_ROOT_DIRECTORY = assets/fork-awesome
 FA_LESS_DIRECTORY = assets/fork-awesome/less
@@ -25,7 +25,7 @@ build:
 
 	bundle exec lessc ${FA_LESS_MODERN} > ${FA_CSS_MODERN}
 	bundle exec lessc --clean-css="--compatibility=ie8" ${FA_LESS_MODERN} > ${FA_CSS_MODERN_MIN}
-#	sass ${FA_SCSS_MODERN} ${FA_CSS_MODERN}
+	#	sass ${FA_SCSS_MODERN} ${FA_CSS_MODERN}
 
 	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
 
@@ -36,7 +36,8 @@ build:
 	@echo "Generating zip file"
 	cd assets && mv fork-awesome fork-awesome-{{ site.forkawesome.version }} && zip -r9 fork-awesome-{{ site.forkawesome.version }}.zip fork-awesome-{{ site.forkawesome.version }} && mv fork-awesome-{{ site.forkawesome.version }} fork-awesome
 
-	find .. -type f ! -perm 644 -exec chmod 644 {} \;
+	# TODO: figure out why this was here and remove it if unused. It blocked running local less version
+	# find .. -type f ! -perm 644 -exec chmod 644 {} \;
 
 default: build
 
