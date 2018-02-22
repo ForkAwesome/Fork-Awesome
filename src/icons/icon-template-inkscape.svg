@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1536"
-   height="1796"
-   viewBox="0 0 1536.0001 1796"
+   height="1792"
+   viewBox="0 0 1536.0001 1792"
    id="svg5504"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="icon-template-inkscape.svg">
   <defs
      id="defs5506">
@@ -22,7 +22,8 @@
        id="a">
       <path
          id="path3718"
-         d="M0 195.911h208.792V0H0v195.911z" />
+         d="M 0,195.911 H 208.792 V 0 H 0 Z"
+         inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -34,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
      inkscape:cx="487.95856"
-     inkscape:cy="567.96928"
+     inkscape:cy="796.54071"
      inkscape:document-units="px"
      inkscape:current-layer="svg5504"
      showgrid="true"
@@ -61,55 +62,73 @@
     <sodipodi:guide
        position="0,128"
        orientation="0,1"
-       id="guide5514" />
+       id="guide5514"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1536.0001,0"
        orientation="1,0"
-       id="guide5516" />
+       id="guide5516"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,1664"
        orientation="0,1"
-       id="guide5518" />
+       id="guide5518"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1280.0001,0"
        orientation="1,0"
-       id="guide5520" />
+       id="guide5520"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1792.0001,0"
        orientation="1,0"
-       id="guide5522" />
+       id="guide5522"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2048.0001,0"
        orientation="1,0"
-       id="guide5713" />
+       id="guide5713"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,256"
        orientation="0,1"
-       id="guide5715" />
+       id="guide5715"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="640.00003,0"
        orientation="1,0"
-       id="guide6919" />
+       id="guide6919"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,1536"
        orientation="0,1"
-       id="guide10169" />
+       id="guide10169"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,896"
        orientation="0,1"
-       id="guide10171" />
+       id="guide10171"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,1792"
        orientation="0,1"
-       id="guide3346" />
+       id="guide3346"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,0"
        orientation="0,1"
-       id="guide3348" />
+       id="guide3348"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,0"
        orientation="1,0"
-       id="guide3350" />
+       id="guide3350"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2304.0003,0"
+       orientation="1,0"
+       id="guide88"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5509">
