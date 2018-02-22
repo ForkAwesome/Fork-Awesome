@@ -1,6 +1,6 @@
 ---
 ---
-PATH := ../node_modules/.bin:$(PATH)
+PATH := ../../node_modules/.bin:$(PATH)
 
 FA_ROOT_DIRECTORY = assets/fork-awesome
 FA_LESS_DIRECTORY = assets/fork-awesome/less
