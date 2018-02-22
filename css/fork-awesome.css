@@ -2358,6 +2358,9 @@
 .fa-patreon:before {
   content: "\f2f0";
 }
+.fa-snowdrift:before {
+  content: "\f2f1";
+}
 .sr-only {
   position: absolute;
   width: 1px;
