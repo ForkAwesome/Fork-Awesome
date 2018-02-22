@@ -62,10 +62,7 @@ to the `dependencies` in your `component.json`.
   - **Ubuntu:** `sudo apt-get install ruby-dev` *(Only if you're __NOT__ using `rbenv` or `rvm`)*
   - **Windows:** [DevKit](http://rubyinstaller.org/)
 - [Bundler](http://bundler.io/) (Run `gem install bundler` to install).
-- [Node Package Manager (AKA NPM)](https://docs.npmjs.com/getting-started/installing-node)
-- [Less](http://lesscss.org/) (Run `npm install -g less` to install).
-- [Less Plugin: Clean CSS](https://github.com/less/less-plugin-clean-css) (Run `npm install -g less-plugin-clean-css` to install).
-- [FontCustom](https://github.com/FontCustom/fontcustom) (requires FontForge to be installed)
+- [Node Package Manager (aka. `npm`)](https://docs.npmjs.com/getting-started/installing-node)
 
 From the root of the repository, install the tools used to develop.
 
