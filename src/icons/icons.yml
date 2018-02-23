@@ -6782,3 +6782,19 @@ icons:
     url:        keybase.io
     categories:
       - Brand Icons
+
+  - name:       Shaarli
+    id:         shaarli
+    unicode:    f2f5
+    created:    1.0
+    url:        github.com/shaarli/Shaarli
+    categories:
+      - Brand Icons
+
+  - name:       Shaarli Outlined
+    id:         shaarli-o
+    unicode:    f2f6
+    created:    1.0
+    url:        github.com/shaarli/Shaarli
+    categories:
+      - Brand Icons

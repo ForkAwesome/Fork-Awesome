@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "9ba625b9de7805f9b597b000cb0a50615c42fb7b4544670520d87b9a7489f820",
-    "current": "9ba625b9de7805f9b597b000cb0a50615c42fb7b4544670520d87b9a7489f820"
+    "previous": "c07eeafc4d959c672b526b9854d3ca61d7d23e718b346cbb75627e4f5e0db645",
+    "current": "c07eeafc4d959c672b526b9854d3ca61d7d23e718b346cbb75627e4f5e0db645"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2038,6 +2038,14 @@
     "server": {
       "codepoint": 62003,
       "source": "svg/server.svg"
+    },
+    "shaarli": {
+      "codepoint": 62197,
+      "source": "svg/shaarli.svg"
+    },
+    "shaarli-o": {
+      "codepoint": 62198,
+      "source": "svg/shaarli-o.svg"
     },
     "share": {
       "codepoint": 61540,
