@@ -2,10 +2,36 @@
   <div class="container">
     <ul class="list-inline">
       <li>
-        <iframe class="github-btn" src="https://ghbtns.com/github-btn.html?user=ForkAwesome&repo=Fork-Awesome&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+        <input name="popup" id="overlay" class="overlay" type="radio">
+        <span class="share">
+          <label class="share-btn btn btn-xs diaspora" title="Share this page on Diaspora*" for="diaspora-share">
+            <i class="fa fa-diaspora" aria-hidden="true"></i> Spread
+          </label>
+          <input name="popup" id="diaspora-share" class="hidden" type="radio">
+          <span class="popup">
+            <label for="overlay"></label>
+            <input name="podurl" value="" placeholder="Diaspora URL (joindiaspora.con)" type="text"><button class="share-btn" type="submit"  value="diaspora">OK</button>
+          </span>
+        </span>
+      </li>
+      <li>
+        <input name="popup" id="overlay" class="overlay" type="radio">
+        <span class="share">
+          <label class="share-btn btn btn-xs mastodon" title="Share this page on Mastodon" for="mastodon-share">
+            <i class="fa fa-mastodon" aria-hidden="true"></i> Toot
+          </label>
+          <input name="popup" id="mastodon-share" class="hidden" type="radio">
+          <span class="popup">
+            <label for="overlay"></label>
+            <input name="podurl" value="" placeholder="Mastodon URL (mastodon.social)" type="text"><button class="share-btn" type="submit"  value="mastodon">OK</button>
+          </span>
+        </span>
       </li>
       <li class="tweet-btn hidden-phone">
         <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.forkawesome.url }}" data-text="Fork Awesome, a fork of the iconic font and CSS framework" data-counturl="{{ site.forkawesome.legacy_url }}" data-count="horizontal">Tweet</a>
+      </li>
+      <li class="github-btn">
+        <iframe src="https://ghbtns.com/github-btn.html?user=ForkAwesome&repo=Fork-Awesome&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
       </li>
     </ul>
   </div>
