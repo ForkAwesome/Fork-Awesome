@@ -1,6 +1,8 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.0.5
+  - Solves a bug where CSS, LESS & SCSS folder were not updated
 - v1.0.4
   - Some build process changes
   - Adds a SVG template file in src/icons for better icon placement and sizing comparison

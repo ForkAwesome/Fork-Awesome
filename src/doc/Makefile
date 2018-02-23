@@ -29,8 +29,13 @@ build:
 
 	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
 
-	@echo "Moving font files and README"
-	cp -r ../fonts ${FA_ROOT_DIRECTORY}/ 
+	@echo "Moving CSS, LESS & SASS to /"
+	cp -r ${FA_ROOT_DIRECTORY}/ ../
+
+	@echo "Moving font files to assets"
+	cp -r ../fonts ${FA_ROOT_DIRECTORY}/
+
+	@echo "Updating Readme"
 	mv README.md-nobuild ../README.md
 
 	@echo "Generating zip file"
