@@ -27,12 +27,17 @@ build:
 
 	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
 
-	@echo "Moving font files and README"
-	cp -r ../fonts ${FA_ROOT_DIRECTORY}/ 
+	@echo "Moving CSS, LESS & SASS to /"
+	cp -r ${FA_ROOT_DIRECTORY}/ ../
+
+	@echo "Moving font files to assets"
+	cp -r ../fonts ${FA_ROOT_DIRECTORY}/
+
+	@echo "Updating Readme"
 	mv README.md-nobuild ../README.md
 
 	@echo "Generating zip file"
-	cd assets && mv fork-awesome fork-awesome-1.0.4 && zip -r9 fork-awesome-1.0.4.zip fork-awesome-1.0.4 && mv fork-awesome-1.0.4 fork-awesome
+	cd assets && mv fork-awesome fork-awesome-1.0.5 && zip -r9 fork-awesome-1.0.5.zip fork-awesome-1.0.5 && mv fork-awesome-1.0.5 fork-awesome
 
 	# TODO: figure out why this was here and remove it if unused. It blocked running local less version
 	# find .. -type f ! -perm 644 -exec chmod 644 {} \;
