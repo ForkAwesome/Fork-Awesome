@@ -2370,6 +2370,12 @@
 .fa-keybase:before {
   content: "\f2f4";
 }
+.fa-shaarli:before {
+  content: "\f2f5";
+}
+.fa-shaarli-o:before {
+  content: "\f2f6";
+}
 .sr-only {
   position: absolute;
   width: 1px;
