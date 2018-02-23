@@ -27,8 +27,16 @@
           </span>
         </span>
       </li>
-      <li class="tweet-btn hidden-phone">
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.forkawesome.url }}" data-text="Fork Awesome, a fork of the iconic font and CSS framework" data-counturl="{{ site.forkawesome.legacy_url }}" data-count="horizontal">Tweet</a>
+      <li>
+        <span class="share">
+          <a
+            class="btn btn-xs twitter"
+            href="https://twitter.com/intent/tweet?url={{ site.forkawesome.url | cgi_escape }}&text={{ site.forkawesome.name | cgi_escape }}%20{{ site.forkawesome.tagline | cgi_escape }}&hashtags=forkawesome,iconfont"
+            target="_blank"
+          >
+            <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+          </a>
+        </span>
       </li>
       <li class="github-btn">
         <iframe src="https://ghbtns.com/github-btn.html?user=ForkAwesome&repo=Fork-Awesome&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
