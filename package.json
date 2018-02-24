@@ -63,5 +63,13 @@
   "scripts": {
     "build": "bundle exec jekyll build",
     "dev": "bundle exec jekyll -w serve"
-  }
+  },
+  "main": [
+    "css/fork-awesome.min.css",
+    "fonts/forkawesome-webfont.eot",
+    "fonts/forkawesome-webfont.svg",
+    "fonts/forkawesome-webfont.ttf",
+    "fonts/forkawesome-webfont.woff",
+    "fonts/forkawesome-webfont.woff2"
+  ],
 }
