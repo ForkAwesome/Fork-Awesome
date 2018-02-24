@@ -23,11 +23,10 @@ build:
 	@echo "Compiling Less files"
 	@mkdir -p ${FA_CSS_DIRECTORY}
 
-	bundle exec lessc ${FA_LESS_MODERN} > ${FA_CSS_MODERN}
-	bundle exec lessc --clean-css="--compatibility=ie8" ${FA_LESS_MODERN} > ${FA_CSS_MODERN_MIN}
-	#	sass ${FA_SCSS_MODERN} ${FA_CSS_MODERN}
+	lessc ${FA_LESS_MODERN} ${FA_CSS_MODERN}
+	lessc --clean-css="--compatibility=ie8" --source-map ${FA_CSS_MODERN} ${FA_CSS_MODERN_MIN}
 
-	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
+	lessc --clean-css="--compatibility=ie8" --source-map ${SITE_LESS} ${SITE_CSS}
 
 	@echo "Moving CSS, LESS & SASS to /"
 	cp -r ${FA_ROOT_DIRECTORY}/ ../
