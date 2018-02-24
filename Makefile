@@ -21,11 +21,10 @@ build:
 	@echo "Compiling Less files"
 	@mkdir -p ${FA_CSS_DIRECTORY}
 
-	bundle exec lessc ${FA_LESS_MODERN} > ${FA_CSS_MODERN}
-	bundle exec lessc --clean-css="--compatibility=ie8" ${FA_LESS_MODERN} > ${FA_CSS_MODERN_MIN}
-	#	sass ${FA_SCSS_MODERN} ${FA_CSS_MODERN}
+	lessc ${FA_LESS_MODERN} ${FA_CSS_MODERN}
+	lessc --clean-css="--compatibility=ie8" --source-map ${FA_CSS_MODERN} ${FA_CSS_MODERN_MIN}
 
-	bundle exec lessc --clean-css="--compatibility=ie8" ${SITE_LESS} > ${SITE_CSS}
+	lessc --clean-css="--compatibility=ie8" --source-map ${SITE_LESS} ${SITE_CSS}
 
 	@echo "Moving CSS, LESS & SASS to /"
 	cp -r ${FA_ROOT_DIRECTORY}/ ../
@@ -37,7 +36,7 @@ build:
 	mv README.md-nobuild ../README.md
 
 	@echo "Generating zip file"
-	cd assets && mv fork-awesome fork-awesome-1.0.6 && zip -r9 fork-awesome-1.0.6.zip fork-awesome-1.0.6 && mv fork-awesome-1.0.6 fork-awesome
+	cd assets && mv fork-awesome fork-awesome-1.0.7 && zip -r9 fork-awesome-1.0.7.zip fork-awesome-1.0.7 && mv fork-awesome-1.0.7 fork-awesome
 
 	# TODO: figure out why this was here and remove it if unused. It blocked running local less version
 	# find .. -type f ! -perm 644 -exec chmod 644 {} \;
