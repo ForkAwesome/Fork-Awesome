@@ -1813,6 +1813,9 @@
 .fa-medium:before {
   content: "\f23a";
 }
+.fa-medium-square:before {
+  content: "\f2f8";
+}
 .fa-yc:before,
 .fa-y-combinator:before {
   content: "\f23b";
