@@ -1,6 +1,8 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.0.8
+  - Bumping just for jsDelivr because it won't accept an array as default files.
 - v1.0.7
   - Prepares for jsDelivr CDN distribution
   - Adds sourcemap for min version of CSS (jsDelivr requirement)
