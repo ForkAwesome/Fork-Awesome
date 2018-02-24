@@ -1,7 +1,7 @@
 {
   "name": "fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "style": "css/fork-awesome.css",
   "keywords": [
     "font",
@@ -71,5 +71,5 @@
     "fonts/forkawesome-webfont.ttf",
     "fonts/forkawesome-webfont.woff",
     "fonts/forkawesome-webfont.woff2"
-  ],
+  ]
 }

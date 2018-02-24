@@ -1,6 +1,13 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.0.7
+  - Prepares for jsDelivr CDN distribution
+  - Adds sourcemap for min version of CSS (jsDelivr requirement)
+  - Updates Medium icon to latest branding + adds Medium square icon.
+- v1.0.6
+  - Removes Twitter js tracker in the doc and add Disapora* and Mastodon share button (Distributopia)
+  - Adding a few more icons: Shaarli, Key (modern)
 - v1.0.5
   - Solves a bug where CSS, LESS & SCSS folder were not updated
 - v1.0.4
