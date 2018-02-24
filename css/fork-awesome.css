@@ -2376,6 +2376,10 @@
 .fa-shaarli-o:before {
   content: "\f2f6";
 }
+.fa-cut-key:before,
+.fa-key-modern:before {
+  content: "\f2f7";
+}
 .sr-only {
   position: absolute;
   width: 1px;

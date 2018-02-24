@@ -6798,3 +6798,16 @@ icons:
     url:        github.com/shaarli/Shaarli
     categories:
       - Brand Icons
+
+  - name:       Key (Modern)
+    id:         key-modern
+    unicode:    f2f7
+    created:    1.0
+    url:        github.com/shaarli/Shaarli
+    aliases:
+      - cut-key
+    filter:
+      - unlock
+      - password
+    categories:
+      - Web Application Icons
