@@ -5274,14 +5274,7 @@ icons:
   - name:       Medium
     id:         medium
     unicode:    f23a
-    created:    1.0
-    categories:
-      - Brand Icons
-      
-  - name:       Medium
-    id:         medium-square
-    unicode:    f2f8
-    created:    1.0
+    created:    0.4
     categories:
       - Brand Icons
 
