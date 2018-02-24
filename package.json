@@ -1,7 +1,7 @@
 {
   "name": "fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "style": "css/fork-awesome.css",
   "keywords": [
     "font",
@@ -43,7 +43,11 @@
     },
     {
       "name": "Julien Deswaef",
-      "web": "http://twitter.com/xuv"
+      "web": "https://mastodon.social/@xuv"
+    },
+    {
+      "name": "Micah Ilbery",
+      "web": "https://mastodon.social/@micahilbery"
     }
   ],
   "license": "(OFL-1.1 AND MIT)",
