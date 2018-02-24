@@ -809,3 +809,5 @@
 .#{$fa-css-prefix}-keybase:before { content: $fa-var-keybase; }
 .#{$fa-css-prefix}-shaarli:before { content: $fa-var-shaarli; }
 .#{$fa-css-prefix}-shaarli-o:before { content: $fa-var-shaarli-o; }
+.#{$fa-css-prefix}-cut-key:before,
+.#{$fa-css-prefix}-key-modern:before { content: $fa-var-key-modern; }

@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Fri Feb 23 12:24:25 2018
+Created by FontForge 20170925 at Fri Feb 23 21:05:48 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2F6"
+    unicode-range="U+0020-F2F7"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1477,6 +1477,9 @@ c18 0 32 -14 32 -32zM1184 1504v-192c0 -18 -14 -32 -32 -32h-256c-18 0 -32 14 -32 
     <glyph glyph-name="renren" unicode="&#xf18b;" 
 d="M1133 -34c-109 -60 -234 -94 -368 -94c-133 0 -258 34 -367 94c177 112 320 281 367 479c48 -198 191 -367 368 -479zM638 1394v-485c0 -342 -189 -636 -457 -766c-113 134 -181 306 -181 495c0 380 276 695 638 756zM1536 638c0 -189 -68 -361 -181 -495
 c-268 130 -457 424 -457 766v485c362 -61 638 -376 638 -756z" />
+    <glyph glyph-name="key-modern" unicode="&#xf2f7;" horiz-adv-x="1792" 
+d="M546 1536v0c139 1 278 -52 383 -158c142 -141 187 -343 137 -525l726 -726v-319c0 -35 -29 -64 -64 -64h-300l-45 45l135 226l-46 45l-225 -135l-45 46l134 225l-45 45l-225 -134l-46 45l135 225l-45 46l-243 -139l-186 186c-182 -50 -382 -5 -524 136
+c-211 212 -209 556 4 770c107 106 246 159 385 160zM405 1290v0c-41 0 -82 -16 -113 -47c-63 -63 -63 -163 0 -226s164 -63 227 0s63 163 0 226c-31 31 -73 47 -114 47z" />
     <glyph glyph-name="arrow-circle-o-right" unicode="&#xf18e;" 
 d="M1152 640c0 -8 -3 -17 -9 -23l-320 -320c-6 -6 -15 -9 -23 -9c-17 0 -32 15 -32 32v192h-352c-17 0 -32 15 -32 32v192c0 17 15 32 32 32h352v192c0 18 14 32 32 32c9 0 17 -4 24 -10l319 -319c6 -6 9 -15 9 -23zM1312 640c0 300 -244 544 -544 544s-544 -244 -544 -544
 s244 -544 544 -544s544 244 544 544zM1536 640c0 -424 -344 -768 -768 -768s-768 344 -768 768s344 768 768 768s768 -344 768 -768z" />
