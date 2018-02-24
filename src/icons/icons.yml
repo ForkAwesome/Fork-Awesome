@@ -6795,7 +6795,6 @@ icons:
     id:         shaarli-o
     unicode:    f2f6
     created:    1.0
-    url:        github.com/shaarli/Shaarli
     categories:
       - Brand Icons
 
@@ -6803,7 +6802,6 @@ icons:
     id:         key-modern
     unicode:    f2f7
     created:    1.0
-    url:        github.com/shaarli/Shaarli
     aliases:
       - cut-key
     filter:
