@@ -1815,7 +1815,7 @@ icons:
   - name:       Globe
     id:         globe
     unicode:    f0ac
-    created:    0.4
+    created:    1.0
     filter:
       - world
       - planet
@@ -1831,6 +1831,52 @@ icons:
       - location
       - coordinates
       - country
+    categories:
+      - Web Application Icons
+      
+  - name:       Globe
+    id:         globe-e
+    unicode:    f2fa
+    created:    1.0
+    filter:
+      - world
+      - planet
+      - map
+      - place
+      - travel
+      - earth
+      - global
+      - translate
+      - all
+      - language
+      - localize
+      - location
+      - coordinates
+      - country
+      - east
+    categories:
+      - Web Application Icons
+      
+  - name:       Globe
+    id:         globe-w
+    unicode:    f2fb
+    created:    1.0
+    filter:
+      - world
+      - planet
+      - map
+      - place
+      - travel
+      - earth
+      - global
+      - translate
+      - all
+      - language
+      - localize
+      - location
+      - coordinates
+      - country
+      - west
     categories:
       - Web Application Icons
 
