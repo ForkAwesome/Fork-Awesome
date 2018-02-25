@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Sun Feb 25 14:56:20 2018
+Created by FontForge 20170925 at Sun Feb 25 15:38:43 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -247,9 +247,9 @@ c13 -5 22 -17 22 -31z" />
     <glyph glyph-name="info-circle" unicode="&#xf05a;" 
 d="M1024 160v160c0 18 -14 32 -32 32h-96v512c0 18 -14 32 -32 32h-320c-18 0 -32 -14 -32 -32v-160c0 -18 14 -32 32 -32h96v-320h-96c-18 0 -32 -14 -32 -32v-160c0 -18 14 -32 32 -32h448c18 0 32 14 32 32zM896 1056v160c0 18 -14 32 -32 32h-192c-18 0 -32 -14 -32 -32
 v-160c0 -18 14 -32 32 -32h192c18 0 32 14 32 32zM1536 640c0 -424 -344 -768 -768 -768s-768 344 -768 768s344 768 768 768s768 -344 768 -768z" />
-    <glyph glyph-name="barcode" unicode="&#xf02a;" horiz-adv-x="1792" 
-d="M63 0h-63v1408h63v-1408zM126 1h-32v1407h32v-1407zM220 1h-31v1407h31v-1407zM377 1h-31v1407h31v-1407zM534 1h-62v1407h62v-1407zM660 1h-31v1407h31v-1407zM723 1h-31v1407h31v-1407zM786 1h-31v1407h31v-1407zM943 1h-63v1407h63v-1407zM1100 1h-63v1407h63v-1407z
-M1226 1h-63v1407h63v-1407zM1352 1h-63v1407h63v-1407zM1446 1h-63v1407h63v-1407zM1635 1h-94v1407h94v-1407zM1698 1h-32v1407h32v-1407zM1792 0h-63v1408h63v-1408z" />
+    <glyph glyph-name="barcode" unicode="&#xf02a;" horiz-adv-x="2176" 
+d="M0 1404h128v-1532h-128v1532zM2048 1408h128v-1536h-128v1536zM256 1408h128v-1280h-128v1280zM512 1408h256v-1280h-256v1280zM1280 1408h256v-1280h-256v1280zM1792 1408h128v-1280h-128v1280zM1024 1408h128v-1280h-128v1280zM256 0h128v-128h-128v128zM512 0h128
+v-128h-128v128zM768 0h128v-128h-128v128zM1024 0h128v-128h-128v128zM1280 0h128v-128h-128v128zM1536 0h128v-128h-128v128zM1792 0h128v-128h-128v128z" />
     <glyph glyph-name="exchange" unicode="&#xf0ec;" horiz-adv-x="1792" 
 d="M1792 352v-192c0 -17 -15 -32 -32 -32h-1376v-192c0 -17 -14 -32 -32 -32c-9 0 -17 4 -24 10l-319 320c-6 6 -9 14 -9 22c0 9 3 17 9 23l320 320c6 6 15 9 23 9c17 0 32 -14 32 -32v-192h1376c17 0 32 -14 32 -32zM1792 896c0 -8 -3 -17 -9 -23l-320 -320
 c-6 -6 -15 -9 -23 -9c-17 0 -32 15 -32 32v192h-1376c-17 0 -32 15 -32 32v192c0 17 15 32 32 32h1376v192c0 18 14 32 32 32c9 0 17 -4 24 -10l319 -319c6 -6 9 -15 9 -23z" />
