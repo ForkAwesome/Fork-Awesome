@@ -446,7 +446,7 @@ icons:
   - name:       qrcode
     id:         qrcode
     unicode:    f029
-    created:    0.4
+    created:    1.0
     filter:
       - scan
     categories:
@@ -5277,7 +5277,7 @@ icons:
     created:    1.0
     categories:
       - Brand Icons
-      
+
   - name:       Medium
     id:         medium-square
     unicode:    f2f8
