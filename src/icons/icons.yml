@@ -6816,3 +6816,13 @@ icons:
       - password
     categories:
       - Web Application Icons
+
+  - name:       XMPP
+    id:         xmpp
+    unicode:    f2f9
+    created:    1.0
+    filter:
+      - message
+      - iot
+    categories:
+      - Brand Icons

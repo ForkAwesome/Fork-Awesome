@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4e849a59308b18b0e63a842afe80c541e2565f524e9c2d7969db53dab696ce8c",
-    "current": "4e849a59308b18b0e63a842afe80c541e2565f524e9c2d7969db53dab696ce8c"
+    "previous": "1652a0373302f7bdefd4e961616ff7e1965d258aa3ed0afaff48acd10ead9e9e",
+    "current": "1652a0373302f7bdefd4e961616ff7e1965d258aa3ed0afaff48acd10ead9e9e"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2766,6 +2766,10 @@
     "xing-square": {
       "codepoint": 61801,
       "source": "svg/xing-square.svg"
+    },
+    "xmpp": {
+      "codepoint": 62201,
+      "source": "svg/xmpp.svg"
     },
     "y-combinator": {
       "codepoint": 62011,

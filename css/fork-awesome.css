@@ -2383,6 +2383,9 @@
 .fa-key-modern:before {
   content: "\f2f7";
 }
+.fa-xmpp:before {
+  content: "\f2f9";
+}
 .sr-only {
   position: absolute;
   width: 1px;
