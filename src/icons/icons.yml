@@ -455,7 +455,7 @@ icons:
   - name:       barcode
     id:         barcode
     unicode:    f02a
-    created:    0.4
+    created:    1.0
     filter:
       - scan
     categories:
