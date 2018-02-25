@@ -1,0 +1,53 @@
+---
+relative_path: ../../
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@{{ site.forkawesome.version }}/css/fork-awesome.min.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <div>
+        <h1>All</h1>
+        <div>
+          {% for icon in icons %}
+          <i class="fa fa-{{ icon.id }}"></i>{% endfor %}
+        </div>
+      </div>
+
+
+      <div>
+        <h1>All (Unicode)</h1>
+        {% for icon in icons %}
+        <i class="fa">&#x{{ icon.unicode }}</i>
+        {% endfor %}
+      </div>
+
+      <div>
+        <h1>Non-Brand (Unicode)</h1>
+
+        {% for icon in icons %}
+          {% unless icon.categories contains "Brand Icons" %}
+            <i class="fa">&#x{{ icon.unicode }}</i>
+          {% endunless %}
+        {% endfor %}
+      </div>
+
+      <div>
+        <h1>Brand (Unicode)</h1>
+
+        {% for icon in icons %}
+          {% if icon.categories contains "Brand Icons" %}
+          <i class="fa">&#x{{ icon.unicode }}</i>
+          {% endif %}
+        {% endfor %}
+      </div>
+
+
+    </div>
+  </body>
+
+</html>
