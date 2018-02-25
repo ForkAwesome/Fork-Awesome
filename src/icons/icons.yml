@@ -6824,5 +6824,6 @@ icons:
     filter:
       - message
       - iot
+    url:        xmpp.org
     categories:
       - Brand Icons
