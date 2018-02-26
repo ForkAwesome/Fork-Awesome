@@ -1,13 +1,13 @@
 /*!
- *  Fork Awesome 1.0.7, originaly by Dave Gandy - http://forkawesome.github.com/Fork-Awesome/
+ *  Fork Awesome 1.0.9, originaly by Dave Gandy - http://forkawesome.github.com/Fork-Awesome/
  *  License - http://forkawesome.github.com/Fork-Awesome//license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
  * -------------------------- */
 @font-face {
   font-family: 'ForkAwesome';
-  src: url('../fonts/forkawesome-webfont.eot?v=1.0.7');
-  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.0.7') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.0.7') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.0.7') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.0.7') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.0.7#forkawesomeregular') format('svg');
+  src: url('../fonts/forkawesome-webfont.eot?v=1.0.9');
+  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.0.9') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.0.9') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.0.9') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.0.9') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.0.9#forkawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -2382,6 +2382,12 @@
 .fa-cut-key:before,
 .fa-key-modern:before {
   content: "\f2f7";
+}
+.fa-xmpp:before {
+  content: "\f2f9";
+}
+.fa-archive-org:before {
+  content: "\f2fc";
 }
 .sr-only {
   position: absolute;
