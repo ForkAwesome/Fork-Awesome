@@ -1,6 +1,9 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.0.9
+  - Adding icons for Archive.org & Xmpp
+  - Improving icons for QRcode & Barcode
 - v1.0.8
   - Bumping just for jsDelivr because it won't accept an array as default files.
 - v1.0.7
