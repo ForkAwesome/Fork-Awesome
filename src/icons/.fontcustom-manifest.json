@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "32c8f0237ddd34d69437be8b6b4a5bd5fc870cfdaef50f43ca167d022f4a81b3",
-    "current": "32c8f0237ddd34d69437be8b6b4a5bd5fc870cfdaef50f43ca167d022f4a81b3"
+    "previous": "6a4b05235a2ddb8685a33d9f9156b2b22fef6fe707fdf11a93ed21a9c93f982d",
+    "current": "6a4b05235a2ddb8685a33d9f9156b2b22fef6fe707fdf11a93ed21a9c93f982d"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -122,6 +122,10 @@
     "archive": {
       "codepoint": 61831,
       "source": "svg/archive.svg"
+    },
+    "archive-org": {
+      "codepoint": 62204,
+      "source": "svg/archive-org.svg"
     },
     "area-chart": {
       "codepoint": 61950,

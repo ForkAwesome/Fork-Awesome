@@ -6827,3 +6827,13 @@ icons:
     url:        xmpp.org
     categories:
       - Brand Icons
+
+  - name:       Archive.org
+    id:         archive-org
+    unicode:    f2fc
+    created:    1.0
+    filter:
+      - link
+    url:        archive.org
+    categories:
+      - Brand Icons
