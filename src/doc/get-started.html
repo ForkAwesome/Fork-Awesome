@@ -69,6 +69,21 @@ relative_path: ../
     </div>
   </section>
 
+  <section class="get-started-CDN margin-top-lg" id="get-started-CDN">
+    <h2 class="page-header">Using {{ site.forkawesome.name }} with a CDN</h2>
+  </section>
+
+  <div class="row">
+    <div class="col-md-12">
+      <p>Thanks to <a href="https://www.jsdelivr.com">jsDelivr</a>, {{ site.forkawesome.name }} is available via a CDN as well.</p>
+      <p>
+{% highlight html %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@{{ site.forkawesome.version }}/css/fork-awesome.min.css" integrity="{% sri_hash /css/fork-awesome.min.css %}" crossorigin="anonymous">
+{% endhighlight %}
+      </p>
+    </div>
+  </div>
+
   <section class="get-started-more margin-top-lg" id="get-started-more">
     <h2 class="page-header">More Information</h2>
   </section>
