@@ -37,12 +37,6 @@ build:
 	@echo "Updating Readme"
 	mv README.md-nobuild ../README.md
 
-	@echo "Generating zip file"
-	cd assets && mv fork-awesome fork-awesome-{{ site.forkawesome.version }} && zip -r9 fork-awesome-{{ site.forkawesome.version }}.zip fork-awesome-{{ site.forkawesome.version }} && mv fork-awesome-{{ site.forkawesome.version }} fork-awesome
-
-	# TODO: figure out why this was here and remove it if unused. It blocked running local less version
-	# find .. -type f ! -perm 644 -exec chmod 644 {} \;
-
 default: build
 
 
