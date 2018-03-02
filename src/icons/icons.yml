@@ -6845,3 +6845,11 @@ icons:
     url:        freedombox.org
     categories:
       - Brand Icons
+
+  - name:       Facebook Messenger
+    id:         facebook-messenger
+    unicode:    f2fe
+    created:    1.0
+    url:        messenger.com
+    categories:
+      - Brand Icons

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "9f105d718e596d284f9f0d5e48a1e97c8cf3783c18b0257ce2d20071b3157175",
-    "current": "9f105d718e596d284f9f0d5e48a1e97c8cf3783c18b0257ce2d20071b3157175"
+    "previous": "c5d38bae8b1cca70d910a0de588eabf3cb7934268237937ebb9bb843253df5b5",
+    "current": "c5d38bae8b1cca70d910a0de588eabf3cb7934268237937ebb9bb843253df5b5"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -910,6 +910,10 @@
     "facebook": {
       "codepoint": 61594,
       "source": "svg/facebook.svg"
+    },
+    "facebook-messenger": {
+      "codepoint": 62206,
+      "source": "svg/facebook-messenger.svg"
     },
     "facebook-official": {
       "codepoint": 62000,

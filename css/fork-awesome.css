@@ -2392,6 +2392,9 @@
 .fa-freedombox:before {
   content: "\f2fd";
 }
+.fa-facebook-messenger:before {
+  content: "\f2fe";
+}
 .sr-only {
   position: absolute;
   width: 1px;

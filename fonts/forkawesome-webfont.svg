@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Fri Mar  2 15:18:57 2018
+Created by FontForge 20170925 at Fri Mar  2 15:54:41 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F2FD"
+    unicode-range="U+0020-F2FE"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -687,6 +687,8 @@ s768 -344 768 -768z" />
     <glyph glyph-name="facebook-square" unicode="&#xf082;" 
 d="M1248 1408c159 0 288 -129 288 -288v-960c0 -159 -129 -288 -288 -288h-188v595h199l30 232h-229v148c0 67 18 112 115 112l122 1v207c-21 3 -94 9 -178 9c-177 0 -299 -108 -299 -306v-171h-200v-232h200v-595h-532c-159 0 -288 129 -288 288v960c0 159 129 288 288 288
 h960z" />
+    <glyph glyph-name="facebook-messenger" unicode="&#xf2fe;" horiz-adv-x="1520" 
+d="M760 1408c420 0 760 -318 760 -711c0 -476 -490 -817 -978 -681l-260 -144v272c-556 420 -235 1264 478 1264zM841 455l415 440l-379 -209l-197 204l-415 -441l379 210z" />
     <glyph glyph-name="angle-up" unicode="&#xf106;" horiz-adv-x="998" 
 d="M998 352c0 -8 -4 -17 -10 -23l-50 -50c-6 -6 -14 -10 -23 -10c-8 0 -17 4 -23 10l-393 393l-393 -393c-6 -6 -15 -10 -23 -10s-17 4 -23 10l-50 50c-6 6 -10 15 -10 23s4 17 10 23l466 466c6 6 15 10 23 10s17 -4 23 -10l466 -466c6 -6 10 -15 10 -23z" />
     <glyph glyph-name="glide" unicode="&#xf2a5;" 
