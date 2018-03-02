@@ -2389,6 +2389,9 @@
 .fa-archive-org:before {
   content: "\f2fc";
 }
+.fa-freedombox:before {
+  content: "\f2fd";
+}
 .sr-only {
   position: absolute;
   width: 1px;

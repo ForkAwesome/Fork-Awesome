@@ -6837,3 +6837,11 @@ icons:
     url:        archive.org
     categories:
       - Brand Icons
+
+  - name:       Freedombox
+    id:         freedombox
+    unicode:    f2fd
+    created:    1.0
+    url:        freedombox.org
+    categories:
+      - Brand Icons

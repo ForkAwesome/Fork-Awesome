@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "6a4b05235a2ddb8685a33d9f9156b2b22fef6fe707fdf11a93ed21a9c93f982d",
-    "current": "6a4b05235a2ddb8685a33d9f9156b2b22fef6fe707fdf11a93ed21a9c93f982d"
+    "previous": "9f105d718e596d284f9f0d5e48a1e97c8cf3783c18b0257ce2d20071b3157175",
+    "current": "9f105d718e596d284f9f0d5e48a1e97c8cf3783c18b0257ce2d20071b3157175"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1094,6 +1094,10 @@
     "free-code-camp": {
       "codepoint": 62149,
       "source": "svg/free-code-camp.svg"
+    },
+    "freedombox": {
+      "codepoint": 62205,
+      "source": "svg/freedombox.svg"
     },
     "friendica": {
       "codepoint": 62182,
