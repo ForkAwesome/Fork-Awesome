@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c5d38bae8b1cca70d910a0de588eabf3cb7934268237937ebb9bb843253df5b5",
-    "current": "c5d38bae8b1cca70d910a0de588eabf3cb7934268237937ebb9bb843253df5b5"
+    "previous": "e5dcdbc91b33a205f7bba4b7476c6d75642bc2a79bd79c816d6645d7f33104e7",
+    "current": "e5dcdbc91b33a205f7bba4b7476c6d75642bc2a79bd79c816d6645d7f33104e7"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -746,6 +746,10 @@
     "deaf": {
       "codepoint": 62116,
       "source": "svg/deaf.svg"
+    },
+    "debian": {
+      "codepoint": 62207,
+      "source": "svg/debian.svg"
     },
     "delicious": {
       "codepoint": 61861,

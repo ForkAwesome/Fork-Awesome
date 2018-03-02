@@ -6853,3 +6853,11 @@ icons:
     url:        messenger.com
     categories:
       - Brand Icons
+
+  - name:       Debian
+    id:         debian
+    unicode:    f2ff
+    created:    1.0
+    url:        debian.org
+    categories:
+      - Brand Icons

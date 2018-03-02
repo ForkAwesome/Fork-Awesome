@@ -2395,6 +2395,9 @@
 .fa-facebook-messenger:before {
   content: "\f2fe";
 }
+.fa-debian:before {
+  content: "\f2ff";
+}
 .sr-only {
   position: absolute;
   width: 1px;
