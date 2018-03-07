@@ -9,6 +9,9 @@ A tremendous gratitude is given to the whole team behind [Font Awesome](https://
 
 Though If you believe in distributed open source design and wish to be part of this new adventure, please start submitting patches and suggestions of improvement.
 
+## How to use
+There is a full page in our documentation website that explains [how to use Fork Awesome in your web project](http://forkawesome.github.com/Fork-Awesome/get-started/). It ranges from just pointing to a CSS file on a CDN, hosting it on your own server or even adapting the LESS and SCSS files to your own liking.
+
 ## License
 - The Fork Awesome font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
@@ -32,8 +35,8 @@ with the following format:
 And constructed with the following guidelines:
 
 * Breaking backward compatibility bumps the major (and resets the minor and patch)
-* New additions, including new icons, without breaking backward compatibility bumps the minor (and resets the patch)
-* Bug fixes, changes to brand logos, and misc changes bumps the patch
+* Big changes, without breaking backward compatibility, bumps the minor (and resets the patch)
+* Bug fixes, small adaptations, adding a few icons and misc changes bumps the patch
 * The fork started from FontAwesome 4.7 (last commit by Dave is [bdfa9823](https://github.com/ForkAwesome/Fork-Awesome/commits/master?after=b0bc8f6fb74e05c987ef7ce1525cd3ab8390a1c3+69)).
 * The project starts at version 1.0.0. All references to versions before the fork are named 0.4.7
 
@@ -84,3 +87,7 @@ Or serve it on a local server on http://localhost:7998/Fork-Awesome/:
 To deploy the project and documentation on GH pages:
 
     $ jgd -n
+
+## Badges
+
+[![](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)

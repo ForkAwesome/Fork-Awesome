@@ -11,6 +11,24 @@ relative_path: ../
 {% include jumbotron.html %}
 
 <div class="container">
+  <section class="get-started-CDN margin-top-lg" id="get-started-CDN">
+    <h2 class="page-header clearfix">
+      Use a CDN for {{ site.forkawesome.name }}
+      <span class="label label-default text-base pull-right">simple</span>
+    </h2>
+
+    <div class="row">
+      <div class="col-md-12">
+        <p>The simplest way to get {{ site.forkawesome.name }} in your project is to copy the line below in between the <code>&lt;head&gt;</code> tags of your HTML source files. Then check the <a href="{{ page.relative_path }}examples/">examples</a> to start displaying icons.
+        <p>
+{% highlight html %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@{{ site.forkawesome.version }}/css/fork-awesome.min.css" integrity="{% sri_hash css/fork-awesome.min.css %}" crossorigin="anonymous">
+{% endhighlight %}
+        </p>
+        <p>Thanks to <a href="https://www.jsdelivr.com/package/npm/fork-awesome">jsDelivr</a> for providing the CDN for {{ site.forkawesome.name }}</p>
+      </div>
+    </div>
+  </section>
 
   <section class="get-started-download" id="get-started-download">
     <h2 class="page-header clearfix">
@@ -38,7 +56,7 @@ relative_path: ../
       <h3>Using CSS</h3>
 
       <ol>
-        <li>Copy the entire <code>font-awesome</code> directory into your project.</li>
+        <li>Copy the entire <code>fork-awesome</code> directory into your project.</li>
         <li>
           In the <code>&lt;head&gt;</code> of your html, reference the location to your font-awesome.min.css.
 {% highlight html %}
@@ -68,21 +86,6 @@ relative_path: ../
       </ol>
     </div>
   </section>
-
-  <section class="get-started-CDN margin-top-lg" id="get-started-CDN">
-    <h2 class="page-header">Using {{ site.forkawesome.name }} with a CDN</h2>
-  </section>
-
-  <div class="row">
-    <div class="col-md-12">
-      <p>Thanks to <a href="https://www.jsdelivr.com">jsDelivr</a>, {{ site.forkawesome.name }} is available via a CDN as well.</p>
-      <p>
-{% highlight html %}
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@{{ site.forkawesome.version }}/css/fork-awesome.min.css" integrity="{% sri_hash css/fork-awesome.min.css %}" crossorigin="anonymous">
-{% endhighlight %}
-      </p>
-    </div>
-  </div>
 
   <section class="get-started-more margin-top-lg" id="get-started-more">
     <h2 class="page-header">More Information</h2>
