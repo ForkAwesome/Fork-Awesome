@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "16babbe3ae77dbc9c192216e40ce3affcce8ab1beb5307c26a451aa4e0312693",
-    "current": "16babbe3ae77dbc9c192216e40ce3affcce8ab1beb5307c26a451aa4e0312693"
+    "previous": "6f06b7363d00bc572074c89c921faf4fe0d0c0829f1418944fa21f82bf6857c2",
+    "current": "6f06b7363d00bc572074c89c921faf4fe0d0c0829f1418944fa21f82bf6857c2"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1631,6 +1631,10 @@
       "codepoint": 62178,
       "source": "svg/mastodon-alt.svg"
     },
+    "mastodon-square": {
+      "codepoint": 62208,
+      "source": "svg/mastodon-square.svg"
+    },
     "maxcdn": {
       "codepoint": 61750,
       "source": "svg/maxcdn.svg"
@@ -2486,6 +2490,10 @@
     "tint": {
       "codepoint": 61507,
       "source": "svg/tint.svg"
+    },
+    "tipeee": {
+      "codepoint": 62209,
+      "source": "svg/tipeee.svg"
     },
     "toggle-off": {
       "codepoint": 61956,

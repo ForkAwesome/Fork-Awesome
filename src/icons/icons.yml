@@ -6851,6 +6851,8 @@ icons:
     unicode:    f2fe
     created:    1.0
     url:        messenger.com
+    filter:
+      - social network
     categories:
       - Brand Icons
 
@@ -6860,4 +6862,25 @@ icons:
     created:    1.0
     url:        debian.org
     categories:
+      - Brand Icons
+
+  - name:       Mastodon Square
+    id:         mastodon-square
+    unicode:    f300
+    created:    1.0
+    filter:
+      - social network
+    url:        joinmastodon.org
+    categories:
+      - Brand Icons
+
+  - name:       Tipeee
+    id:         tipeee
+    unicode:    f301
+    created:    1.0
+    url:        tipeee.com
+    filter:
+      - funding
+    categories:
+      - Payment Icons
       - Brand Icons

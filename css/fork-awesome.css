@@ -2398,6 +2398,12 @@
 .fa-debian:before {
   content: "\f2ff";
 }
+.fa-mastodon-square:before {
+  content: "\f300";
+}
+.fa-tipeee:before {
+  content: "\f301";
+}
 .sr-only {
   position: absolute;
   width: 1px;
