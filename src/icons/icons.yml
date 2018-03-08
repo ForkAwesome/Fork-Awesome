@@ -6884,3 +6884,11 @@ icons:
     categories:
       - Payment Icons
       - Brand Icons
+
+  - name:       React
+    id:         react
+    unicode:    f302
+    created:    1.0
+    url:        reactjs.org
+    categories:
+      - Brand Icons

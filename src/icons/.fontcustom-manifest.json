@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "6f06b7363d00bc572074c89c921faf4fe0d0c0829f1418944fa21f82bf6857c2",
-    "current": "6f06b7363d00bc572074c89c921faf4fe0d0c0829f1418944fa21f82bf6857c2"
+    "previous": "1d3fb79056bcfade5ccee9ba5f95ebd6d8529d11f74d4eb69fb290a0774f3f38",
+    "current": "1d3fb79056bcfade5ccee9ba5f95ebd6d8529d11f74d4eb69fb290a0774f3f38"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1962,6 +1962,10 @@
     "ravelry": {
       "codepoint": 62169,
       "source": "svg/ravelry.svg"
+    },
+    "react": {
+      "codepoint": 62210,
+      "source": "svg/react.svg"
     },
     "rebel": {
       "codepoint": 61904,
