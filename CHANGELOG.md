@@ -1,6 +1,12 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.0.11
+  - Adds icons: Dogmazic, React, Tipeee, Mastodon Square.
+  - Fix variable names for generated SCSS variables.
+  - Fix old reference to Font Awesome in SCSS variables.
+- v1.0.10
+  - Adding a few icons: Debian, Messenger, Freedombox
 - v1.0.9
   - Adding icons for Archive.org & Xmpp
   - Improving icons for QRcode & Barcode
