@@ -6892,3 +6892,11 @@ icons:
     url:        reactjs.org
     categories:
       - Brand Icons
+
+  - name:       Dogmazic
+    id:         dogmazic
+    unicode:    f303
+    created:    1.0
+    url:        dogmazic.net
+    categories:
+      - Brand Icons
