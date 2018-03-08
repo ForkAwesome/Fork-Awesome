@@ -25,8 +25,8 @@ forkawesome:
   minor_version:  1.0
   major_version:  1
   doc_blob:       v1.0.10
-  url:            http://forkawesome.github.com/Fork-Awesome/
-  legacy_url:     http://forkawesome.github.com/Fork-Awesome/
+  url:            http://forkawesome.github.io/Fork-Awesome/
+  legacy_url:     http://forkawesome.github.io/Fork-Awesome/
   css_prefix:     fa
   font_family:    ForkAwesome
   github:
