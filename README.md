@@ -10,7 +10,7 @@ A tremendous gratitude is given to the whole team behind [Font Awesome](https://
 Though If you believe in distributed open source design and wish to be part of this new adventure, please start submitting patches and suggestions of improvement.
 
 ## How to use
-There is a full page in our documentation website that explains [how to use Fork Awesome in your web project](http://forkawesome.github.com/Fork-Awesome/get-started/). It ranges from just pointing to a CSS file on a CDN, hosting it on your own server or even adapting the LESS and SCSS files to your own liking.
+There is a full page in our documentation website that explains [how to use Fork Awesome in your web project](http://forkawesome.github.io/Fork-Awesome/get-started/). It ranges from just pointing to a CSS file on a CDN, hosting it on your own server or even adapting the LESS and SCSS files to your own liking.
 
 ## License
 - The Fork Awesome font is licensed under the SIL OFL 1.1:
