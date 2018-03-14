@@ -20,36 +20,6 @@
     "type": "git",
     "url": "https://github.com/ForkAwesome/Fork-Awesome.git"
   },
-  "contributors": [
-    {
-      "name": "Dave Gandy",
-      "web": "http://twitter.com/davegandy"
-    },
-    {
-      "name": "Brian Talbot",
-      "web": "http://twitter.com/talbs"
-    },
-    {
-      "name": "Travis Chase",
-      "web": "http://twitter.com/supercodepoet"
-    },
-    {
-      "name": "Rob Madole",
-      "web": "http://twitter.com/robmadole"
-    },
-    {
-      "name": "Geremia Taglialatela",
-      "web": "http://twitter.com/gtagliala"
-    },
-    {
-      "name": "Julien Deswaef",
-      "web": "https://mastodon.social/@xuv"
-    },
-    {
-      "name": "Micah Ilbery",
-      "web": "https://mastodon.social/@micahilbery"
-    }
-  ],
   "license": "(OFL-1.1 AND MIT)",
   "dependencies": {},
   "devDependencies": {
