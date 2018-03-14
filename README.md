@@ -1,6 +1,9 @@
 # Fork Awesome
 ### A fork of the iconic font and CSS toolkit
 
+[![CDN](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
+[![All Contributors](https://img.shields.io/badge/all_contributors-95-orange.svg?style=flat-square)](CONTRIBUTORS.md)
+
 Fork Awesome is a full suite of 705 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
 Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction Fort Awesome is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this incredible tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
@@ -25,6 +28,8 @@ There is a full page in our documentation website that explains [how to use Fork
 Please read through our [contributing guidelines](https://github.com/ForkAwesome/Fork-Awesome/blob/master/CONTRIBUTING.md).
 Included are directions for opening issues, coding standards, and notes on development.
 
+We also tke great pride in recognizing any contributions made to this project. Whether you've written a blogpost about it, fixed a typo in the documentation or submitted new icons or code patches, we will happily list you in our [contributors list](CONTRIBUTORS.md).
+
 ## Versioning
 
 Fork Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
@@ -41,9 +46,6 @@ And constructed with the following guidelines:
 * The project starts at version 1.0.0. All references to versions before the fork are named 0.4.7
 
 For more information on SemVer, please visit http://semver.org.
-
-## Original author of Font Awesome:
-- [Dave Gandy](https://github.com/davegandy)
 
 ## Component
 To include as a [component](https://github.com/componentjs/component), just run
@@ -87,7 +89,3 @@ Or serve it on a local server on http://localhost:7998/Fork-Awesome/:
 To deploy the project and documentation on GH pages:
 
     $ jgd -n
-
-## Badges
-
-[![](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
