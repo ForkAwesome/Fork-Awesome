@@ -58,56 +58,6 @@
       ]
     },
     {
-      "login": "xuv",
-      "name": "Julien Deswaef",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/192539?v=4",
-      "profile": "http://xuv.be",
-      "contributions": [
-        "code",
-        "design",
-        "doc",
-        "question"
-      ]
-    },
-    {
-      "login": "micahilbery",
-      "name": "Micah Ilbery",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/10608836?v=4",
-      "profile": "https://micahilbery.com/",
-      "contributions": [
-        "doc",
-        "design"
-      ]
-    },
-    {
-      "login": "tessus",
-      "name": "Helmut K. C. Tessarek",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/223439?v=4",
-      "profile": "https://evermeet.cx",
-      "contributions": [
-        "doc",
-        "code"
-      ]
-    },
-    {
-      "login": "jeromelebleu",
-      "name": "jeromelebleu",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/3597194?v=4",
-      "profile": "https://github.com/jeromelebleu",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "rummik",
-      "name": "Kimberly Zick",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/630909?v=4",
-      "profile": "https://zick.kim/",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "mathiasbynens",
       "name": "Mathias Bynens",
       "avatar_url": "https://avatars1.githubusercontent.com/u/81942?v=4",
@@ -841,11 +791,80 @@
         "doc"
       ]
     },
+
+    {
+      "login": "xuv",
+      "name": "Julien Deswaef",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/192539?v=4",
+      "profile": "http://xuv.be",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "question"
+      ]
+    },
+    {
+      "login": "n8willis",
+      "name": "n8willis",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2192132?v=4",
+      "profile": "https://github.com/n8willis",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "brendanhowell",
+      "name": "B. Howell",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1779453?v=4",
+      "profile": "http://wintermute.org/brendan",
+      "contributions": [
+        "ideas"
+      ]
+    },
     {
       "login": "algotruneman",
       "name": "Algot Runeman",
       "avatar_url": "https://avatars2.githubusercontent.com/u/1197187?v=4",
       "profile": "http://runeman.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "micahilbery",
+      "name": "Micah Ilbery",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10608836?v=4",
+      "profile": "https://micahilbery.com/",
+      "contributions": [
+        "doc",
+        "design"
+      ]
+    },
+    {
+      "login": "tessus",
+      "name": "Helmut K. C. Tessarek",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/223439?v=4",
+      "profile": "https://evermeet.cx",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "jeromelebleu",
+      "name": "jeromelebleu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3597194?v=4",
+      "profile": "https://github.com/jeromelebleu",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rummik",
+      "name": "Kimberly Zick",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/630909?v=4",
+      "profile": "https://zick.kim/",
       "contributions": [
         "doc"
       ]
