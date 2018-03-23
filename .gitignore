@@ -10,3 +10,6 @@ node_modules
 
 src/icons/forkawesome/
 src/scripts/
+
+*~
+*swp
