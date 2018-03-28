@@ -2,7 +2,7 @@
 ### A fork of the iconic font and CSS toolkit
 
 [![CDN](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-95-orange.svg?style=flat-square)](CONTRIBUTORS.md)
+[![All Contributors](https://img.shields.io/badge/all_contributors-97-orange.svg?style=flat-square)](CONTRIBUTORS.md)
 
 Fork Awesome is a full suite of 705 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
