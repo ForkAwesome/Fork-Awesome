@@ -791,7 +791,6 @@
         "doc"
       ]
     },
-
     {
       "login": "xuv",
       "name": "Julien Deswaef",
@@ -876,6 +875,24 @@
       "profile": "http://blog.niqnutn.com/",
       "contributions": [
         "blog",
+        "plugin"
+      ]
+    },
+    {
+      "login": "leosuncin",
+      "name": "Jaime Leonardo Suncin Cruz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4307697?v=4",
+      "profile": "https://github.com/leosuncin",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "juliettef",
+      "name": "Juliette Foucaut",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1770233?v=4",
+      "profile": "https://www.enkisoftware.com",
+      "contributions": [
         "plugin"
       ]
     }
