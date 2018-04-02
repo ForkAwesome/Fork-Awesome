@@ -12,8 +12,21 @@ New icons mostly start as requests by the [Fork Awesome community on GitHub](../
 5. Please and thank you if you include the following:
   - Title your [new issue](../../issues/new?title=Icon%20Request:%20icon-) `Icon request: icon-name` (e.g., `Icon request: icon-car`).
   - Include a few use cases for your requested icon. How do you plan on using it?
-  - Attach a single color image or two that represent the idea you're going for.
+  - Attach or link to a single color image or two that represent the idea you're going for.
   - Request concrete objects: it's harder to make an icon to represent happiness, it's easier to make a smiley face. ☺
+
+
+## Adding a new icon
+
+Adding a new icon is a couple steps process that will require your attention and eyes for details. It might be a bit intimidating at the beginning, but should be easy to repeat once you've gone through it once or twice.
+
+0. Follow the [README.md](README.md#building-on-fork-awesome) to install the necessary tools.
+1. All icons are originally designed in SVG and fit in a grid (see `src/icons/icon-template-inkscape.svg` for a template for Inkscape).
+2. Most icons should fit a square that is centered vertically and aligned left in that template. (Try importing existing icons in that template to understand how they fit.)
+3. Design your icon in black only. No transparency. No gradient. Use simple shapes and forms. Note that it will be automatically transformed into a glyph. So if the design is complex, it might not show in the font as expected. Change a few things and try again if that happens.
+4. From the `src/icons` folder, use the `make` command to build the icon font. It will also generate a file called `src/icons/forkawesome/forkawesome-preview.html`. Open it with a browser and search your icon on the test page. This preview file will show you how your design behaves after conversion. It will also automatically associate a unicode code point for it. Be sure remember it.
+5. Once you are satisfied with your design and the preview of it. Add the icon name, unicode point and icon information at the bottom of the `src/icons/icons.yml` file. Look at other entries to see how it's done and to give it a proper classification.
+6. Once all this is done, commit your changes and make a pull request.
 
 
 ## Suggesting icon keyword addition/removal
@@ -47,16 +60,15 @@ We only accept issues that are icon requests, bug reports, or feature requests. 
 
 Fork Awesome's CSS, LESS, SCSS, and documentation are all powered by Jekyll templates and built before each commit and release.
 - `_config.yml` - much of the site is driven off variables from this file, including Font Awesome and Bootstrap versions
-- `src/` - All edits to documentation, LESS, SCSS, and CSS should be made to files and templates in this directory
-- `src/icons.yml` - all LESS, SCSS, and CSS icon definitions are driven off this single file
+- `src/doc/` - All edits to documentation, LESS, SCSS, and CSS should be made to files and templates in this directory
+- `src/icons/icons.yml` - all LESS, SCSS, and CSS icon definitions are driven off this single file
 
 
 ## Pull requests
 
-- Any changes to the docs must be made to the Liquid templates in the `src` directory
-- Any changes to the styles must be made to the .less and .scss files in the `src` directory
+- Any changes to the docs must be made to the Liquid templates in the `src/doc` directory
+- Any changes to the styles must be made to the .less and .scss files in the `src/doc` directory
 - If modifying the .less and .scss files, always recompile and commit the compiled files
-- Try not to pollute your pull request with unintended changes--keep them simple and small
 - Try to share which browsers your code has been tested in before submitting a pull request
 
 
