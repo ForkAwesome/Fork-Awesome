@@ -1834,6 +1834,52 @@ icons:
     categories:
       - Web Application Icons
 
+  - name:       Globe
+    id:         globe-e
+    unicode:    f304
+    created:    0.4
+    filter:
+      - world
+      - planet
+      - map
+      - place
+      - travel
+      - earth
+      - global
+      - translate
+      - all
+      - language
+      - localize
+      - location
+      - coordinates
+      - country
+      - eastern
+    categories:
+      - Web Application Icons
+      
+  - name:       Globe
+    id:         globe-w
+    unicode:    f305
+    created:    0.4
+    filter:
+      - world
+      - planet
+      - map
+      - place
+      - travel
+      - earth
+      - global
+      - translate
+      - all
+      - language
+      - localize
+      - location
+      - coordinates
+      - country
+      - western
+    categories:
+      - Web Application Icons
+
   - name:       Wrench
     id:         wrench
     unicode:    f0ad
