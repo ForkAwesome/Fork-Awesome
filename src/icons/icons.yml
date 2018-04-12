@@ -1856,7 +1856,7 @@ icons:
       - eastern
     categories:
       - Web Application Icons
-      
+
   - name:       Globe
     id:         globe-w
     unicode:    f305
@@ -6944,5 +6944,13 @@ icons:
     unicode:    f303
     created:    1.0
     url:        dogmazic.net
+    categories:
+      - Brand Icons
+
+  - name:       Zotero
+    id:         zotero
+    unicode:    f306
+    created:    1.1
+    url:        zotero.org
     categories:
       - Brand Icons
