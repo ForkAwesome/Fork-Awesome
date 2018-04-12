@@ -6954,3 +6954,11 @@ icons:
     url:        zotero.org
     categories:
       - Brand Icons
+
+  - name:       Nodejs
+    id:         nodejs
+    unicode:    f307
+    created:    1.1
+    url:        nodejs.org
+    categories:
+      - Brand Icons
