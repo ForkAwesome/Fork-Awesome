@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8d278f039cd648a071bed15966368df47b9231448ee63ef48d8298cf229e87d1",
-    "current": "8d278f039cd648a071bed15966368df47b9231448ee63ef48d8298cf229e87d1"
+    "previous": "ac00bab72106d29e87bd4611b91a455e3646ae11d2d2899e6c601fdffe47f047",
+    "current": "ac00bab72106d29e87bd4611b91a455e3646ae11d2d2899e6c601fdffe47f047"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2174,6 +2174,10 @@
     "signal": {
       "codepoint": 61458,
       "source": "svg/signal.svg"
+    },
+    "signalapp": {
+      "codepoint": 62220,
+      "source": "svg/signalapp.svg"
     },
     "simplybuilt": {
       "codepoint": 61973,

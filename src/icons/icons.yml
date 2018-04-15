@@ -6992,3 +6992,14 @@ icons:
     url:        laravel.com
     categories:
       - Brand Icons
+
+  - name:       Signal
+    id:         signalapp
+    unicode:    f30c
+    created:    1.1
+    url:        signal.org
+    filter:
+      - message
+      - texting
+    categories:
+      - Brand Icons
