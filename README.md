@@ -1,6 +1,7 @@
 # Fork Awesome
 ### A fork of the iconic font and CSS toolkit
 
+[![CDNJS](https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square)](https://cdnjs.com/libraries/fork-awesome)
 [![CDN](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
 [![All Contributors](https://img.shields.io/badge/all_contributors-97-orange.svg?style=flat-square)](CONTRIBUTORS.md)
 

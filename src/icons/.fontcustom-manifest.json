@@ -1748,8 +1748,16 @@
       "source": "svg/newspaper-o.svg"
     },
     "nodejs": {
-      "codepoint": 62215,
+      "codepoint": 62216,
       "source": "svg/nodejs.svg"
+    },
+    "nextcloud": {
+      "codepoint": 62214,
+      "source": "svg/nextcloud.svg"
+    },
+    "nextcloud-square": {
+      "codepoint": 62215,
+      "source": "svg/nextcloud-square.svg"
     },
     "object-group": {
       "codepoint": 62023,
@@ -2844,7 +2852,7 @@
       "source": "svg/youtube-square.svg"
     },
     "zotero": {
-      "codepoint": 62214,
+      "codepoint": 62217,
       "source": "svg/zotero.svg"
     }
   },
