@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "76abf4cd9fec6cf48d9f5a85231d17dc5730b00b4cb072e89881bbaab183ceba",
-    "current": "76abf4cd9fec6cf48d9f5a85231d17dc5730b00b4cb072e89881bbaab183ceba"
+    "previous": "178d1e7eb5d55c4ebd0d95501761402863b14576858f63343dc191cf8ea8b340",
+    "current": "178d1e7eb5d55c4ebd0d95501761402863b14576858f63343dc191cf8ea8b340"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1746,6 +1746,14 @@
     "newspaper-o": {
       "codepoint": 61930,
       "source": "svg/newspaper-o.svg"
+    },
+    "nextcloud": {
+      "codepoint": 62214,
+      "source": "svg/nextcloud.svg"
+    },
+    "nextcloud-square": {
+      "codepoint": 62215,
+      "source": "svg/nextcloud-square.svg"
     },
     "object-group": {
       "codepoint": 62023,
