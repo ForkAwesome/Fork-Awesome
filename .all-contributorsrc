@@ -644,7 +644,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/3691490?v=4",
       "profile": "https://www.peterdavehello.org/",
       "contributions": [
-        "doc"
+        "doc",
+        "platform"
       ]
     },
     {
@@ -847,7 +848,8 @@
       "profile": "https://evermeet.cx",
       "contributions": [
         "doc",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
@@ -894,6 +896,15 @@
       "profile": "https://www.enkisoftware.com",
       "contributions": [
         "plugin"
+      ]
+    },
+    {
+      "login": "QuadPiece",
+      "name": "Dominik V. Salonen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6379091?v=4",
+      "profile": "http://quad.moe/",
+      "contributions": [
+        "blog"
       ]
     }
   ]
