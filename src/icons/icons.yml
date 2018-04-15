@@ -6960,6 +6960,8 @@ icons:
     unicode:    f308
     created:    1.1
     url:        nodejs.org
+    categories:
+      - Brand Icons
 
   - name:       Nextcloud
     id:         nextcloud
@@ -6993,7 +6995,7 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Signal
+  - name:       Signal App
     id:         signalapp
     unicode:    f30c
     created:    1.1
