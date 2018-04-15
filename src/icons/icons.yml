@@ -6946,3 +6946,19 @@ icons:
     url:        dogmazic.net
     categories:
       - Brand Icons
+
+  - name:       Nextcloud
+    id:         nextcloud
+    unicode:    f306
+    created:    1.0
+    url:        nextcloud.com
+    categories:
+      - Brand Icons
+
+  - name:       Nextcloud Square
+    id:         nextcloud-square
+    unicode:    f307
+    created:    1.0
+    url:        nextcloud.com
+    categories:
+      - Brand Icons
