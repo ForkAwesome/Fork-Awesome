@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d1331d50e271e9079f4dbada701f02b6611d5e708beafd2b747549453df83853",
-    "current": "d1331d50e271e9079f4dbada701f02b6611d5e708beafd2b747549453df83853"
+    "previous": "4e913ab438ccda05ef2ffe34eb0911386be541d3663da7560a9d253ba00cdbe5",
+    "current": "4e913ab438ccda05ef2ffe34eb0911386be541d3663da7560a9d253ba00cdbe5"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1243,6 +1243,10 @@
       "codepoint": 61693,
       "source": "svg/h-square.svg"
     },
+    "hackaday": {
+      "codepoint": 62218,
+      "source": "svg/hackaday.svg"
+    },
     "hacker-news": {
       "codepoint": 61908,
       "source": "svg/hacker-news.svg"
@@ -1747,10 +1751,6 @@
       "codepoint": 61930,
       "source": "svg/newspaper-o.svg"
     },
-    "nodejs": {
-      "codepoint": 62216,
-      "source": "svg/nodejs.svg"
-    },
     "nextcloud": {
       "codepoint": 62214,
       "source": "svg/nextcloud.svg"
@@ -1758,6 +1758,10 @@
     "nextcloud-square": {
       "codepoint": 62215,
       "source": "svg/nextcloud-square.svg"
+    },
+    "nodejs": {
+      "codepoint": 62216,
+      "source": "svg/nodejs.svg"
     },
     "object-group": {
       "codepoint": 62023,

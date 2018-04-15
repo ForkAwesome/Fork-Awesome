@@ -6949,7 +6949,7 @@ icons:
 
   - name:       Zotero
     id:         zotero
-    unicode:    f306
+    unicode:    f309
     created:    1.1
     url:        zotero.org
     categories:
@@ -6957,14 +6957,14 @@ icons:
 
   - name:       Nodejs
     id:         nodejs
-    unicode:    f307
+    unicode:    f308
     created:    1.1
     url:        nodejs.org
 
   - name:       Nextcloud
     id:         nextcloud
     unicode:    f306
-    created:    1.0
+    created:    1.1
     url:        nextcloud.com
     categories:
       - Brand Icons
@@ -6972,7 +6972,15 @@ icons:
   - name:       Nextcloud Square
     id:         nextcloud-square
     unicode:    f307
-    created:    1.0
+    created:    1.1
     url:        nextcloud.com
+    categories:
+      - Brand Icons
+
+  - name:       Hackaday
+    id:         hackaday
+    unicode:    f30a
+    created:    1.1
+    url:        hackaday.com
     categories:
       - Brand Icons
