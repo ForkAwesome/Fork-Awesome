@@ -67,6 +67,7 @@ to the `dependencies` in your `component.json`.
 - Ruby Development Headers
   - **Ubuntu:** `sudo apt-get install ruby-dev` *(Only if you're __NOT__ using `rbenv` or `rvm`)*
   - **Windows:** [DevKit](http://rubyinstaller.org/)
+  - **macOS:** no extra step required
 - [Bundler](http://bundler.io/) (Run `gem install bundler` to install).
 - [Node Package Manager (aka. `npm`)](https://docs.npmjs.com/getting-started/installing-node)
 
@@ -83,7 +84,7 @@ Build the web documentation:
 
     $ npm run build
 
-Or serve it on a local server on http://localhost:7998/Fork-Awesome/:
+Or serve it on a local server (http://localhost:7998):
 
     $ npm run dev
 
