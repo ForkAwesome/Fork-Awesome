@@ -6984,3 +6984,11 @@ icons:
     url:        hackaday.com
     categories:
       - Brand Icons
+
+  - name:       Laravel
+    id:         laravel
+    unicode:    f30b
+    created:    1.1
+    url:        laravel.com
+    categories:
+      - Brand Icons

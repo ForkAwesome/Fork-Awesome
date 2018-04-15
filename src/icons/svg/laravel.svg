@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1792" viewBox="0 0 1536.0001 1792" id="svg5504">
+    <defs id="defs5506">
+        <clipPath id="a">
+            <path id="path3718" d="M0 195.911h208.792V0H0z"/>
+        </clipPath>
+        <filter id="filter5076">
+            <feGaussianBlur id="feGaussianBlur5078" stdDeviation=".158"/>
+        </filter>
+        <filter id="filter5084">
+            <feGaussianBlur id="feGaussianBlur5086" stdDeviation=".146"/>
+        </filter>
+        <filter id="filter5092">
+            <feGaussianBlur id="feGaussianBlur5094" stdDeviation=".146"/>
+        </filter>
+        <filter id="filter5096">
+            <feGaussianBlur id="feGaussianBlur5098" stdDeviation=".146"/>
+        </filter>
+        <filter id="filter5104">
+            <feGaussianBlur id="feGaussianBlur5106" stdDeviation=".114"/>
+        </filter>
+        <filter id="filter5112">
+            <feGaussianBlur id="feGaussianBlur5114" stdDeviation=".237"/>
+        </filter>
+        <filter id="filter5120">
+            <feGaussianBlur id="feGaussianBlur5122" stdDeviation=".237"/>
+        </filter>
+        <filter id="filter5144">
+            <feGaussianBlur id="feGaussianBlur5146" stdDeviation=".371"/>
+        </filter>
+        <filter id="filter5158">
+            <feGaussianBlur id="feGaussianBlur5160" stdDeviation=".371"/>
+        </filter>
+        <filter id="filter5205">
+            <feGaussianBlur id="feGaussianBlur5207" stdDeviation=".347"/>
+        </filter>
+        <filter id="filter5224">
+            <feGaussianBlur id="feGaussianBlur5226" stdDeviation=".413"/>
+        </filter>
+        <filter id="filter5232">
+            <feGaussianBlur id="feGaussianBlur5234" stdDeviation=".347"/>
+        </filter>
+        <filter id="filter5240">
+            <feGaussianBlur id="feGaussianBlur5242" stdDeviation=".343"/>
+        </filter>
+        <filter id="filter5264">
+            <feGaussianBlur id="feGaussianBlur5266" stdDeviation=".315"/>
+        </filter>
+        <filter id="filter5277">
+            <feGaussianBlur id="feGaussianBlur5279" stdDeviation=".315"/>
+        </filter>
+    </defs>
+    <style id="style3351">
+        .st0{fill:#fb503b}
+    </style>
+    <path id="path3353" d="M1862.946 853.906c-12.586-13.888-183.58-228.28-213.959-264.736-30.38-36.455-44.701-29.945-63.363-26.907-18.662 3.038-235.224 39.06-260.396 43.399-25.172 4.34-40.795 14.322-25.606 36.021 13.888 19.096 156.238 221.337 187.486 265.604l-566.362 135.84L471.13 290.15c-17.794-26.474-21.7-36.022-62.495-33.852-40.795 1.736-353.27 27.776-375.404 29.512-22.134 1.736-46.871 11.718-24.304 64.23 22.134 52.514 377.14 817.21 387.122 839.344 9.982 22.134 35.588 58.155 95.913 43.833 61.627-14.755 275.586-70.74 392.33-101.12 61.627 111.97 187.919 338.515 210.92 371.064 31.248 43.4 52.514 36.022 100.253 21.7 37.324-11.284 583.287-207.449 608.025-217.865 24.737-9.982 39.927-17.36 23.002-42.097-12.152-18.228-156.238-210.92-231.753-312.041 51.645-13.888 235.224-62.495 255.188-68.137 22.568-5.642 25.606-16.926 13.02-30.814zM833.514 1064.393c-6.944 1.302-323.76 77.25-340.685 81.157-16.926 3.906-16.926 1.736-18.662-3.906-1.736-5.642-377.14-779.452-382.348-789-5.208-9.548-4.774-17.36 0-17.36s299.455-26.473 309.871-26.907c10.416-.434 9.114 1.736 13.02 8.245 0 0 415.332 716.957 422.71 729.543 7.377 13.02 3.038 16.926-3.906 18.228zm894.46 167.521c5.208 7.812 9.982 13.02-5.642 18.662-16.058 5.642-536.85 181.41-546.832 185.75-9.981 4.34-18.227 5.641-31.247-13.02-13.02-18.662-182.277-312.042-182.277-312.042l552.04-143.651c13.887-4.34 18.227-7.378 26.907 6.51 8.68 13.887 181.843 249.98 187.051 257.791zm35.153-391.896c-12.585 2.604-215.26 52.948-215.26 52.948L1382.08 665.553c-4.774-6.51-8.68-13.02 3.038-14.756 11.718-1.736 200.071-35.587 208.317-37.323 8.68-1.736 16.058-4.34 26.474 9.982s153.633 195.73 159.275 202.675c5.642 6.944-3.472 11.283-16.058 13.887z" class="st0" stroke-width="4.34"/>
+</svg>
