@@ -1856,7 +1856,7 @@ icons:
       - eastern
     categories:
       - Web Application Icons
-      
+
   - name:       Globe
     id:         globe-w
     unicode:    f305
@@ -6960,5 +6960,13 @@ icons:
     unicode:    f307
     created:    1.0
     url:        nextcloud.com
+    categories:
+      - Brand Icons
+
+  - name:       GnuPG
+    id:         gnupg
+    unicode:    f308
+    created:    1.0
+    url:        gnupg.org
     categories:
       - Brand Icons
