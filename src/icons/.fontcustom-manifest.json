@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "9d20b64ede505c7e22d1b337079af516ba6e5a3876388182ebbe4cf4b549a1a4",
-    "current": "9d20b64ede505c7e22d1b337079af516ba6e5a3876388182ebbe4cf4b549a1a4"
+    "previous": "5ba8f7738f5ba72f24cefb1362ac0a1ac22cccd5d7054192255cd1d3c3e32d5c",
+    "current": "5ba8f7738f5ba72f24cefb1362ac0a1ac22cccd5d7054192255cd1d3c3e32d5c"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -946,6 +946,10 @@
     "female": {
       "codepoint": 61826,
       "source": "svg/female.svg"
+    },
+    "ffmpeg": {
+      "codepoint": 62223,
+      "source": "svg/ffmpeg.svg"
     },
     "fighter-jet": {
       "codepoint": 61691,

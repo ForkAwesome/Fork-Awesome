@@ -6977,7 +6977,6 @@ icons:
     categories:
       - Brand Icons
 
-<<<<<<< HEAD
   - name:       Hackaday
     id:         hackaday
     unicode:    f30a
@@ -7016,5 +7015,13 @@ icons:
     unicode:    f30e
     created:    1.0
     url:        php.net
+    categories:
+      - Brand Icons
+
+  - name:       FFmpeg
+    id:         ffmpeg
+    unicode:    f30f
+    created:    1.0
+    url:        ffmpeg.org
     categories:
       - Brand Icons
