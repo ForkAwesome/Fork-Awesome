@@ -6977,6 +6977,7 @@ icons:
     categories:
       - Brand Icons
 
+<<<<<<< HEAD
   - name:       Hackaday
     id:         hackaday
     unicode:    f30a
@@ -7001,5 +7002,11 @@ icons:
     filter:
       - message
       - texting
+
+  - name:       GnuPG
+    id:         gnupg
+    unicode:    f30d
+    created:    1.0
+    url:        gnupg.org
     categories:
       - Brand Icons
