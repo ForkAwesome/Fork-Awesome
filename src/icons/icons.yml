@@ -7010,3 +7010,11 @@ icons:
     url:        gnupg.org
     categories:
       - Brand Icons
+
+  - name:       PHP
+    id:         php
+    unicode:    f30e
+    created:    1.0
+    url:        php.net
+    categories:
+      - Brand Icons
