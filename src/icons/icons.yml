@@ -7025,3 +7025,11 @@ icons:
     url:        ffmpeg.org
     categories:
       - Brand Icons
+
+  - name:       Joplin
+    id:         joplin
+    unicode:    f310
+    created:    1.0
+    url:        joplin.cozic.net
+    categories:
+      - Brand Icons

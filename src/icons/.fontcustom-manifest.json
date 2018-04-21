@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5ba8f7738f5ba72f24cefb1362ac0a1ac22cccd5d7054192255cd1d3c3e32d5c",
-    "current": "5ba8f7738f5ba72f24cefb1362ac0a1ac22cccd5d7054192255cd1d3c3e32d5c"
+    "previous": "f6963b0f9c649dae728eeff6dcf59e421df8050ec8660578eed92b180be55c0f",
+    "current": "f6963b0f9c649dae728eeff6dcf59e421df8050ec8660578eed92b180be55c0f"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1446,6 +1446,10 @@
     "joomla": {
       "codepoint": 61866,
       "source": "svg/joomla.svg"
+    },
+    "joplin": {
+      "codepoint": 62224,
+      "source": "svg/joplin.svg"
     },
     "jpy": {
       "codepoint": 61783,
