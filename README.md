@@ -59,7 +59,7 @@ Or add
 
 to the `dependencies` in your `component.json`.
 
-## Building on Fork Awesome
+## Building Fork Awesome
 
 **Before you can build the project**, you must first have the following installed:
 
