@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ac00bab72106d29e87bd4611b91a455e3646ae11d2d2899e6c601fdffe47f047",
-    "current": "ac00bab72106d29e87bd4611b91a455e3646ae11d2d2899e6c601fdffe47f047"
+    "previous": "5ba8f7738f5ba72f24cefb1362ac0a1ac22cccd5d7054192255cd1d3c3e32d5c",
+    "current": "5ba8f7738f5ba72f24cefb1362ac0a1ac22cccd5d7054192255cd1d3c3e32d5c"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -947,6 +947,10 @@
       "codepoint": 61826,
       "source": "svg/female.svg"
     },
+    "ffmpeg": {
+      "codepoint": 62223,
+      "source": "svg/ffmpeg.svg"
+    },
     "fighter-jet": {
       "codepoint": 61691,
       "source": "svg/fighter-jet.svg"
@@ -1206,6 +1210,10 @@
     "gnu-social": {
       "codepoint": 62183,
       "source": "svg/gnu-social.svg"
+    },
+    "gnupg": {
+      "codepoint": 62221,
+      "source": "svg/gnupg.svg"
     },
     "google": {
       "codepoint": 61856,
@@ -1878,6 +1886,10 @@
     "phone-square": {
       "codepoint": 61592,
       "source": "svg/phone-square.svg"
+    },
+    "php": {
+      "codepoint": 62222,
+      "source": "svg/php.svg"
     },
     "picture-o": {
       "codepoint": 61502,

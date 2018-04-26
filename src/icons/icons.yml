@@ -7003,5 +7003,27 @@ icons:
     filter:
       - message
       - texting
+
+  - name:       GnuPG
+    id:         gnupg
+    unicode:    f30d
+    created:    1.0
+    url:        gnupg.org
+    categories:
+      - Brand Icons
+
+  - name:       PHP
+    id:         php
+    unicode:    f30e
+    created:    1.0
+    url:        php.net
+    categories:
+      - Brand Icons
+
+  - name:       FFmpeg
+    id:         ffmpeg
+    unicode:    f30f
+    created:    1.0
+    url:        ffmpeg.org
     categories:
       - Brand Icons
