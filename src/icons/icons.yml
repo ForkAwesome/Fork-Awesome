@@ -1815,7 +1815,7 @@ icons:
   - name:       Globe
     id:         globe
     unicode:    f0ac
-    created:    0.4
+    created:    1.1
     filter:
       - world
       - planet
@@ -1837,7 +1837,7 @@ icons:
   - name:       Globe
     id:         globe-e
     unicode:    f304
-    created:    0.4
+    created:    1.1
     filter:
       - world
       - planet
@@ -1860,7 +1860,7 @@ icons:
   - name:       Globe
     id:         globe-w
     unicode:    f305
-    created:    0.4
+    created:    1.1
     filter:
       - world
       - planet
