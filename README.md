@@ -1,11 +1,11 @@
 # Fork Awesome
 ### A fork of the iconic font and CSS toolkit
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-98-orange.svg?style=flat-square)](CONTRIBUTORS.md)
+[![JSDeliver](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
 [![CDNJS](https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square)](https://cdnjs.com/libraries/fork-awesome)
-[![CDN](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-97-orange.svg?style=flat-square)](CONTRIBUTORS.md)
 
-Fork Awesome is a full suite of 705 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
+Fork Awesome is a full suite of 717 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
 Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction [Fort Awesome](https://fortawesome.com/) is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this incredible tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
 
@@ -59,7 +59,7 @@ Or add
 
 to the `dependencies` in your `component.json`.
 
-## Building on Fork Awesome
+## Building Fork Awesome
 
 **Before you can build the project**, you must first have the following installed:
 
@@ -84,7 +84,7 @@ Build the web documentation:
 
     $ npm run build
 
-Or serve it on a local server (http://localhost:7998):
+Or serve it on a local server on http://localhost:7998:
 
     $ npm run dev
 
