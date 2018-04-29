@@ -19,8 +19,8 @@ module Jekyll
 
       self.process(@name)
 
-      self.read_yaml(File.join(base, site.config['layouts']), site.config['icon_layout'])
-
+      self.read_yaml(File.join(base, site.config['layouts_dir']), site.config['icon_layout'])
+      
       self.data['icon'] = icon
       self.data['title'] = "fa-#{icon.id}: " + self.data['title_suffix']
     end

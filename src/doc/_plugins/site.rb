@@ -128,7 +128,7 @@ module Jekyll
       {
         "site"       => self.config.merge({
           "time"       => self.time,
-          "posts"      => self.posts.sort { |a, b| b <=> a },
+          "posts"      => self.posts.docs.sort { |a, b| b <=> a },
           "pages"      => self.pages,
           "html_pages" => self.pages.reject { |page| !page.html? },
           "categories" => post_attr_hash('categories'),

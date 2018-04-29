@@ -33,7 +33,7 @@
   },
   "scripts": {
     "build": "bundle exec jekyll build",
-    "dev": "bundle exec jekyll -w serve",
+    "dev": "bundle exec jekyll serve -w",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"
   },
