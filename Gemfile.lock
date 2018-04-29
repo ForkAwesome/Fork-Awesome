@@ -69,10 +69,10 @@ PLATFORMS
 
 DEPENDENCIES
   fontcustom
-  jekyll (>= 1.0)
-  libv8 (>= 3.16.14.0)
-  safe_yaml (>= 1.0.4)
-  sass (>= 3.0)
+  jekyll (~> 3.7)
+  libv8 (~> 3.16.14.19)
+  safe_yaml (~> 1.0.4)
+  sass (~> 3.5)
   therubyracer
 
 BUNDLED WITH
