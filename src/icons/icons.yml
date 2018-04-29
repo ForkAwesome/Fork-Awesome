@@ -7007,7 +7007,7 @@ icons:
   - name:       GnuPG
     id:         gnupg
     unicode:    f30d
-    created:    1.0
+    created:    1.1
     url:        gnupg.org
     categories:
       - Brand Icons
@@ -7015,7 +7015,7 @@ icons:
   - name:       PHP
     id:         php
     unicode:    f30e
-    created:    1.0
+    created:    1.1
     url:        php.net
     categories:
       - Brand Icons
@@ -7023,7 +7023,7 @@ icons:
   - name:       FFmpeg
     id:         ffmpeg
     unicode:    f30f
-    created:    1.0
+    created:    1.1
     url:        ffmpeg.org
     categories:
       - Brand Icons
