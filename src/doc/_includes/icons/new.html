@@ -1,18 +1,16 @@
 <section id="new">
-  {% assign icons_v1_0 = icons | version:1.0 %}
-  {% assign icons_v1 = icons | version:1.1 | concat: icons_v1_0 %}
+  {% assign version = 1.0 %}
+  {% assign icons_new = icons | where_exp:"icon", "icon.created >= version" | sort_by:'class' %}
 
-  <h2 class="page-header">{{ icons_v1 | size }} New Icons since {{ site.forkawesome.major_version }}.0.0</h2>
+  <h2 class="page-header">{{ icons_new | size }} New Icons since {{ version }}</h2>
   {% if page.navbar_active != "icons" %}
     <div class="margin-botom-large">
-      You asked, {{ site.forkawesome.name }} delivers with {{ icons | version:site.forkawesome.minor_version | size }} shiny new icons in version {{ site.forkawesome.minor_version }}.
+      You asked, {{ site.forkawesome.name }} delivers with {{ icons_new | size }} shiny new icons in version {{ version }}.
       Want to request new icons? <a href="{{ page.relative_path }}community/#requesting-new-icons">Here's how</a>.
     </div>
   {% endif %}
 
   <div class="row fontawesome-icon-list">
-    {% assign icons_new = icons | expand_aliases | version:1.0 | sort_by:'class' %}
-
     {% for icon in icons_new %}
       <div class="fa-hover col-md-3 col-sm-4"><a href="{{ page.relative_path }}icon/{{ icon.id }}"><i class="fa fa-{{ icon.class }}" aria-hidden="true"></i> <span class="sr-only">Example of </span>{{ icon.class }}{% if icon.alias_of %} <span class="text-muted">(alias)</span>{% endif %}</a></div>
     {% endfor %}
