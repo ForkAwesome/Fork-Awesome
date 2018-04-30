@@ -19,6 +19,20 @@
   <link rel="stylesheet" href="{{ page.relative_path }}assets/css/share.min.css">
   <link rel="stylesheet" href="{{ page.relative_path }}assets/fork-awesome/css/fork-awesome.css">
 
+  <!-- Twitter
+  ================================================== -->
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% endif %}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:description" content="Fork Awesome, a fork of the iconic font and CSS toolkit">
+  <meta name="twitter:image" content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg">
+
+  <!-- FACEBOOK
+  ================================================== -->
+  <meta property="og:url" content="https://forkawesome.github.io/Fork-Awesome/">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}">
+  <meta name="description" property="og:description" content="Fork Awesome, a fork of the iconic font and CSS toolkit" />
+  <meta property="og:image" content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg">
+
   <!--[if lt IE 9]>
     <script src="{{ page.relative_path }}assets/js/html5shiv.js"></script>
     <script src="{{ page.relative_path }}assets/js/respond.min.js"></script>
