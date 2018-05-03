@@ -2,6 +2,7 @@
   "plugins": [
     { "removeAttrs": { "attrs": "(glyph-name|unicode)" } },
     { "removeScriptElement": true },
-    { "removeRasterImages": true }
+    { "removeRasterImages": true },
+    { "removeViewBox": false }
   ]
 }

@@ -3,7 +3,7 @@ FA_FONTCUSTOM_OUTPUT_DIR = ./forkawesome
 
 build:
 	@echo "Cleaning up SVG files..."
-	svgo --quiet --pretty --config=svgo_config.json --folder=svg
+	npx svgo --quiet --pretty --config=svgo_config.json --folder=svg
 
 	@echo "Compiling Icons into a ForkAwesome fonts..."
 	bundle exec fontcustom compile
