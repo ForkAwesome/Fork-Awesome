@@ -1,6 +1,10 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.1.0
+  - Upgrade of build tools to latest versions ( Jekyll & svgo mainly)
+  - Change of Globe icon to be more world friendly
+  - Adds more icons: more globes (east & west views), zotero, nodejs, nextcloud, hackaday, laravel, signal, gnupg, php, ffmpeg amd joplin.
 - v1.0.11
   - Adds icons: Dogmazic, React, Tipeee, Mastodon Square.
   - Fix variable names for generated SCSS variables.
