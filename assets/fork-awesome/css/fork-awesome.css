@@ -1,13 +1,13 @@
 /*!
- *  Fork Awesome 1.0.11, originaly by Dave Gandy - http://forkawesome.github.io/Fork-Awesome/
+ *  Fork Awesome 1.1.0, originaly by Dave Gandy - http://forkawesome.github.io/Fork-Awesome/
  *  License - http://forkawesome.github.io/Fork-Awesome//license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
  * -------------------------- */
 @font-face {
   font-family: 'ForkAwesome';
-  src: url('../fonts/forkawesome-webfont.eot?v=1.0.11');
-  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.0.11') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.0.11') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.0.11') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.0.11') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.0.11#forkawesomeregular') format('svg');
+  src: url('../fonts/forkawesome-webfont.eot?v=1.1.0');
+  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.1.0') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.1.0') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.1.0') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.1.0') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.1.0#forkawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -682,6 +682,12 @@
 }
 .fa-globe:before {
   content: "\f0ac";
+}
+.fa-globe-e:before {
+  content: "\f304";
+}
+.fa-globe-w:before {
+  content: "\f305";
 }
 .fa-wrench:before {
   content: "\f0ad";
@@ -2409,6 +2415,39 @@
 }
 .fa-dogmazic:before {
   content: "\f303";
+}
+.fa-zotero:before {
+  content: "\f309";
+}
+.fa-nodejs:before {
+  content: "\f308";
+}
+.fa-nextcloud:before {
+  content: "\f306";
+}
+.fa-nextcloud-square:before {
+  content: "\f307";
+}
+.fa-hackaday:before {
+  content: "\f30a";
+}
+.fa-laravel:before {
+  content: "\f30b";
+}
+.fa-signalapp:before {
+  content: "\f30c";
+}
+.fa-gnupg:before {
+  content: "\f30d";
+}
+.fa-php:before {
+  content: "\f30e";
+}
+.fa-ffmpeg:before {
+  content: "\f30f";
+}
+.fa-joplin:before {
+  content: "\f310";
 }
 .sr-only {
   position: absolute;

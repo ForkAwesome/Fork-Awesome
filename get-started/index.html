@@ -19,6 +19,20 @@
   <link rel="stylesheet" href="../assets/css/share.min.css">
   <link rel="stylesheet" href="../assets/fork-awesome/css/fork-awesome.css">
 
+  <!-- Twitter
+  ================================================== -->
+  <meta name="twitter:title" content="Get Started with Fork Awesome">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:description" content="Fork Awesome, a fork of the iconic font and CSS toolkit">
+  <meta name="twitter:image" content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg">
+
+  <!-- FACEBOOK
+  ================================================== -->
+  <meta property="og:url" content="https://forkawesome.github.io/Fork-Awesome/">
+  <meta property="og:title" content="Get Started with Fork Awesome">
+  <meta name="description" property="og:description" content="Fork Awesome, a fork of the iconic font and CSS toolkit" />
+  <meta property="og:image" content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg">
+
   <!--[if lt IE 9]>
     <script src="../assets/js/html5shiv.js"></script>
     <script src="../assets/js/respond.min.js"></script>
@@ -121,7 +135,7 @@
   <div class="container">
     
     <h1><i class="fa fa-cogs" aria-hidden="true"></i>&nbsp; Get Started</h1>
-    <p>Easy ways to get Fork Awesome 1.0.11 onto your website</p>
+    <p>Easy ways to get Fork Awesome 1.1.0 onto your website</p>
     
   </div>
 </div>
@@ -130,26 +144,27 @@
 <div class="container">
   <section class="get-started-CDN margin-top-lg" id="get-started-CDN">
     <h2 class="page-header clearfix">
-      Use a CDN for Fork Awesome
-      <span class="label label-default text-base pull-right">simple</span>
+      Use a CDN
     </h2>
 
     <div class="row">
       <div class="col-md-12">
         <p>The simplest way to get Fork Awesome in your project is to copy the line below in between the <code>&lt;head&gt;</code> tags of your HTML source files. Then check the <a href="../examples/">examples</a> to start displaying icons.
         <p>
-<div class="highlight"><pre><code class="html"><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href=</span><span class="s">&quot;https://cdn.jsdelivr.net/npm/fork-awesome@1.0.11/css/fork-awesome.min.css&quot;</span> <span class="na">integrity=</span><span class="s">&quot;sha256-MGU/JUq/40CFrfxjXb5pZjpoZmxiP2KuICN5ElLFNd8=&quot;</span> <span class="na">crossorigin=</span><span class="s">&quot;anonymous&quot;</span><span class="nt">&gt;</span>
-</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"https://cdn.jsdelivr.net/npm/fork-awesome@1.1.0/css/fork-awesome.min.css"</span> <span class="na">integrity=</span><span class="s">"sha256-sX8HLspqYoXVPetzJRE4wPhIhDBu2NB0kYpufzkQSms="</span> <span class="na">crossorigin=</span><span class="s">"anonymous"</span><span class="nt">&gt;</span></code></pre></figure>
         </p>
         <p>Thanks to <a href="https://www.jsdelivr.com/package/npm/fork-awesome">jsDelivr</a> for providing the CDN for Fork Awesome</p>
       </div>
     </div>
   </section>
 
+  <div class="hr margin-top-xl">
+    <span class="hr-text text-xl text-muted">or</span>
+  </div>
+
   <section class="get-started-download" id="get-started-download">
     <h2 class="page-header clearfix">
       Download &amp; Customize
-      <span class="label label-default text-base pull-right">Easy</span>
     </h2>
 
     <div class="row">
@@ -175,8 +190,7 @@
         <li>Copy the entire <code>fork-awesome</code> directory into your project.</li>
         <li>
           In the <code>&lt;head&gt;</code> of your html, reference the location to your font-awesome.min.css.
-<div class="highlight"><pre><code class="html"><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href=</span><span class="s">&quot;path/to/fork-awesome/css/fork-awesome.min.css&quot;</span><span class="nt">&gt;</span>
-</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"path/to/fork-awesome/css/fork-awesome.min.css"</span><span class="nt">&gt;</span></code></pre></figure>
         </li>
         <li>Check out the <a href="../examples/">examples</a> to start using Fork Awesome!</li>
       </ol>
@@ -185,14 +199,13 @@
     <div class="download-preprocessors" id="download-preprocessors">
       <h3>Using Sass or Less</h3>
 
-      <p>Use this method to customize Fork Awesome 1.0.11 using Less or Sass.</p>
+      <p>Use this method to customize Fork Awesome 1.1.0 using Less or Sass.</p>
       <ol>
         <li>Copy the <code>fork-awesome/</code> directory into your project.</li>
         <li>
           Open your project's <code>fork-awesome/less/variables.less</code> or <code>fork-awesome/scss/_variables.scss</code> and edit the <code>@fa-font-path</code> or <code>$fa-font-path</code>
           variable to point to your font directory.
-<div class="highlight"><pre><code class="scss"><span class="k">@fa-font-path</span><span class="nd">:</span>   <span class="s2">&quot;../font&quot;</span><span class="o">;</span>
-</code></pre></div>
+<figure class="highlight"><pre><code class="language-scss" data-lang="scss"><span class="k">@fa-font-path</span><span class="nd">:</span>   <span class="s2">"../font"</span><span class="p">;</span></code></pre></figure>
           <p class="alert alert-success"><i class="fa fa-info-circle"></i> The font path is relative from your compiled CSS directory.</p>
         </li>
         <li>Re-compile your Less or Sass if using a static compiler. Otherwise, you should be good to go.</li>
@@ -200,6 +213,26 @@
       </ol>
     </div>
   </section>
+
+  <div class="hr margin-top-xl">
+    <span class="hr-text text-xl text-muted">or</span>
+  </div>
+
+  <section class="get-started-Cpp margin-top-lg" id="get-started-Cpp">
+    <h2 class="page-header clearfix">
+      Use Fork Awesome in your C or C++ applications
+    </h2>
+
+    <div class="row">
+      <div class="col-md-12">
+        <p>Juliette Foucault has created a little library called <a href="https://github.com/juliettef/IconFontCppHeaders">IconFontCppHeaders</a> to help use a few icon fonts in your C or C++ projects and Fork Awesome is part of it.</p>
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp">#include "IconsForkAwesome.h"</span></code></pre></figure>
+      </div>
+    </div>
+  </section>
+
+  <div class="hr margin-top-xl">
+  </div>
 
   <section class="get-started-more margin-top-lg" id="get-started-more">
     <h2 class="page-header">More Information</h2>
@@ -224,7 +257,7 @@
 
       <h4>Need IE7 Support?</h4>
       <p>
-        Sorry, Fork Awesome 1.0.11
+        Sorry, Fork Awesome 1.1.0
         doesn't support IE7, but an older version of Font Awesome does (v3.2.1, if you can still find it).
       </p>
     </div>
@@ -242,8 +275,8 @@
         </h2>
       </div>
       <div class="modal-body">
-        <a class="btn btn-primary btn-lg btn-block" href="https://github.com/ForkAwesome/Fork-Awesome/archive/1.0.11.zip">
-          Fork Awesome 1.0.11
+        <a class="btn btn-primary btn-lg btn-block" href="https://github.com/ForkAwesome/Fork-Awesome/archive/1.1.0.zip">
+          Fork Awesome 1.1.0
         </a>
         <div class="row margin-bottom-lg margin-top-lg">
           <div class="col-md-12 text-center">
@@ -261,7 +294,7 @@
   <footer id="footer" class="footer hidden-print">
   <div class="container text-center">
     <div>
-      <i class="fa fa-fork" aria-hidden="true"></i> Fork Awesome 1.0.11
+      <i class="fa fa-fork" aria-hidden="true"></i> Fork Awesome 1.1.0
       <span class="hide-xs">&middot;</span><br class="hide-sm hide-md hide-lg">
       A fork of Font Awesome, originally created by <a href="https://twitter.com/davegandy">Dave Gandy</a>
     </div>
