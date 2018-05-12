@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-5-2: Created with FontForge (http://fontforge.org)
+2018-5-12: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Wed May  2 21:40:38 2018
+Created by FontForge 20180321 at Sat May 12 14:32:04 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F30F"
+    unicode-range="U+0020-F310"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2360,6 +2360,10 @@ c0 -17 -15 -32 -32 -32h-1216c-17 0 -32 15 -32 32v192c0 17 15 32 32 32h1216c17 0 
     <glyph glyph-name="play-circle-o" unicode="&#xf01d;" 
 d="M1184 640c0 -23 -12 -44 -32 -55l-544 -320c-10 -6 -21 -9 -32 -9s-22 3 -32 8c-20 12 -32 33 -32 56v640c0 23 12 44 32 56c20 11 45 11 64 -1l544 -320c20 -11 32 -32 32 -55zM1312 640c0 300 -244 544 -544 544s-544 -244 -544 -544s244 -544 544 -544
 s544 244 544 544zM1536 640c0 -424 -344 -768 -768 -768s-768 344 -768 768s344 768 768 768s768 -344 768 -768z" />
+    <glyph glyph-name="joplin" unicode="&#xf310;" 
+d="M288 1408h960c159 0 288 -129 288 -288v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288zM737 1171v-148l43 -1c59 -2 70 -6 81 -30c4 -10 5 -13 5 -296c0 -323 0 -323 -16 -362c-16 -38 -48 -69 -87 -83
+c-13 -5 -21 -5 -43 -6c-33 -1 -53 2 -80 15c-30 14 -50 37 -62 69c-9 24 -10 34 -12 88c-2 51 -1 56 -7 70c-9 23 -25 45 -40 56c-24 18 -49 24 -87 22c-40 -2 -68 -13 -95 -41c-23 -23 -35 -44 -44 -75c-4 -15 -5 -23 -5 -54c0 -38 1 -46 11 -79c26 -82 92 -156 178 -199
+c46 -23 85 -35 155 -44v0c20 -3 119 -3 142 0c87 10 150 32 208 71c73 49 127 125 142 199c8 40 9 47 10 343l1 291l6 13c6 15 15 24 29 28c5 2 28 3 52 4l43 1v74l-1 73l-263 1h-264z" />
     <glyph glyph-name="mars-stroke" unicode="&#xf229;" 
 d="M1472 1408c35 0 64 -29 64 -64v-416c0 -18 -14 -32 -32 -32h-64c-18 0 -32 14 -32 32v262l-213 -214l140 -140c12 -13 12 -33 0 -45l-46 -46c-12 -12 -32 -12 -45 0l-140 141l-78 -79c79 -98 126 -223 126 -359c0 -318 -258 -576 -576 -576s-576 258 -576 576
 s258 576 576 576c136 0 261 -47 359 -126l78 78l-172 172c-12 13 -12 33 0 45l46 46c12 12 32 12 45 0l172 -172l213 213h-261c-18 0 -32 14 -32 32v64c0 18 14 32 32 32h416zM576 0c247 0 448 201 448 448s-201 448 -448 448s-448 -201 -448 -448s201 -448 448 -448z" />

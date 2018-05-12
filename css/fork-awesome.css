@@ -2446,6 +2446,9 @@
 .fa-ffmpeg:before {
   content: "\f30f";
 }
+.fa-joplin:before {
+  content: "\f310";
+}
 .sr-only {
   position: absolute;
   width: 1px;
