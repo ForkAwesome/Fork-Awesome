@@ -20,7 +20,7 @@ New icons mostly start as requests by the [Fork Awesome community on GitHub](../
 
 Adding a new icon is a couple steps process that will require your attention and eyes for details. It might be a bit intimidating at the beginning, but should be easy to repeat once you've gone through it once or twice.
 
-0. Follow the [README.md](README.md#building-on-fork-awesome) to install the necessary tools.
+0. Follow the [README.md](README.md#building-fork-awesome) to install the necessary tools.
 1. All icons are originally designed in SVG and fit in a grid (see `src/icons/icon-template-inkscape.svg` for a template for Inkscape).
 2. Most icons should fit a square that is centered vertically and aligned left in that template. (Try importing existing icons in that template to understand how they fit.)
 3. Design your icon in black only. No transparency. No gradient. Use simple shapes and forms. Note that it will be automatically transformed into a glyph. So if the design is complex, it might not show in the font as expected. Change a few things and try again if that happens.
