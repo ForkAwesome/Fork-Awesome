@@ -1,0 +1,10 @@
+language:
+  - ruby
+  - node_js
+
+install:
+  - bundle install
+  - npm install
+
+script:
+  - npm run build
