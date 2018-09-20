@@ -8,3 +8,8 @@ install:
 
 script:
   - npm run build
+
+# blocklist
+branches:
+  except:
+  - gh-pages
