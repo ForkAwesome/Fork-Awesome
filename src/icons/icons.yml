@@ -1705,8 +1705,8 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       bell
-    id:         bell
+  - name:       Bell Outlined
+    id:         bell-o
     unicode:    f0f3
     created:    0.4
     filter:
@@ -2491,8 +2491,8 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       Bell Outlined
-    id:         bell-o
+  - name:       Bell
+    id:         bell
     unicode:    f0a2
     created:    0.4
     filter:
