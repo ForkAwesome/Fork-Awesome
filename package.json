@@ -23,10 +23,10 @@
   "license": "(OFL-1.1 AND MIT)",
   "dependencies": {},
   "devDependencies": {
-    "all-contributors-cli": "^4.11.0",
-    "less": "^2.7.2",
+    "all-contributors-cli": "^4.11.2",
+    "less": "^2.7.3",
     "less-plugin-clean-css": "^1.5.1",
-    "svgo": "^1.0.4"
+    "svgo": "^1.1.1"
   },
   "engines": {
     "node": ">=0.10.3"
