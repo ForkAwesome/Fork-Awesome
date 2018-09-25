@@ -30,13 +30,13 @@ build:
 
 	@echo "Moving CSS, LESS & SASS to /"
 	cp -r ${FA_ROOT_DIRECTORY}/ ../
-	mv ../scss/fork-awesome.scss.txt ../scss/fork-awesome.scss
+	mv "../scss/fork-awesome.scss.txt" "../scss/fork-awesome.scss"
 
 	@echo "Moving font files to assets"
-	cp -r ../fonts ${FA_ROOT_DIRECTORY}/
+	cp -r "../fonts" ${FA_ROOT_DIRECTORY}/
 
 	@echo "Updating Readme"
-	mv README.md-nobuild ../README.md
+	mv "README.md-nobuild" "../README.md"
 
 default: build
 
