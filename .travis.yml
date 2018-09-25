@@ -18,6 +18,12 @@ deploy:
     on:
       branch: master
       tags: true
+  - provider: npm
+    email: $NPM_EMAIL
+    api_key: $NPM_TOKEN
+    on:
+      branch: master
+      tags: true
 
 # blocklist
 branches:
