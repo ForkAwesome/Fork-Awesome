@@ -15,9 +15,9 @@ deploy:
     github-token: $GITHUB_TOKEN
     keep-history: true
     local-dir: _site
-    target-branch: gh-pages-test 
     on:
       branch: master
+      tags: true
 
 # blocklist
 branches:
