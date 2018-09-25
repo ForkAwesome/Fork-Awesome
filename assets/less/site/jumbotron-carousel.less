@@ -6,6 +6,7 @@
   line-height: @size + 30;
   text-shadow: 0 2px 0 rgba(0,0,0,0.15);
 }
+
 .carousel-control {
   top: @size + 10px;
   .square(30px);
@@ -22,7 +23,6 @@
     filter: none;
   }
 }
-
 
 .jumbotron-carousel {
   padding-top: 40px;
@@ -66,6 +66,10 @@
       border-color: @fa-green-dark;
       background: @fa-green-dark;
       color: @jumbotron-color;
+    }
+
+    &.carousel-control:hover {
+        background: none;
     }
   }
 }

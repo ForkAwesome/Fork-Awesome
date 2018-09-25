@@ -27,14 +27,14 @@ build:
 	lessc --clean-css="--compatibility=ie8" --source-map ${SITE_LESS} ${SITE_CSS}
 
 	@echo "Moving CSS, LESS & SASS to /"
+	mv ${FA_SCSS_DIRECTORY}/fork-awesome.scss.txt ${FA_SCSS_DIRECTORY}/fork-awesome.scss
 	cp -r ${FA_ROOT_DIRECTORY}/ ../
-	mv ../scss/fork-awesome.scss.txt ../scss/fork-awesome.scss
 
 	@echo "Moving font files to assets"
-	cp -r ../fonts ${FA_ROOT_DIRECTORY}/
+	cp -r "../fonts" ${FA_ROOT_DIRECTORY}/
 
 	@echo "Updating Readme"
-	mv README.md-nobuild ../README.md
+	mv "README.md-nobuild" "../README.md"
 
 default: build
 
