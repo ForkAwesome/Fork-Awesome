@@ -1,6 +1,10 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.1.1
+  - Adding a CI pipeline with Travis.
+  - Fixes bell and bell-o icons who were switched up [#88](https://github.com/ForkAwesome/Fork-Awesome/issues/88)
+  - Add a mention in the documentation that the SIL-OFL also applies to SVG glyphs [#62](https://github.com/ForkAwesome/Fork-Awesome/issues/62) 
 - v1.1.0
   - Upgrade of build tools to latest versions ( Jekyll & svgo mainly)
   - Change of Globe icon to be more world friendly

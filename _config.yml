@@ -19,10 +19,10 @@ icon_destination: icon         # Relative to destination
 forkawesome:
   name:           Fork Awesome
   tagline:        A fork of the iconic font and CSS toolkit
-  version:        1.1.0
+  version:        1.1.1
   minor_version:  1.1
   major_version:  1
-  doc_blob:       v1.1.0
+  doc_blob:       v1.1.1
   url:            http://forkawesome.github.io/Fork-Awesome/
   legacy_url:     http://forkawesome.github.io/Fork-Awesome/
   css_prefix:     fa

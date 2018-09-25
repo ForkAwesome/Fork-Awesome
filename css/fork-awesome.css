@@ -1,13 +1,13 @@
 /*!
- *  Fork Awesome 1.1.0, originaly by Dave Gandy - http://forkawesome.github.io/Fork-Awesome/
+ *  Fork Awesome 1.1.1, originaly by Dave Gandy - http://forkawesome.github.io/Fork-Awesome/
  *  License - http://forkawesome.github.io/Fork-Awesome//license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
  * -------------------------- */
 @font-face {
   font-family: 'ForkAwesome';
-  src: url('../fonts/forkawesome-webfont.eot?v=1.1.0');
-  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.1.0') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.1.0') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.1.0') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.1.0') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.1.0#forkawesomeregular') format('svg');
+  src: url('../fonts/forkawesome-webfont.eot?v=1.1.1');
+  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.1.1') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.1.1') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.1.1') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.1.1') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.1.1#forkawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -650,7 +650,7 @@
 .fa-bullhorn:before {
   content: "\f0a1";
 }
-.fa-bell:before {
+.fa-bell-o:before {
   content: "\f0f3";
 }
 .fa-certificate:before {
@@ -864,7 +864,7 @@
 .fa-suitcase:before {
   content: "\f0f2";
 }
-.fa-bell-o:before {
+.fa-bell:before {
   content: "\f0a2";
 }
 .fa-coffee:before {
