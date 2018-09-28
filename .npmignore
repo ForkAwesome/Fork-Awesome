@@ -10,6 +10,8 @@ node_modules
 src/
 _config.yml
 _config-deploy.yml
+.all-contributorsrc
+.travis.yml
 bower.json
 component.json
 composer.json
