@@ -1,10 +1,14 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.1.2
+  - Adds a `v5-compat.css` file in order to ease transition from Font Awesome v5 to Frok Awesome [#112](https://github.com/ForkAwesome/Fork-Awesome/issues/112)
+  - Adds full MIT license in the CSS, LESS and SCSS headers [113](https://github.com/ForkAwesome/Fork-Awesome/issues/113)
+  - Ignoring some unnecessary files that were distributed with the CDN
 - v1.1.1
   - Adding a CI pipeline with Travis.
   - Fixes bell and bell-o icons who were switched up [#88](https://github.com/ForkAwesome/Fork-Awesome/issues/88)
-  - Add a mention in the documentation that the SIL-OFL also applies to SVG glyphs [#62](https://github.com/ForkAwesome/Fork-Awesome/issues/62) 
+  - Add a mention in the documentation that the SIL-OFL also applies to SVG glyphs [#62](https://github.com/ForkAwesome/Fork-Awesome/issues/62)
 - v1.1.0
   - Upgrade of build tools to latest versions ( Jekyll & svgo mainly)
   - Change of Globe icon to be more world friendly
