@@ -352,6 +352,8 @@ icons:
     filter:
       - reload
       - sync
+    aliases:
+      - sync
     categories:
       - Web Application Icons
       - Spinner Icons

@@ -282,6 +282,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-repeat:before {
   content: "\f01e";
 }
+.fa-sync:before,
 .fa-refresh:before {
   content: "\f021";
 }
