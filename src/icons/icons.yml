@@ -214,7 +214,7 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       signal
+  - name:       Signal
     id:         signal
     unicode:    f012
     created:    0.4
@@ -224,7 +224,7 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       cog
+  - name:       Cog
     id:         cog
     unicode:    f013
     created:    0.4
@@ -632,6 +632,8 @@ icons:
       - film
       - movie
       - record
+    aliases:
+      - video
     categories:
       - Web Application Icons
 
@@ -2168,6 +2170,8 @@ icons:
     id:         google-plus
     unicode:    f0d5
     created:    0.4
+    aliases:
+      - google-plus-g
     filter:
       - social network
     categories:
@@ -2527,6 +2531,8 @@ icons:
       - knife
       - dinner
       - eat
+    aliases:
+      - utensils
     categories:
       - Web Application Icons
 
@@ -3017,6 +3023,7 @@ icons:
       - rebase
       - version
       - merge
+      - code-branch
     categories:
       - Web Application Icons
 
@@ -3482,6 +3489,8 @@ icons:
     id:         gbp
     unicode:    f154
     created:    0.4
+    aliases:
+      - pound
     categories:
       - Currency Icons
 
@@ -3574,6 +3583,8 @@ icons:
     id:         sort-alpha-asc
     unicode:    f15d
     created:    0.4
+    aliases:
+      - sort-alpha-down
     categories:
       - Web Application Icons
 
@@ -3581,6 +3592,8 @@ icons:
     id:         sort-alpha-desc
     unicode:    f15e
     created:    0.4
+    aliases:
+      - sort-alpha-up
     categories:
       - Web Application Icons
 
@@ -3589,6 +3602,8 @@ icons:
     id:         sort-amount-asc
     unicode:    f160
     created:    0.4
+    aliases:
+      - sort-amount-down
     categories:
       - Web Application Icons
 
@@ -3596,6 +3611,8 @@ icons:
     id:         sort-amount-desc
     unicode:    f161
     created:    0.4
+    aliases:
+      - sort-amount-up
     categories:
       - Web Application Icons
 
@@ -3605,6 +3622,8 @@ icons:
     created:    0.4
     filter:
       - numbers
+    aliases:
+      - sort-numeric-down
     categories:
       - Web Application Icons
 
@@ -3614,6 +3633,8 @@ icons:
     created:    0.4
     filter:
       - numbers
+    aliases:
+      - sort-numeric-up
     categories:
       - Web Application Icons
 
@@ -4260,6 +4281,8 @@ icons:
     id:         spoon
     unicode:    f1b1
     created:    0.4
+    aliases:
+      - utensil-spoon
     categories:
       - Web Application Icons
 
@@ -4478,7 +4501,7 @@ icons:
     unicode:    f1cd
     created:    0.4
     aliases:
-      - life-bouy # TODO: Deprecated - remove in 5.0.0
+      - life-bouy
       - life-buoy
       - life-saver
       - support
@@ -4599,6 +4622,8 @@ icons:
     unicode:    f1dc
     created:    0.4
     filter:
+      - heading
+    aliases:
       - heading
     categories:
       - Text Editor Icons
@@ -4960,6 +4985,8 @@ icons:
     id:         cc
     unicode:    f20a
     created:    0.4
+    aliases:
+      - closed-captioning
     categories:
       - Web Application Icons
       - Accessibility Icons
@@ -5081,6 +5108,8 @@ icons:
     filter:
       - gem
       - gemstone
+    aliases:
+      - gem
     categories:
       - Web Application Icons
 
@@ -5864,6 +5893,8 @@ icons:
     id:         vimeo
     unicode:    f27d
     created:    0.4
+    aliases:
+      - vimeo-v
     categories:
       - Brand Icons
 
@@ -6128,6 +6159,8 @@ icons:
     created:    0.4
     filter:
       - telephone
+    aliases:
+      - phone-volume
     categories:
       - Web Application Icons
       - Accessibility Icons

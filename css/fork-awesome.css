@@ -1,6 +1,14 @@
 /*!
- *  Fork Awesome 1.1.1, originaly by Dave Gandy - http://forkawesome.github.io/Fork-Awesome/
- *  License - http://forkawesome.github.io/Fork-Awesome//license (Font: SIL OFL 1.1, CSS: MIT License)
+Fork Awesome 1.1.1
+License - http://forkawesome.github.io/Fork-Awesome/license
+
+Copyright 2018 Dave Gandy & Fork Awesome
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 /* FONT PATH
  * -------------------------- */
@@ -359,6 +367,7 @@
 .fa-indent:before {
   content: "\f03c";
 }
+.fa-video:before,
 .fa-video-camera:before {
   content: "\f03d";
 }
@@ -772,6 +781,7 @@
 .fa-google-plus-square:before {
   content: "\f0d4";
 }
+.fa-google-plus-g:before,
 .fa-google-plus:before {
   content: "\f0d5";
 }
@@ -870,6 +880,7 @@
 .fa-coffee:before {
   content: "\f0f4";
 }
+.fa-utensils:before,
 .fa-cutlery:before {
   content: "\f0f5";
 }
@@ -1141,6 +1152,7 @@
 .fa-eur:before {
   content: "\f153";
 }
+.fa-pound:before,
 .fa-gbp:before {
   content: "\f154";
 }
@@ -1177,21 +1189,27 @@
 .fa-file-text:before {
   content: "\f15c";
 }
+.fa-sort-alpha-down:before,
 .fa-sort-alpha-asc:before {
   content: "\f15d";
 }
+.fa-sort-alpha-up:before,
 .fa-sort-alpha-desc:before {
   content: "\f15e";
 }
+.fa-sort-amount-down:before,
 .fa-sort-amount-asc:before {
   content: "\f160";
 }
+.fa-sort-amount-up:before,
 .fa-sort-amount-desc:before {
   content: "\f161";
 }
+.fa-sort-numeric-down:before,
 .fa-sort-numeric-asc:before {
   content: "\f162";
 }
+.fa-sort-numeric-up:before,
 .fa-sort-numeric-desc:before {
   content: "\f163";
 }
@@ -1411,6 +1429,7 @@
 .fa-paw:before {
   content: "\f1b0";
 }
+.fa-utensil-spoon:before,
 .fa-spoon:before {
   content: "\f1b1";
 }
@@ -1553,6 +1572,7 @@
 .fa-circle-thin:before {
   content: "\f1db";
 }
+.fa-heading:before,
 .fa-header:before {
   content: "\f1dc";
 }
@@ -1683,6 +1703,7 @@
 .fa-angellist:before {
   content: "\f209";
 }
+.fa-closed-captioning:before,
 .fa-cc:before {
   content: "\f20a";
 }
@@ -1727,6 +1748,7 @@
 .fa-cart-arrow-down:before {
   content: "\f218";
 }
+.fa-gem:before,
 .fa-diamond:before {
   content: "\f219";
 }
@@ -2021,6 +2043,7 @@
 .fa-houzz:before {
   content: "\f27c";
 }
+.fa-vimeo-v:before,
 .fa-vimeo:before {
   content: "\f27d";
 }
@@ -2117,6 +2140,7 @@
 .fa-audio-description:before {
   content: "\f29e";
 }
+.fa-phone-volume:before,
 .fa-volume-control-phone:before {
   content: "\f2a0";
 }
