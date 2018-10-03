@@ -3,7 +3,7 @@
 ## Changelog of Fork awesome
 - v1.1.2
   - Adds a `v5-compat.css` file in order to ease transition from Font Awesome v5 to Frok Awesome [#112](https://github.com/ForkAwesome/Fork-Awesome/issues/112)
-  - Adds full MIT license in the CSS, LESS and SCSS headers [113](https://github.com/ForkAwesome/Fork-Awesome/issues/113)
+  - Adds full MIT license in the CSS, LESS and SCSS headers [#113](https://github.com/ForkAwesome/Fork-Awesome/issues/113)
   - Ignoring some unnecessary files that were distributed with the CDN
 - v1.1.1
   - Adding a CI pipeline with Travis.
