@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "452c1fbaf4bc46ab6cd967965f50c1eedf965b0c7aa1c906de3b49016bded76a",
-    "current": "452c1fbaf4bc46ab6cd967965f50c1eedf965b0c7aa1c906de3b49016bded76a"
+    "previous": "c15aa8ba8b70cd0348c7f9064a99c8a9b6aead271b46c68fd1be87e3391397b5",
+    "current": "c15aa8ba8b70cd0348c7f9064a99c8a9b6aead271b46c68fd1be87e3391397b5"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1423,6 +1423,10 @@
       "codepoint": 61530,
       "source": "svg/info-circle.svg"
     },
+    "inkscape": {
+      "codepoint": 62226,
+      "source": "svg/inkscape.svg"
+    },
     "inr": {
       "codepoint": 61782,
       "source": "svg/inr.svg"
@@ -2418,6 +2422,10 @@
     "superscript": {
       "codepoint": 61739,
       "source": "svg/superscript.svg"
+    },
+    "syncthing": {
+      "codepoint": 62225,
+      "source": "svg/syncthing.svg"
     },
     "table": {
       "codepoint": 61646,
