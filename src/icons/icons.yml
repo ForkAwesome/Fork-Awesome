@@ -7078,3 +7078,11 @@ icons:
     url:        syncthing.net
     categories:
       - Brand Icons
+
+  - name:       Inkscape
+    id:         inkscape
+    unicode:    f312
+    created:    1.1
+    url:        inkscape.org
+    categories:
+      - Brand Icons
