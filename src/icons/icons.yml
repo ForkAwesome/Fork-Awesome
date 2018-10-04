@@ -7070,3 +7070,11 @@ icons:
     url:        joplin.cozic.net
     categories:
       - Brand Icons
+
+  - name:       Syncthing
+    id:         syncthing
+    unicode:    f311
+    created:    1.1
+    url:        syncthing.net
+    categories:
+      - Brand Icons
