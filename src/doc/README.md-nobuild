@@ -16,7 +16,7 @@ A tremendous gratitude is given to the whole team behind [Font Awesome](https://
 
 Though If you believe in distributed open source design and wish to be part of this new adventure, please start submitting patches and suggestions of improvement.
 
-Also, if you care about owning the build process of your icon font, this project will give you that. The whole pipeline is chared and free to use for any purpose. You could be spinning your own icon font with your clever name by just forking this project and changing a few settings.
+Also, if you care about owning the build process of your icon font, this project will give you that. The whole pipeline is shared and free to use for any purpose. You could be spinning your own icon font with your clever name by just forking this project and changing a few settings.
 
 ## How to use
 There is a full page in our documentation website that explains [how to use {{ site.forkawesome.name }} in your web project]({{ site.forkawesome.url}}get-started/). It ranges from just pointing to a CSS file on a CDN, hosting it on your own server or even adapting the LESS and SCSS files to your own liking.
