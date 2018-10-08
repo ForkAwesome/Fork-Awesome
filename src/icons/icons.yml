@@ -7098,3 +7098,14 @@ icons:
       - message
     categories:
       - Brand Icons
+
+  - name:       Pixelfed
+    id:         pixelfed
+    unicode:    f314
+    created:    1.1
+    url:        pixelfed.social
+    filter:
+      - federation
+      - photo
+    categories:
+      - Brand Icons

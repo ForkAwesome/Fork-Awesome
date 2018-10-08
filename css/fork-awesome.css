@@ -2483,6 +2483,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-matrix-org:before {
   content: "\f313";
 }
+.fa-pixelfed:before {
+  content: "\f314";
+}
 .sr-only {
   position: absolute;
   width: 1px;

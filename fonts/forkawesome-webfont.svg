@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Mon Oct  8 14:52:39 2018
+Created by FontForge 20180321 at Mon Oct  8 15:10:16 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F313"
+    unicode-range="U+0020-F314"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -639,6 +639,8 @@ h2048c70 0 128 -58 128 -128z" />
 d="M892 167v-167h-248l-159 252l-24 42c-6 7 -9 14 -11 21h-3c-2 -7 -6 -14 -9 -21c-6 -12 -15 -28 -25 -44l-155 -250h-258v167h128l197 291l-185 272h-137v168h276l139 -228c9 -14 16 -29 23 -42c6 -7 9 -14 11 -21h3c2 7 6 14 11 21l25 42l140 228h257v-168h-125
 l-184 -267l204 -296h109zM1529 846v-206h-514l-3 27c-2 14 -4 33 -4 46c0 273 350 296 350 441c0 52 -47 87 -100 87c-38 0 -72 -18 -97 -39c-13 -11 -25 -25 -36 -38l-105 92c18 25 38 46 63 66c42 33 103 65 188 65c145 0 246 -85 246 -218c0 -240 -332 -260 -346 -403
 h232v80h126z" />
+    <glyph glyph-name="pixelfed" unicode="&#xf314;" 
+d="M768 -128c-424 0 -768 344 -768 768s344 768 768 768s768 -344 768 -768s-344 -768 -768 -768zM707 472h141c133 0 240 105 240 234s-107 234 -240 234h-203c-77 0 -139 -60 -139 -135v-525z" />
     <glyph glyph-name="tty" unicode="&#xf1e4;" horiz-adv-x="1792" 
 d="M448 224v-192c0 -18 -14 -32 -32 -32h-192c-18 0 -32 14 -32 32v192c0 18 14 32 32 32h192c18 0 32 -14 32 -32zM256 608v-192c0 -18 -14 -32 -32 -32h-192c-18 0 -32 14 -32 32v192c0 18 14 32 32 32h192c18 0 32 -14 32 -32zM832 224v-192c0 -18 -14 -32 -32 -32h-192
 c-18 0 -32 14 -32 32v192c0 18 14 32 32 32h192c18 0 32 -14 32 -32zM640 608v-192c0 -18 -14 -32 -32 -32h-192c-18 0 -32 14 -32 32v192c0 18 14 32 32 32h192c18 0 32 -14 32 -32zM66 768c-37 0 -66 29 -66 65v129h514v-129c0 -36 -29 -65 -65 -65h-383zM1216 224v-192
