@@ -7109,3 +7109,11 @@ icons:
       - photo
     categories:
       - Brand Icons
+
+  - name:       Bootstrap
+    id:         bootstrap
+    unicode:    f315
+    created:    1.1
+    url:        getbootstrap.com
+    categories:
+      - Brand Icons

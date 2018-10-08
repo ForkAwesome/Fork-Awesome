@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Mon Oct  8 15:10:16 2018
+Created by FontForge 20180321 at Mon Oct  8 15:22:21 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F314"
+    unicode-range="U+0020-F315"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -608,6 +608,9 @@ d="M979 1395c25 25 45 16 45 -19v-1472c0 -35 -20 -44 -45 -19l-710 710c-6 6 -10 12
     <glyph glyph-name="wheelchair" unicode="&#xf193;" horiz-adv-x="1629" 
 d="M1023 349l102 -204c-77 -238 -299 -401 -549 -401c-317 0 -576 259 -576 576c0 242 152 458 379 541l17 -131c-163 -72 -268 -232 -268 -410c0 -247 201 -448 448 -448c257 0 465 220 447 477zM1571 249l58 -114l-256 -128c-9 -5 -19 -7 -29 -7c-24 0 -47 14 -57 35
 l-239 477h-472c-32 0 -60 25 -64 57l-96 779c-1 10 3 32 6 42c19 69 83 114 154 114c88 0 160 -72 160 -160c0 -91 -80 -169 -172 -159l37 -289h423v-128h-407l16 -128h455c24 0 47 -14 57 -35l228 -455z" />
+    <glyph glyph-name="bootstrap" unicode="&#xf315;" 
+d="M256 1408h1024c141 0 256 -115 256 -256v-1024c0 -141 -115 -256 -256 -256h-1024c-141 0 -256 115 -256 256v1024c0 141 115 256 256 256zM494 1020v-795h310c169 0 270 83 270 223c0 106 -69 182 -177 196v4c77 14 137 91 137 174c0 119 -93 198 -229 198h-311z
+M593 933h190c97 0 150 -44 150 -123c0 -86 -64 -133 -181 -133h-159v256zM593 592v0h187c127 0 192 -47 192 -139s-63 -141 -183 -141h-196v280z" />
     <glyph glyph-name="cutlery" unicode="&#xf0f5;" horiz-adv-x="1408" 
 d="M640 1472v-640c0 -81 -52 -154 -128 -181v-779c0 -70 -58 -128 -128 -128h-128c-70 0 -128 58 -128 128v779c-76 27 -128 100 -128 181v640c0 35 29 64 64 64s64 -29 64 -64v-416c0 -35 29 -64 64 -64s64 29 64 64v416c0 35 29 64 64 64s64 -29 64 -64v-416
 c0 -35 29 -64 64 -64s64 29 64 64v416c0 35 29 64 64 64s64 -29 64 -64zM1408 1472v-1600c0 -70 -58 -128 -128 -128h-128c-70 0 -128 58 -128 128v512h-224c-17 0 -32 15 -32 32v800c0 176 144 320 320 320h256c35 0 64 -29 64 -64z" />
