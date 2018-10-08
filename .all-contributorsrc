@@ -961,6 +961,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "wezm",
+      "name": "Wesley Moore",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21787?v=4",
+      "profile": "http://www.wezm.net/",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
