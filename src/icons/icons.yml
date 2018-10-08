@@ -7125,3 +7125,11 @@ icons:
     url:        dev.to
     categories:
       - Brand Icons
+
+  - name:       Hashnode
+    id:         hashnode
+    unicode:    f317
+    created:    1.1
+    url:        hashnode.com
+    categories:
+      - Brand Icons
