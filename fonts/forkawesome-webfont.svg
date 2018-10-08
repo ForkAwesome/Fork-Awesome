@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-10-4: Created with FontForge (http://fontforge.org)
+2018-10-8: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Thu Oct  4 17:05:43 2018
+Created by FontForge 20180321 at Mon Oct  8 14:52:39 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F312"
+    unicode-range="U+0020-F313"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1430,6 +1430,10 @@ s-29 -16 -64 -16h-69l293 -352h64l224 -64l352 -32c288 -64 288 -96 288 -96z" />
 d="M620 416c-69 -40 -163 -64 -268 -64h-128v64h-64c-18 0 -32 36 -32 80c0 18 3 35 7 49c-77 2 -135 15 -135 31s58 29 135 31c-4 14 -7 31 -7 49c0 44 14 80 32 80h64v64h128c105 0 199 -24 268 -64h1113c74 -13 141 -24 187 -32c192 -32 256 -96 256 -128
 s-64 -96 -256 -128c-46 -8 -113 -19 -187 -32h-1113zM1739 668c32 -22 53 -55 53 -92s-21 -70 -53 -92l81 -30c41 29 68 73 68 122s-27 93 -68 122zM625 400h1015s-217 -38 -456 -80c-128 0 -224 -96 -224 -96l-288 -288s-97 -64 -160 -64h-96l-93 464h29
 c102 0 199 23 273 64zM352 816h-29l93 464h96c65 0 128 -32 160 -64l288 -288s96 -96 224 -96c239 -42 456 -80 456 -80h-1015c-74 41 -171 64 -273 64z" />
+    <glyph glyph-name="matrix-org" unicode="&#xf313;" 
+d="M40 1373v-1466h106v-35h-146v1536h146v-35h-106zM491 908v-74h2c20 28 44 51 72 66c28 16 60 23 96 23c35 0 66 -7 95 -20s50 -37 65 -71c16 24 38 46 66 64s61 27 99 27c29 0 56 -4 81 -11s45 -18 63 -34s31 -35 41 -60s15 -56 15 -91v-367h-150v311c0 18 -1 36 -2 52
+s-6 30 -12 42s-16 22 -28 29s-29 10 -50 10s-38 -4 -51 -12s-24 -19 -31 -32s-13 -27 -15 -44s-4 -34 -4 -51v-305h-150v307c0 16 0 33 -1 49s-4 30 -9 44c-5 13 -15 24 -27 32s-31 12 -55 12c-7 0 -16 -2 -28 -5s-23 -9 -34 -18s-20 -21 -28 -38s-11 -38 -11 -65v-318h-151
+v548h142zM1496 -93v1466h-106v35h146v-1536h-146v35h106z" />
     <glyph glyph-name="steam" unicode="&#xf1b6;" horiz-adv-x="1792" 
 d="M1582 954c0 -135 -110 -244 -244 -244c-135 0 -244 109 -244 244s109 244 244 244c134 0 244 -109 244 -244zM812 212c0 139 -111 250 -250 250c-18 0 -36 -2 -54 -6l104 -42c102 -41 152 -156 111 -258s-157 -152 -259 -110c-41 16 -82 33 -123 49
 c42 -79 125 -133 221 -133c139 0 250 111 250 250zM1642 953c0 168 -137 305 -305 305c-169 0 -306 -137 -306 -305c0 -169 137 -305 306 -305c168 0 305 136 305 305zM1792 953c0 -252 -204 -455 -455 -455l-437 -319c-16 -172 -162 -307 -338 -307
