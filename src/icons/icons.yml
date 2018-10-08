@@ -7086,3 +7086,15 @@ icons:
     url:        inkscape.org
     categories:
       - Brand Icons
+
+  - name:       Matrix.org
+    id:         matrix-org
+    unicode:    f313
+    created:    1.1
+    url:        matrix.org
+    filter:
+      - chat
+      - federation
+      - message
+    categories:
+      - Brand Icons

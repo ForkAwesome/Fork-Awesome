@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c15aa8ba8b70cd0348c7f9064a99c8a9b6aead271b46c68fd1be87e3391397b5",
-    "current": "c15aa8ba8b70cd0348c7f9064a99c8a9b6aead271b46c68fd1be87e3391397b5"
+    "previous": "eb21d0c5b7ffe821d5b7eb8fbbb112124db6b68cff3d65ef235618bc539eb0af",
+    "current": "eb21d0c5b7ffe821d5b7eb8fbbb112124db6b68cff3d65ef235618bc539eb0af"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1670,6 +1670,10 @@
     "mastodon-square": {
       "codepoint": 62208,
       "source": "svg/mastodon-square.svg"
+    },
+    "matrix-org": {
+      "codepoint": 62227,
+      "source": "svg/matrix-org.svg"
     },
     "maxcdn": {
       "codepoint": 61750,
