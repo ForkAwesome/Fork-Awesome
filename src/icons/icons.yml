@@ -7117,3 +7117,11 @@ icons:
     url:        getbootstrap.com
     categories:
       - Brand Icons
+
+  - name:       Dev.to
+    id:         dev-to
+    unicode:    f316
+    created:    1.1
+    url:        dev.to
+    categories:
+      - Brand Icons
