@@ -7133,3 +7133,11 @@ icons:
     url:        hashnode.com
     categories:
       - Brand Icons
+
+  - name:       Jirafeau
+    id:         jirafeau
+    unicode:    f318
+    created:    1.1
+    url:        jirafeau.net
+    categories:
+      - Brand Icons

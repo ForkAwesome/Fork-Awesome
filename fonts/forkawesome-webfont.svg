@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Mon Oct  8 15:36:21 2018
+Created by FontForge 20180321 at Mon Oct  8 15:42:57 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F317"
+    unicode-range="U+0020-F318"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1965,6 +1965,9 @@ l-76 -404c-19 -106 -112 -183 -220 -183h-688c-80 0 -157 39 -205 102l-384 512c-33 
     <glyph glyph-name="database" unicode="&#xf1c0;" 
 d="M768 768c301 0 603 54 768 170v-170c0 -141 -344 -256 -768 -256s-768 115 -768 256v170c165 -116 467 -170 768 -170zM768 0c301 0 603 54 768 170v-170c0 -141 -344 -256 -768 -256s-768 115 -768 256v170c165 -116 467 -170 768 -170zM768 384c301 0 603 54 768 170
 v-170c0 -141 -344 -256 -768 -256s-768 115 -768 256v170c165 -116 467 -170 768 -170zM768 1536c424 0 768 -115 768 -256v-128c0 -141 -344 -256 -768 -256s-768 115 -768 256v128c0 141 344 256 768 256z" />
+    <glyph glyph-name="jirafeau" unicode="&#xf318;" 
+d="M1459 1408c43 0 77 -34 77 -77v-1382c0 -43 -34 -77 -77 -77h-923c18 109 27 134 50 210c31 103 92 108 92 108c49 11 74 31 224 -36s270 -72 270 -72v0c15 -19 71 -80 137 -85c90 -7 128 19 128 19s31 91 -38 176s-336 376 -343 403c0 0 -40 47 -69 58s-119 63 -135 130
+s-42 168 -33 215s22 152 -32 130s-31 -74 -40 -137s-52 -190 -112 -190c0 0 -87 150 -145 132s-108 -181 -63 -275c0 0 -210 -295 -393 -772c-20 14 -34 37 -34 63v1382c0 43 34 77 77 77h1382z" />
     <glyph glyph-name="user-circle-o" unicode="&#xf2be;" horiz-adv-x="1792" 
 d="M896 1536c495 0 896 -401 896 -896c0 -492 -399 -896 -896 -896c-496 0 -896 403 -896 896c0 495 401 896 896 896zM1515 185c93 128 149 285 149 455c0 423 -345 768 -768 768s-768 -345 -768 -768c0 -170 56 -327 149 -455c36 179 123 327 306 327
 c81 -79 191 -128 313 -128s232 49 313 128c183 0 270 -148 306 -327zM1280 832c0 -212 -172 -384 -384 -384s-384 172 -384 384s172 384 384 384s384 -172 384 -384z" />

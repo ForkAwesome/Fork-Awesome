@@ -2495,6 +2495,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-hashnode:before {
   content: "\f317";
 }
+.fa-jirafeau:before {
+  content: "\f318";
+}
 .sr-only {
   position: absolute;
   width: 1px;

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "34fb8e91d54ddefb1620494146d2fb43a3a6fd8172dacf27a3c12e275cb6b504",
-    "current": "34fb8e91d54ddefb1620494146d2fb43a3a6fd8172dacf27a3c12e275cb6b504"
+    "previous": "cb16785717e7c07f96dbc04cb8340e75f1b801cf5bf09c029e2641cecd8c646b",
+    "current": "cb16785717e7c07f96dbc04cb8340e75f1b801cf5bf09c029e2641cecd8c646b"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1458,6 +1458,10 @@
     "italic": {
       "codepoint": 61491,
       "source": "svg/italic.svg"
+    },
+    "jirafeau": {
+      "codepoint": 62232,
+      "source": "svg/jirafeau.svg"
     },
     "joomla": {
       "codepoint": 61866,
