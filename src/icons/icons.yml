@@ -7141,3 +7141,11 @@ icons:
     url:        jirafeau.net
     categories:
       - Brand Icons
+
+  - name:       Emby
+    id:         emby
+    unicode:    f319
+    created:    1.1
+    url:        emby.media
+    categories:
+      - Brand Icons

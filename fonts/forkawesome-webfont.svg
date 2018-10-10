@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-10-8: Created with FontForge (http://fontforge.org)
+2018-10-10: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Mon Oct  8 15:42:57 2018
+Created by FontForge 20180321 at Wed Oct 10 16:21:50 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F318"
+    unicode-range="U+0020-F319"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2093,6 +2093,8 @@ d="M1278 -96v480h160v-640h-1438v640h160v-480h1118zM336 428l33 157l783 -165l-33 -
 d="M1408 606v-318c0 -159 -129 -288 -288 -288h-832c-159 0 -288 129 -288 288v832c0 159 129 288 288 288h832c40 0 80 -8 117 -25c9 -4 16 -13 18 -23c2 -11 -1 -21 -9 -29l-49 -49c-6 -6 -15 -10 -23 -10c-3 0 -6 1 -9 2c-15 4 -30 6 -45 6h-832
 c-88 0 -160 -72 -160 -160v-832c0 -88 72 -160 160 -160h832c88 0 160 72 160 160v254c0 8 3 16 9 22l64 64c7 7 15 10 23 10c4 0 8 -1 12 -3c12 -5 20 -16 20 -29zM1639 1095l-814 -814c-32 -32 -82 -32 -114 0l-430 430c-32 32 -32 82 0 114l110 110c32 32 82 32 114 0
 l263 -263l647 647c32 32 82 32 114 0l110 -110c32 -32 32 -82 0 -114z" />
+    <glyph glyph-name="emby" unicode="&#xf319;" horiz-adv-x="1534" 
+d="M474 224l-62 -62l-412 415l356 356l-60 61l414 414l355 -355l58 57l411 -414l-352 -352l58 -58l-414 -414zM1091 633l-496 291v-578z" />
     <glyph glyph-name="hand-spock-o" unicode="&#xf259;" horiz-adv-x="1920" 
 d="M459 -256c-103 0 -192 70 -217 170l-101 401c-8 35 -13 72 -13 108c0 23 0 45 -5 67l-116 477c-5 19 -7 38 -7 57c0 124 94 226 217 239c22 113 119 193 235 193c111 0 207 -76 233 -184l83 -348l103 428c26 108 122 184 233 184c119 0 217 -86 236 -202
 c123 -14 212 -118 212 -241c0 -19 -3 -39 -7 -59l-123 -512c80 60 138 118 243 118c139 0 255 -113 255 -253c0 -84 -41 -162 -107 -212l-507 -380c-44 -33 -98 -51 -153 -51h-694zM1104 1408c-51 0 -96 -36 -108 -86l-164 -682h-127l-145 602c-12 50 -57 86 -108 86
