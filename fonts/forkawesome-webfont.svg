@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-10-10: Created with FontForge (http://fontforge.org)
+2018-10-12: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Wed Oct 10 16:21:50 2018
+Created by FontForge 20180321 at Fri Oct 12 15:47:53 2018
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F319"
+    unicode-range="U+0020-F31A"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1775,6 +1775,9 @@ c159 0 288 -87 288 -256c0 -44 -7 -87 -22 -128h374c138 0 256 -117 256 -255z" />
     <glyph glyph-name="object-group" unicode="&#xf247;" horiz-adv-x="2048" 
 d="M2048 1152h-128v-1024h128v-384h-384v128h-1280v-128h-384v384h128v1024h-128v384h384v-128h1280v128h384v-384zM1792 1408v-128h128v128h-128zM128 1408v-128h128v128h-128zM256 -128v128h-128v-128h128zM1664 0v128h128v1024h-128v128h-1280v-128h-128v-1024h128v-128
 h1280zM1920 -128v128h-128v-128h128zM1280 896h384v-768h-896v256h-384v768h896v-256zM512 512h640v512h-640v-512zM1536 256v512h-256v-384h-384v-128h640z" />
+    <glyph glyph-name="wikidata" unicode="&#xf31a;" horiz-adv-x="2048" 
+d="M0 1264h76v-1264h-76v1264zM152 1264h227v-1264h-227v1264zM455 1264h228v-1264h-228v1264zM759 1264h75v-1264h-75v1264zM910 1264h76v-1264h-76v1264zM1820 1264h76v-1264h-76v1264zM1972 1264h76v-1264h-76v1264zM1062 1264h227v-1264h-227v1264zM1365 1264h76v-1264
+h-76v1264zM1517 1264h228v-1264h-228v1264z" />
     <glyph glyph-name="anchor" unicode="&#xf13d;" horiz-adv-x="1792" 
 d="M960 1280c0 35 -29 64 -64 64s-64 -29 -64 -64s29 -64 64 -64s64 29 64 64zM1792 352v-352c0 -13 -8 -25 -20 -30c-4 -1 -8 -2 -12 -2c-8 0 -16 3 -23 9l-93 93c-157 -189 -439 -310 -748 -310s-591 121 -748 310l-93 -93c-6 -6 -15 -9 -23 -9c-4 0 -8 1 -12 2
 c-12 5 -20 17 -20 30v352c0 18 14 32 32 32h352c13 0 25 -8 30 -20s2 -25 -7 -35l-100 -100c90 -121 263 -209 461 -236v647h-192c-35 0 -64 29 -64 64v128c0 35 29 64 64 64h192v163c-76 44 -128 126 -128 221c0 141 115 256 256 256s256 -115 256 -256

@@ -2498,6 +2498,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-jirafeau:before {
   content: "\f318";
 }
+.fa-emby:before {
+  content: "\f319";
+}
+.fa-wikidata:before {
+  content: "\f31a";
+}
 .sr-only {
   position: absolute;
   width: 1px;

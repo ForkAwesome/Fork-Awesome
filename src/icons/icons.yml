@@ -7149,3 +7149,11 @@ icons:
     url:        emby.media
     categories:
       - Brand Icons
+
+  - name:       Wikidata
+    id:         wikidata
+    unicode:    f31a
+    created:    1.1
+    url:        wikidata.org
+    categories:
+      - Brand Icons

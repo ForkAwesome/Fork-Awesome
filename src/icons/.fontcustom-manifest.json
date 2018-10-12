@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "33ba22ee47110cb01931bfc178fb42c340a58785eb6fa3c3929f0d86fe85a39a",
-    "current": "33ba22ee47110cb01931bfc178fb42c340a58785eb6fa3c3929f0d86fe85a39a"
+    "previous": "9a913a2c77ea327d48846f37d3baf3c5d3a0b4d54d69f4f9aa54ebe47d2feb25",
+    "current": "9a913a2c77ea327d48846f37d3baf3c5d3a0b4d54d69f4f9aa54ebe47d2feb25"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2826,6 +2826,10 @@
     "wifi": {
       "codepoint": 61931,
       "source": "svg/wifi.svg"
+    },
+    "wikidata": {
+      "codepoint": 62234,
+      "source": "svg/wikidata.svg"
     },
     "wikipedia-w": {
       "codepoint": 62054,
