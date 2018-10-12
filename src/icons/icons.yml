@@ -7157,3 +7157,11 @@ icons:
     url:        wikidata.org
     categories:
       - Brand Icons
+
+  - name:       Gimp
+    id:         gimp
+    unicode:    f31b
+    created:    1.1
+    url:        gimp.org
+    categories:
+      - Brand Icons

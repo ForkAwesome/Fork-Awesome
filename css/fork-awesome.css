@@ -2504,6 +2504,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-wikidata:before {
   content: "\f31a";
 }
+.fa-gimp:before {
+  content: "\f31b";
+}
 .sr-only {
   position: absolute;
   width: 1px;
