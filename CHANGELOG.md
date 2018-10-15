@@ -1,6 +1,8 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.1.4
+  - Added icons: Gitea, AT&T, Digitalocean, C (language), Wikidata, Emby, Jirafeau, Hashnode, DevTo, Pixelfed, Matrix, Inkscape, Syncthing. 
 - v1.1.3
   - Added icons: Syncthing and Inkscape
   - Fixed sizing with PHP icon
