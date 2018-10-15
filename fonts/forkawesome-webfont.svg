@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-10-12: Created with FontForge (http://fontforge.org)
+2018-10-14: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Fri Oct 12 16:31:51 2018
- By Julien Deswaef
+Created by FontForge 20180909 at Sun Oct 14 19:57:00 2018
+ By K.C. Tessarek
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
 <defs>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F31B"
+    unicode-range="U+0020-F31C"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1570,6 +1570,8 @@ d="M640 528v224c0 9 -7 16 -16 16h-96c-9 0 -16 -7 -16 -16v-224c0 -9 7 -16 16 -16h
 s-192 -86 -192 -192v-320h-640v752c0 9 7 16 16 16h96c9 0 16 -7 16 -16v-112h128v624c0 9 7 16 16 16h96c9 0 16 -7 16 -16v-112h128v112c0 9 7 16 16 16h96c9 0 16 -7 16 -16v-112h128v112c0 21 28 16 41 16v391c-19 9 -32 29 -32 50c0 30 25 55 55 55s55 -25 55 -55
 c0 -21 -13 -41 -32 -50v-17c27 6 55 10 83 10c41 0 80 -15 114 -15c31 0 66 15 84 15c9 0 16 -7 16 -16v-210c0 -24 -81 -28 -97 -28c-37 0 -72 15 -110 15c-30 0 -61 -5 -90 -12v-133c13 0 41 5 41 -16v-112h128v112c0 9 7 16 16 16h96c9 0 16 -7 16 -16v-112h128v112
 c0 9 7 16 16 16h96c9 0 16 -7 16 -16v-624h128v112c0 9 7 16 16 16h96c9 0 16 -7 16 -16z" />
+    <glyph glyph-name="c" unicode="&#xf31c;" horiz-adv-x="1404" 
+d="M996 819c0 0 -23 211 -232 217s-317 -157 -317 -392s119 -423 323 -423s226 235 226 235l391 -24s22 -211 -141 -373s-364 -188 -504 -187s-334 -2 -522 190s-220 379 -220 563s36 427 259 611c152 125 306 172 460 172c643 0 685 -593 685 -593l-408 4v0z" />
     <glyph glyph-name="commenting" unicode="&#xf27a;" horiz-adv-x="1792" 
 d="M640 640c0 71 -57 128 -128 128s-128 -57 -128 -128s57 -128 128 -128s128 57 128 128zM1024 640c0 71 -57 128 -128 128s-128 -57 -128 -128s57 -128 128 -128s128 57 128 128zM1408 640c0 71 -57 128 -128 128s-128 -57 -128 -128s57 -128 128 -128s128 57 128 128z
 M1792 640c0 -354 -401 -640 -896 -640c-73 0 -144 6 -211 18c-114 -114 -263 -192 -435 -229c-27 -5 -56 -10 -86 -13c-16 -2 -31 9 -35 24c-4 16 8 26 20 37c63 59 138 106 164 317c-191 117 -313 291 -313 486c0 354 401 640 896 640s896 -286 896 -640z" />

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ed6a5f88e665dc114ffea93eea44e1f15c7a2181af038201cbefe4990a602f3f",
-    "current": "ed6a5f88e665dc114ffea93eea44e1f15c7a2181af038201cbefe4990a602f3f"
+    "previous": "8946a028bf7e7a6815e1f931587462f6a9ecc2ae7e15d2e2a410b9bde925c667",
+    "current": "8946a028bf7e7a6815e1f931587462f6a9ecc2ae7e15d2e2a410b9bde925c667"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -402,6 +402,10 @@
     "buysellads": {
       "codepoint": 61965,
       "source": "svg/buysellads.svg"
+    },
+    "c": {
+      "codepoint": 62236,
+      "source": "svg/c.svg"
     },
     "calculator": {
       "codepoint": 61932,

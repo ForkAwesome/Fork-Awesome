@@ -7165,3 +7165,10 @@ icons:
     url:        gimp.org
     categories:
       - Brand Icons
+
+  - name:       C
+    id:         c
+    unicode:    f31c
+    created:    1.1
+    categories:
+      - Brand Icons
