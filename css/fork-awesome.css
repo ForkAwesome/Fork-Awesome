@@ -2513,6 +2513,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-digitalocean:before {
   content: "\f31d";
 }
+.fa-att:before {
+  content: "\f31e";
+}
 .sr-only {
   position: absolute;
   width: 1px;

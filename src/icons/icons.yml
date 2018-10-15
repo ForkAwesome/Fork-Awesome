@@ -7180,3 +7180,11 @@ icons:
     url:        digitalocean.com
     categories:
       - Brand Icons
+
+  - name:       AT&T
+    id:         att
+    unicode:    f31e
+    created:    1.1
+    url:        att.com
+    categories:
+      - Brand Icons
