@@ -7188,3 +7188,11 @@ icons:
     url:        att.com
     categories:
       - Brand Icons
+
+  - name:       Gitea
+    id:         gitea
+    unicode:    f31f
+    created:    1.1
+    url:        gitea.io
+    categories:
+      - Brand Icons

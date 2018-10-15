@@ -2516,6 +2516,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-att:before {
   content: "\f31e";
 }
+.fa-gitea:before {
+  content: "\f31f";
+}
 .sr-only {
   position: absolute;
   width: 1px;

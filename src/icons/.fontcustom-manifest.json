@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3b85d4925baca4a3696ff01a9c5db536682001afa51711903a680b93b442d5fc",
-    "current": "3b85d4925baca4a3696ff01a9c5db536682001afa51711903a680b93b442d5fc"
+    "previous": "fee6f5032eeafefd5a685993b29ae65b8e54653f3ba8739c3a40e0b78962883c",
+    "current": "fee6f5032eeafefd5a685993b29ae65b8e54653f3ba8739c3a40e0b78962883c"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1194,6 +1194,10 @@
     "git-square": {
       "codepoint": 61906,
       "source": "svg/git-square.svg"
+    },
+    "gitea": {
+      "codepoint": 62239,
+      "source": "svg/gitea.svg"
     },
     "github": {
       "codepoint": 61595,
