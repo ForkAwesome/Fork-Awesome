@@ -7172,3 +7172,11 @@ icons:
     created:    1.1
     categories:
       - Brand Icons
+
+  - name:       DigitalOcean
+    id:         digitalocean
+    unicode:    f31d
+    created:    1.1
+    url:        digitalocean.com
+    categories:
+      - Brand Icons

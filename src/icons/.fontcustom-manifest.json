@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8946a028bf7e7a6815e1f931587462f6a9ecc2ae7e15d2e2a410b9bde925c667",
-    "current": "8946a028bf7e7a6815e1f931587462f6a9ecc2ae7e15d2e2a410b9bde925c667"
+    "previous": "65d21f8928668387c1d15dfa152c2b84861e419c4b08b9c991469c8e9619772c",
+    "current": "65d21f8928668387c1d15dfa152c2b84861e419c4b08b9c991469c8e9619772c"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -786,6 +786,10 @@
     "digg": {
       "codepoint": 61862,
       "source": "svg/digg.svg"
+    },
+    "digitalocean": {
+      "codepoint": 62237,
+      "source": "svg/digitalocean.svg"
     },
     "discord": {
       "codepoint": 62190,

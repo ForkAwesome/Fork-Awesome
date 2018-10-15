@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180909 at Sun Oct 14 19:57:00 2018
+Created by FontForge 20180909 at Sun Oct 14 21:03:55 2018
  By K.C. Tessarek
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1536.25"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F31C"
+    unicode-range="U+0020-F31D"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1996,6 +1996,9 @@ d="M1151 1536c81 0 159 -39 207 -105l572 -781c77 -104 118 -229 118 -359v-355c0 -1
 c-42 51 -65 116 -65 182v32c0 106 86 192 192 192h959zM1920 -64v355c0 101 -33 202 -93 284l-573 781c-24 32 -62 52 -103 52h-959c-35 0 -64 -29 -64 -64c0 -53 1 -90 36 -133c13 41 50 69 92 69h832v-32h-832c-35 0 -64 -29 -64 -64c0 -19 -1 -39 3 -58
 c11 -59 65 -102 125 -102h731c53 0 96 -43 96 -96c0 -10 -2 -21 -5 -30l-64 -192c-13 -39 -50 -66 -91 -66h-443c-88 0 -160 -72 -160 -160v-32c0 -35 29 -64 64 -64h561c10 0 20 -2 29 -7l317 -158c32 -17 53 -50 53 -86v-197c0 -35 29 -64 64 -64h384c35 0 64 29 64 64z
 " />
+    <glyph glyph-name="digitalocean" unicode="&#xf31d;" horiz-adv-x="1535" 
+d="M245 169h-191v190h191v-190zM473 -59h-228v228h228v-228zM769 465v-296h-296v296h296zM768 -128v298c315 0 559 312 438 644c-44 123 -142 221 -265 265c-332 120 -644 -123 -644 -438h-297c0 502 485 894 1012 729c230 -72 414 -255 485 -485
+c165 -527 -226 -1013 -729 -1013z" />
     <glyph glyph-name="xing" unicode="&#xf168;" horiz-adv-x="1408" 
 d="M597 869c0 0 -10 -17 -257 -456c-13 -22 -30 -46 -65 -46h-239c-14 0 -25 7 -31 17s-7 23 0 36l253 448c1 0 1 0 0 1l-161 279c-7 13 -8 27 -1 37c6 10 18 15 32 15h239c36 0 54 -24 66 -45c163 -285 164 -286 164 -286zM1403 1511c7 -10 7 -24 0 -37l-528 -934
 c-1 0 -1 -1 0 -1l336 -615c7 -13 7 -27 1 -37c-7 -10 -18 -15 -32 -15h-239c-36 0 -55 24 -66 45c-339 621 -339 622 -339 622s17 30 531 942c13 23 28 45 64 45h241c14 0 25 -5 31 -15z" />
