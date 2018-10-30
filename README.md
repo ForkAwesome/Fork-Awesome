@@ -13,7 +13,7 @@ Following concerns regarding [the development of Font Awesome](https://github.co
 
 A tremendous gratitude is given to the whole team behind [Font Awesome](https://fontawesome.com), and you are encouraged to support them and buy Font Awesome Pro for your project.
 
-Though If you believe in distributed open source design and wish to be part of this new adventure, please start submitting patches and suggestions of improvement.
+That said, if you believe in distributed open source design and wish to be part of this new adventure, please start submitting patches and suggestions of improvement.
 
 Also, if you care about owning the build process of your icon font, this project will give you that. The whole pipeline is shared and free to use for any purpose. You could be spinning your own icon font with your clever name by just forking this project and changing a few settings.
 
