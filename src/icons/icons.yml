@@ -7196,3 +7196,11 @@ icons:
     url:        gitea.io
     categories:
       - Brand Icons
+
+  - name:       EPUB
+    id:         file-epub
+    unicode:    f320
+    created:    1.1
+    categories:
+      - Web Application Icons
+      - File Type Icons
