@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "fee6f5032eeafefd5a685993b29ae65b8e54653f3ba8739c3a40e0b78962883c",
-    "current": "fee6f5032eeafefd5a685993b29ae65b8e54653f3ba8739c3a40e0b78962883c"
+    "previous": "3d4b3a0a766fcd7ca09626de8dded74fb1fae1dd6acd124a152a890f1cd3e0d4",
+    "current": "3d4b3a0a766fcd7ca09626de8dded74fb1fae1dd6acd124a152a890f1cd3e0d4"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -994,6 +994,10 @@
     "file-code-o": {
       "codepoint": 61897,
       "source": "svg/file-code-o.svg"
+    },
+    "file-epub": {
+      "codepoint": 62241,
+      "source": "svg/file-epub.svg"
     },
     "file-excel-o": {
       "codepoint": 61891,
