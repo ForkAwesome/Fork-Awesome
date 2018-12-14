@@ -11,6 +11,7 @@ about: Suggest an icon for this project
 <!--
       Please add an image for this icon
       As a general rule, images with simple shapes and only one color are the best.
+      If this icon is a "brand" icon, let us know why this brand is important and what they do.
 -->
 
 
@@ -23,6 +24,6 @@ about: Suggest an icon for this project
 
 ## Use Case
 
-<!-- Describe how the icon may be used and why it should be added to this font. -->
+<!-- Describe how a user of fork-awesome would use that icon in their project. -->
 
 
