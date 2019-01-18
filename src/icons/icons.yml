@@ -7204,3 +7204,12 @@ icons:
     categories:
       - Web Application Icons
       - File Type Icons
+
+  - name:       litecoin
+    id:         ltc
+    unicode:    f320
+    created:    1.1
+    categories:
+      - Payment Icons
+      - Currency Icons
+      - Brand Icons
