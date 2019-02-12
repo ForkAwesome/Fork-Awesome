@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1792" viewBox="0 0 1536 1792">
+    <defs>
+        <linearGradient id="c">
+            <stop offset="0" stop-color="#b8b8b8" stop-opacity=".498"/>
+            <stop offset="1" stop-color="#7f7f7f" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#ffd43b"/>
+            <stop offset="1" stop-color="#ffe873"/>
+        </linearGradient>
+        <linearGradient id="b">
+            <stop offset="0" stop-color="#5a9fd4"/>
+            <stop offset="1" stop-color="#306998"/>
+        </linearGradient>
+        <linearGradient gradientTransform="translate(287 -83)" gradientUnits="userSpaceOnUse" id="d" y2="129.347" x2="112.499" y1="6.137" x1="112.499">
+            <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff" stop-opacity=".275"/>
+            <midPointStop offset=".5" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="e">
+            <stop offset="0" stop-opacity="0"/>
+            <stop offset="1" stop-opacity=".371"/>
+        </linearGradient>
+    </defs>
+    <path d="M896.831-2.337C816.967 193.469 768.796 321.55 679.878 511.535c54.518 57.79 121.437 125.088 230.112 201.096-116.837-48.078-196.534-96.347-256.093-146.435C540.098 803.654 361.808 1141.904 0 1792c284.37-164.171 504.807-265.385 710.245-304.005-8.822-37.941-13.837-78.982-13.497-121.804l.338-9.11c4.512-182.188 99.286-322.29 211.555-312.778 112.269 9.513 199.534 165.005 195.022 347.193-.849 34.282-4.716 67.261-11.472 97.849C1295.398 1529.095 1513.479 1630.05 1794 1792c-55.313-101.836-104.685-193.633-151.834-281.061-74.266-57.561-151.73-132.478-309.74-213.58 108.607 28.221 186.369 60.78 246.982 97.174-479.37-892.505-518.19-1011.1-682.577-1396.87z" fill-rule="evenodd"/>
+</svg>

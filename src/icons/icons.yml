@@ -7211,3 +7211,10 @@ icons:
     created:    1.1
     categories:
       - Brand Icons
+
+  - name:       Archlinux
+    id:         archlinux
+    unicode:    f323
+    created:    1.1
+    categories:
+      - Brand Icons
