@@ -7199,7 +7199,7 @@ icons:
 
   - name:       EPUB
     id:         file-epub
-    unicode:    f320
+    unicode:    f321
     created:    1.1
     categories:
       - Web Application Icons
