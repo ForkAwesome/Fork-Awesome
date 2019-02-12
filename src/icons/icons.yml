@@ -7204,3 +7204,10 @@ icons:
     categories:
       - Web Application Icons
       - File Type Icons
+
+  - name:       Python
+    id:         python
+    unicode:    f322
+    created:    1.1
+    categories:
+      - Brand Icons

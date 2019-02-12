@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3d4b3a0a766fcd7ca09626de8dded74fb1fae1dd6acd124a152a890f1cd3e0d4",
-    "current": "3d4b3a0a766fcd7ca09626de8dded74fb1fae1dd6acd124a152a890f1cd3e0d4"
+    "previous": "d51c3ae36a661325a7761981dd4216ba607aae9721841528f1193804b20ae99d",
+    "current": "d51c3ae36a661325a7761981dd4216ba607aae9721841528f1193804b20ae99d"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2026,6 +2026,10 @@
     "puzzle-piece": {
       "codepoint": 61742,
       "source": "svg/puzzle-piece.svg"
+    },
+    "python": {
+      "codepoint": 62242,
+      "source": "svg/python.svg"
     },
     "qq": {
       "codepoint": 61910,
