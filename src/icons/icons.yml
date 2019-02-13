@@ -7218,3 +7218,12 @@ icons:
     created:    1.1
     categories:
       - Brand Icons
+
+  - name:       Pleroma
+    id:         pleroma
+    unicode:    f324
+    created:    1.1
+    url:        pleroma.social
+    categories:
+      - Brand Icons
+      - Web Application Icons

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e250cef49ddf7558139afa38853dce2a33a0a7e9c54878d3d6819bb9513e1a61",
-    "current": "e250cef49ddf7558139afa38853dce2a33a0a7e9c54878d3d6819bb9513e1a61"
+    "previous": "962c5ffdd9bf7dc28beedde37db577fd7763bb0bf1ce6e1c0919b6cccb68fb17",
+    "current": "962c5ffdd9bf7dc28beedde37db577fd7763bb0bf1ce6e1c0919b6cccb68fb17"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1990,6 +1990,10 @@
     "play-circle-o": {
       "codepoint": 61469,
       "source": "svg/play-circle-o.svg"
+    },
+    "pleroma": {
+      "codepoint": 62244,
+      "source": "svg/pleroma.svg"
     },
     "plug": {
       "codepoint": 61926,
