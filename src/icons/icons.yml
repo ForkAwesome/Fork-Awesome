@@ -6694,6 +6694,7 @@ icons:
     url:        github.com/Chocobozzz/PeerTube
     filter:
       - video
+      - social-network
       - federation
     categories:
       - Web Application Icons
@@ -7105,6 +7106,7 @@ icons:
     created:    1.1
     url:        pixelfed.social
     filter:
+      - social-network
       - federation
       - photo
     categories:
@@ -7209,6 +7211,7 @@ icons:
     id:         python
     unicode:    f322
     created:    1.1
+    url:        python.org
     categories:
       - Brand Icons
 
@@ -7216,6 +7219,7 @@ icons:
     id:         archlinux
     unicode:    f323
     created:    1.1
+    url:        archlinux.org
     categories:
       - Brand Icons
 
@@ -7224,6 +7228,9 @@ icons:
     unicode:    f324
     created:    1.1
     url:        pleroma.social
+    filter:
+      - social-network
+      - federation
     categories:
       - Brand Icons
       - Web Application Icons
@@ -7233,6 +7240,8 @@ icons:
     unicode:    f325
     created:    1.1
     url:        unsplash.com
+    filter:
+      - photo
     categories:
       - Brand Icons
 
