@@ -2531,6 +2531,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-pleroma:before {
   content: "\f324";
 }
+.fa-unsplash:before {
+  content: "\f325";
+}
 .sr-only {
   position: absolute;
   width: 1px;

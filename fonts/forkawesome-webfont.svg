@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Wed Feb 13 12:08:50 2019
+Created by FontForge 20180321 at Wed Feb 13 12:21:26 2019
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F324"
+    unicode-range="U+0020-F325"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -143,6 +143,8 @@ d="M768 96v1088c-300 0 -544 -244 -544 -544s244 -544 544 -544zM1536 640c0 -424 -3
     <glyph glyph-name="subway" unicode="&#xf239;" 
 d="M1088 1536c247 0 448 -143 448 -320v-896c0 -173 -191 -313 -431 -319l213 -202c21 -20 7 -55 -22 -55h-1056c-29 0 -43 35 -22 55l213 202c-240 6 -431 146 -431 319v896c0 177 201 320 448 320h640zM288 224c88 0 160 72 160 160s-72 160 -160 160s-160 -72 -160 -160
 s72 -160 160 -160zM704 768v512h-544v-512h544zM1248 224c88 0 160 72 160 160s-72 160 -160 160s-160 -72 -160 -160s72 -160 160 -160zM1408 768v512h-576v-512h576z" />
+    <glyph glyph-name="unslpash" unicode="&#xf325;" 
+d="M1052 728h484v-856h-1536v856h484v-428h568v428zM484 1408h568v-428h-568v428z" />
     <glyph glyph-name="chevron-down" unicode="&#xf078;" horiz-adv-x="1612" 
 d="M1593 728l-742 -741c-25 -25 -65 -25 -90 0l-742 741c-25 25 -25 66 0 91l166 165c25 25 65 25 90 0l531 -531l531 531c25 25 65 25 90 0l166 -165c25 -25 25 -66 0 -91z" />
     <glyph glyph-name="location-arrow" unicode="&#xf124;" horiz-adv-x="1408" 

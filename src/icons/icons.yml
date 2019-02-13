@@ -7227,3 +7227,11 @@ icons:
     categories:
       - Brand Icons
       - Web Application Icons
+
+  - name:       Unsplash
+    id:         unsplash
+    unicode:    f325
+    created:    1.1
+    url:        unsplash.com
+    categories:
+      - Brand Icons
