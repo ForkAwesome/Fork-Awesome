@@ -7235,3 +7235,11 @@ icons:
     url:        unsplash.com
     categories:
       - Brand Icons
+
+  - name:       Hackster
+    id:         hackster
+    unicode:    f326
+    created:    1.1
+    url:        hackster.io
+    categories:
+      - Brand Icons

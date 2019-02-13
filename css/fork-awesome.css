@@ -2534,6 +2534,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-unsplash:before {
   content: "\f325";
 }
+.fa-hackster:before {
+  content: "\f326";
+}
 .sr-only {
   position: absolute;
   width: 1px;

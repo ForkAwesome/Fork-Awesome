@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "f3c28c2a792fb541ee64aca5c002cc1aef34bd6d371348e042f5f2bb7159b3f9",
-    "current": "f3c28c2a792fb541ee64aca5c002cc1aef34bd6d371348e042f5f2bb7159b3f9"
+    "previous": "7aeb500488722615a81331277413c3bf46d4c83151a476a6c671add24452135c",
+    "current": "7aeb500488722615a81331277413c3bf46d4c83151a476a6c671add24452135c"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1298,6 +1298,10 @@
     "hacker-news": {
       "codepoint": 61908,
       "source": "svg/hacker-news.svg"
+    },
+    "hackster": {
+      "codepoint": 62246,
+      "source": "svg/hackster.svg"
     },
     "hand-lizard-o": {
       "codepoint": 62040,
