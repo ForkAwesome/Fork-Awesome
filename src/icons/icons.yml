@@ -7252,3 +7252,13 @@ icons:
     url:        hackster.io
     categories:
       - Brand Icons
+
+  - name:       Spell check
+    id:         spell-check
+    unicode:    f327
+    created:    1.1
+    filter:
+      - checkmark
+      - spelling
+    categories:
+      - Web Application Icons

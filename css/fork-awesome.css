@@ -2537,6 +2537,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-hackster:before {
   content: "\f326";
 }
+.fa-spell-check:before {
+  content: "\f327";
+}
 .sr-only {
   position: absolute;
   width: 1px;
