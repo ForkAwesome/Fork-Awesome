@@ -7288,3 +7288,11 @@ icons:
       - day
     categories:
       - Web Application Icons
+
+  - name:       F-droid
+    id:         f-droid
+    unicode:    f32a
+    created:    1.1
+    url:        f-droid.org
+    categories:
+      - Brand Icons
