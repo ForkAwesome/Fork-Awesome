@@ -2540,6 +2540,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-spell-check:before {
   content: "\f327";
 }
+.fa-moon:before {
+  content: "\f328";
+}
+.fa-sun:before {
+  content: "\f329";
+}
 .sr-only {
   position: absolute;
   width: 1px;

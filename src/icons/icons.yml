@@ -7275,3 +7275,16 @@ icons:
       - crescent
     categories:
       - Web Application Icons
+
+  - name:       Sun
+    id:         sun
+    unicode:    f329
+    created:    1.1
+    filter:
+      - weather
+      - contrast
+      - lighter
+      - brighten
+      - day
+    categories:
+      - Web Application Icons
