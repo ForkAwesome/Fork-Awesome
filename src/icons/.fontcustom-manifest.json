@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "bbe6cb7051e355fec762a82a41333133de0ddd83cd217e045c543b381e298454",
-    "current": "bbe6cb7051e355fec762a82a41333133de0ddd83cd217e045c543b381e298454"
+    "previous": "536f5ba2b18496e2d5e71605c5312e82f203eb572875eaf77a6e710ba628aca6",
+    "current": "536f5ba2b18496e2d5e71605c5312e82f203eb572875eaf77a6e710ba628aca6"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1802,6 +1802,10 @@
     "money": {
       "codepoint": 61654,
       "source": "svg/money.svg"
+    },
+    "moon": {
+      "codepoint": 62248,
+      "source": "svg/moon.svg"
     },
     "moon-o": {
       "codepoint": 61830,

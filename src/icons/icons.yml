@@ -3936,6 +3936,7 @@ icons:
       - night
       - darker
       - contrast
+      - crescent
     categories:
       - Web Application Icons
 
@@ -7260,5 +7261,17 @@ icons:
     filter:
       - checkmark
       - spelling
+    categories:
+      - Web Application Icons
+
+  - name:       Moon
+    id:         moon
+    unicode:    f328
+    created:    1.1
+    filter:
+      - night
+      - darker
+      - contrast
+      - crescent
     categories:
       - Web Application Icons

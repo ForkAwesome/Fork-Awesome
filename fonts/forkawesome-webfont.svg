@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2019-2-14: Created with FontForge (http://fontforge.org)
+2019-2-15: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Thu Feb 14 14:37:28 2019
+Created by FontForge 20180321 at Fri Feb 15 11:17:15 2019
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F327"
+    unicode-range="U+0020-F328"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2328,6 +2328,8 @@ c-9 0 -18 -3 -24 -8c-7 -4 -10 -11 -10 -18l17 -621c0 -14 15 -25 34 -25h185c18 0 3
 d="M1408 768c0 -283 -315 -512 -704 -512c-61 0 -120 6 -176 16c-83 -59 -177 -102 -278 -128c-27 -7 -56 -12 -86 -16h-3c-15 0 -29 12 -32 29c-4 19 9 31 20 44c39 44 83 83 117 166c-162 94 -266 239 -266 401c0 283 315 512 704 512s704 -229 704 -512zM1792 512
 c0 -163 -104 -307 -266 -401c34 -83 78 -122 117 -166c11 -13 24 -25 20 -44c-4 -18 -19 -31 -35 -29c-30 4 -59 9 -86 16c-101 26 -195 69 -278 128c-56 -10 -115 -16 -176 -16c-181 0 -347 50 -472 132c29 -2 59 -4 88 -4c215 0 418 62 573 174c167 122 259 287 259 466
 c0 52 -8 103 -23 152c169 -93 279 -241 279 -408z" />
+    <glyph glyph-name="moon" unicode="&#xf328;" horiz-adv-x="1471" 
+d="M1465 318c-125 -271 -399 -446 -697 -446c-423 0 -768 345 -768 768c0 415 325 752 739 767c28 1 51 -15 61 -39c11 -25 4 -54 -15 -72c-114 -104 -177 -246 -177 -400c0 -300 244 -544 544 -544c79 0 155 17 228 51c25 11 53 6 72 -13s24 -48 13 -72z" />
     <glyph glyph-name="facebook-official" unicode="&#xf230;" 
 d="M1451 1408c47 0 85 -38 85 -85v-1366c0 -47 -38 -85 -85 -85h-391v595h199l30 232h-229v148c0 67 18 112 115 112l122 1v207c-21 3 -94 9 -178 9c-177 0 -299 -108 -299 -306v-171h-200v-232h200v-595h-735c-47 0 -85 38 -85 85v1366c0 47 38 85 85 85h1366z" />
     <glyph glyph-name="clock-o" unicode="&#xf017;" 
