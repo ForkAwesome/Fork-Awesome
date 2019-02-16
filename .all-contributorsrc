@@ -1006,6 +1006,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "vanokhin",
+      "name": "Vladimir Anokhin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1898673?v=4",
+      "profile": "https://vanokhin.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
