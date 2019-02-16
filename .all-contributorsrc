@@ -979,6 +979,16 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "melmothx",
+      "name": "Marco",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/130971?v=4",
+      "profile": "https://amusewiki.org",
+      "contributions": [
+        "design"
+      ]
     }
-  ]
+  ],
+  "contributorsPerLine": 7
 }
