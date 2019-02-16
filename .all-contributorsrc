@@ -988,6 +988,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "jaredcwhite",
+      "name": "Jared White",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/658496?v=4",
+      "profile": "https://whitefusion.io",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7
