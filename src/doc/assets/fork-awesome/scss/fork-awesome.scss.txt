@@ -4,6 +4,7 @@
 
 @import "variables";
 @import "mixins";
+@import "functions";
 @import "path";
 @import "core";
 @import "larger";
