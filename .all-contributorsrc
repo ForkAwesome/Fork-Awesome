@@ -1015,6 +1015,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "maxlath",
+      "name": "Maxime Lathuilière",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1596934?v=4",
+      "profile": "http://maxlath.eu",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
