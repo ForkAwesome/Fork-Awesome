@@ -1033,6 +1033,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "wakest",
+      "name": "Liaizon Wakest",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7890201?v=4",
+      "profile": "http://wake.st",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7
