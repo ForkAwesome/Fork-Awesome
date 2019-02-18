@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8d8a0c6e6334d7f9c4e81c2cca32060411fad50ace7124928d57e2f897ea61c5",
-    "current": "8d8a0c6e6334d7f9c4e81c2cca32060411fad50ace7124928d57e2f897ea61c5"
+    "previous": "00a432cbd613d3875b47d89e471bea7d9f45eefc7007c53de4cdd2a2791a010e",
+    "current": "00a432cbd613d3875b47d89e471bea7d9f45eefc7007c53de4cdd2a2791a010e"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -314,6 +314,10 @@
     "binoculars": {
       "codepoint": 61925,
       "source": "svg/binoculars.svg"
+    },
+    "biometric": {
+      "codepoint": 62251,
+      "source": "svg/biometric.svg"
     },
     "birthday-cake": {
       "codepoint": 61949,
