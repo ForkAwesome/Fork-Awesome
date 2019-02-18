@@ -9,9 +9,9 @@ module Jekyll
       all_contributors_rc = File.read(File.join(Dir.pwd, '.all-contributorsrc'))
       all_contributors = JSON.parse(all_contributors_rc)
       total_contributors = all_contributors['contributors'].length
-
-      readme = site.pages.detect {|page| page.name == 'README.md-nobuild'}
-      readme.data['total_contributors'] = total_contributors
+      site.pages.each do |page|
+        page.data['total_contributors'] = total_contributors
+      end
     end
   end
 end
