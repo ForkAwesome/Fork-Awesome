@@ -7296,3 +7296,13 @@ icons:
     url:        f-droid.org
     categories:
       - Brand Icons
+
+  - name:       biometric
+    id:         biometric
+    unicode:    f32b
+    created:    1.1
+    filter:
+      - biometric
+      - passport
+    categories:
+      - Web Application Icons
