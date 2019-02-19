@@ -1042,6 +1042,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "fedidat",
+      "name": "Ben Fedidat",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1108409?v=4",
+      "profile": "http://fedidat.com/",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7
