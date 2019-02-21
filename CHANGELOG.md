@@ -1,8 +1,16 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.1.6
+  - Added icons: file-epub, python, archlinux, pleroma, unsplash, hackster, spell-check, moon, sun, f-droid, and biometric
+  - Some documentation correction and augmentation, mostly in the README
+  - Gave access to the @all-contributors [bot] to the repo for easier contributor list management
+  - Added a plugin to automatically update the Contributors badge when building the documentation
+  - Added an official domain name for the project: https://forkaweso.me
+- v1.1.5
+  - Just bumped the version number to trigger an automated deploy
 - v1.1.4
-  - Added icons: Gitea, AT&T, Digitalocean, C (language), Wikidata, Emby, Jirafeau, Hashnode, DevTo, Pixelfed, Matrix, Inkscape, Syncthing. 
+  - Added icons: Gitea, AT&T, Digitalocean, C (language), Wikidata, Emby, Jirafeau, Hashnode, DevTo, Pixelfed, Matrix, Inkscape, Syncthing.
 - v1.1.3
   - Added icons: Syncthing and Inkscape
   - Fixed sizing with PHP icon
