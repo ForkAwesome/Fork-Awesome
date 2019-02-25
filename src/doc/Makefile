@@ -36,7 +36,23 @@ build:
 
 	@echo "Moving CSS, LESS & SASS to /"
 	mv ${FA_SCSS_DIRECTORY}/fork-awesome.scss.txt ${FA_SCSS_DIRECTORY}/fork-awesome.scss
-	cp -r ${FA_ROOT_DIRECTORY}/ ../
+
+	mv ${FA_SCSS_DIRECTORY}/animated.scss.txt ${FA_SCSS_DIRECTORY}/_animated.scss
+	mv ${FA_SCSS_DIRECTORY}/bordered-pulled.scss.txt ${FA_SCSS_DIRECTORY}/_bordered-pulled.scss
+	mv ${FA_SCSS_DIRECTORY}/core.scss.txt ${FA_SCSS_DIRECTORY}/_core.scss
+	mv ${FA_SCSS_DIRECTORY}/fixed-width.scss.txt ${FA_SCSS_DIRECTORY}/_fixed-width.scss
+	mv ${FA_SCSS_DIRECTORY}/functions.scss.txt ${FA_SCSS_DIRECTORY}/_functions.scss
+	mv ${FA_SCSS_DIRECTORY}/icons.scss.txt ${FA_SCSS_DIRECTORY}/_icons.scss
+	mv ${FA_SCSS_DIRECTORY}/larger.scss.txt ${FA_SCSS_DIRECTORY}/_larger.scss
+	mv ${FA_SCSS_DIRECTORY}/list.scss.txt ${FA_SCSS_DIRECTORY}/_list.scss
+	mv ${FA_SCSS_DIRECTORY}/mixins.scss.txt ${FA_SCSS_DIRECTORY}/_mixins.scss
+	mv ${FA_SCSS_DIRECTORY}/path.scss.txt ${FA_SCSS_DIRECTORY}/_path.scss
+	mv ${FA_SCSS_DIRECTORY}/rotated-flipped.scss.txt ${FA_SCSS_DIRECTORY}/_rotated-flipped.scss
+	mv ${FA_SCSS_DIRECTORY}/screen-reader.scss.txt ${FA_SCSS_DIRECTORY}/_screen-reader.scss
+	mv ${FA_SCSS_DIRECTORY}/stacked.scss.txt ${FA_SCSS_DIRECTORY}/_stacked.scss
+	mv ${FA_SCSS_DIRECTORY}/variables.scss.txt ${FA_SCSS_DIRECTORY}/_variables.scss
+
+	cp -r ${FA_ROOT_DIRECTORY}/* ../
 
 	@echo "Moving font files to assets"
 	cp -r "../fonts" ${FA_ROOT_DIRECTORY}/
