@@ -78,7 +78,7 @@ to the `dependencies` in your `component.json`.
 From the root of the repository, install the tools used to develop.
 
     $ bundle install
-    $ npm install
+    $ npm ci
 
 Build the font:
 
