@@ -23,6 +23,10 @@ SITE_LESS = ${SITE_LESS_DIRECTORY}/site.less
 SITE_CSS = ${SITE_CSS_DIRECTORY}/site.css
 
 build:
+	@echo "Cleaning build dirs"
+	rm -rf ./less/
+	rm -rf ./scss/
+
 	@echo "Compiling Less files"
 	@mkdir -p ${FA_CSS_DIRECTORY}
 
