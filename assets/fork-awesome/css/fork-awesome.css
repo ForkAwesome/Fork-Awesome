@@ -1,5 +1,5 @@
 /*!
-Fork Awesome 1.1.6
+Fork Awesome 1.1.7
 License - https://forkaweso.me/Fork-Awesome/license
 
 Copyright 2018 Dave Gandy & Fork Awesome
@@ -14,8 +14,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  * -------------------------- */
 @font-face {
   font-family: 'ForkAwesome';
-  src: url('../fonts/forkawesome-webfont.eot?v=1.1.6');
-  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.1.6') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.1.6') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.1.6') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.1.6') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.1.6#forkawesomeregular') format('svg');
+  src: url('../fonts/forkawesome-webfont.eot?v=1.1.7');
+  src: url('../fonts/forkawesome-webfont.eot?#iefix&v=1.1.7') format('embedded-opentype'), url('../fonts/forkawesome-webfont.woff2?v=1.1.7') format('woff2'), url('../fonts/forkawesome-webfont.woff?v=1.1.7') format('woff'), url('../fonts/forkawesome-webfont.ttf?v=1.1.7') format('truetype'), url('../fonts/forkawesome-webfont.svg?v=1.1.7#forkawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
