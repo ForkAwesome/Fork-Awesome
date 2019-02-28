@@ -1051,6 +1051,18 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "eidsonator",
+      "name": "Todd Eidson",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/954092?v=4",
+      "profile": "https://www.eidson.info",
+      "contributions": [
+        "ideas",
+        "doc",
+        "bug",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
