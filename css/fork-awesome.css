@@ -2552,6 +2552,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-biometric:before {
   content: "\f32b";
 }
+.fa-wire:before {
+  content: "\f32c";
+}
 .sr-only {
   position: absolute;
   width: 1px;
