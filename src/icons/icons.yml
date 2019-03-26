@@ -7306,3 +7306,16 @@ icons:
       - passport
     categories:
       - Web Application Icons
+
+  - name:       Wire
+    id:         wire
+    unicode:    f32c
+    created:    1.1
+    url:        wire.com
+    filter:
+      - social network
+      - message
+      - messenger
+      - chat
+    categories:
+      - Brand Icons

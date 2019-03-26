@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2019-2-18: Created with FontForge (http://fontforge.org)
+2019-3-26: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Mon Feb 18 18:29:30 2019
- By Julien Deswaef
+Created by FontForge 20170924 at Tue Mar 26 01:47:45 2019
+ By Lucas,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
 <defs>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F32B"
+    unicode-range="U+0020-F32C"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1515,6 +1515,9 @@ c18 0 32 -14 32 -32v-128c0 -18 -14 -32 -32 -32h-1472c-18 0 -32 14 -32 32v128c0 1
     <glyph glyph-name="paint-brush" unicode="&#xf1fc;" horiz-adv-x="1790" 
 d="M1615 1536c91 0 175 -68 175 -163c0 -53 -21 -104 -45 -151c-78 -148 -340 -637 -465 -752c-61 -57 -133 -91 -218 -91c-169 0 -307 144 -307 312c0 80 33 158 92 212l638 579c35 32 81 54 130 54zM706 502c52 -101 147 -177 257 -206l1 -71c6 -285 -192 -481 -478 -481
 c-339 0 -486 270 -486 577c37 -25 166 -128 208 -128c25 0 46 14 55 37c85 222 218 262 443 272z" />
+    <glyph glyph-name="wire" unicode="&#xf32c;" horiz-adv-x="1792" 
+d="M1792 457c0 -305 -247 -552 -552 -553c-124 0 -244 42 -341 119c-83 -66 -237 -119 -343 -119v0c-305 0 -556 248 -556 553v870h105v-869c1 -248 203 -449 451 -448c96 0 188 31 265 88c-87 100 -135 228 -136 360v711c2 116 99 209 215 207c113 -2 205 -94 207 -207
+v-711c1 -132 -47 -260 -133 -360c198 -147 478 -106 625 92c57 77 89 171 88 268v869h105v-870zM1001 1169c0 58 -46 106 -105 106c-58 0 -105 -47 -105 -106v-711c0 -105 37 -207 105 -288c68 81 105 183 105 288v711z" />
     <glyph glyph-name="viadeo-square" unicode="&#xf2aa;" 
 d="M1050 495c0 50 -9 100 -28 147c-26 -16 -55 -28 -85 -34c16 -36 22 -75 22 -114c0 -154 -114 -280 -270 -280c-157 0 -271 126 -271 280c0 151 115 284 271 284c34 0 67 -6 98 -19c3 30 13 60 27 87c-40 14 -82 21 -125 21c-207 0 -361 -167 -361 -372s155 -367 361 -367
 s361 163 361 367zM872 850c25 -72 38 -148 38 -225c0 -173 -71 -317 -219 -411h-10c-14 0 -28 1 -42 3c199 76 235 377 235 562c0 23 0 47 -2 71zM872 850c-5 97 -60 247 -142 302c56 -95 106 -197 142 -302zM1207 955c0 61 -15 123 -51 174c-24 -51 -69 -94 -124 -109
