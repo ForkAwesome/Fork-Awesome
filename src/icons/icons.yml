@@ -7319,3 +7319,13 @@ icons:
       - chat
     categories:
       - Brand Icons
+
+  - name:       Share Sharp
+    id:         share-sharp
+    unicode:    f32d
+    created:    1.1
+    filter:
+      - send
+      - arrow
+    categories:
+      - Web Application Icons

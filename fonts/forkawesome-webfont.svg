@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2019-3-26: Created with FontForge (http://fontforge.org)
+2019-3-27: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Tue Mar 26 01:47:45 2019
+Created by FontForge 20170924 at Wed Mar 27 08:35:24 2019
  By Lucas,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -264 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F32C"
+    unicode-range="U+0020-F32D"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2319,6 +2319,8 @@ v66c282 -8 528 -159 667 -385zM1748 640c0 470 -382 852 -852 852s-852 -382 -852 -8
     <glyph glyph-name="server" unicode="&#xf233;" horiz-adv-x="1792" 
 d="M128 128h1024v128h-1024v-128zM128 640h1024v128h-1024v-128zM1696 192c0 53 -43 96 -96 96s-96 -43 -96 -96s43 -96 96 -96s96 43 96 96zM128 1152h1024v128h-1024v-128zM1696 704c0 53 -43 96 -96 96s-96 -43 -96 -96s43 -96 96 -96s96 43 96 96zM1696 1216
 c0 53 -43 96 -96 96s-96 -43 -96 -96s43 -96 96 -96s96 43 96 96zM1792 384v-384h-1792v384h1792zM1792 896v-384h-1792v384h1792zM1792 1408v-384h-1792v384h1792z" />
+    <glyph glyph-name="share-sharp" unicode="&#xf32d;" horiz-adv-x="1792" 
+d="M1095 988v399l697 -697l-697 -697v408c-498 0 -846 -160 -1095 -508c100 498 398 995 1095 1095z" />
     <glyph glyph-name="inkscape" unicode="&#xf312;" 
 d="M755 1398v0c47 0 95 -17 131 -52l588 -601c234 -234 -259 -288 -401 -371c-50 -51 153 -85 132 -147c-42 -126 -157 -45 -280 -171c-50 -51 95 -46 45 -97c-93 -68 -285 -115 -300 -32c-21 117 -135 68 -185 119s101 104 51 155s-299 97 -349 148s191 88 141 139
 c-138 68 -461 41 -269 278l567 580c34 35 82 52 129 52zM760 1343v0c-34 0 -68 -13 -93 -38c-49 -50 -140 -138 -219 -223c-45 -45 -40 -109 10 -109h123l80 139l49 -199l149 95l93 -49l22 131l111 -89c12 12 12 54 -9 76l-224 228c-24 25 -58 38 -92 38zM491 456
