@@ -7319,3 +7319,51 @@ icons:
       - chat
     categories:
       - Brand Icons
+
+  - name:       Check Circle Outlined Thin
+    id:         check-circle-o-thin
+    unicode:    f32e
+    created:    1.1
+    filter:
+      - checkmark
+      - done
+      - todo
+      - agree
+      - accept
+      - confirm
+      - tick
+      - ok
+    categories:
+      - Web Application Icons
+
+  - name:       Check Circle Thin
+    id:         check-circle-thin
+    unicode:    f32f
+    created:    1.1
+    filter:
+      - checkmark
+      - done
+      - todo
+      - agree
+      - accept
+      - confirm
+      - tick
+      - ok
+    categories:
+      - Web Application Icons
+
+  - name:       Check Thin
+    id:         check-thin
+    unicode:    f330
+    created:    1.1
+    filter:
+      - checkmark
+      - done
+      - todo
+      - agree
+      - accept
+      - confirm
+      - tick
+      - ok
+    categories:
+      - Web Application Icons
