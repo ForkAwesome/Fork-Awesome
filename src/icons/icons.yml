@@ -7330,3 +7330,15 @@ icons:
       - network
     categories:
       - Brand Icons
+
+  - name:       volume-mute
+    id:         volume-mute
+    unicode:    f32e
+    created:    1.1
+    filter:
+      - audio
+      - mute
+      - sound
+      - music
+    categories:
+      - Web Application Icons
