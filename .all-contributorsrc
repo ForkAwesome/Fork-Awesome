@@ -1073,6 +1073,15 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "dyamon",
+      "name": "Federico Igne",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6771224?v=4",
+      "profile": "https://github.com/dyamon",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7
