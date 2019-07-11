@@ -7342,3 +7342,27 @@ icons:
       - music
     categories:
       - Web Application Icons
+
+  - name:       Ringing Bell
+    id:         bell-ringing
+    unicode:    f32d
+    created:    1.1
+    filter:
+      - alert
+      - reminder
+      - notification
+      - ringing
+    categories:
+      - Web Application Icons
+
+  - name:       Ringing Bell Outlined
+    id:         bell-ringing-o
+    unicode:    f330
+    created:    1.1
+    filter:
+      - alert
+      - reminder
+      - notification
+      - ringing
+    categories:
+      - Web Application Icons
