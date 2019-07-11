@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5e70343708bbabf17bd7ed5ccd6d86fa226a0644fe3094d2912dfd1ea69fcbd5",
-    "current": "5e70343708bbabf17bd7ed5ccd6d86fa226a0644fe3094d2912dfd1ea69fcbd5"
+    "previous": "11c5da837f14d8e26d9d2bc9668a361764ac731d7ca261306bc8d4bcaf4e7c78",
+    "current": "11c5da837f14d8e26d9d2bc9668a361764ac731d7ca261306bc8d4bcaf4e7c78"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -298,6 +298,14 @@
     "bell-o": {
       "codepoint": 61602,
       "source": "svg/bell-o.svg"
+    },
+    "bell-rigning-o": {
+      "codepoint": 62256,
+      "source": "svg/bell-rigning-o.svg"
+    },
+    "bell-ringing": {
+      "codepoint": 62253,
+      "source": "svg/bell-ringing.svg"
     },
     "bell-slash": {
       "codepoint": 61942,
@@ -2655,6 +2663,10 @@
       "codepoint": 61957,
       "source": "svg/toggle-on.svg"
     },
+    "tor-onion": {
+      "codepoint": 62254,
+      "source": "svg/tor-onion.svg"
+    },
     "trademark": {
       "codepoint": 62044,
       "source": "svg/trademark.svg"
@@ -2858,6 +2870,10 @@
     "volume-down": {
       "codepoint": 61479,
       "source": "svg/volume-down.svg"
+    },
+    "volume-mute": {
+      "codepoint": 62255,
+      "source": "svg/volume-mute.svg"
     },
     "volume-off": {
       "codepoint": 61478,
