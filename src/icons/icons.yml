@@ -7366,3 +7366,12 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       Jupyter
+    id:         jupyter
+    unicode:    f332
+    created:    1.1
+    filter:
+      - science
+    categories:
+      - Brand Icons
