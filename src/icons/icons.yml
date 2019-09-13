@@ -7366,3 +7366,12 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       Julia
+    id:         julia
+    unicode:    f333
+    created:    1.1
+    filter:
+      - science
+    categories:
+      - Brand Icons
