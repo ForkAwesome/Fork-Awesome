@@ -7366,3 +7366,12 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       Open Collective
+    id:         open-collective
+    unicode:    f336
+    created:    1.1
+    filter:
+      - funding platform
+    categories:
+      - Brand Icons
