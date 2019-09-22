@@ -7366,3 +7366,12 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       Orcid Id
+    id:         orcid
+    unicode:    f338
+    created:    1.1
+    filter:
+      - science
+    categories:
+      - Brand Icons
