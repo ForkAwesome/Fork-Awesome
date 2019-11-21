@@ -7432,3 +7432,13 @@ icons:
       - science
     categories:
       - Brand Icons
+
+  - name:       Reasearch Gate
+    id:         researchgate
+    unicode:    f338
+    created:    1.1
+    url:        researchgate.net
+    filter:
+      - science
+    categories:
+      - Brand Icons
