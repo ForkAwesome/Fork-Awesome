@@ -7396,3 +7396,17 @@ icons:
       - science
     categories:
       - Brand Icons
+
+  - name:       ClassicPress Logo
+    id:         classicpress
+    unicode:    f331
+    created:    1.1
+    categories:
+      - Brand Icons
+
+  - name:       ClassicPress Logo Circle
+    id:         classicpress-circle
+    unicode:    f332
+    created:    1.1
+    categories:
+      - Brand Icons
