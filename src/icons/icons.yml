@@ -7399,7 +7399,7 @@ icons:
 
   - name:       ClassicPress
     id:         classicpress
-    unicode:    f334
+    unicode:    f331
     created:    1.1
     url:        classicpress.net
     categories:
@@ -7407,8 +7407,17 @@ icons:
 
   - name:       ClassicPress Circle
     id:         classicpress-circle
-    unicode:    f334
+    unicode:    f332
     created:    1.1
     url:        classicpress.net
+    categories:
+      - Brand Icons
+
+  - name:       Open Collective
+    id:         open-collective
+    unicode:    f336
+    created:    1.1
+    filter:
+      - funding platform
     categories:
       - Brand Icons
