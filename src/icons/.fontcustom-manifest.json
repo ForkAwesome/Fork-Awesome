@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "bd27255bf3d370f372210fce4496acd8a59ff101d709369daea23c0cddc59a18",
-    "current": "bd27255bf3d370f372210fce4496acd8a59ff101d709369daea23c0cddc59a18"
+    "previous": "637e5933dbf42c4a3740dfab534f7566b6f86a0893465dcec432d288c4e7207f",
+    "current": "637e5933dbf42c4a3740dfab534f7566b6f86a0893465dcec432d288c4e7207f"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1914,6 +1914,10 @@
     "optin-monster": {
       "codepoint": 62012,
       "source": "svg/optin-monster.svg"
+    },
+    "orcid": {
+      "codepoint": 62263,
+      "source": "svg/orcid.svg"
     },
     "outdent": {
       "codepoint": 61499,

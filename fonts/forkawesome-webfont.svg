@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Thu Nov 21 17:26:01 2019
+Created by FontForge 20190801 at Thu Nov 21 17:30:32 2019
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F336"
+    unicode-range="U+0020-F337"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1844,6 +1844,9 @@ c-29 -3 -58 -6 -87 -10c2 -3 3 -7 4 -10zM425 -118c2 9 3 19 3 30c-21 86 -69 184 -1
 c-8 -5 -19 -9 -29 -13c-1 -3 -1 -6 -2 -9c17 -10 29 -22 22 -37c-8 -15 -32 -28 -56 -34c-8 -10 -19 -18 -29 -24h-1c-1 -50 -1 -100 1 -150c14 -25 26 -51 35 -73zM497 -113c382 -15 764 -13 1145 0c-136 79 -274 153 -428 196c-51 -23 -103 -42 -156 -57
 c-8 -3 -8 -3 -16 0c-44 14 -86 30 -129 49c-149 -43 -286 -108 -416 -188h-1v-1c1 0 1 0 1 1zM1681 -67c3 42 16 87 28 120c8 22 19 47 33 71l-1 -1c2 51 3 102 3 153c-11 6 -21 15 -30 25c-24 5 -48 19 -56 33c-7 15 5 28 22 38c-1 2 -2 6 -2 9c-11 3 -20 7 -28 12
 c-117 -109 -242 -210 -383 -284c144 -43 281 -104 414 -176zM2073 -90c11 115 -161 227 -245 202c-54 -16 -103 -114 -124 -200c0 -11 1 -21 3 -30c14 -66 81 -110 147 -107c71 3 172 63 219 135z" />
+    <glyph glyph-name="orcid" unicode="&#xf337;" horiz-adv-x="1792" 
+d="M1792 640c0 -495 -401 -896 -896 -896s-896 401 -896 896s401 896 896 896s896 -401 896 -896zM604 233v411v338h-108v-749h108zM762 982v-750h293c247 0 397 183 397 375c0 177 -121 375 -398 375h-292zM870 329v556h166c210 0 306 -128 306 -278
+c0 -92 -56 -278 -300 -278h-172zM621 1138c0 38 -32 71 -71 71s-70 -32 -70 -71c0 -38 31 -70 70 -70s71 32 71 70z" />
     <glyph glyph-name="outdent" unicode="&#xf03b;" horiz-adv-x="1792" 
 d="M384 992v-576c0 -17 -15 -32 -32 -32c-8 0 -17 3 -23 9l-288 288c-6 6 -9 15 -9 23s3 17 9 23l288 288c6 6 15 9 23 9c17 0 32 -15 32 -32zM1792 224v-192c0 -17 -15 -32 -32 -32h-1728c-17 0 -32 15 -32 32v192c0 17 15 32 32 32h1728c17 0 32 -15 32 -32zM1792 608
 v-192c0 -17 -15 -32 -32 -32h-1088c-17 0 -32 15 -32 32v192c0 17 15 32 32 32h1088c17 0 32 -15 32 -32zM1792 992v-192c0 -17 -15 -32 -32 -32h-1088c-17 0 -32 15 -32 32v192c0 17 15 32 32 32h1088c17 0 32 -15 32 -32zM1792 1376v-192c0 -17 -15 -32 -32 -32h-1728
