@@ -7366,3 +7366,79 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       HAL
+    id:         hal
+    unicode:    f333
+    created:    1.1
+    url:        hal.archives-ouvertes.fr
+    filter:
+      - science
+    categories:
+      - Brand Icons
+
+  - name:       Jupyter
+    id:         jupyter
+    unicode:    f335
+    created:    1.1
+    url:        jupyter.org
+    filter:
+      - science
+    categories:
+      - Brand Icons
+
+  - name:       Julia
+    id:         julia
+    unicode:    f334
+    created:    1.1
+    url:        julialang.org
+    filter:
+      - science
+    categories:
+      - Brand Icons
+
+  - name:       ClassicPress
+    id:         classicpress
+    unicode:    f331
+    created:    1.1
+    url:        classicpress.net
+    categories:
+      - Brand Icons
+
+  - name:       ClassicPress Circle
+    id:         classicpress-circle
+    unicode:    f332
+    created:    1.1
+    url:        classicpress.net
+    categories:
+      - Brand Icons
+
+  - name:       Open Collective
+    id:         open-collective
+    unicode:    f336
+    created:    1.1
+    url:        opencollective.com
+    filter:
+      - funding platform
+    categories:
+      - Brand Icons
+
+  - name:       Orcid Id
+    id:         orcid
+    unicode:    f337
+    created:    1.1
+    url:        orcid.org
+    filter:
+      - science
+    categories:
+      - Brand Icons
+
+  - name:       Reasearch Gate
+    id:         researchgate
+    unicode:    f338
+    created:    1.1
+    url:        researchgate.net
+    filter:
+      - science
+    categories:
+      - Brand Icons

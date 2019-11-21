@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "11c5da837f14d8e26d9d2bc9668a361764ac731d7ca261306bc8d4bcaf4e7c78",
-    "current": "11c5da837f14d8e26d9d2bc9668a361764ac731d7ca261306bc8d4bcaf4e7c78"
+    "previous": "637e5933dbf42c4a3740dfab534f7566b6f86a0893465dcec432d288c4e7207f",
+    "current": "637e5933dbf42c4a3740dfab534f7566b6f86a0893465dcec432d288c4e7207f"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -626,6 +626,14 @@
     "circle-thin": {
       "codepoint": 61915,
       "source": "svg/circle-thin.svg"
+    },
+    "classicpress": {
+      "codepoint": 62257,
+      "source": "svg/classicpress.svg"
+    },
+    "classicpress-circle": {
+      "codepoint": 62258,
+      "source": "svg/classicpress-circle.svg"
     },
     "clipboard": {
       "codepoint": 61674,
@@ -1319,6 +1327,10 @@
       "codepoint": 62246,
       "source": "svg/hackster.svg"
     },
+    "hal": {
+      "codepoint": 62259,
+      "source": "svg/hal.svg"
+    },
     "hand-lizard-o": {
       "codepoint": 62040,
       "source": "svg/hand-lizard-o.svg"
@@ -1530,6 +1542,14 @@
     "jsfiddle": {
       "codepoint": 61900,
       "source": "svg/jsfiddle.svg"
+    },
+    "julia": {
+      "codepoint": 62260,
+      "source": "svg/julia.svg"
+    },
+    "jupyter": {
+      "codepoint": 62261,
+      "source": "svg/jupyter.svg"
     },
     "key": {
       "codepoint": 61572,
@@ -1875,6 +1895,10 @@
       "codepoint": 62052,
       "source": "svg/odnoklassniki-square.svg"
     },
+    "open-collective": {
+      "codepoint": 62262,
+      "source": "svg/open-collective.svg"
+    },
     "opencart": {
       "codepoint": 62013,
       "source": "svg/opencart.svg"
@@ -1890,6 +1914,10 @@
     "optin-monster": {
       "codepoint": 62012,
       "source": "svg/optin-monster.svg"
+    },
+    "orcid": {
+      "codepoint": 62263,
+      "source": "svg/orcid.svg"
     },
     "outdent": {
       "codepoint": 61499,
