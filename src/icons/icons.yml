@@ -7366,3 +7366,12 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       HAL
+    id:         hal
+    unicode:    f331
+    created:    1.1
+    filter:
+      - science
+    categories:
+      - Brand Icons
