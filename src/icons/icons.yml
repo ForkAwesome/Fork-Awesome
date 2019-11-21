@@ -7371,6 +7371,17 @@ icons:
     id:         hal
     unicode:    f331
     created:    1.1
+    url:        hal.archives-ouvertes.fr
+    filter:
+      - science
+    categories:
+      - Brand Icons
+
+  - name:       Jupyter
+    id:         jupyter
+    unicode:    f332
+    created:    1.1
+    url:        jupyter.org
     filter:
       - science
     categories:
