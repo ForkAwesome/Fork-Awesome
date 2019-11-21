@@ -7369,7 +7369,7 @@ icons:
 
   - name:       HAL
     id:         hal
-    unicode:    f331
+    unicode:    f333
     created:    1.1
     url:        hal.archives-ouvertes.fr
     filter:
@@ -7379,7 +7379,7 @@ icons:
 
   - name:       Jupyter
     id:         jupyter
-    unicode:    f332
+    unicode:    f335
     created:    1.1
     url:        jupyter.org
     filter:
@@ -7389,7 +7389,7 @@ icons:
 
   - name:       Julia
     id:         julia
-    unicode:    f333
+    unicode:    f334
     created:    1.1
     url:        julialang.org
     filter:
@@ -7397,16 +7397,18 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       ClassicPress Logo
+  - name:       ClassicPress
     id:         classicpress
     unicode:    f334
     created:    1.1
+    url:        classicpress.net
     categories:
       - Brand Icons
 
-  - name:       ClassicPress Logo Circle
+  - name:       ClassicPress Circle
     id:         classicpress-circle
     unicode:    f334
     created:    1.1
+    url:        classicpress.net
     categories:
       - Brand Icons
