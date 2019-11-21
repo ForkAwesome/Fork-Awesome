@@ -7,7 +7,8 @@ This is a list of people who made this project possible, whether they contribute
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://github.com/davegandy"><img src="https://avatars0.githubusercontent.com/u/1076721?v=4" width="50px;" alt="Dave Gandy"/><br /><sub><b>Dave Gandy</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=davegandy" title="Code">💻</a> <a href="#design-davegandy" title="Design">🎨</a> <a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=davegandy" title="Documentation">📖</a></td>
@@ -139,7 +140,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://alexandreviau.net"><img src="https://avatars2.githubusercontent.com/u/2706882?v=4" width="50px;" alt="Alexandre Viau"/><br /><sub><b>Alexandre Viau</b></sub></a><br /><a href="#ideas-aviau" title="Ideas, Planning, & Feedback">🤔</a> <a href="#platform-aviau" title="Packaging/porting to new platform">📦</a></td>
     <td align="center"><a href="http://xesau.eu/"><img src="https://avatars3.githubusercontent.com/u/7915413?v=4" width="50px;" alt="Xesau"/><br /><sub><b>Xesau</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/issues?q=author%3AXesau" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://janhohner.de"><img src="https://avatars0.githubusercontent.com/u/649895?v=4" width="50px;" alt="Jan Hohner"/><br /><sub><b>Jan Hohner</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/issues?q=author%3Ajanhohner" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="http://fonts.google.com"><img src="https://avatars0.githubusercontent.com/u/261579?v=4" width="50px;" alt="Dave Crossland"/><br /><sub><b>Dave Crossland</b></sub></a><br /><a href="#review-davelab6" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://fonts.google.com"><img src="https://avatars0.githubusercontent.com/u/261579?v=4" width="50px;" alt="Dave Crossland"/><br /><sub><b>Dave Crossland</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/pulls?q=is%3Apr+reviewed-by%3Adavelab6" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://maxcubing.wordpress.com"><img src="https://avatars0.githubusercontent.com/u/8260834?v=4" width="50px;" alt="Maximilian Berkmann"/><br /><sub><b>Maximilian Berkmann</b></sub></a><br /><a href="#ideas-Berkmann18" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://heiber.im"><img src="https://avatars2.githubusercontent.com/u/616813?v=4" width="50px;" alt="Moritz Heiber"/><br /><sub><b>Moritz Heiber</b></sub></a><br /><a href="#infra-moritzheiber" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="http://www.wezm.net/"><img src="https://avatars1.githubusercontent.com/u/21787?v=4" width="50px;" alt="Wesley Moore"/><br /><sub><b>Wesley Moore</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=wezm" title="Documentation">📖</a></td>
@@ -160,9 +161,18 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://www.lucaspetter.com"><img src="https://avatars0.githubusercontent.com/u/13027535?v=4" width="50px;" alt="lucaspetter"/><br /><sub><b>lucaspetter</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=lucaspetter" title="Code">💻</a> <a href="#design-lucaspetter" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/dyamon"><img src="https://avatars0.githubusercontent.com/u/6771224?v=4" width="50px;" alt="Federico Igne"/><br /><sub><b>Federico Igne</b></sub></a><br /><a href="#design-dyamon" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/qwazix"><img src="https://avatars0.githubusercontent.com/u/1202892?v=4" width="50px;" alt="qwazix"/><br /><sub><b>qwazix</b></sub></a><br /><a href="#design-qwazix" title="Design">🎨</a></td>
+    <td align="center"><a href="http://bthierry.pages.math.cnrs.fr/"><img src="https://avatars0.githubusercontent.com/u/5602767?v=4" width="50px;" alt="Bertrand Thierry"/><br /><sub><b>Bertrand Thierry</b></sub></a><br /><a href="#design-Bertbk" title="Design">🎨</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/xxsimoxx"><img src="https://avatars0.githubusercontent.com/u/29772709?v=4" width="50px;" alt="SIMONE FIORAVANTI"/><br /><sub><b>SIMONE FIORAVANTI</b></sub></a><br /><a href="#design-xxsimoxx" title="Design">🎨</a></td>
+    <td align="center"><a href="http://samuelriversmoore.net"><img src="https://avatars0.githubusercontent.com/u/2640748?v=4" width="50px;" alt="Samuel Rivers-Moore"/><br /><sub><b>Samuel Rivers-Moore</b></sub></a><br /><a href="#ideas-SamuelRiversMoore" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/pattishih"><img src="https://avatars1.githubusercontent.com/u/16858138?v=4" width="50px;" alt="Patti"/><br /><sub><b>Patti</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=pattishih" title="Code">💻</a></td>
+    <td align="center"><a href="https://blog.feld.me"><img src="https://avatars1.githubusercontent.com/u/40271278?v=4" width="50px;" alt="Mark Felder"/><br /><sub><b>Mark Felder</b></sub></a><br /><a href="#ideas-feld" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!

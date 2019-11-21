@@ -1091,7 +1091,53 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "Bertbk",
+      "name": "Bertrand Thierry",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5602767?v=4",
+      "profile": "http://bthierry.pages.math.cnrs.fr/",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "xxsimoxx",
+      "name": "SIMONE FIORAVANTI",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29772709?v=4",
+      "profile": "https://github.com/xxsimoxx",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "SamuelRiversMoore",
+      "name": "Samuel Rivers-Moore",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2640748?v=4",
+      "profile": "http://samuelriversmoore.net",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "pattishih",
+      "name": "Patti",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16858138?v=4",
+      "profile": "https://github.com/pattishih",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "feld",
+      "name": "Mark Felder",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40271278?v=4",
+      "profile": "https://blog.feld.me",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitConvention": "none"
 }
