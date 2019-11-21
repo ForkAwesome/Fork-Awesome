@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4781345c1d718003840b0e4b9d67e431f4a17d6c6931d897a4621d8cc270f49f",
-    "current": "4781345c1d718003840b0e4b9d67e431f4a17d6c6931d897a4621d8cc270f49f"
+    "previous": "bd27255bf3d370f372210fce4496acd8a59ff101d709369daea23c0cddc59a18",
+    "current": "bd27255bf3d370f372210fce4496acd8a59ff101d709369daea23c0cddc59a18"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1894,6 +1894,10 @@
     "odnoklassniki-square": {
       "codepoint": 62052,
       "source": "svg/odnoklassniki-square.svg"
+    },
+    "open-collective": {
+      "codepoint": 62262,
+      "source": "svg/open-collective.svg"
     },
     "opencart": {
       "codepoint": 62013,

@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Thu Nov 21 17:12:20 2019
+Created by FontForge 20190801 at Thu Nov 21 17:26:01 2019
  By Julien Deswaef
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F335"
+    unicode-range="U+0020-F336"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1814,6 +1814,9 @@ c-114 74 -164 117 -120 207c26 51 97 94 191 20c0 0 127 -101 332 -101s332 101 332 
 d="M927 956c0 -88 -71 -159 -159 -159s-159 71 -159 159s71 159 159 159s159 -71 159 -159zM1141 593c-18 36 -69 67 -136 14c0 0 -91 -72 -237 -72s-237 72 -237 72c-67 53 -118 22 -136 -14c-32 -64 4 -95 85 -148c69 -44 165 -61 226 -67l-51 -52
 c-72 -72 -142 -142 -191 -190c-29 -29 -29 -76 0 -105l9 -9c29 -29 76 -29 105 0l191 191c72 -73 142 -143 191 -191c29 -29 76 -29 105 0l9 9c29 29 29 76 0 105l-191 190l-52 52c62 6 156 23 225 67c81 53 117 84 85 148zM1092 956c0 179 -145 324 -324 324
 s-324 -145 -324 -324s145 -324 324 -324s324 145 324 324zM1536 1120v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+    <glyph glyph-name="open-collective" unicode="&#xf336;" horiz-adv-x="1789" 
+d="M1466 642c0 118 -33 222 -89 311l229 230c112 -151 183 -339 183 -541s-71 -390 -183 -541l-229 231c56 89 89 197 89 310zM895 69v0c117 0 224 33 313 89l230 -231c-150 -113 -337 -183 -543 -183c-492 0 -895 395 -895 894s403 898 895 898c201 0 388 -70 538 -183
+l-229 -231c-89 61 -192 94 -309 94c-314 0 -572 -259 -572 -574s258 -573 572 -573z" />
     <glyph glyph-name="opencart" unicode="&#xf23d;" horiz-adv-x="2304" 
 d="M1524 -25c0 -91 -73 -164 -164 -164s-165 73 -165 164s74 165 165 165s164 -74 164 -165zM775 -25c0 -91 -74 -164 -165 -164s-164 73 -164 164s73 165 164 165s165 -74 165 -165zM0 1469c295 -311 572 -357 1660 -357s610 -242 -62 -842c213 370 945 698 -255 680
 c-1151 -17 -1219 333 -1343 519z" />
