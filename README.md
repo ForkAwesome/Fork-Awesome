@@ -7,7 +7,7 @@
 [![CDNJS](https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square)](https://cdnjs.com/libraries/fork-awesome)
 [![Build Status](https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master)](https://travis-ci.org/ForkAwesome/Fork-Awesome)
 
-Fork Awesome is a full suite of 749 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
+Fork Awesome is a full suite of 757 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
 Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction [Fort Awesome](https://fortawesome.com/) is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this amazing tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
 

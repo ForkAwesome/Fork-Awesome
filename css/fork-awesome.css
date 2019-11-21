@@ -2568,6 +2568,30 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-bell-ringing-o:before {
   content: "\f330";
 }
+.fa-hal:before {
+  content: "\f333";
+}
+.fa-jupyter:before {
+  content: "\f335";
+}
+.fa-julia:before {
+  content: "\f334";
+}
+.fa-classicpress:before {
+  content: "\f331";
+}
+.fa-classicpress-circle:before {
+  content: "\f332";
+}
+.fa-open-collective:before {
+  content: "\f336";
+}
+.fa-orcid:before {
+  content: "\f337";
+}
+.fa-researchgate:before {
+  content: "\f338";
+}
 .sr-only {
   position: absolute;
   width: 1px;
