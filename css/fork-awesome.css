@@ -2555,6 +2555,18 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-wire:before {
   content: "\f32c";
 }
+.fa-tor-onion:before {
+  content: "\f32d";
+}
+.fa-volume-mute:before {
+  content: "\f32e";
+}
+.fa-bell-ringing:before {
+  content: "\f32d";
+}
+.fa-bell-ringing-o:before {
+  content: "\f330";
+}
 .sr-only {
   position: absolute;
   width: 1px;
