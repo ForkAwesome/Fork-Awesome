@@ -7422,3 +7422,13 @@ icons:
       - funding platform
     categories:
       - Brand Icons
+
+  - name:       Orcid Id
+    id:         orcid
+    unicode:    f337
+    created:    1.1
+    url:        orcid.org
+    filter:
+      - science
+    categories:
+      - Brand Icons
