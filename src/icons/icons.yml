@@ -7417,6 +7417,7 @@ icons:
     id:         open-collective
     unicode:    f336
     created:    1.1
+    url:        opencollective.com
     filter:
       - funding platform
     categories:
