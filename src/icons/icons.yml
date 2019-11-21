@@ -7399,14 +7399,14 @@ icons:
 
   - name:       ClassicPress Logo
     id:         classicpress
-    unicode:    f331
+    unicode:    f334
     created:    1.1
     categories:
       - Brand Icons
 
   - name:       ClassicPress Logo Circle
     id:         classicpress-circle
-    unicode:    f332
+    unicode:    f334
     created:    1.1
     categories:
       - Brand Icons

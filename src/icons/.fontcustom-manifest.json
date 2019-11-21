@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "11c5da837f14d8e26d9d2bc9668a361764ac731d7ca261306bc8d4bcaf4e7c78",
-    "current": "11c5da837f14d8e26d9d2bc9668a361764ac731d7ca261306bc8d4bcaf4e7c78"
+    "previous": "4781345c1d718003840b0e4b9d67e431f4a17d6c6931d897a4621d8cc270f49f",
+    "current": "4781345c1d718003840b0e4b9d67e431f4a17d6c6931d897a4621d8cc270f49f"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -626,6 +626,14 @@
     "circle-thin": {
       "codepoint": 61915,
       "source": "svg/circle-thin.svg"
+    },
+    "classicpress": {
+      "codepoint": 62257,
+      "source": "svg/classicpress.svg"
+    },
+    "classicpress-circle": {
+      "codepoint": 62258,
+      "source": "svg/classicpress-circle.svg"
     },
     "clipboard": {
       "codepoint": 61674,
@@ -1319,6 +1327,10 @@
       "codepoint": 62246,
       "source": "svg/hackster.svg"
     },
+    "hal": {
+      "codepoint": 62259,
+      "source": "svg/hal.svg"
+    },
     "hand-lizard-o": {
       "codepoint": 62040,
       "source": "svg/hand-lizard-o.svg"
@@ -1530,6 +1542,14 @@
     "jsfiddle": {
       "codepoint": 61900,
       "source": "svg/jsfiddle.svg"
+    },
+    "julia": {
+      "codepoint": 62260,
+      "source": "svg/julia.svg"
+    },
+    "jupyter": {
+      "codepoint": 62261,
+      "source": "svg/jupyter.svg"
     },
     "key": {
       "codepoint": 61572,
