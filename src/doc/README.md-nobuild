@@ -3,11 +3,7 @@
 # {{ site.forkawesome.name }}
 ### {{ site.forkawesome.tagline }}
 
-[![npm](https://img.shields.io/npm/v/fork-awesome.svg?style=flat&colorB=CB3837)](https://www.npmjs.com/package/fork-awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-{{ page.total_contributors }}-orange.svg?style=flat-square)](CONTRIBUTORS.md)
-[![JSDeliver](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
-[![CDNJS](https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square)](https://cdnjs.com/libraries/fork-awesome)
-[![Build Status](https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master)](https://travis-ci.org/ForkAwesome/Fork-Awesome)
+[![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link]
 
 {{ site.forkawesome.name }} is a full suite of {{ icons | size }} pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
@@ -93,3 +89,15 @@ Build the web documentation:
 Or serve it on a local server on http://localhost:7998:
 
     $ npm run dev
+
+
+<!--- reference links for badges -->
+[all-contrib]: https://img.shields.io/badge/all_contributors-{{ page.total_contributors }}-orange.svg?style=flat-square "All Contributors badge"
+[build-status-badge]: https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master "Build status badge"
+[build-status-link]: https://travis-ci.org/ForkAwesome/Fork-Awesome
+[cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square "CDNJS badge"
+[cdnjs-link]: https://cdnjs.com/libraries/fork-awesome
+[jsdeliver-badge]: https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge "JSDeliver badge"
+[jsdeliver-link]: https://www.jsdelivr.com/package/npm/fork-awesome
+[npm-badge]: https://img.shields.io/npm/v/fork-awesome.svg?style=flat&colorB=CB3837 "NPM badge"
+[npm-link]: ttps://www.npmjs.com/package/fork-awesome
