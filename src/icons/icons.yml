@@ -7442,3 +7442,11 @@ icons:
       - science
     categories:
       - Brand Icons
+
+  - name:       Funkwhale
+    id:         funkwhale
+    unicode:    f339
+    created:    1.1
+    url:        funkwhale.audio
+    categories:
+      - Brand Icons

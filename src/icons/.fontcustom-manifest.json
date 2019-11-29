@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d0e6cb1502b28a1bff1f0c82ba4613e03537e428eddae4124d7d09535a77771d",
-    "current": "d0e6cb1502b28a1bff1f0c82ba4613e03537e428eddae4124d7d09535a77771d"
+    "previous": "076bb7901adb5b0fab73c9bd90164e807cd8086b89b7a47c88fe440219cdc51b",
+    "current": "076bb7901adb5b0fab73c9bd90164e807cd8086b89b7a47c88fe440219cdc51b"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1178,6 +1178,10 @@
     "frown-o": {
       "codepoint": 61721,
       "source": "svg/frown-o.svg"
+    },
+    "funkwhale": {
+      "codepoint": 62265,
+      "source": "svg/funkwhale.svg"
     },
     "futbol-o": {
       "codepoint": 61923,
