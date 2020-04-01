@@ -1,13 +1,9 @@
 # Fork Awesome
 ### A fork of the iconic font and CSS toolkit
 
-[![npm](https://img.shields.io/npm/v/fork-awesome.svg?style=flat&colorB=CB3837)](https://www.npmjs.com/package/fork-awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-123-orange.svg?style=flat-square)](CONTRIBUTORS.md)
-[![JSDeliver](https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge)](https://www.jsdelivr.com/package/npm/fork-awesome)
-[![CDNJS](https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square)](https://cdnjs.com/libraries/fork-awesome)
-[![Build Status](https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master)](https://travis-ci.org/ForkAwesome/Fork-Awesome)
+[![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link]
 
-Fork Awesome is a full suite of 757 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
+Fork Awesome is a full suite of 759 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
 
 Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction [Fort Awesome](https://fortawesome.com/) is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this amazing tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
 
@@ -45,8 +41,8 @@ with the following format:
 And constructed with the following guidelines:
 
 * Breaking backward compatibility bumps the major (and resets the minor and patch)
-* New additions, including new icons, without breaking backward compatibility, bumps the minor (and resets the patch)
-* Bug fixes, changes to brand logos, and misc changes bumps the patch
+* Big changes, without breaking backward compatibility, bumps the minor (and resets the patch)
+* Bug fixes, small adaptations, adding a few icons and misc changes bumps the patch
 * The fork started from FontAwesome 4.7 (last commit by Dave is [bdfa9823](https://github.com/ForkAwesome/Fork-Awesome/commits/master?after=b0bc8f6fb74e05c987ef7ce1525cd3ab8390a1c3+69)).
 * The project starts at version 1.0.0. All references to versions before the fork are named 0.4.7
 
@@ -91,3 +87,15 @@ Build the web documentation:
 Or serve it on a local server on http://localhost:7998:
 
     $ npm run dev
+
+
+<!--- reference links for badges -->
+[all-contrib]: https://img.shields.io/badge/all_contributors-123-orange.svg?style=flat-square "All Contributors badge"
+[build-status-badge]: https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master "Build status badge"
+[build-status-link]: https://travis-ci.org/ForkAwesome/Fork-Awesome
+[cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square "CDNJS badge"
+[cdnjs-link]: https://cdnjs.com/libraries/fork-awesome
+[jsdeliver-badge]: https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge "JSDeliver badge"
+[jsdeliver-link]: https://www.jsdelivr.com/package/npm/fork-awesome
+[npm-badge]: https://img.shields.io/npm/v/fork-awesome.svg?style=flat&colorB=CB3837 "NPM badge"
+[npm-link]: ttps://www.npmjs.com/package/fork-awesome

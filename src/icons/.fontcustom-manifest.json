@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "076bb7901adb5b0fab73c9bd90164e807cd8086b89b7a47c88fe440219cdc51b",
-    "current": "076bb7901adb5b0fab73c9bd90164e807cd8086b89b7a47c88fe440219cdc51b"
+    "previous": "c15a00cb55da5cc529aecf6f0ec3817809b15e07a7f074916ef888b58c9fc145",
+    "current": "c15a00cb55da5cc529aecf6f0ec3817809b15e07a7f074916ef888b58c9fc145"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -354,6 +354,10 @@
     "bluetooth-b": {
       "codepoint": 62100,
       "source": "svg/bluetooth-b.svg"
+    },
+    "boardgamegeek": {
+      "codepoint": 62266,
+      "source": "svg/boardgamegeek.svg"
     },
     "bold": {
       "codepoint": 61490,

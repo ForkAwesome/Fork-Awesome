@@ -2592,6 +2592,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-researchgate:before {
   content: "\f338";
 }
+.fa-funkwhale:before {
+  content: "\f339";
+}
+.fa-boardgamegeek:before {
+  content: "\f33a";
+}
 .sr-only {
   position: absolute;
   width: 1px;
