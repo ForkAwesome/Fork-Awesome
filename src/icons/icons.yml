@@ -7475,3 +7475,18 @@ icons:
     categories:
       - brand icons
 
+  - name:       MariaDB
+    id:         mariadb
+    unicode:    f33d
+    created:    1.1
+    url:        mariadb.com
+    categories:
+      - brand icons
+
+  - name:       MySQL
+    id:         mysql
+    unicode:    f33e
+    created:    1.1
+    url:        mysql.com
+    categories:
+      - brand icons

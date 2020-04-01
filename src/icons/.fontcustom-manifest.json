@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "cb4ac48e6b4c26a57a546a2df54020d0cdf120721e22669b38c7089bc9c628db",
-    "current": "cb4ac48e6b4c26a57a546a2df54020d0cdf120721e22669b38c7089bc9c628db"
+    "previous": "4f96f17d531b259b90358cf8684dbc272d155a5a9d3f4bdbf488d12b6504f404",
+    "current": "4f96f17d531b259b90358cf8684dbc272d155a5a9d3f4bdbf488d12b6504f404"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1739,6 +1739,10 @@
       "codepoint": 62071,
       "source": "svg/map-signs.svg"
     },
+    "mariadb": {
+      "codepoint": 62269,
+      "source": "svg/mariadb.svg"
+    },
     "mars": {
       "codepoint": 61986,
       "source": "svg/mars.svg"
@@ -1870,6 +1874,10 @@
     "music": {
       "codepoint": 61441,
       "source": "svg/music.svg"
+    },
+    "mysql": {
+      "codepoint": 62270,
+      "source": "svg/mysql.svg"
     },
     "neuter": {
       "codepoint": 61996,
