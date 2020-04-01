@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Wed Apr  1 19:34:43 2020
+Created by FontForge 20170924 at Wed Apr  1 20:54:18 2020
  By Dion Dresschers,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F33B"
+    unicode-range="U+0020-F33C"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1055,6 +1055,11 @@ d="M1024 832c0 -35 -29 -64 -64 -64h-896c-35 0 -64 29 -64 64c0 17 7 33 19 45l448 
     <glyph glyph-name="folder-open" unicode="&#xf07c;" horiz-adv-x="1879" 
 d="M1879 584c0 -24 -15 -48 -31 -66l-336 -396c-58 -68 -176 -122 -264 -122h-1088c-36 0 -87 11 -87 56c0 24 15 48 31 66l336 396c58 68 176 122 264 122h1088c36 0 87 -11 87 -56zM1536 928v-160h-832c-125 0 -280 -71 -361 -167l-337 -396l-5 -6c0 8 -1 17 -1 25v960
 c0 123 101 224 224 224h320c123 0 224 -101 224 -224v-32h544c123 0 224 -101 224 -224z" />
+    <glyph glyph-name="buymeacoffee" unicode="&#xf33c;" horiz-adv-x="1193" 
+d="M267 -241l-69 439h-35h-34s-107 601 -107 603v1h40h41s-52 327 -52 328v0h-51v185h133l1 4c1 2 21 47 45 102l43 100h370h371l44 -102c24 -56 45 -103 45 -103v-1h141v-185h-56v-1c0 -1 -51 -327 -51 -327h38h39s-25 -136 -54 -302s-53 -302 -53 -302h-33h-32
+s-16 -99 -35 -219s-34 -219 -34 -219v-1h-328h-327zM871 -182c0 0 14 85 30 190l30 191h-4c-2 0 -79 1 -170 2l-166 1l-167 -1c-92 -1 -166 -2 -166 -2s59 -378 59 -381v0h277h277zM387 259l205 2l207 -2c114 -1 208 -2 208 -2s86 483 86 485v1h-1001v0s19 -110 43 -243
+s43 -243 43 -243h2s94 1 207 2zM1027 804c4 25 51 326 51 326s-104 0 -230 -1s-240 -1 -253 -1s-126 0 -252 1s-229 1 -230 1h-2l26 -164l26 -164h863zM1111 1189h23v68h-1075v-68h14h1038v0zM981 1331c0 0 -12 30 -28 66l-29 65h-332h-331l-28 -65c-8 -18 -21 -47 -29 -65
+v-1h388h389v0z" />
     <glyph glyph-name="heartbeat" unicode="&#xf21e;" horiz-adv-x="1792" 
 d="M1280 512h305c-12 -13 -20 -20 -22 -22l-623 -600c-12 -12 -28 -18 -44 -18s-32 6 -44 18l-624 602c-2 1 -10 8 -21 20h369c29 0 55 20 62 48l70 281l190 -667c8 -27 33 -46 62 -46c28 0 53 19 61 46l146 485l56 -112c11 -21 33 -35 57 -35zM1792 940
 c0 -115 -50 -220 -103 -300h-369l-111 221c-11 23 -37 37 -62 35c-27 -3 -49 -20 -56 -46l-129 -430l-196 686c-8 27 -33 46 -63 46c-29 0 -54 -20 -61 -48l-116 -464h-423c-53 80 -103 185 -103 300c0 293 179 468 478 468c175 0 339 -138 418 -216c79 78 243 216 418 216

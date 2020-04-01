@@ -7460,9 +7460,18 @@ icons:
       - Brand Icons
 
   - name:       Nordcast
-    id:         nordast
+    id:         nordcast
     unicode:    f33b
     created:    1.1
     url:        nordcast.app
     categories:
-      - Brand Icons
+      - brand icons
+
+  - name:       Buy Me A Coffee
+    id:         buymeacoffee
+    unicode:    f33c
+    created:    1.1
+    url:        buymeacoffee.com
+    categories:
+      - brand icons
+
