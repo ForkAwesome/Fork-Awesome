@@ -2598,6 +2598,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-boardgamegeek:before {
   content: "\f33a";
 }
+.fa-nordast:before {
+  content: "\f33b";
+}
 .sr-only {
   position: absolute;
   width: 1px;

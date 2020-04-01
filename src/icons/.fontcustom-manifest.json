@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c15a00cb55da5cc529aecf6f0ec3817809b15e07a7f074916ef888b58c9fc145",
-    "current": "c15a00cb55da5cc529aecf6f0ec3817809b15e07a7f074916ef888b58c9fc145"
+    "previous": "4886e76ae0b2c60ae083f4022a2e50a2b6e337f5dfb6f7b96ffcc8fd713068fe",
+    "current": "4886e76ae0b2c60ae083f4022a2e50a2b6e337f5dfb6f7b96ffcc8fd713068fe"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1886,6 +1886,10 @@
     "nodejs": {
       "codepoint": 62216,
       "source": "svg/nodejs.svg"
+    },
+    "nordcast": {
+      "codepoint": 62267,
+      "source": "svg/nordcast.svg"
     },
     "object-group": {
       "codepoint": 62023,

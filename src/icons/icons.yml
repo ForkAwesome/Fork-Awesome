@@ -7458,3 +7458,11 @@ icons:
     url:        boardgamegeek.com
     categories:
       - Brand Icons
+
+  - name:       Nordcast
+    id:         nordast
+    unicode:    f33b
+    created:    1.1
+    url:        nordcast.app
+    categories:
+      - Brand Icons
