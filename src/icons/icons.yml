@@ -7322,7 +7322,7 @@ icons:
 
   - name:       Tor Project Onion
     id:         tor-onion
-    unicode:    f32d
+    unicode:    f32e
     created:    1.1
     url:        torproject.org
     filter:
