@@ -2610,6 +2610,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-mysql:before {
   content: "\f33e";
 }
+.fa-blockstack:before {
+  content: "\f33f";
+}
 .sr-only {
   position: absolute;
   width: 1px;

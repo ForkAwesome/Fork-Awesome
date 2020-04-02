@@ -7490,3 +7490,12 @@ icons:
     url:        mysql.com
     categories:
       - brand icons
+
+        
+  - name:       Blockstack
+    id:         blockstack
+    unicode:    f33f
+    created:    1.1
+    url:        blockstack.org
+    categories:
+      - brand icons

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4f96f17d531b259b90358cf8684dbc272d155a5a9d3f4bdbf488d12b6504f404",
-    "current": "4f96f17d531b259b90358cf8684dbc272d155a5a9d3f4bdbf488d12b6504f404"
+    "previous": "986a80ae15572c1fc0ed6cb8ebe526d9a789f1432efa37396b29e7fa9f647fcb",
+    "current": "986a80ae15572c1fc0ed6cb8ebe526d9a789f1432efa37396b29e7fa9f647fcb"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -346,6 +346,10 @@
     "blind": {
       "codepoint": 62109,
       "source": "svg/blind.svg"
+    },
+    "blockstack": {
+      "codepoint": 62271,
+      "source": "svg/blockstack.svg"
     },
     "bluetooth": {
       "codepoint": 62099,
