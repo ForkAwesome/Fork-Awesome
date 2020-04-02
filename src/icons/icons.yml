@@ -7499,3 +7499,13 @@ icons:
     url:        blockstack.org
     categories:
       - brand icons
+
+  - name:       rocket-o
+    id:         rocket-o
+    unicode:    f340
+    created:    0.4
+    filter:
+      - app
+    categories:
+      - Web Application Icons
+      - Transportation Icons
