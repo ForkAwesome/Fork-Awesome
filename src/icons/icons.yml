@@ -7517,3 +7517,11 @@ icons:
     url:        weblate.org
     categories:
       - brand icons
+
+  - name:       Speaker Deck
+    id:         speaker-deck
+    unicode:    f342
+    created:    1.1
+    url:        speakerdeck.com
+    categories:
+      - brand icons
