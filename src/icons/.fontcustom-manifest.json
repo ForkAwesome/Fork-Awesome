@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "61f8fcb8d5c1722161adb4d175f5f6ea866775822d1b14b4032cc4ca1ec91e4c",
-    "current": "61f8fcb8d5c1722161adb4d175f5f6ea866775822d1b14b4032cc4ca1ec91e4c"
+    "previous": "dd7e51a65579d722a9c3a9c2f1a08afeafcd20e1f865be19d9569afc8bf07139",
+    "current": "dd7e51a65579d722a9c3a9c2f1a08afeafcd20e1f865be19d9569afc8bf07139"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1434,6 +1434,10 @@
     "home": {
       "codepoint": 61461,
       "source": "svg/home.svg"
+    },
+    "home-assistant": {
+      "codepoint": 62275,
+      "source": "svg/home-assistant.svg"
     },
     "hospital-o": {
       "codepoint": 61688,

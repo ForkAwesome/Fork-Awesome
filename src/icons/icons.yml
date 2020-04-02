@@ -7525,3 +7525,13 @@ icons:
     url:        speakerdeck.com
     categories:
       - brand icons
+
+  - name:       Home Assistant
+    id:         home-assistant
+    unicode:    f343
+    created:    1.1
+    url:        home-assistant.io
+    aliases:
+      - hassio        
+    categories:
+      - Brand Icons
