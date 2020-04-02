@@ -7503,9 +7503,17 @@ icons:
   - name:       rocket-o
     id:         rocket-o
     unicode:    f340
-    created:    0.4
+    created:    1.1
     filter:
       - app
     categories:
       - Web Application Icons
       - Transportation Icons
+
+  - name:       Weblate
+    id:         weblate
+    unicode:    f341
+    created:    1.1
+    url:        weblate.org
+    categories:
+      - brand icons
