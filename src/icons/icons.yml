@@ -7465,7 +7465,7 @@ icons:
     created:    1.1
     url:        nordcast.app
     categories:
-      - brand icons
+      - Brand Icons
 
   - name:       Buy Me A Coffee
     id:         buymeacoffee
@@ -7473,7 +7473,7 @@ icons:
     created:    1.1
     url:        buymeacoffee.com
     categories:
-      - brand icons
+      - Brand Icons
 
   - name:       MariaDB
     id:         mariadb
@@ -7481,7 +7481,7 @@ icons:
     created:    1.1
     url:        mariadb.com
     categories:
-      - brand icons
+      - Brand Icons
 
   - name:       MySQL
     id:         mysql
@@ -7489,7 +7489,7 @@ icons:
     created:    1.1
     url:        mysql.com
     categories:
-      - brand icons
+      - Brand Icons
 
         
   - name:       Blockstack
@@ -7498,7 +7498,7 @@ icons:
     created:    1.1
     url:        blockstack.org
     categories:
-      - brand icons
+      - Brand Icons
 
   - name:       rocket-o
     id:         rocket-o
@@ -7516,7 +7516,7 @@ icons:
     created:    1.1
     url:        weblate.org
     categories:
-      - brand icons
+      - Brand Icons
 
   - name:       Speaker Deck
     id:         speaker-deck
@@ -7524,7 +7524,7 @@ icons:
     created:    1.1
     url:        speakerdeck.com
     categories:
-      - brand icons
+      - Brand Icons
 
   - name:       Home Assistant
     id:         home-assistant
