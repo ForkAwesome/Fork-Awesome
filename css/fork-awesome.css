@@ -1707,7 +1707,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-closed-captioning:before,
 .fa-cc:before {
-  content: "\f20a";
+  content: "\f25e";
 }
 .fa-shekel:before,
 .fa-sheqel:before,
@@ -1957,6 +1957,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-registered:before {
   content: "\f25d";
 }
+.fa-cc:before,
+.fa-cc-cc:before,
 .fa-creative-commons:before {
   content: "\f25e";
 }
@@ -2625,6 +2627,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-hassio:before,
 .fa-home-assistant:before {
   content: "\f343";
+}
+.fa-cc-by:before {
+  content: "\f344";
 }
 .sr-only {
   position: absolute;

@@ -5648,9 +5648,13 @@ icons:
     id:         creative-commons
     unicode:    f25e
     created:    0.4
+    aliases:    
+      - cc
+      - cc-cc
+    url:        creativecommons.org
     categories:
       - Web Application Icons
-
+      - Branded Icons
 
   - name:       GG Currency
     id:         gg
@@ -7534,4 +7538,13 @@ icons:
     aliases:
       - hassio        
     categories:
+      - Brand Icons
+
+  - name:       Creative Commons BY
+    id:         cc-by
+    unicode:    f344
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
       - Brand Icons
