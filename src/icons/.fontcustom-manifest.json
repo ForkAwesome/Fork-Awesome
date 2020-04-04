@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "10762c8d19997e4552a1886d2c1d7937169e5233f577d1e83c229967d5193c21",
-    "current": "10762c8d19997e4552a1886d2c1d7937169e5233f577d1e83c229967d5193c21"
+    "previous": "3b803c25e7d52bf44258d3ff4fc09389160e53bf5604cc6df1e5f87f27e79b0c",
+    "current": "3b803c25e7d52bf44258d3ff4fc09389160e53bf5604cc6df1e5f87f27e79b0c"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -547,9 +547,41 @@
       "codepoint": 61937,
       "source": "svg/cc-mastercard.svg"
     },
+    "cc-nc": {
+      "codepoint": 62277,
+      "source": "svg/cc-nc.svg"
+    },
+    "cc-nc-eu": {
+      "codepoint": 62278,
+      "source": "svg/cc-nc-eu.svg"
+    },
+    "cc-nc-jp": {
+      "codepoint": 62279,
+      "source": "svg/cc-nc-jp.svg"
+    },
+    "cc-nd": {
+      "codepoint": 62280,
+      "source": "svg/cc-nd.svg"
+    },
     "cc-paypal": {
       "codepoint": 61940,
       "source": "svg/cc-paypal.svg"
+    },
+    "cc-pd": {
+      "codepoint": 62281,
+      "source": "svg/cc-pd.svg"
+    },
+    "cc-remix": {
+      "codepoint": 62282,
+      "source": "svg/cc-remix.svg"
+    },
+    "cc-sa": {
+      "codepoint": 62283,
+      "source": "svg/cc-sa.svg"
+    },
+    "cc-share": {
+      "codepoint": 62284,
+      "source": "svg/cc-share.svg"
     },
     "cc-stripe": {
       "codepoint": 61941,
@@ -558,6 +590,10 @@
     "cc-visa": {
       "codepoint": 61936,
       "source": "svg/cc-visa.svg"
+    },
+    "cc-zero": {
+      "codepoint": 62285,
+      "source": "svg/cc-zero.svg"
     },
     "certificate": {
       "codepoint": 61603,

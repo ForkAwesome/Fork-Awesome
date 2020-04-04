@@ -5649,7 +5649,6 @@ icons:
     unicode:    f25e
     created:    0.4
     aliases:    
-      - cc
       - cc-cc
     url:        creativecommons.org
     categories:
@@ -7543,6 +7542,88 @@ icons:
   - name:       Creative Commons BY
     id:         cc-by
     unicode:    f344
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Creative Commons NC-EU
+    id:         cc-nc-eu
+    unicode:    f346
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+        
+  - name:       Creative Commons NC-JP
+    id:         cc-nc-jp
+    unicode:    f347
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+        
+  - name:       Creative Commons NC
+    id:         cc-nc
+    unicode:    f345
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Creative Commons ND
+    id:         cc-nd
+    unicode:    f348
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Creative Commons PD
+    id:         cc-pd
+    unicode:    f349
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Creative Commons Remix
+    id:         cc-remix
+    unicode:    f34a
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Creative Commons SA
+    id:         cc-sa
+    unicode:    f34b
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Creative Commons Share
+    id:         cc-share
+    unicode:    f34c
+    created:    1.1
+    url:        creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name:       Creative Commons Zero
+    id:         cc-zero
+    unicode:    f34d
     created:    1.1
     url:        creativecommons.org
     categories:
