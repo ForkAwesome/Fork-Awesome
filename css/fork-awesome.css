@@ -2657,6 +2657,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-cc-zero:before {
   content: "\f34d";
 }
+.fa-sketchfab:before {
+  content: "\f34e";
+}
 .sr-only {
   position: absolute;
   width: 1px;

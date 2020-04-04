@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Sat Apr  4 06:32:10 2020
+Created by FontForge 20170924 at Sat Apr  4 07:27:20 2020
  By Dion Dresschers,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F34D"
+    unicode-range="U+0020-F34E"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2089,6 +2089,8 @@ c-36 -22 -83 -10 -104 26c-22 37 -10 85 26 107s83 10 105 -27zM1845 792c5 -20 -8 -
     <glyph glyph-name="sliders" unicode="&#xf1de;" 
 d="M352 128v-128h-352v128h352zM704 256c35 0 64 -29 64 -64v-256c0 -35 -29 -64 -64 -64h-256c-35 0 -64 29 -64 64v256c0 35 29 64 64 64h256zM864 640v-128h-864v128h864zM224 1152v-128h-224v128h224zM1536 128v-128h-736v128h736zM576 1280c35 0 64 -29 64 -64v-256
 c0 -35 -29 -64 -64 -64h-256c-35 0 -64 29 -64 64v256c0 35 29 64 64 64h256zM1216 768c35 0 64 -29 64 -64v-256c0 -35 -29 -64 -64 -64h-256c-35 0 -64 29 -64 64v256c0 35 29 64 64 64h256zM1536 640v-128h-224v128h224zM1536 1152v-128h-864v128h864z" />
+    <glyph glyph-name="sketchfab" unicode="&#xf34e;" horiz-adv-x="1753" 
+d="M1315 331l-376 -217v452l376 203v-438zM868 671l-447 237l447 258l447 -258zM800 114l-378 218v440l378 -204v-454zM876 1512c-484 0 -876 -393 -876 -877s392 -876 876 -876s877 392 877 876s-393 877 -877 877z" />
     <glyph glyph-name="file-pdf-o" unicode="&#xf1c1;" 
 d="M1468 1156c37 -37 68 -111 68 -164v-1152c0 -53 -43 -96 -96 -96h-1344c-53 0 -96 43 -96 96v1600c0 53 43 96 96 96h896c53 0 127 -31 164 -68zM1024 1400v-376h376c-6 17 -15 34 -22 41l-313 313c-7 7 -24 16 -41 22zM1408 -128v1024h-416c-53 0 -96 43 -96 96v416
 h-768v-1536h1280zM894 465c25 -20 53 -38 84 -56c42 5 81 7 117 7c67 0 152 -8 177 -49c7 -10 13 -28 2 -52c-1 -1 -2 -3 -3 -4v-1c-3 -18 -18 -38 -71 -38c-64 0 -161 29 -245 73c-139 -15 -285 -46 -392 -83c-103 -176 -182 -262 -242 -262c-10 0 -19 2 -28 7l-24 12

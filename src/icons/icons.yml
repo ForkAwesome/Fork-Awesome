@@ -7629,3 +7629,11 @@ icons:
     categories:
       - Web Application Icons
       - Brand Icons
+
+  - name:       Sketchfab
+    id:         sketchfab
+    unicode:    f34e
+    created:    1.1
+    url:        sketchfab.com
+    categories:
+      - Brand Icons

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3b803c25e7d52bf44258d3ff4fc09389160e53bf5604cc6df1e5f87f27e79b0c",
-    "current": "3b803c25e7d52bf44258d3ff4fc09389160e53bf5604cc6df1e5f87f27e79b0c"
+    "previous": "bde23bd3b9962b17ef3839eab0d6742fd47d8a38baa0df17e6bb1dc342b44171",
+    "current": "bde23bd3b9962b17ef3839eab0d6742fd47d8a38baa0df17e6bb1dc342b44171"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2402,6 +2402,10 @@
     "sitemap": {
       "codepoint": 61672,
       "source": "svg/sitemap.svg"
+    },
+    "sketchfab": {
+      "codepoint": 62286,
+      "source": "svg/sketchfab.svg"
     },
     "skyatlas": {
       "codepoint": 61974,
