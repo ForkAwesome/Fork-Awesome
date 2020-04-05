@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2020-4-4: Created with FontForge (http://fontforge.org)
+2020-4-5: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Sat Apr  4 07:27:20 2020
+Created by FontForge 20170924 at Sun Apr  5 09:55:11 2020
  By Dion Dresschers,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F34E"
+    unicode-range="U+0020-F34F"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2294,6 +2294,8 @@ d="M896 1472c-459 0 -832 -373 -832 -832s373 -832 832 -832s832 373 832 832s-373 8
 v480c0 9 7 16 16 16h32zM896 640c71 0 128 -57 128 -128c0 -47 -26 -88 -64 -110v-114c0 -18 -14 -32 -32 -32h-64c-18 0 -32 14 -32 32v114c-38 22 -64 63 -64 110c0 71 57 128 128 128zM896 1408c424 0 768 -344 768 -768s-344 -768 -768 -768s-768 344 -768 768
 s344 768 768 768zM544 928v-96c0 -18 14 -32 32 -32h64c18 0 32 14 32 32v96c0 124 100 224 224 224s224 -100 224 -224v-96c0 -18 14 -32 32 -32h64c18 0 32 14 32 32v96c0 194 -158 352 -352 352s-352 -158 -352 -352zM1408 192v512c0 35 -29 64 -64 64h-896
 c-35 0 -64 -29 -64 -64v-512c0 -35 29 -64 64 -64h896c35 0 64 29 64 64z" />
+    <glyph glyph-name="webmention" unicode="&#xf34f;" horiz-adv-x="2198" 
+d="M1269 -245l-260 796h-5l-256 -796h-342l-406 1537h338l243 -1046h4l267 795h316l262 -808h4l188 808h-244l506 471l314 -471h-249l-345 -1286h-335z" />
     <glyph glyph-name="toggle-on" unicode="&#xf205;" horiz-adv-x="2048" 
 d="M0 640c0 353 287 640 640 640h768c353 0 640 -287 640 -640s-287 -640 -640 -640h-768c-353 0 -640 287 -640 640zM1408 128c282 0 512 230 512 512s-230 512 -512 512s-512 -230 -512 -512s230 -512 512 -512z" />
     <glyph glyph-name="minus-square" unicode="&#xf146;" 

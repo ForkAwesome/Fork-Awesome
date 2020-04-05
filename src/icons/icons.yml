@@ -7637,3 +7637,11 @@ icons:
     url:        sketchfab.com
     categories:
       - Brand Icons
+
+  - name:       Webmention
+    id:         webmention
+    unicode:    f34f
+    created:    1.1
+    url:        webmention.net
+    categories:
+      - Brand Icons
