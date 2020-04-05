@@ -2663,6 +2663,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-webmention:before {
   content: "\f34f";
 }
+.fa-askfm:before {
+  content: "\f350";
+}
 .sr-only {
   position: absolute;
   width: 1px;

@@ -7645,3 +7645,11 @@ icons:
     url:        webmention.net
     categories:
       - Brand Icons
+
+  - name:       ASKfm
+    id:         askfm
+    unicode:    f350
+    created:    1.1
+    url:        ask.fm
+    categories:
+      - Brand Icons
