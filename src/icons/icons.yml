@@ -7653,3 +7653,11 @@ icons:
     url:        ask.fm
     categories:
       - Brand Icons
+
+  - name:       Markdown
+    id:         markdown
+    unicode:    f351
+    created:    1.1
+    url:        daringfireball.net/projects/markdown/
+    categories:
+      - Brand Icons

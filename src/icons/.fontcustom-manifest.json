@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c12bd34a89c12b2a78ec6507cb3cffba8db1947cf8b842a183412532105b14ee",
-    "current": "c12bd34a89c12b2a78ec6507cb3cffba8db1947cf8b842a183412532105b14ee"
+    "previous": "89b3a22b99b7fb37784210574001f0a2a292da7ca9298663191690ac47c5eabe",
+    "current": "89b3a22b99b7fb37784210574001f0a2a292da7ca9298663191690ac47c5eabe"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1794,6 +1794,10 @@
     "mariadb": {
       "codepoint": 62269,
       "source": "svg/mariadb.svg"
+    },
+    "markdown": {
+      "codepoint": 62289,
+      "source": "svg/markdown.svg"
     },
     "mars": {
       "codepoint": 61986,
