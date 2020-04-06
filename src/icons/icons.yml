@@ -7450,3 +7450,15 @@ icons:
     url:        funkwhale.audio
     categories:
       - Brand Icons
+
+  - name:       Riot
+    id:         riot
+    unicode:    f33a
+    created:    1.1
+    url:        riot.im
+    filter:
+      - chat
+      - message
+      - matrix
+    categories:
+      - Brand Icons
