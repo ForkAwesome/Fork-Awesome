@@ -7661,3 +7661,11 @@ icons:
     url:        daringfireball.net/projects/markdown/
     categories:
       - Brand Icons
+
+  - name:       Textpattern
+    id:         textpattern
+    unicode:    f352
+    created:    1.1
+    url:        textpattern 
+    categories:
+      - Brand Icons
