@@ -7666,6 +7666,14 @@ icons:
     id:         textpattern
     unicode:    f352
     created:    1.1
-    url:        textpattern 
+    url:        textpattern.com
+    categories:
+      - Brand Icons
+
+  - name:       Plume
+    id:         plume
+    unicode:    f353
+    created:    1.1
+    url:        joinplu.me
     categories:
       - Brand Icons
