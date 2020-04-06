@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Mon Apr  6 22:32:40 2020
+Created by FontForge 20170924 at Mon Apr  6 22:49:49 2020
  By Dion Dresschers,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.01 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F353"
+    unicode-range="U+0020-F354"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2121,6 +2121,9 @@ c-36 -22 -83 -10 -104 26c-22 37 -10 85 26 107s83 10 105 -27zM1845 792c5 -20 -8 -
     <glyph glyph-name="sliders" unicode="&#xf1de;" 
 d="M352 128v-128h-352v128h352zM704 256c35 0 64 -29 64 -64v-256c0 -35 -29 -64 -64 -64h-256c-35 0 -64 29 -64 64v256c0 35 29 64 64 64h256zM864 640v-128h-864v128h864zM224 1152v-128h-224v128h224zM1536 128v-128h-736v128h736zM576 1280c35 0 64 -29 64 -64v-256
 c0 -35 -29 -64 -64 -64h-256c-35 0 -64 29 -64 64v256c0 35 29 64 64 64h256zM1216 768c35 0 64 -29 64 -64v-256c0 -35 -29 -64 -64 -64h-256c-35 0 -64 29 -64 64v256c0 35 29 64 64 64h256zM1536 640v-128h-224v128h224zM1536 1152v-128h-864v128h864z" />
+    <glyph glyph-name="unity" unicode="&#xf354;" horiz-adv-x="1766" 
+d="M1649 634l111 -162c5 -9 7 -19 5 -29l-142 -652c-4 -19 -20 -31 -39 -31h-7l-701 121c-14 2 -25 11 -30 24l-71 176h-230c-10 0 -20 4 -27 11l-506 482c-16 15 -16 40 -1 56l481 522c8 8 19 12 30 12h213l70 176c4 11 17 21 28 24l659 161c20 5 40 -6 47 -26l225 -642
+c3 -10 3 -21 -2 -31zM735 1164l-407 -481h675l298 585zM776 81l578 -87l-351 528h-675zM1500 85l149 549l-191 554l-294 -585z" />
     <glyph glyph-name="sketchfab" unicode="&#xf34e;" horiz-adv-x="1753" 
 d="M1315 331l-376 -217v452l376 203v-438zM868 671l-447 237l447 258l447 -258zM800 114l-378 218v440l378 -204v-454zM876 1512c-484 0 -876 -393 -876 -877s392 -876 876 -876s877 392 877 876s-393 877 -877 877z" />
     <glyph glyph-name="file-pdf-o" unicode="&#xf1c1;" 

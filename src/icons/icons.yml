@@ -7677,3 +7677,11 @@ icons:
     url:        joinplu.me
     categories:
       - Brand Icons
+
+  - name:       Unity
+    id:         unity
+    unicode:    f354
+    created:    1.1
+    url:        unity.com
+    categories:
+      - Brand Icons
