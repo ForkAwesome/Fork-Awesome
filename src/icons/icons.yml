@@ -7693,3 +7693,11 @@ icons:
     url:        postgresql.org
     categories:
       - Brand Icons
+
+  - name:       Heroku
+    id:         heroku
+    unicode:    f356
+    created:    1.1
+    url:        heroku.com
+    categories:
+      - Brand Icons
