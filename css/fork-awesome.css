@@ -2678,6 +2678,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-unity:before {
   content: "\f354";
 }
+.fa-postgresql:before {
+  content: "\f355";
+}
 .sr-only {
   position: absolute;
   width: 1px;

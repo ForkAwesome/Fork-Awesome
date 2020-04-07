@@ -7685,3 +7685,11 @@ icons:
     url:        unity.com
     categories:
       - Brand Icons
+
+  - name:       PostgreSQL
+    id:         postgresql
+    unicode:    f355
+    created:    1.1
+    url:        postgresql.org
+    categories:
+      - Brand Icons

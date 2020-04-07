@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "f2bd2705094c86b64c9beb61a855e0ad8e7413238bccf817dd6d5ee9a4f99362",
-    "current": "f2bd2705094c86b64c9beb61a855e0ad8e7413238bccf817dd6d5ee9a4f99362"
+    "previous": "c7f43a146653e46b912fb73b7e2f367e4dec434c4362cd8be3885f02e80d3361",
+    "current": "c7f43a146653e46b912fb73b7e2f367e4dec434c4362cd8be3885f02e80d3361"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2154,6 +2154,10 @@
     "podcast": {
       "codepoint": 62158,
       "source": "svg/podcast.svg"
+    },
+    "postgresql": {
+      "codepoint": 62293,
+      "source": "svg/postgresql.svg"
     },
     "power-off": {
       "codepoint": 61457,
