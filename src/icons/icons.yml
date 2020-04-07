@@ -7701,3 +7701,12 @@ icons:
     url:        heroku.com
     categories:
       - Brand Icons
+
+  - name:       C#
+    id:         csharp
+    unicode:    f357
+    created:    1.1
+    url:        csharp.net
+    categories:
+      - Brand Icons
+

@@ -2681,6 +2681,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-postgresql:before {
   content: "\f355";
 }
+.fa-heroku:before {
+  content: "\f356";
+}
+.fa-csharp:before {
+  content: "\f357";
+}
 .sr-only {
   position: absolute;
   width: 1px;
