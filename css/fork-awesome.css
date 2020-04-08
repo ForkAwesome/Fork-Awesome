@@ -2699,6 +2699,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-google-play:before {
   content: "\f35b";
 }
+.fa-r-project:before {
+  content: "\f35c";
+}
 .sr-only {
   position: absolute;
   width: 1px;

@@ -7741,3 +7741,11 @@ icons:
     url:        play.google.com
     categories:
       - Brand Icons
+
+  - name:       R Project
+    id:         r-project
+    unicode:    f35c
+    created:    1.1
+    url:        r-project.org
+    categories:
+      - Brand Icons
