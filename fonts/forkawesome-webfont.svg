@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Wed Apr  8 09:10:37 2020
+Created by FontForge 20170924 at Wed Apr  8 09:59:32 2020
  By Dion Dresschers,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.15 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F35A"
+    unicode-range="U+0020-F35B"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1542,6 +1542,8 @@ c18 0 32 -14 32 -32z" />
 d="M1280 926c-38 -17 -78 -28 -121 -34c44 26 77 68 93 117c-41 -24 -86 -42 -134 -51c-38 41 -93 66 -153 66c-116 0 -210 -94 -210 -210c0 -16 1 -33 5 -48c-175 9 -330 92 -434 220c-18 -31 -29 -68 -29 -106c0 -73 34 -137 91 -175c-35 1 -68 11 -100 26v-2
 c0 -102 77 -187 173 -206c-18 -5 -32 -8 -51 -8c-13 0 -26 2 -39 4c27 -83 104 -144 196 -146c-72 -56 -162 -90 -261 -90c-17 0 -34 1 -50 3c93 -59 203 -94 322 -94c386 0 598 320 598 598c0 9 0 18 -1 27c41 29 77 66 105 109zM1536 1120v-960
 c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+    <glyph glyph-name="google-play" unicode="&#xf35b;" horiz-adv-x="1615" 
+d="M0 -133v1546c0 54 31 101 76 123l896 -896l-896 -896c-45 23 -76 69 -76 123zM1256 356l-979 -566l773 773zM1561 748c31 -25 54 -63 54 -108s-20 -82 -52 -107l-209 -120l-227 227l227 227zM277 1490l979 -566l-206 -207z" />
     <glyph glyph-name="shopping-bag" unicode="&#xf290;" horiz-adv-x="1793" 
 d="M1757 128l35 -313c2 -18 -4 -36 -16 -50c-12 -13 -30 -21 -48 -21h-1664c-18 0 -36 8 -48 21c-12 14 -18 32 -16 50l35 313h1722zM1664 967l86 -775h-1708l86 775c4 32 31 57 64 57h256v-128c0 -71 57 -128 128 -128s128 57 128 128v128h384v-128c0 -71 57 -128 128 -128
 s128 57 128 128v128h256c33 0 60 -25 64 -57zM1280 1152v-256c0 -35 -29 -64 -64 -64s-64 29 -64 64v256c0 141 -115 256 -256 256s-256 -115 -256 -256v-256c0 -35 -29 -64 -64 -64s-64 29 -64 64v256c0 212 172 384 384 384s384 -172 384 -384z" />

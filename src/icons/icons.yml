@@ -7734,3 +7734,10 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Google Play
+    id:         google-play
+    unicode:    f35b
+    created:    1.1
+    url:        play.google.com
+    categories:
+      - Brand Icons
