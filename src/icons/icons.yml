@@ -7710,3 +7710,11 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Java
+    id:         java
+    unicode:    f358
+    created:    1.1
+    url:        oracle.com/java
+    categories:
+      - Brand Icons
+
