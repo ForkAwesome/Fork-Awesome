@@ -7718,3 +7718,19 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Sass Alternative
+    id:         sass-alt
+    unicode:    f359
+    created:    1.1
+    url:        sass-lang.com
+    categories:
+      - Brand Icons
+
+  - name:       Sass
+    id:         sass
+    unicode:    f35a
+    created:    1.1
+    url:        sass-lang.com
+    categories:
+      - Brand Icons
+

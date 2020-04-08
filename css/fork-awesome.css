@@ -2690,6 +2690,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-java:before {
   content: "\f358";
 }
+.fa-sass-alt:before {
+  content: "\f359";
+}
+.fa-sass:before {
+  content: "\f35a";
+}
 .sr-only {
   position: absolute;
   width: 1px;
