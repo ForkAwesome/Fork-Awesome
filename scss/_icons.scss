@@ -928,3 +928,5 @@
 .#{$fa-css-prefix}-sass:before { content: fa-content($fa-var-sass); }
 .#{$fa-css-prefix}-google-play:before { content: fa-content($fa-var-google-play); }
 .#{$fa-css-prefix}-r-project:before { content: fa-content($fa-var-r-project); }
+.#{$fa-css-prefix}-conway-hacker:before,
+.#{$fa-css-prefix}-conway-glider:before { content: fa-content($fa-var-conway-glider); }

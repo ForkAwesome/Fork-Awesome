@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2020-4-8: Created with FontForge (http://fontforge.org)
+2020-4-10: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Wed Apr  8 10:52:34 2020
+Created by FontForge 20170924 at Fri Apr 10 08:21:48 2020
  By Dion Dresschers,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.15 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F35C"
+    unicode-range="U+0020-F35D"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -2586,6 +2586,11 @@ c-9 0 -18 -3 -24 -8c-7 -4 -10 -11 -10 -18l17 -621c0 -14 15 -25 34 -25h185c18 0 3
     <glyph glyph-name="share-square" unicode="&#xf14d;" 
 d="M1005 435l352 352c25 25 25 65 0 90l-352 352c-18 19 -46 24 -69 14c-24 -10 -40 -33 -40 -59v-160c-574 0 -640 -329 -640 -576c0 -201 161 -396 167 -404c7 -8 16 -12 25 -12c4 0 9 1 13 3c13 5 21 19 19 33c-30 241 -11 391 62 473c61 69 167 99 354 99v-160
 c0 -26 16 -49 40 -59c7 -3 16 -5 24 -5c17 0 33 7 45 19zM1536 1120v-960c0 -159 -129 -288 -288 -288h-960c-159 0 -288 129 -288 288v960c0 159 129 288 288 288h960c159 0 288 -129 288 -288z" />
+    <glyph glyph-name="conway-glider" unicode="&#xf35d;" horiz-adv-x="1792" 
+d="M0 1536h610h1182v-1792h-1792v1792zM19 1517v-572h572v572h-572zM610 1517v-572h572v572h-572zM1201 1517v-572h572v572h-572zM896 1484v0v0c139 0 253 -114 253 -253v0v0c0 -139 -114 -253 -253 -253v0v0c-139 0 -253 114 -253 253v0v0c0 139 114 253 253 253v0zM19 926
+v-572h572v572h-572zM610 926v-572h572v572h-572zM1201 926v-572h572v572h-572zM1487 893v0c139 0 253 -114 253 -253v0c0 -139 -114 -253 -253 -253v0c-139 0 -253 114 -253 253v0c0 139 114 253 253 253zM19 335v-572h572v572h-572zM610 335v-572h572v572h-572zM1201 335
+v-572h572v572h-572zM305 302c139 0 253 -114 253 -253v0c0 -139 -114 -253 -253 -253v0c-139 0 -253 114 -253 253v0c0 139 114 253 253 253v0zM896 302v0c139 0 253 -114 253 -253v0c0 -139 -114 -253 -253 -253v0v0c-139 0 -253 114 -253 253v0c0 139 114 253 253 253v0z
+M1487 302v0c139 0 253 -114 253 -253v0c0 -139 -114 -253 -253 -253v0c-139 0 -253 114 -253 253v0c0 139 114 253 253 253z" />
     <glyph glyph-name="comments" unicode="&#xf086;" horiz-adv-x="1792" 
 d="M1408 768c0 -283 -315 -512 -704 -512c-61 0 -120 6 -176 16c-83 -59 -177 -102 -278 -128c-27 -7 -56 -12 -86 -16h-3c-15 0 -29 12 -32 29c-4 19 9 31 20 44c39 44 83 83 117 166c-162 94 -266 239 -266 401c0 283 315 512 704 512s704 -229 704 -512zM1792 512
 c0 -163 -104 -307 -266 -401c34 -83 78 -122 117 -166c11 -13 24 -25 20 -44c-4 -18 -19 -31 -35 -29c-30 4 -59 9 -86 16c-101 26 -195 69 -278 128c-56 -10 -115 -16 -176 -16c-181 0 -347 50 -472 132c29 -2 59 -4 88 -4c215 0 418 62 573 174c167 122 259 287 259 466

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "2eb28f6732baf0c93efb571c19d9e255c101f30c536913ccae08ccbdf86f44e5",
-    "current": "2eb28f6732baf0c93efb571c19d9e255c101f30c536913ccae08ccbdf86f44e5"
+    "previous": "e53e8090c961b16dc5f4afec2851e83d786acf5b918f616172b0d9076634260e",
+    "current": "e53e8090c961b16dc5f4afec2851e83d786acf5b918f616172b0d9076634260e"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -786,6 +786,10 @@
     "contao": {
       "codepoint": 62061,
       "source": "svg/contao.svg"
+    },
+    "conway-glider": {
+      "codepoint": 62301,
+      "source": "svg/conway-glider.svg"
     },
     "copyright": {
       "codepoint": 61945,

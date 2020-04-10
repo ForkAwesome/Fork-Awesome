@@ -7749,3 +7749,13 @@ icons:
     url:        r-project.org
     categories:
       - Brand Icons
+
+  - name:         Conway Glider
+    id:           conway-glider
+    unicode:      f35d
+    created:      1.1
+    aliases:
+      - conway-hacker 
+    url:          en.wikipedia.org/wiki/Glider_(Conway's_Life)
+    categories:
+      - Brand Icons        
