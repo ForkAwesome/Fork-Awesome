@@ -2706,6 +2706,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-conway-glider:before {
   content: "\f35d";
 }
+.fa-tex:before {
+  content: "\f35e";
+}
 .sr-only {
   position: absolute;
   width: 1px;

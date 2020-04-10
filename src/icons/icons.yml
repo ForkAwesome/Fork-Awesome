@@ -7759,3 +7759,11 @@ icons:
     url:          en.wikipedia.org/wiki/Glider_(Conway's_Life)
     categories:
       - Brand Icons        
+
+  - name:         TeX
+    id:           tex
+    unicode:      f35e
+    created:      1.1
+    url:          tug.org
+    categories:
+      - Brand Icons
