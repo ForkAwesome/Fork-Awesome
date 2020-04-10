@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c0b075990c1f3df498dff87e47c55a2853d7e8284e1720f952710035737fa8ab",
-    "current": "c0b075990c1f3df498dff87e47c55a2853d7e8284e1720f952710035737fa8ab"
+    "previous": "4c00a8e7c9ad7e8c89628f2aefab9c05a88c010e52a412de9a1b85369e3a30bd",
+    "current": "4c00a8e7c9ad7e8c89628f2aefab9c05a88c010e52a412de9a1b85369e3a30bd"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -550,6 +550,10 @@
     "cc-by": {
       "codepoint": 62276,
       "source": "svg/cc-by.svg"
+    },
+    "cc-cc": {
+      "codepoint": 62307,
+      "source": "svg/cc-cc.svg"
     },
     "cc-diners-club": {
       "codepoint": 62028,

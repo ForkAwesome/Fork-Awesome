@@ -661,7 +661,6 @@
 .#{$fa-css-prefix}-hand-peace-o:before { content: fa-content($fa-var-hand-peace-o); }
 .#{$fa-css-prefix}-trademark:before { content: fa-content($fa-var-trademark); }
 .#{$fa-css-prefix}-registered:before { content: fa-content($fa-var-registered); }
-.#{$fa-css-prefix}-cc-cc:before,
 .#{$fa-css-prefix}-creative-commons:before { content: fa-content($fa-var-creative-commons); }
 .#{$fa-css-prefix}-gg:before { content: fa-content($fa-var-gg); }
 .#{$fa-css-prefix}-gg-circle:before { content: fa-content($fa-var-gg-circle); }
@@ -935,3 +934,5 @@
 .#{$fa-css-prefix}-bunny-back:before { content: fa-content($fa-var-bunny-back); }
 .#{$fa-css-prefix}-bunny-front-o:before { content: fa-content($fa-var-bunny-front-o); }
 .#{$fa-css-prefix}-bunny-back-o:before { content: fa-content($fa-var-bunny-back-o); }
+.#{$fa-css-prefix}-creative-commons-alt:before,
+.#{$fa-css-prefix}-cc-cc:before { content: fa-content($fa-var-cc-cc); }

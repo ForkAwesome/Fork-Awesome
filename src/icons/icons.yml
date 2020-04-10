@@ -5648,8 +5648,6 @@ icons:
     id:         creative-commons
     unicode:    f25e
     created:    0.4
-    aliases:    
-      - cc-cc
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7796,3 +7794,13 @@ icons:
     categories:
       - Web Application Icons
         
+  - name:         Creative Commons
+    id:           cc-cc
+    unicode:      f363
+    created:      1.1
+    url:          creativecommons.org
+    categories:
+      - Web Application Icons
+      - Brand Icons
+    aliases:
+      - creative-commons-alt

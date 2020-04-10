@@ -1957,7 +1957,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-registered:before {
   content: "\f25d";
 }
-.fa-cc-cc:before,
 .fa-creative-commons:before {
   content: "\f25e";
 }
@@ -2720,6 +2719,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-bunny-back-o:before {
   content: "\f360";
+}
+.fa-creative-commons-alt:before,
+.fa-cc-cc:before {
+  content: "\f363";
 }
 .sr-only {
   position: absolute;
