@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "68d8f42009b9da81f874dd385732f2ee3d25ba394c313f6ccfd06016ffa8473b",
-    "current": "68d8f42009b9da81f874dd385732f2ee3d25ba394c313f6ccfd06016ffa8473b"
+    "previous": "c0b075990c1f3df498dff87e47c55a2853d7e8284e1720f952710035737fa8ab",
+    "current": "c0b075990c1f3df498dff87e47c55a2853d7e8284e1720f952710035737fa8ab"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -426,6 +426,22 @@
     "bullseye": {
       "codepoint": 61760,
       "source": "svg/bullseye.svg"
+    },
+    "bunny-back": {
+      "codepoint": 62303,
+      "source": "svg/bunny-back.svg"
+    },
+    "bunny-back-o": {
+      "codepoint": 62304,
+      "source": "svg/bunny-back-o.svg"
+    },
+    "bunny-front": {
+      "codepoint": 62305,
+      "source": "svg/bunny-front.svg"
+    },
+    "bunny-front-o": {
+      "codepoint": 62306,
+      "source": "svg/bunny-front-o.svg"
     },
     "bus": {
       "codepoint": 61959,

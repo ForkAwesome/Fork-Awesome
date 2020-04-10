@@ -7767,3 +7767,32 @@ icons:
     url:          tug.org
     categories:
       - Brand Icons
+
+  - name:         Bunny Front
+    id:           bunny-front
+    unicode:      f361
+    created:      1.1
+    categories:
+      - Web Application Icons
+
+  - name:         Bunny Back
+    id:           bunny-back
+    unicode:      f35f
+    created:      1.1
+    categories:
+      - Web Application Icons
+
+  - name:         Bunny Front outline
+    id:           bunny-front-o
+    unicode:      f362
+    created:      1.1
+    categories:
+      - Web Application Icons
+
+  - name:         Bunny Back outline
+    id:           bunny-back-o
+    unicode:      f360
+    created:      1.1
+    categories:
+      - Web Application Icons
+        

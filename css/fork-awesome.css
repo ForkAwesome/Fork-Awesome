@@ -2709,6 +2709,18 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-tex:before {
   content: "\f35e";
 }
+.fa-bunny-front:before {
+  content: "\f361";
+}
+.fa-bunny-back:before {
+  content: "\f35f";
+}
+.fa-bunny-front-o:before {
+  content: "\f362";
+}
+.fa-bunny-back-o:before {
+  content: "\f360";
+}
 .sr-only {
   position: absolute;
   width: 1px;
