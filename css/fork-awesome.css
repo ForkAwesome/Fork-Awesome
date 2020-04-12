@@ -2724,6 +2724,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-cc-cc:before {
   content: "\f363";
 }
+.fa-duckduckgo:before {
+  content: "\f364";
+}
 .sr-only {
   position: absolute;
   width: 1px;

@@ -7804,3 +7804,11 @@ icons:
       - Brand Icons
     aliases:
       - creative-commons-alt
+
+  - name:         DuckDuckGo
+    id:           duckduckgo
+    unicode:      f364
+    created:      1.1
+    url:          duckduckgo.com
+    categories:
+      - Brand Icons
