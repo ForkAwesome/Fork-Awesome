@@ -7860,3 +7860,11 @@ icons:
     categories:
       - Web Application Icons
       - Transportation Icons
+
+  - name:         GNU Operating System
+    id:           gnu
+    unicode:      f36a
+    created:      1.1
+    url:          gnu.org
+    categories:
+      - Brand Icons
