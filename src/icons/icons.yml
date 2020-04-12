@@ -7812,3 +7812,11 @@ icons:
     url:          duckduckgo.com
     categories:
       - Brand Icons
+
+  - name:         Vue.js
+    id:           vuejs
+    unicode:      f366
+    created:      1.1
+    url:          vuejs.org
+    categories:
+      - Brand Icons

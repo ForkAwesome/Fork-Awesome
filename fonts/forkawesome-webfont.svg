@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Sun Apr 12 14:56:54 2020
+Created by FontForge 20170924 at Sun Apr 12 16:17:36 2020
  By Dion Dresschers,,,
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.653061 -410 2304.15 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F364"
+    unicode-range="U+0020-F366"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1011,6 +1011,8 @@ c19 -12 31 -33 31 -55z" />
 d="M1494 -103l-295 695c-117 -229 -246 -468 -357 -695c-1 -1 -54 0 -54 1c-169 395 -346 787 -515 1183c-41 96 -178 252 -272 251c0 11 -1 36 -1 51h583v-50c-69 -4 -190 -48 -156 -123c79 -179 373 -865 452 -1039c54 107 208 393 271 514c-50 102 -211 482 -262 576
 c-35 64 -130 70 -201 71v50l513 -1v-47c-70 -2 -137 -28 -106 -94c68 -144 110 -245 173 -377c20 39 125 250 173 363c32 74 -14 103 -139 106c1 13 0 37 1 49c160 1 400 1 443 2v-49c-81 -3 -165 -46 -209 -114l-213 -442c23 -58 228 -514 249 -564l441 1017
 c-31 83 -131 101 -170 102v50l460 -4l1 -2l-1 -44c-101 -3 -162 -57 -201 -145c-90 -208 -372 -864 -559 -1291h-49z" />
+    <glyph glyph-name="vuejs" unicode="&#xf366;" horiz-adv-x="2069" 
+d="M445 1482l590 -1021l620 1075h414l-1034 -1792l-1004 1738l-31 54h413zM2069 1536l-31 -54h-796l-207 -360l-208 360h-796l-31 54h857l178 -306l177 306h857z" />
     <glyph glyph-name="cc-cc" unicode="&#xf363;" horiz-adv-x="1792" 
 d="M894 1536c251 0 464 -87 640 -262c84 -84 148 -181 192 -289s66 -223 66 -345c0 -123 -22 -238 -65 -345s-107 -202 -191 -284c-87 -86 -187 -152 -298 -198s-226 -69 -344 -69s-232 23 -340 68s-205 111 -291 197s-151 182 -196 290s-67 222 -67 341
 c0 118 23 233 68 342s112 207 198 293c171 174 379 261 628 261v0zM898 1374c-205 0 -377 -71 -517 -214c-70 -71 -125 -152 -163 -241s-56 -182 -56 -279c0 -96 18 -189 56 -278s93 -168 163 -238s149 -123 238 -160s182 -55 279 -55c96 0 189 19 279 56s171 91 244 161
