@@ -7850,3 +7850,13 @@ icons:
       - notification
     categories:
       - Web Application Icons
+
+  - name:       Skateboard
+    id:         skateboard
+    unicode:    f369
+    created:    1.1
+    filter:
+      - vehicle
+    categories:
+      - Web Application Icons
+      - Transportation Icons

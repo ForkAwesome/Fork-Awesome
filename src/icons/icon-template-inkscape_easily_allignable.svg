@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="-1270.0265"
+     inkscape:cx="-2910.0265"
      inkscape:cy="832.40481"
      inkscape:document-units="px"
      inkscape:current-layer="svg5504"
@@ -142,18 +142,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g1464"
-     transform="matrix(10.539936,0,0,10.539936,18887.566,5164.5687)">
-    <polygon
-       transform="translate(-1792.0001,-490)"
-       style="fill:#000000"
-       points="42.175701,5.0991171 39.23,0 0,0 2.9450761,5.1010782 98.16,170.02 196.32,0 157.06,0 98.16,102.01 "
-       id="polygon865" />
-    <polygon
-       transform="translate(-1792.0001,-490)"
-       style="fill:#000000"
-       points="196.325,0 120.82,7.8065636e-15 114.97322,2.009956e-14 98.16,29.037153 81.35,2.009956e-14 75.5,2.009956e-14 -6.8113917e-16,2.009956e-14 2.94,5.1 78.44871,5.1 98.16,39.26 117.87937,5.1 193.38,5.1 "
-       id="polygon867" />
-  </g>
+  <rect
+     style="fill:#ffd5d5;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect8180"
+     width="2304"
+     height="1792"
+     x="7.8454622e-07"
+     y="1.3235292e-06" />
 </svg>

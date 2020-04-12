@@ -2730,6 +2730,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-vuejs:before {
   content: "\f366";
 }
+.fa-email-bulk:before {
+  content: "\f367";
+}
+.fa-email-bulk-o:before {
+  content: "\f368";
+}
+.fa-skateboard:before {
+  content: "\f369";
+}
 .sr-only {
   position: absolute;
   width: 1px;
