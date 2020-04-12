@@ -7820,3 +7820,33 @@ icons:
     url:          vuejs.org
     categories:
       - Brand Icons
+
+  - name:       Email Bulk
+    id:         email-bulk
+    unicode:    f367
+    created:    1.1
+    filter:
+      - email
+      - e-mail
+      - letter
+      - support
+      - mail
+      - message
+      - notification
+    categories:
+      - Web Application Icons
+
+  - name:       Email Bulk Outlined
+    id:         email-bulk-o
+    unicode:    f368
+    created:    1.1
+    filter:
+      - email
+      - e-mail
+      - letter
+      - support
+      - mail
+      - message
+      - notification
+    categories:
+      - Web Application Icons
