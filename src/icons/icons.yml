@@ -7450,3 +7450,19 @@ icons:
     url:        funkwhale.audio
     categories:
       - Brand Icons
+  
+  - name:       Codeberg
+    id:         codeberg
+    unicode:    f340
+    created:    1.1
+    url:        codeberg.org
+    filter:
+      - git
+      - fork
+      - vcs
+      - svn
+      - rebase
+      - version
+      - merge
+    categories:
+      - Brand Icons
