@@ -90,7 +90,7 @@ Or serve it on a local server on http://localhost:7998:
 
 
 <!--- reference links for badges -->
-[all-contrib]: https://img.shields.io/badge/all_contributors-123-orange.svg?style=flat-square "All Contributors badge"
+[all-contrib]: https://img.shields.io/badge/all_contributors-124-orange.svg?style=flat-square "All Contributors badge"
 [build-status-badge]: https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master "Build status badge"
 [build-status-link]: https://travis-ci.org/ForkAwesome/Fork-Awesome
 [cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square "CDNJS badge"
