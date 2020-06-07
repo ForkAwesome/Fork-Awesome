@@ -169,6 +169,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/pattishih"><img src="https://avatars1.githubusercontent.com/u/16858138?v=4" width="50px;" alt=""/><br /><sub><b>Patti</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=pattishih" title="Code">💻</a></td>
     <td align="center"><a href="https://blog.feld.me"><img src="https://avatars1.githubusercontent.com/u/40271278?v=4" width="50px;" alt=""/><br /><sub><b>Mark Felder</b></sub></a><br /><a href="#ideas-feld" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://hugo.pro"><img src="https://avatars3.githubusercontent.com/u/180032?v=4" width="50px;" alt=""/><br /><sub><b>Hugo Locurcio</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=Calinou" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/tintincastro"><img src="https://avatars0.githubusercontent.com/u/25725603?v=4" width="50px;" alt=""/><br /><sub><b>tintincastro</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=tintincastro" title="Code">💻</a> <a href="https://github.com/ForkAwesome/Fork-Awesome/commits?author=tintincastro" title="Documentation">📖</a></td>
   </tr>
 </table>
 
