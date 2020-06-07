@@ -2557,10 +2557,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   content: "\f32c";
 }
 .fa-tor-onion:before {
-  content: "\f32d";
+  content: "\f32e";
 }
 .fa-volume-mute:before {
-  content: "\f32e";
+  content: "\f32f";
 }
 .fa-bell-ringing:before {
   content: "\f32d";
@@ -2591,6 +2591,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-researchgate:before {
   content: "\f338";
+}
+.fa-funkwhale:before {
+  content: "\f339";
 }
 .sr-only {
   position: absolute;
