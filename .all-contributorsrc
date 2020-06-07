@@ -1136,8 +1136,18 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Calinou",
+      "name": "Hugo Locurcio",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/180032?v=4",
+      "profile": "https://hugo.pro",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "skipCi": true
 }
