@@ -1,5 +1,6 @@
 {
   "plugins": [
+    { "convertPathData": false},
     { "removeAttrs": { "attrs": "(glyph-name|unicode)" } },
     { "removeScriptElement": true },
     { "removeRasterImages": true },

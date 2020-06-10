@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "361106594202171d4b3334d7fd2898099c5da95a94a32956fe36588cfcddd334",
-    "current": "361106594202171d4b3334d7fd2898099c5da95a94a32956fe36588cfcddd334"
+    "previous": "cab77ad57b5327af648c325388b2e2025bc676747443005b9909df6b768f7ca0",
+    "current": "cab77ad57b5327af648c325388b2e2025bc676747443005b9909df6b768f7ca0"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -3050,7 +3050,7 @@
     "copyright": "The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io",
     "css3": false,
     "css_selector": ".fa-{{glyph}}",
-    "debug": true,
+    "debug": false,
     "font_ascent": 1536,
     "font_descent": 256,
     "font_design_size": 16,
