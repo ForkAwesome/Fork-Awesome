@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2020-4-12: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
@@ -15,6 +16,12 @@ Created by FontForge 20170924 at Sun Apr 12 18:44:30 2020
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
+=======
+2019-11-21: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+>>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
 =======
 2019-11-21: Created with FontForge (http://fontforge.org)
 -->
@@ -48,7 +55,11 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     unicode-range="U+0020-F36A"
+=======
+    unicode-range="U+0020-F338"
+>>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
 =======
     unicode-range="U+0020-F338"
 >>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
