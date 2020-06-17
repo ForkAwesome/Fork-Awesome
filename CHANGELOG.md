@@ -1,5 +1,9 @@
 # Changelog
 
+## Changelog of Iconze
+
+- 2020-05-06
+  - Starting renaming from Fork Awesome to Iconze
 ## Changelog of Fork awesome
 - v1.1.6
   - Added icons: file-epub, python, archlinux, pleroma, unsplash, hackster, spell-check, moon, sun, f-droid, and biometric

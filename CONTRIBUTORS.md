@@ -1,3 +1,7 @@
+# Iconize
+
+Iconize is a Fork Awesome fork.
+
 # ForkAwesome Community
 
 This is a list of people who made this project possible, whether they contributed to FontAwesome before or to ForkAwesome since. We are trying hard to recognize all types of contributions. So if you feel you have been left out and should be mentioned here, please accept our apology and [write us a message](https://github.com/ForkAwesome/Fork-Awesome/issues/new) about it. We'll fix this as soon as possible.

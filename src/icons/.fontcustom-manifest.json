@@ -1,7 +1,12 @@
 {
   "checksum": {
+<<<<<<< HEAD
     "previous": "73605d4fb437fe6cb99fb960cde3c0f71e84173e95019f76d8c108dcaab8578a",
     "current": "73605d4fb437fe6cb99fb960cde3c0f71e84173e95019f76d8c108dcaab8578a"
+=======
+    "previous": "d0e6cb1502b28a1bff1f0c82ba4613e03537e428eddae4124d7d09535a77771d",
+    "current": "d0e6cb1502b28a1bff1f0c82ba4613e03537e428eddae4124d7d09535a77771d"
+>>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1274,10 +1279,6 @@
     "frown-o": {
       "codepoint": 61721,
       "source": "svg/frown-o.svg"
-    },
-    "funkwhale": {
-      "codepoint": 62265,
-      "source": "svg/funkwhale.svg"
     },
     "futbol-o": {
       "codepoint": 61923,
