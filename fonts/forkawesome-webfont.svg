@@ -2,6 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
 <<<<<<< HEAD
+<<<<<<< HEAD
 2020-4-12: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
@@ -13,6 +14,12 @@ Created by FontForge 20170924 at Sun Apr 12 18:44:30 2020
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
+=======
+2019-11-21: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+>>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
 Created by FontForge 20190801 at Thu Nov 21 23:09:04 2019
  By Helmut K. C. Tessarek
 >>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
@@ -32,7 +39,11 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     underline-thickness="89.6"
     underline-position="-179.2"
 <<<<<<< HEAD
+<<<<<<< HEAD
     unicode-range="U+0020-F36A"
+=======
+    unicode-range="U+0020-F338"
+>>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
 =======
     unicode-range="U+0020-F338"
 >>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale

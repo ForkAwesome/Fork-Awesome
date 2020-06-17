@@ -7444,6 +7444,7 @@ icons:
     categories:
       - Brand Icons
 <<<<<<< HEAD
+<<<<<<< HEAD
 
   - name:       Funkwhale
     id:         funkwhale
@@ -7869,5 +7870,7 @@ icons:
     url:          gnu.org
     categories:
       - Brand Icons
+=======
+>>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
 =======
 >>>>>>> parent of c35800e5c... add icon: Funkwhale fa-funkwhale
