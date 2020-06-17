@@ -2595,6 +2595,123 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-funkwhale:before {
   content: "\f339";
 }
+.fa-askfm:before {
+  content: "\f33a";
+}
+.fa-blockstack:before {
+  content: "\f33b";
+}
+.fa-boardgamegeek:before {
+  content: "\f33c";
+}
+.fa-bunny:before {
+  content: "\f35f";
+}
+.fa-buymeacoffee:before {
+  content: "\f33d";
+}
+.fa-cc-by:before {
+  content: "\f33e";
+}
+.fa-creative-commons-alt:before,
+.fa-cc-cc:before {
+  content: "\f33f";
+}
+.fa-cc-nc-eu:before {
+  content: "\f341";
+}
+.fa-cc-nc-jp:before {
+  content: "\f342";
+}
+.fa-cc-nc:before {
+  content: "\f340";
+}
+.fa-cc-nd:before {
+  content: "\f343";
+}
+.fa-cc-pd:before {
+  content: "\f344";
+}
+.fa-cc-remix:before {
+  content: "\f345";
+}
+.fa-cc-sa:before {
+  content: "\f346";
+}
+.fa-cc-share:before {
+  content: "\f347";
+}
+.fa-cc-zero:before {
+  content: "\f348";
+}
+.fa-conway-hacker:before,
+.fa-conway-glider:before {
+  content: "\f349";
+}
+.fa-csharp:before {
+  content: "\f34a";
+}
+.fa-email-bulk:before {
+  content: "\f34b";
+}
+.fa-email-bulk-o:before {
+  content: "\f34c";
+}
+.fa-gnu:before {
+  content: "\f34d";
+}
+.fa-google-play:before {
+  content: "\f34e";
+}
+.fa-heroku:before {
+  content: "\f34f";
+}
+.fa-hassio:before,
+.fa-home-assistant:before {
+  content: "\f350";
+}
+.fa-java:before {
+  content: "\f351";
+}
+.fa-mariadb:before {
+  content: "\f352";
+}
+.fa-markdown:before {
+  content: "\f353";
+}
+.fa-mysql:before {
+  content: "\f354";
+}
+.fa-nordcast:before {
+  content: "\f355";
+}
+.fa-plume:before {
+  content: "\f356";
+}
+.fa-postgresql:before {
+  content: "\f357";
+}
+.fa-sass-alt:before {
+  content: "\f359";
+}
+.fa-sass:before {
+  content: "\f358";
+}
+.fa-skate:before {
+  content: "\f35a";
+}
+.fa-sketchfab:before {
+  content: "\f35b";
+}
+.fa-tex:before {
+  content: "\f35c";
+}
+.fa-textpattern:before {
+  content: "\f35d";
+}
+.fa-unity:before {
+  content: "\f35e";
+}
 .sr-only {
   position: absolute;
   width: 1px;
