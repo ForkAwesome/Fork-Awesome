@@ -7454,7 +7454,7 @@ icons:
   - name:       ASKfm
     id:         askfm
     unicode:    f33a
-    created:    1.1
+    created:    1.2
     url:        ask.fm
     categories:
       - Brand Icon
@@ -7462,7 +7462,7 @@ icons:
   - name:       Blockstack
     id:         blockstack
     unicode:    f33b
-    created:    1.1
+    created:    1.2
     url:        blockstack.org
     categories:
       - Brand Icon
@@ -7470,7 +7470,7 @@ icons:
   - name:       Board Game Geek
     id:         boardgamegeek
     unicode:    f33c
-    created:    1.1
+    created:    1.2
     url:        boardgamegeek.com
     categories:
       - Brand Icons
@@ -7478,14 +7478,14 @@ icons:
   - name:         Bunny
     id:           bunny
     unicode:      f35f
-    created:      1.1
+    created:      1.2
     categories:
       - Web Application Icons
 
   - name:       Buy Me A Coffee
     id:         buymeacoffee
     unicode:    f33d
-    created:    1.1
+    created:    1.2
     url:        buymeacoffee.com
     categories:
       - Brand Icons
@@ -7493,7 +7493,7 @@ icons:
   - name:       Creative Commons BY
     id:         cc-by
     unicode:    f33e
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7502,7 +7502,7 @@ icons:
   - name:         Creative Commons
     id:           cc-cc
     unicode:      f33f
-    created:      1.1
+    created:      1.2
     url:          creativecommons.org
     categories:
       - Web Application Icons
@@ -7513,7 +7513,7 @@ icons:
   - name:       Creative Commons NC-EU
     id:         cc-nc-eu
     unicode:    f341
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7523,7 +7523,7 @@ icons:
   - name:       Creative Commons NC-JP
     id:         cc-nc-jp
     unicode:    f342
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7532,7 +7532,7 @@ icons:
   - name:       Creative Commons NC
     id:         cc-nc
     unicode:    f340
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7541,7 +7541,7 @@ icons:
   - name:       Creative Commons ND
     id:         cc-nd
     unicode:    f343
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7550,7 +7550,7 @@ icons:
   - name:       Creative Commons PD
     id:         cc-pd
     unicode:    f344
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7559,7 +7559,7 @@ icons:
   - name:       Creative Commons Remix
     id:         cc-remix
     unicode:    f345
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7568,7 +7568,7 @@ icons:
   - name:       Creative Commons SA
     id:         cc-sa
     unicode:    f346
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7577,7 +7577,7 @@ icons:
   - name:       Creative Commons Share
     id:         cc-share
     unicode:    f347
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7586,7 +7586,7 @@ icons:
   - name:       Creative Commons Zero
     id:         cc-zero
     unicode:    f348
-    created:    1.1
+    created:    1.2
     url:        creativecommons.org
     categories:
       - Web Application Icons
@@ -7595,7 +7595,7 @@ icons:
   - name:         Conway Glider
     id:           conway-glider
     unicode:      f349
-    created:      1.1
+    created:      1.2
     aliases:
       - conway-hacker 
     url:          en.wikipedia.org/wiki/Glider_(Conway's_Life)
@@ -7605,7 +7605,7 @@ icons:
   - name:       C#
     id:         csharp
     unicode:    f34a
-    created:    1.1
+    created:    1.2
     url:        csharp.net
     categories:
       - Brand Icons      
@@ -7613,7 +7613,7 @@ icons:
   - name:       Email Bulk
     id:         email-bulk
     unicode:    f34b
-    created:    1.1
+    created:    1.2
     filter:
       - email
       - e-mail
@@ -7628,7 +7628,7 @@ icons:
   - name:       Email Bulk Outlined
     id:         email-bulk-o
     unicode:    f34c
-    created:    1.1
+    created:    1.2
     filter:
       - email
       - e-mail
@@ -7643,7 +7643,7 @@ icons:
   - name:         GNU Operating System
     id:           gnu
     unicode:      f34d
-    created:      1.1
+    created:      1.2
     url:          gnu.org
     categories:
       - Brand Icons
@@ -7651,7 +7651,7 @@ icons:
   - name:       Google Play
     id:         google-play
     unicode:    f34e
-    created:    1.1
+    created:    1.2
     url:        play.google.com
     categories:
       - Brand Icons      
@@ -7659,7 +7659,7 @@ icons:
   - name:       Heroku
     id:         heroku
     unicode:    f34f
-    created:    1.1
+    created:    1.2
     url:        heroku.com
     categories:
       - Brand Icons
@@ -7667,7 +7667,7 @@ icons:
   - name:       Home Assistant
     id:         home-assistant
     unicode:    f350
-    created:    1.1
+    created:    1.2
     url:        home-assistant.io
     aliases:
       - hassio        
@@ -7677,7 +7677,7 @@ icons:
   - name:       Java
     id:         java
     unicode:    f351
-    created:    1.1
+    created:    1.2
     url:        oracle.com/java
     categories:
       - Brand Icons
@@ -7685,7 +7685,7 @@ icons:
   - name:       MariaDB
     id:         mariadb
     unicode:    f352
-    created:    1.1
+    created:    1.2
     url:        mariadb.com
     categories:
       - Brand Icons
@@ -7693,7 +7693,7 @@ icons:
   - name:       Markdown
     id:         markdown
     unicode:    f353
-    created:    1.1
+    created:    1.2
     url:        daringfireball.net/projects/markdown/
     categories:
       - Brand Icons
@@ -7701,7 +7701,7 @@ icons:
   - name:       MySQL
     id:         mysql
     unicode:    f354
-    created:    1.1
+    created:    1.2
     url:        mysql.com
     categories:
       - Brand Icons
@@ -7709,7 +7709,7 @@ icons:
   - name:       Nordcast
     id:         nordcast
     unicode:    f355
-    created:    1.1
+    created:    1.2
     url:        nordcast.app
     categories:
       - Brand Icons
@@ -7717,7 +7717,7 @@ icons:
   - name:       Plume
     id:         plume
     unicode:    f356
-    created:    1.1
+    created:    1.2
     url:        joinplu.me
     categories:
       - Brand Icons
@@ -7725,7 +7725,7 @@ icons:
   - name:       PostgreSQL
     id:         postgresql
     unicode:    f357
-    created:    1.1
+    created:    1.2
     url:        postgresql.org
     categories:
       - Brand Icons
@@ -7733,7 +7733,7 @@ icons:
   - name:       Sass Alternative
     id:         sass-alt
     unicode:    f359
-    created:    1.1
+    created:    1.2
     url:        sass-lang.com
     categories:
       - Brand Icons
@@ -7741,7 +7741,7 @@ icons:
   - name:       Sass
     id:         sass
     unicode:    f358
-    created:    1.1
+    created:    1.2
     url:        sass-lang.com
     categories:
       - Brand Icons      
@@ -7749,7 +7749,7 @@ icons:
   - name:       Skate
     id:         skate
     unicode:    f35a
-    created:    1.1
+    created:    1.2
     filter:
       - vehicle
     categories:
@@ -7759,7 +7759,7 @@ icons:
   - name:       Sketchfab
     id:         sketchfab
     unicode:    f35b
-    created:    1.1
+    created:    1.2
     url:        sketchfab.com
     categories:
       - Brand Icons
@@ -7767,7 +7767,7 @@ icons:
   - name:         TeX
     id:           tex
     unicode:      f35c
-    created:      1.1
+    created:      1.2
     url:          tug.org
     categories:
       - Brand Icons
@@ -7776,7 +7776,7 @@ icons:
   - name:       Textpattern
     id:         textpattern
     unicode:    f35d
-    created:    1.1
+    created:    1.2
     url:        textpattern.com
     categories:
       - Brand Icons
@@ -7784,7 +7784,7 @@ icons:
   - name:       Unity
     id:         unity
     unicode:    f35e
-    created:    1.1
+    created:    1.2
     url:        unity.com
     categories:
       - Brand Icons
