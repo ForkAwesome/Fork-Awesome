@@ -1,5 +1,5 @@
 <section id="new">
-  {% assign version = 1.0 %}
+  {% assign version = site.forkawesome.minor_version %}
   {% assign icons_new = icons | where_exp:"icon", "icon.created >= version" | sort_by:'class' %}
 
   <h2 class="page-header">{{ icons_new | size }} New Icons since {{ version }}</h2>
