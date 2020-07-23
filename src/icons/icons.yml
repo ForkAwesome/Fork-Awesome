@@ -7789,6 +7789,13 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       GNOME
+    id:         gnome
+    unicode:    f35f
+    created:    1.2
+    url:        gnome.org
+    categories:
+      - Brand Icons
 
 
 
