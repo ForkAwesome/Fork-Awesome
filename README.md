@@ -70,6 +70,8 @@ to the `dependencies` in your `component.json`.
   - **macOS:** no extra step required
 - [Bundler](http://bundler.io/) (Run `gem install bundler` to install).
 - [Node Package Manager (aka. `npm`)](https://docs.npmjs.com/getting-started/installing-node)
+- Tools required to build the font:
+  - **Ubuntu:** `sudo apt-get install fontforge woff-tools woff2`
 
 From the root of the repository, install the tools used to develop.
 
