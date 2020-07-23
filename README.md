@@ -78,7 +78,7 @@ From the root of the repository, install the tools used to develop.
 
 Build the font:
 
-    $:/src/icons make
+    $ make -C src/icons
 
 Build the web documentation:
 
