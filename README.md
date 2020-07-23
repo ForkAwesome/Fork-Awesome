@@ -88,6 +88,27 @@ Or serve it on a local server on http://localhost:7998:
 
     $ npm run dev
 
+### Build the font in a Docker container
+
+Another possibility is to build the font using the Dockerfile provided.
+
+First, build the Docker image:
+
+    $ docker build -t fa-builder .
+
+Then, run the Docker container:
+
+    $ docker run --rm -it \
+        -u $(id -u):$(id -g) \
+        -v $(pwd):$(pwd) \
+        -w $(pwd) \
+        fa-builder
+
+Within the container, build the font:
+
+    $ bundle install --path vendor/bundle
+    $ npm ci
+    $ make -C src/icons
 
 <!--- reference links for badges -->
 [all-contrib]: https://img.shields.io/badge/all_contributors-125-orange.svg?style=flat-square "All Contributors badge"
