@@ -1,0 +1,49 @@
+{
+  "name": "fork-awesome",
+  "description": "A fork of the iconic font and CSS framework",
+  "version": "1.2.0",
+  "style": "css/fork-awesome.css",
+  "keywords": [
+    "font",
+    "awesome",
+    "forkawesome",
+    "fontawesome",
+    "icon",
+    "bootstrap"
+  ],
+  "homepage": "https://forkawesome.github.io/Fork-Awesome",
+  "bugs": {
+    "url": "http://github.com/ForkAwesome/Fork-Awesome/issues"
+  },
+  "author": "Fork Awesome Community",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForkAwesome/Fork-Awesome.git"
+  },
+  "license": "(OFL-1.1 AND MIT)",
+  "dependencies": {},
+  "devDependencies": {
+    "@wikimedia/less-plugin-clean-css": "^1.5.2",
+    "all-contributors-cli": "^6.16.0",
+    "less": "^3.11.3",
+    "svgo": "^1.3.2"
+  },
+  "engines": {
+    "node": ">=0.10.3"
+  },
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "dev": "bundle exec jekyll serve -w",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "main": [
+    "css/fork-awesome.min.css",
+    "fonts/forkawesome-webfont.eot",
+    "fonts/forkawesome-webfont.svg",
+    "fonts/forkawesome-webfont.ttf",
+    "fonts/forkawesome-webfont.woff",
+    "fonts/forkawesome-webfont.woff2"
+  ],
+  "jsdelivr": "css/fork-awesome.min.css"
+}
