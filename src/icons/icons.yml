@@ -7789,6 +7789,13 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       ProFTPD
+    id:         proftpd
+    unicode:    f360
+    created:    1.2
+    url:        proftpd.org
+    categories:
+      - Brand Icons
 
 
 
