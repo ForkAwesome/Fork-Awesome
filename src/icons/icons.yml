@@ -7789,12 +7789,12 @@ icons:
     categories:
       - Brand Icons
 
-
-
-
-
-
-
-
-
-
+  - name:       Open Source Initiative
+    id:         osi
+    unicode:    f360
+    created:    1.2
+    url:        opensource.org
+    filter:
+      - open source
+    categories:
+      - Brand Icons
