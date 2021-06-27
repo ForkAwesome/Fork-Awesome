@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "43645600d4c87006ae27b9a081152879e4fac95271e7d8591d9ee17f69747929",
-    "current": "43645600d4c87006ae27b9a081152879e4fac95271e7d8591d9ee17f69747929"
+    "previous": "91690cff278d3b011db2fe3632514236c484310a41a9c344786859f9b2df9b3e",
+    "current": "91690cff278d3b011db2fe3632514236c484310a41a9c344786859f9b2df9b3e"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -303,13 +303,13 @@
       "codepoint": 61602,
       "source": "svg/bell-o.svg"
     },
-    "bell-rigning-o": {
-      "codepoint": 62256,
-      "source": "svg/bell-rigning-o.svg"
-    },
     "bell-ringing": {
       "codepoint": 62253,
       "source": "svg/bell-ringing.svg"
+    },
+    "bell-ringing-o": {
+      "codepoint": 62304,
+      "source": "svg/bell-ringing-o.svg"
     },
     "bell-slash": {
       "codepoint": 61942,
