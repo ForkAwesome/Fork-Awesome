@@ -28,6 +28,13 @@ Adding a new icon is a couple steps process that will require your attention and
 5. Once you are satisfied with your design and the preview of it. Add the icon name, unicode point and icon information at the bottom of the `src/icons/icons.yml` file. Look at other entries to see how it's done and to give it a proper classification.
 6. Once all this is done, commit your changes and make a pull request.
 
+Note : Please be considerate about maintainers' time and please
+[link your pull requests] to the icon request issue if it exists. You
+could use it within your commit message as well. This saves the
+maintainers extra effort in having to keep track of and close completed
+issues.
+
+[link your pull requests]: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
 
 ## Suggesting icon keyword addition/removal
 
