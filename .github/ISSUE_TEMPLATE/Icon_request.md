@@ -19,9 +19,10 @@ labels: icon-request
 ## Icon
 
 <!--
-      Please add an image for this icon
+      Please add an image for this icon ( or a URL to an existing icon file, preferably in SVG )
       As a general rule, images with simple shapes and only one color are the best.
       If this icon is a "brand" icon, let us know why this brand is important and what they do.
+      Also, please link to any trademark ( or other legal ) policies that might be relevant to the use of the brand's logos.
 -->
 
 
