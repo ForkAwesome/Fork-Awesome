@@ -7,9 +7,9 @@
 
 This project, as the name suggests, is a fork of [Font Awesome](https://fontawesome.com). Font Awesome was originally created by [Dave Gandy](https://twitter.com/davegandy) as a community project. However, as Font Awesome developed, PRs from the community stopped being accepted (Oct. 2016) and as of version 5.0 [the build system became private](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956) (Feb. 2018).
 
-With gratitude to Dave Gandy and the Font Awesome team, [Julien](https://github.com/xuv) [Deswaef](https://merveilles.town/@xuv) forked Font Awesome 4.7 into [Fork Awesome 1.0](https://github.com/ForkAwesome/Fork-Awesome/releases/tag/1.0.0) in February 2018, to continue building on the amazing resource in a truly open source fashion; with the distributed community of contributors and for the community.
+With gratitude to Dave Gandy and the Font Awesome team, [Julien](https://github.com/xuv) [Deswaef](https://merveilles.town/@xuv) forked Font Awesome 4.7 into [Fork Awesome 1.0](https://github.com/ForkAwesome/Fork-Awesome/releases/tag/1.0.0) in Feb. 2018, to continue building on the amazing resource in a truly open source fashion; with the distributed community of contributors and for the community.
 
-After a period of extended inactivity (i.e. no release since [Feb. 2019](https://github.com/ForkAwesome/Fork-Awesome/releases)), several Fork Awesome users [got](https://github.com/ForkAwesome/Fork-Awesome/issues/292) [together](https://github.com/ForkAwesome/Fork-Awesome/issues/235) to try and revive the project 🌱 Julien, after initiating and faithfully maintaining the project, was unable to continue, and hadn't found anyone to take over. Now we have the necessary access to go forward, catch up with backlogged issues and PR's, update technology and documentation — even reevaluate the project aims as icon fonts gradually [become](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) [deprecated](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/). Come say hi in the [#forkawesome:matrix.org](https://app.element.io/#/room/#forkawesome:matrix.org) matrix room 🙂
+After a period of extended inactivity (i.e. no release since [Feb. 2019](https://github.com/ForkAwesome/Fork-Awesome/releases)), several Fork Awesome users [got](https://github.com/ForkAwesome/Fork-Awesome/issues/292) [together](https://github.com/ForkAwesome/Fork-Awesome/issues/235) to try and revive the project 🌱 Julien, after initiating and faithfully maintaining the project, was unable to continue, and had not found anyone to take over. Now we have the necessary access to go forward, catch up with backlogged issues and pull requests, update technology and documentation — even reevaluate the project aims as icon fonts gradually [become](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) [deprecated](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/). Come say hi in the [#forkawesome:matrix.org](https://matrix.to/#/#forkawesome:matrix.org) matrix room 🙂
 
 ## How to use
 There is a full page in our documentation website that explains [how to use Fork Awesome in your web project](https://forkaweso.me/Fork-Awesome/get-started/). It ranges from just pointing to a CSS file on a CDN, hosting it on your own server or even adapting the LESS and SCSS files to your own liking.
@@ -111,7 +111,7 @@ Within the container, build the font:
     $ make -C src/icons
 
 <!--- reference links for badges -->
-[all-contrib]: https://img.shields.io/badge/all_contributors-125-orange.svg "All Contributors badge"
+[all-contrib]: https://img.shields.io/badge/all_contributors-126-orange.svg "All Contributors badge"
 [build-status-badge]: https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master "Build status badge"
 [build-status-link]: https://travis-ci.org/ForkAwesome/Fork-Awesome
 [cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg "CDNJS badge"
