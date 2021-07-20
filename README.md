@@ -1,17 +1,15 @@
 # Fork Awesome
 ### A fork of the iconic font and CSS toolkit
 
-[![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link]
+[![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link] [![matrix-badge]][matrix-link]
 
-Fork Awesome is a full suite of 796 pictographic icons for easy scalable vector graphics on websites, originally created by [Dave Gandy](https://twitter.com/davegandy) and now maintained by a community.
+**Fork Awesome is a suite of 796 pictographic and brand icons for easy, scalable vector graphics on websites and beyond.**
 
-Following concerns regarding [the development of Font Awesome](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956), the PR Freeze since Oct 2016 and the direction [Fort Awesome](https://fortawesome.com/) is taking with the version 5.0 of their project, we are forking Font Awesome (4.7), in order to build on this amazing tool Dave Gandy has given us, while at the same time allowing this project to be run by a distributed community of contributors.
+This project, as the name suggests, began as a fork of [Font Awesome](https://fontawesome.com). Font Awesome was originally created by [Dave Gandy](https://twitter.com/davegandy) and ran as a community project. However, as Font Awesome developed, pull requests from the community stopped being accepted (October 2016) and as of version 5.0 [the build system became private](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956) (February 2018).
 
-A tremendous gratitude is given to the whole team behind [Font Awesome](https://fontawesome.com), and you are encouraged to support them and buy Font Awesome Pro for your project.
+With gratitude to Dave Gandy and the Font Awesome team, [Julien](https://github.com/xuv) [Deswaef](https://merveilles.town/@xuv) forked Font Awesome 4.7 into [Fork Awesome 1.0](https://github.com/ForkAwesome/Fork-Awesome/releases/tag/1.0.0) in February 2018, to continue building the amazing resource in a fully free, libre and open-source fashion, with and for the wider community. After a period of extended inactivity (i.e. no release since February 2019), several Fork Awesome users [got](https://github.com/ForkAwesome/Fork-Awesome/issues/292) [together](https://github.com/ForkAwesome/Fork-Awesome/issues/235) to try and revive the project 🌱
 
-Though If you believe in distributed open source design and wish to be part of this new adventure, please start submitting patches and suggestions of improvement.
-
-Also, if you care about owning the build process of your icon font, this project will give you that. The whole pipeline is shared and free to use for any purpose. You could be spinning your own icon font with your clever name by just forking this project and changing a few settings.
+We are now catching up with backlogged issues and pull requests, updating technology and documentation — even reevaluating the project aims, as icon fonts gradually [become](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) [deprecated](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/). Come say hi in the [#forkawesome:matrix.org](https://matrix.to/#/#forkawesome:matrix.org) matrix room 🙂
 
 ## How to use
 There is a full page in our documentation website that explains [how to use Fork Awesome in your web project](https://forkaweso.me/Fork-Awesome/get-started/). It ranges from just pointing to a CSS file on a CDN, hosting it on your own server or even adapting the LESS and SCSS files to your own liking.
@@ -113,12 +111,14 @@ Within the container, build the font:
     $ make -C src/icons
 
 <!--- reference links for badges -->
-[all-contrib]: https://img.shields.io/badge/all_contributors-125-orange.svg?style=flat-square "All Contributors badge"
+[all-contrib]: https://img.shields.io/badge/all_contributors-126-orange.svg "All Contributors badge"
 [build-status-badge]: https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master "Build status badge"
 [build-status-link]: https://travis-ci.org/ForkAwesome/Fork-Awesome
-[cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg?style=flat-square "CDNJS badge"
+[cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg "CDNJS badge"
 [cdnjs-link]: https://cdnjs.com/libraries/fork-awesome
-[jsdeliver-badge]: https://data.jsdelivr.com/v1/package/npm/fork-awesome/badge "JSDeliver badge"
+[jsdeliver-badge]: https:/img.shields.io/jsdelivr/npm/hm/fork-awesome "JSDeliver badge"
 [jsdeliver-link]: https://www.jsdelivr.com/package/npm/fork-awesome
-[npm-badge]: https://img.shields.io/npm/v/fork-awesome.svg?style=flat&colorB=CB3837 "NPM badge"
-[npm-link]: ttps://www.npmjs.com/package/fork-awesome
+[npm-badge]: https://img.shields.io/npm/v/fork-awesome.svg?colorB=CB3837 "NPM badge"
+[npm-link]: https://www.npmjs.com/package/fork-awesome
+[matrix-badge]: https://img.shields.io/matrix/forkawesome:matrix.org?label=%23forkawesome%3Amatrix.org "chat (matrix) badge"
+[matrix-link]: https://matrix.to/#/#forkawesome:matrix.org
