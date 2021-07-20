@@ -116,7 +116,7 @@ Within the container, build the font:
 [build-status-link]: https://travis-ci.org/ForkAwesome/Fork-Awesome
 [cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg "CDNJS badge"
 [cdnjs-link]: https://cdnjs.com/libraries/fork-awesome
-[jsdeliver-badge]: https:/img.shields.io/jsdelivr/npm/hm/fork-awesome "JSDeliver badge"
+[jsdeliver-badge]: https://img.shields.io/jsdelivr/npm/hm/fork-awesome "JSDeliver badge"
 [jsdeliver-link]: https://www.jsdelivr.com/package/npm/fork-awesome
 [npm-badge]: https://img.shields.io/npm/v/fork-awesome.svg?colorB=CB3837 "NPM badge"
 [npm-link]: https://www.npmjs.com/package/fork-awesome
