@@ -1,15 +1,15 @@
 # Fork Awesome
 ### A fork of the iconic font and CSS toolkit
 
-[![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link] [![chat-badge]][chat-link]
+[![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link] [![matrix-badge]][matrix-link]
 
 **Fork Awesome is a suite of 796 pictographic and brand icons for easy, scalable vector graphics on websites and beyond.**
 
-This project, as the name suggests, is a fork of [Font Awesome](https://fontawesome.com). Font Awesome was originally created by [Dave Gandy](https://twitter.com/davegandy) as a community project. However, as Font Awesome developed, PRs from the community stopped being accepted (Oct. 2016) and as of version 5.0 [the build system became private](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956) (Feb. 2018).
+This project, as the name suggests, began as a fork of [Font Awesome](https://fontawesome.com). Font Awesome was originally created by [Dave Gandy](https://twitter.com/davegandy) and ran as a community project. However, as Font Awesome developed, PRs from the community stopped being accepted (October 2016) and as of version 5.0 [the build system became private](https://github.com/FortAwesome/Font-Awesome/issues/12199#issuecomment-362919956) (February 2018).
 
-With gratitude to Dave Gandy and the Font Awesome team, [Julien](https://github.com/xuv) [Deswaef](https://merveilles.town/@xuv) forked Font Awesome 4.7 into [Fork Awesome 1.0](https://github.com/ForkAwesome/Fork-Awesome/releases/tag/1.0.0) in Feb. 2018, to continue building on the amazing resource in a truly open source fashion; with the distributed community of contributors and for the community.
+With gratitude to Dave Gandy and the Font Awesome team, [Julien](https://github.com/xuv) [Deswaef](https://merveilles.town/@xuv) forked Font Awesome 4.7 into [Fork Awesome 1.0](https://github.com/ForkAwesome/Fork-Awesome/releases/tag/1.0.0) in February 2018, to continue building the amazing resource in a fully free, libre and open-source fashion, with and for the wider community.
 
-After a period of extended inactivity (i.e. no release since [Feb. 2019](https://github.com/ForkAwesome/Fork-Awesome/releases)), several Fork Awesome users [got](https://github.com/ForkAwesome/Fork-Awesome/issues/292) [together](https://github.com/ForkAwesome/Fork-Awesome/issues/235) to try and revive the project 🌱 Julien, after initiating and faithfully maintaining the project, was unable to continue, and had not found anyone to take over. Now we have the necessary access to go forward, catch up with backlogged issues and pull requests, update technology and documentation — even reevaluate the project aims as icon fonts gradually [become](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) [deprecated](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/). Come say hi in the [#forkawesome:matrix.org](https://matrix.to/#/#forkawesome:matrix.org) matrix room 🙂
+After a period of extended inactivity (i.e. no release since [February. 2019](https://github.com/ForkAwesome/Fork-Awesome/releases)), several Fork Awesome users [got](https://github.com/ForkAwesome/Fork-Awesome/issues/292) [together](https://github.com/ForkAwesome/Fork-Awesome/issues/235) to try and revive the project 🌱 We're now catching up with backlogged issues and pull requests, updating technology and documentation — even reevaluating the project aims, as icon fonts gradually [become](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) [deprecated](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/). Come say hi in the [#forkawesome:matrix.org](https://matrix.to/#/#forkawesome:matrix.org) matrix room 🙂
 
 ## How to use
 There is a full page in our documentation website that explains [how to use Fork Awesome in your web project](https://forkaweso.me/Fork-Awesome/get-started/). It ranges from just pointing to a CSS file on a CDN, hosting it on your own server or even adapting the LESS and SCSS files to your own liking.
@@ -120,5 +120,5 @@ Within the container, build the font:
 [jsdeliver-link]: https://www.jsdelivr.com/package/npm/fork-awesome
 [npm-badge]: https://img.shields.io/npm/v/fork-awesome.svg?colorB=CB3837 "NPM badge"
 [npm-link]: https://www.npmjs.com/package/fork-awesome
-[chat-badge]: https://img.shields.io/matrix/forkawesome:matrix.org?label=%23forkawesome%3Amatrix.org "chat (matrix) badge"
-[chat-link]: https://matrix.to/#/#forkawesome:matrix.org
+[matrix-badge]: https://img.shields.io/matrix/forkawesome:matrix.org?label=%23forkawesome%3Amatrix.org "chat (matrix) badge"
+[matrix-link]: https://matrix.to/#/#forkawesome:matrix.org
