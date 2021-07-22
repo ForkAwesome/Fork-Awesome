@@ -7789,6 +7789,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       HedgeDoc
+    id:         hedgedoc
+    unicode:    f35f
+    created:    1.2
+    url:        hedgedoc.org
+    categories:
+      - Brand Icons
+
 
 
 
