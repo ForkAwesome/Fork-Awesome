@@ -1,0 +1,20 @@
+{
+  "name": "fork-awesome",
+  "repo": "ForkAwesome/Fork-Awesome",
+  "description": "Fork Awesome",
+  "version": "1.2.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "SIL, MIT, CC BY 3.0",
+  "styles": [
+    "css/fork-awesome.css"
+  ],
+  "fonts": [
+    "fonts/forkawesome-webfont.eot",
+    "fonts/forkawesome-webfont.svg",
+    "fonts/forkawesome-webfont.ttf",
+    "fonts/forkawesome-webfont.woff",
+    "fonts/forkawesome-webfont.woff2"
+  ]
+}
