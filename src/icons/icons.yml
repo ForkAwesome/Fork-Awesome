@@ -7236,6 +7236,16 @@ icons:
       - Brand Icons
       - Web Application Icons
 
+  - name:       Fediverse
+    id:         fediverse
+    unicode:    f360
+    created:    1.2
+    filter:
+      - social-network
+      - federation
+    categories:
+      - Web Application Icons
+
   - name:       Unsplash
     id:         unsplash
     unicode:    f325
