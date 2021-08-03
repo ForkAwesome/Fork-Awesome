@@ -32,8 +32,8 @@
     "node": ">=0.10.3"
   },
   "scripts": {
-    "build": "bundle exec jekyll build",
-    "dev": "bundle exec jekyll serve -w",
+    "build": "RUBYOPT='-W0' bundle exec jekyll build",
+    "dev": "RUBYOPT='-W0' bundle exec jekyll serve -w",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"
   },
