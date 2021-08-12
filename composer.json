@@ -13,11 +13,6 @@
   "support": {
     "issues": "https://github.com/ForkAwesome/Fork-Awesome/issues"
   },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
-    }
-  },
   "license": [
       "OFL-1.1",
       "MIT"
