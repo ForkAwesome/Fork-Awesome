@@ -2,12 +2,12 @@
   "name": "forkawesome/fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
   "keywords": ["font", "awesome", "fontawesome", "forkawesome", "icon",  "bootstrap"],
-  "homepage": "http://forkawesome.github.io/Fork-Awesome/",
+  "homepage": "https://forkaweso.me",
   "type": "component",
   "authors": [
     {
       "name": "Fork Awesome Community",
-      "homepage": "https://forkawesome.github.io"
+      "homepage": "https://forkaweso.me"
     }
   ],
   "support": {
