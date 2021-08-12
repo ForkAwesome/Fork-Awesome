@@ -21,9 +21,5 @@
   "license": [
       "OFL-1.1",
       "MIT"
-  ],
-  "require-dev": {
-      "jekyll": "1.0.2",
-      "lessc": "1.4.2"
-  }
+  ]
 }
