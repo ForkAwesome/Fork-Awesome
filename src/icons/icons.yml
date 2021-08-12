@@ -7797,6 +7797,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       EyeEm Outlined
+    id:         eyeem-o
+    unicode:    f361
+    created:    1.2
+    url:        eyeem.com
+    categories:
+      - Brand Icons
+
 
 
 
