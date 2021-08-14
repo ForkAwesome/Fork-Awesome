@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "43645600d4c87006ae27b9a081152879e4fac95271e7d8591d9ee17f69747929",
-    "current": "43645600d4c87006ae27b9a081152879e4fac95271e7d8591d9ee17f69747929"
+    "previous": "740bfd45b8e68d75456ed7e27c287a90ec0c4da4b0d21455d283688da2b0e3ab",
+    "current": "740bfd45b8e68d75456ed7e27c287a90ec0c4da4b0d21455d283688da2b0e3ab"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -2006,6 +2006,10 @@
     "object-ungroup": {
       "codepoint": 62024,
       "source": "svg/object-ungroup.svg"
+    },
+    "observable": {
+      "codepoint": 62304,
+      "source": "svg/observable.svg"
     },
     "odnoklassniki": {
       "codepoint": 62051,

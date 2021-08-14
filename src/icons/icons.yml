@@ -7789,6 +7789,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Observable
+    id:         observable
+    unicode:    f360
+    created:    1.2
+    url:        observablehq.com/
+    categories:
+      - Brand Icons
+
 
 
 
