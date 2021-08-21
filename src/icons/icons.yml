@@ -7789,6 +7789,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Codeberg
+    id:         codeberg
+    unicode:    f35g
+    created:    1.2
+    url:        codeberg.org
+    categories:
+      - Brand Icons
+
 
 
 
