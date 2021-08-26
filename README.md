@@ -111,7 +111,7 @@ Within the container, build the font:
     $ make -C src/icons
 
 <!--- reference links for badges -->
-[all-contrib]: https://img.shields.io/badge/all_contributors-126-orange.svg "All Contributors badge"
+[all-contrib]: https://img.shields.io/badge/all_contributors-128-orange.svg "All Contributors badge"
 [build-status-badge]: https://travis-ci.org/ForkAwesome/Fork-Awesome.svg?branch=master "Build status badge"
 [build-status-link]: https://travis-ci.org/ForkAwesome/Fork-Awesome
 [cdnjs-badge]: https://img.shields.io/cdnjs/v/fork-awesome.svg "CDNJS badge"
