@@ -7824,6 +7824,22 @@ icons:
       - open source
     categories:
       - Brand Icons
+
+  - name:       EyeEm
+    id:         eyeem
+    unicode:    f364
+    created:    1.2
+    url:        eyeem.com
+    categories:
+      - Brand Icons
+
+  - name:       EyeEm Outlined
+    id:         eyeem-o
+    unicode:    f365
+    created:    1.2
+    url:        eyeem.com
+    categories:
+      - Brand Icons
   
 
 
