@@ -1239,6 +1239,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "alexgleason",
+      "name": "Alex Gleason",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3639540?v=4",
+      "profile": "http://alexgleason.me",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
