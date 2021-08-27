@@ -1191,6 +1191,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "hedgedoc",
+      "name": "HedgeDoc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67865462?v=4",
+      "profile": "https://hedgedoc.org",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
