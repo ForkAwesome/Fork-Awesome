@@ -303,13 +303,13 @@
       "codepoint": 61602,
       "source": "svg/bell-o.svg"
     },
-    "bell-rigning-o": {
-      "codepoint": 62256,
-      "source": "svg/bell-rigning-o.svg"
-    },
     "bell-ringing": {
       "codepoint": 62253,
       "source": "svg/bell-ringing.svg"
+    },
+    "bell-ringing-o": {
+      "codepoint": 62304,
+      "source": "svg/bell-ringing-o.svg"
     },
     "bell-slash": {
       "codepoint": 61942,
