@@ -1,6 +1,13 @@
 # Changelog
 
 ## Changelog of Fork awesome
+- v1.2
+  - Added icons: Wire, Tor project, volume mute, ringing bell & outlined ringing bell, HAL, Jupytr, Julia, research gate, Open Collective, ClassicPress, ORCID, funkwhale and 38 more. 🎉
+  - Updated Joplin icon.
+  - Added fa-content() function to fix issue with css displaying glyphs when converted to unicode values by sass.
+  - Updated npm packages for security reasons, and added a new option to fix odd behavior that came with svgo update (the icons chaging shape).
+  - Added docker container and instructions in readme.
+  - Build process now 'works without errors' 😅
 - v1.1.6
   - Added icons: file-epub, python, archlinux, pleroma, unsplash, hackster, spell-check, moon, sun, f-droid, and biometric
   - Some documentation correction and augmentation, mostly in the README

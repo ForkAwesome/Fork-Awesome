@@ -1182,6 +1182,42 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "mrdrogdrog",
+      "name": "Tilman Vatteroth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6124140?v=4",
+      "profile": "https://github.com/mrdrogdrog",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "seanking2919",
+      "name": "Sean King",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31253278?v=4",
+      "profile": "https://github.com/seanking2919",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "SlrG",
+      "name": "Michael Wehr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/978967?v=4",
+      "profile": "https://github.com/SlrG",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "aguragorn",
+      "name": "Edward Remo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3759189?v=4",
+      "profile": "https://github.com/aguragorn",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
