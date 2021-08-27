@@ -7788,14 +7788,32 @@ icons:
     url:        unity.com
     categories:
       - Brand Icons
+  - name:       HedgeDoc
+    id:         hedgedoc
+    unicode:    f360
+    created:    1.2
+    url:        hedgedoc.org
+    categories:
+      - Brand Icons
+
+  - name:       Fediverse
+    id:         fediverse
+    unicode:    f361
+    created:    1.2
+    filter:
+      - social-network
+      - federation
+    categories:
+      - Web Application Icons
 
   - name:       ProFTPD
     id:         proftpd
-    unicode:    f360
+    unicode:    f362
     created:    1.2
     url:        proftpd.org
     categories:
       - Brand Icons
+
 
 
 
