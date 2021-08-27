@@ -7840,6 +7840,15 @@ icons:
     url:        eyeem.com
     categories:
       - Brand Icons
+
+  - name:       Codeberg
+    id:         codeberg
+    unicode:    f366
+    created:    1.2
+    url:        codeberg.org
+    categories:
+      - Brand Icons
+
   
 
 
