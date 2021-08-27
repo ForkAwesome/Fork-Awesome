@@ -183,6 +183,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
   </tr>
   <tr>
     <td align="center"><a href="https://codeberg.org"><img src="https://avatars.githubusercontent.com/u/67550725?v=4?s=50" width="50px;" alt=""/><br /><sub><b>n</b></sub></a><br /><a href="#design-n194" title="Design">🎨</a></td>
+    <td align="center"><a href="http://alexgleason.me"><img src="https://avatars.githubusercontent.com/u/3639540?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Alex Gleason</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/issues?q=author%3Aalexgleason" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
