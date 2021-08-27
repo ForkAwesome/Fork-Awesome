@@ -7797,6 +7797,16 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Fediverse
+    id:         fediverse
+    unicode:    f361
+    created:    1.2
+    filter:
+      - social-network
+      - federation
+    categories:
+      - Web Application Icons
+
 
 
 
