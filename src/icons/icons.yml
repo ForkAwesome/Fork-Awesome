@@ -7807,6 +7807,13 @@ icons:
     categories:
       - Web Application Icons
 
+  - name:       ProFTPD
+    id:         proftpd
+    unicode:    f362
+    created:    1.2
+    url:        proftpd.org
+    categories:
+      - Brand Icons
 
 
 
