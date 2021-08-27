@@ -7788,6 +7788,7 @@ icons:
     url:        unity.com
     categories:
       - Brand Icons
+
   - name:       HedgeDoc
     id:         hedgedoc
     unicode:    f360
@@ -7813,7 +7814,6 @@ icons:
     url:        proftpd.org
     categories:
       - Brand Icons
-
 
 
 
