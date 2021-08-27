@@ -7815,6 +7815,16 @@ icons:
     categories:
       - Brand Icons
 
+    - name:       Open Source Initiative
+    id:         osi
+    unicode:    f363
+    created:    1.2
+    url:        opensource.org
+    filter:
+      - open source
+    categories:
+      - Brand Icons
+  
 
 
 
