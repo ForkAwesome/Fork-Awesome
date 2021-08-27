@@ -7791,7 +7791,7 @@ icons:
 
   - name:       HedgeDoc
     id:         hedgedoc
-    unicode:    f35f
+    unicode:    f360
     created:    1.2
     url:        hedgedoc.org
     categories:
