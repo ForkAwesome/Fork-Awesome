@@ -1218,6 +1218,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "n194",
+      "name": "n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67550725?v=4",
+      "profile": "https://codeberg.org",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
