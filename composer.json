@@ -2,28 +2,19 @@
   "name": "forkawesome/fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
   "keywords": ["font", "awesome", "fontawesome", "forkawesome", "icon",  "bootstrap"],
-  "homepage": "http://forkawesome.github.io/Fork-Awesome/",
+  "homepage": "https://forkaweso.me",
   "type": "component",
   "authors": [
     {
       "name": "Fork Awesome Community",
-      "homepage": "https://forkawesome.github.io"
+      "homepage": "https://forkaweso.me"
     }
   ],
   "support": {
     "issues": "https://github.com/ForkAwesome/Fork-Awesome/issues"
   },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
-    }
-  },
   "license": [
       "OFL-1.1",
       "MIT"
-  ],
-  "require-dev": {
-      "jekyll": "1.0.2",
-      "lessc": "1.4.2"
-  }
+  ]
 }

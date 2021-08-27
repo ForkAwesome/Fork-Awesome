@@ -1164,6 +1164,24 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "panigrc",
+      "name": "Nikos Papagiannopoulos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/645895?v=4",
+      "profile": "https://nikospapagiannopoulos.com",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "thomasbnt",
+      "name": "Thomasbnt.dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14293805?v=4",
+      "profile": "https://thomasbnt.dev",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
