@@ -176,6 +176,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://nikospapagiannopoulos.com"><img src="https://avatars.githubusercontent.com/u/645895?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Nikos Papagiannopoulos</b></sub></a><br /><a href="https://github.com/ForkAwesome/Fork-Awesome/pulls?q=is%3Apr+reviewed-by%3Apanigrc" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://thomasbnt.dev"><img src="https://avatars.githubusercontent.com/u/14293805?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Thomasbnt.dev</b></sub></a><br /><a href="#design-thomasbnt" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/mrdrogdrog"><img src="https://avatars.githubusercontent.com/u/6124140?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Tilman Vatteroth</b></sub></a><br /><a href="#design-mrdrogdrog" title="Design">🎨</a></td>
+    <td align="center"><a href="https://hedgedoc.org"><img src="https://avatars.githubusercontent.com/u/67865462?v=4?s=50" width="50px;" alt=""/><br /><sub><b>HedgeDoc</b></sub></a><br /><a href="#design-hedgedoc" title="Design">🎨</a></td>
   </tr>
 </table>
 
