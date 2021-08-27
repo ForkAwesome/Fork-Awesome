@@ -7789,9 +7789,45 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       HedgeDoc
+    id:         hedgedoc
+    unicode:    f360
+    created:    1.2
+    url:        hedgedoc.org
+    categories:
+      - Brand Icons
+
+  - name:       Fediverse
+    id:         fediverse
+    unicode:    f361
+    created:    1.2
+    filter:
+      - social-network
+      - federation
+    categories:
+      - Web Application Icons
+
+  - name:       ProFTPD
+    id:         proftpd
+    unicode:    f362
+    created:    1.2
+    url:        proftpd.org
+    categories:
+      - Brand Icons
+
+    - name:       Open Source Initiative
+    id:         osi
+    unicode:    f363
+    created:    1.2
+    url:        opensource.org
+    filter:
+      - open source
+    categories:
+      - Brand Icons
+
   - name:       EyeEm
     id:         eyeem
-    unicode:    f360
+    unicode:    f364
     created:    1.2
     url:        eyeem.com
     categories:
@@ -7799,12 +7835,12 @@ icons:
 
   - name:       EyeEm Outlined
     id:         eyeem-o
-    unicode:    f361
+    unicode:    f365
     created:    1.2
     url:        eyeem.com
     categories:
       - Brand Icons
-
+  
 
 
 
