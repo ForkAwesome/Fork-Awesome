@@ -7849,7 +7849,13 @@ icons:
     categories:
       - Brand Icons
 
-  
+  - name:       Discourse
+    id:         discourse
+    unicode:    f367
+    created:    1.3
+    url:        discourse.org
+    categories:
+      - Brand Icons
 
 
 
