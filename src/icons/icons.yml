@@ -7857,8 +7857,13 @@ icons:
     categories:
       - Brand Icons
 
-
-
+  - name:       Mumble
+    id:         mumble
+    unicode:    f368
+    created:    1.3
+    url:        mumble.info
+    categories:
+      - Brand Icons
 
 
 
