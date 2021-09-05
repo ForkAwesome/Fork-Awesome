@@ -7865,6 +7865,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       freedesktop.org
+    id:         freedesktop
+    unicode:    f369
+    created:    1.3
+    url:        freedesktop.org
+    categories:
+      - Brand Icons
+
 
 
 
