@@ -7897,6 +7897,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Canonical
+    id:         canonical
+    unicode:    f36a
+    created:    1.3
+    url:        canonical.com
+    categories:
+      - Brand Icons
+
 
 
 
