@@ -7905,6 +7905,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Ubuntu
+    id:         ubuntu
+    unicode:    f36b
+    created:    1.3
+    url:        ubuntu.com
+    categories:
+      - Brand Icons
+
 
 
 
