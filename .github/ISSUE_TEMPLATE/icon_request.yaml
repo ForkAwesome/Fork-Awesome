@@ -1,0 +1,48 @@
+name: Icon Request
+description: Suggest an icon to be included in Fork Awesome
+labels: icon-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - Please search through both open and closed issues and make sure that your icon has not been requested earlier.
+        - If you find an existing issue, please 'vote' for the icon by [reacting](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) ( with '👍' or '👎' ) to the request.
+        - Please do not comment if you have no relevant information to add. It is extra noise for everyone subscribed to this issue.
+        - Subscribe to receive notifications on status change and new comments.
+
+  - type: checkboxes
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I have searched through both open and closed issues and confirm that this icon has not been requested earlier.
+          required: true
+
+  - type: textarea
+    attributes:
+      label: Icon
+      description: |
+        Please add an image for this icon ( or a URL to an existing icon file, preferably in SVG )
+        As a general rule, images with simple shapes and only one color are the best.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Name suggestion
+      description: What name should be used for this icon?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Use-case
+      description: Describe how a user of fork-awesome would use that icon in their project.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional information for brand icons
+      description: |
+        If this icon is a "brand" icon, let us know why this brand is important and what they do.
+        Also, please link to any trademark ( or other legal ) policies that might be relevant to the use of the brand's logos.
