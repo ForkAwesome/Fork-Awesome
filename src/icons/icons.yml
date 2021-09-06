@@ -7881,9 +7881,33 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Lemmy
+    id:         lemmy
+    unicode:    f371
+    created:    1.3
+    url:        join-lemmy.org
+    categories:
+      - Brand Icons
+
+  - name:       IPFS
+    id:         ipfs
+    unicode:    f372
+    created:    1.3
+    url:        ipfs.io
+    categories:
+      - Brand Icons
+
+  - name:       Canonical
+    id:         canonical
+    unicode:    f36a
+    created:    1.3
+    url:        canonical.com
+    categories:
+      - Brand Icons
+
   - name:       Ubuntu
     id:         ubuntu
-    unicode:    f371
+    unicode:    f36b
     created:    1.3
     url:        ubuntu.com
     categories:
