@@ -7913,6 +7913,16 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       note-com
+    id:         note-com
+    unicode:    f36d
+    created:    1.3
+    aliases:
+      - note-mu
+      - note-jp
+    url:        note.com
+    categories:
+      - Brand Icons
 
 
 
