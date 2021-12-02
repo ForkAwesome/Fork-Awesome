@@ -46,17 +46,6 @@ And constructed with the following guidelines:
 
 For more information on SemVer, please visit http://semver.org.
 
-## Component
-To include as a [component](https://github.com/componentjs/component), just run
-
-    $ component install ForkAwesome/Fork-Awesome
-
-Or add
-
-    "ForkAwesome/Fork-Awesome": "*"
-
-to the `dependencies` in your `component.json`.
-
 ## Building Fork Awesome
 
 **Before you can build the project**, you must first have the following installed:
