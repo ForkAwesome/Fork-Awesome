@@ -7815,7 +7815,7 @@ icons:
     categories:
       - Brand Icons
 
-    - name:       Open Source Initiative
+  - name:       Open Source Initiative
     id:         osi
     unicode:    f363
     created:    1.2
