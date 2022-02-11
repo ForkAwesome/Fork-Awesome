@@ -7913,6 +7913,15 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Docker
+    id:         docker
+    unicode:    f36c
+    created:    0.4
+    url:        docker.com
+    filter:
+      - container
+    categories:
+      - Brand Icons
 
 
 
