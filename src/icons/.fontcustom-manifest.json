@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "74bef76ed80b2ec8eafda938cd299dabecaa37ff350efc6db09585b834fea202",
-    "current": "74bef76ed80b2ec8eafda938cd299dabecaa37ff350efc6db09585b834fea202"
+    "previous": "77be5ba395262597be8705aeb118a44ec323eab3250929fbe080c1082b8423d5",
+    "current": "77be5ba395262597be8705aeb118a44ec323eab3250929fbe080c1082b8423d5"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -483,6 +483,10 @@
       "codepoint": 61571,
       "source": "svg/camera-retro.svg"
     },
+    "canonical": {
+      "codepoint": 62317,
+      "source": "svg/canonical.svg"
+    },
     "car": {
       "codepoint": 61881,
       "source": "svg/car.svg"
@@ -731,6 +735,10 @@
       "codepoint": 61734,
       "source": "svg/code-fork.svg"
     },
+    "codeberg": {
+      "codepoint": 62318,
+      "source": "svg/codeberg.svg"
+    },
     "codepen": {
       "codepoint": 61899,
       "source": "svg/codepen.svg"
@@ -899,6 +907,14 @@
       "codepoint": 62191,
       "source": "svg/discord-alt.svg"
     },
+    "discourse": {
+      "codepoint": 62319,
+      "source": "svg/discourse.svg"
+    },
+    "docker": {
+      "codepoint": 62316,
+      "source": "svg/docker.svg"
+    },
     "dogmazic": {
       "codepoint": 62211,
       "source": "svg/dogmazic.svg"
@@ -1043,6 +1059,14 @@
       "codepoint": 61947,
       "source": "svg/eyedropper.svg"
     },
+    "eyeem": {
+      "codepoint": 62320,
+      "source": "svg/eyeem.svg"
+    },
+    "eyeem-o": {
+      "codepoint": 62321,
+      "source": "svg/eyeem-o.svg"
+    },
     "f-droid": {
       "codepoint": 62250,
       "source": "svg/f-droid.svg"
@@ -1074,6 +1098,10 @@
     "fax": {
       "codepoint": 61868,
       "source": "svg/fax.svg"
+    },
+    "fediverse": {
+      "codepoint": 62322,
+      "source": "svg/fediverse.svg"
     },
     "female": {
       "codepoint": 61826,
@@ -1246,6 +1274,10 @@
     "free-code-camp": {
       "codepoint": 62149,
       "source": "svg/free-code-camp.svg"
+    },
+    "freedesktop": {
+      "codepoint": 62323,
+      "source": "svg/freedesktop.svg"
     },
     "freedombox": {
       "codepoint": 62205,
@@ -1503,6 +1535,10 @@
       "codepoint": 61982,
       "source": "svg/heartbeat.svg"
     },
+    "hedgedoc": {
+      "codepoint": 62324,
+      "source": "svg/hedgedoc.svg"
+    },
     "heroku": {
       "codepoint": 62287,
       "source": "svg/heroku.svg"
@@ -1619,6 +1655,10 @@
       "codepoint": 61960,
       "source": "svg/ioxhost.svg"
     },
+    "ipfs": {
+      "codepoint": 62325,
+      "source": "svg/ipfs.svg"
+    },
     "italic": {
       "codepoint": 61491,
       "source": "svg/italic.svg"
@@ -1626,6 +1666,10 @@
     "java": {
       "codepoint": 62289,
       "source": "svg/java.svg"
+    },
+    "javascript": {
+      "codepoint": 62326,
+      "source": "svg/javascript.svg"
     },
     "jirafeau": {
       "codepoint": 62232,
@@ -1702,6 +1746,10 @@
     "leanpub": {
       "codepoint": 61970,
       "source": "svg/leanpub.svg"
+    },
+    "lemmy": {
+      "codepoint": 62327,
+      "source": "svg/lemmy.svg"
     },
     "lemon-o": {
       "codepoint": 61588,
@@ -1967,6 +2015,10 @@
       "codepoint": 62021,
       "source": "svg/mouse-pointer.svg"
     },
+    "mumble": {
+      "codepoint": 62328,
+      "source": "svg/mumble.svg"
+    },
     "music": {
       "codepoint": 61441,
       "source": "svg/music.svg"
@@ -2038,6 +2090,10 @@
     "orcid": {
       "codepoint": 62263,
       "source": "svg/orcid.svg"
+    },
+    "osi": {
+      "codepoint": 62329,
+      "source": "svg/osi.svg"
     },
     "outdent": {
       "codepoint": 61499,
@@ -2210,6 +2266,10 @@
     "product-hunt": {
       "codepoint": 62088,
       "source": "svg/product-hunt.svg"
+    },
+    "proftpd": {
+      "codepoint": 62330,
+      "source": "svg/proftpd.svg"
     },
     "puzzle-piece": {
       "codepoint": 61742,
@@ -2922,6 +2982,10 @@
     "twitter-square": {
       "codepoint": 61569,
       "source": "svg/twitter-square.svg"
+    },
+    "ubuntu": {
+      "codepoint": 62331,
+      "source": "svg/ubuntu.svg"
     },
     "umbrella": {
       "codepoint": 61673,
