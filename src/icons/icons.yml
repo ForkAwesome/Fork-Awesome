@@ -7916,10 +7916,8 @@ icons:
   - name:       Docker
     id:         docker
     unicode:    f36c
-    created:    0.4
+    created:    1.3
     url:        docker.com
-    filter:
-      - container
     categories:
       - Brand Icons
 
