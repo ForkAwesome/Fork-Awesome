@@ -484,7 +484,7 @@
       "source": "svg/camera-retro.svg"
     },
     "canonical": {
-      "codepoint": 62317,
+      "codepoint": 62314,
       "source": "svg/canonical.svg"
     },
     "car": {
@@ -736,7 +736,7 @@
       "source": "svg/code-fork.svg"
     },
     "codeberg": {
-      "codepoint": 62318,
+      "codepoint": 62310,
       "source": "svg/codeberg.svg"
     },
     "codepen": {
@@ -908,7 +908,7 @@
       "source": "svg/discord-alt.svg"
     },
     "discourse": {
-      "codepoint": 62319,
+      "codepoint": 62311,
       "source": "svg/discourse.svg"
     },
     "docker": {
@@ -1060,11 +1060,11 @@
       "source": "svg/eyedropper.svg"
     },
     "eyeem": {
-      "codepoint": 62320,
+      "codepoint": 62308,
       "source": "svg/eyeem.svg"
     },
     "eyeem-o": {
-      "codepoint": 62321,
+      "codepoint": 62309,
       "source": "svg/eyeem-o.svg"
     },
     "f-droid": {
@@ -1100,7 +1100,7 @@
       "source": "svg/fax.svg"
     },
     "fediverse": {
-      "codepoint": 62322,
+      "codepoint": 62305,
       "source": "svg/fediverse.svg"
     },
     "female": {
@@ -1276,7 +1276,7 @@
       "source": "svg/free-code-camp.svg"
     },
     "freedesktop": {
-      "codepoint": 62323,
+      "codepoint": 62313,
       "source": "svg/freedesktop.svg"
     },
     "freedombox": {
@@ -1536,7 +1536,7 @@
       "source": "svg/heartbeat.svg"
     },
     "hedgedoc": {
-      "codepoint": 62324,
+      "codepoint": 62304,
       "source": "svg/hedgedoc.svg"
     },
     "heroku": {
@@ -1656,7 +1656,7 @@
       "source": "svg/ioxhost.svg"
     },
     "ipfs": {
-      "codepoint": 62325,
+      "codepoint": 62322,
       "source": "svg/ipfs.svg"
     },
     "italic": {
@@ -1668,7 +1668,7 @@
       "source": "svg/java.svg"
     },
     "javascript": {
-      "codepoint": 62326,
+      "codepoint": 62320,
       "source": "svg/javascript.svg"
     },
     "jirafeau": {
@@ -1748,7 +1748,7 @@
       "source": "svg/leanpub.svg"
     },
     "lemmy": {
-      "codepoint": 62327,
+      "codepoint": 62321,
       "source": "svg/lemmy.svg"
     },
     "lemon-o": {
@@ -2016,7 +2016,7 @@
       "source": "svg/mouse-pointer.svg"
     },
     "mumble": {
-      "codepoint": 62328,
+      "codepoint": 62312,
       "source": "svg/mumble.svg"
     },
     "music": {
@@ -2092,7 +2092,7 @@
       "source": "svg/orcid.svg"
     },
     "osi": {
-      "codepoint": 62329,
+      "codepoint": 62307,
       "source": "svg/osi.svg"
     },
     "outdent": {
@@ -2268,7 +2268,7 @@
       "source": "svg/product-hunt.svg"
     },
     "proftpd": {
-      "codepoint": 62330,
+      "codepoint": 62306,
       "source": "svg/proftpd.svg"
     },
     "puzzle-piece": {
@@ -2984,7 +2984,7 @@
       "source": "svg/twitter-square.svg"
     },
     "ubuntu": {
-      "codepoint": 62331,
+      "codepoint": 62315,
       "source": "svg/ubuntu.svg"
     },
     "umbrella": {
