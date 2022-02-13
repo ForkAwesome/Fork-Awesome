@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "77be5ba395262597be8705aeb118a44ec323eab3250929fbe080c1082b8423d5",
-    "current": "77be5ba395262597be8705aeb118a44ec323eab3250929fbe080c1082b8423d5"
+    "previous": "0a5cfbcc5436ea854eb765f3a613bd2bfa7e06ec419c31ef81c337987d577e9f",
+    "current": "0a5cfbcc5436ea854eb765f3a613bd2bfa7e06ec419c31ef81c337987d577e9f"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -296,11 +296,11 @@
       "source": "svg/behance-square.svg"
     },
     "bell": {
-      "codepoint": 61683,
+      "codepoint": 61602,
       "source": "svg/bell.svg"
     },
     "bell-o": {
-      "codepoint": 61602,
+      "codepoint": 61683,
       "source": "svg/bell-o.svg"
     },
     "bell-ringing": {
@@ -308,7 +308,7 @@
       "source": "svg/bell-ringing.svg"
     },
     "bell-ringing-o": {
-      "codepoint": 62304,
+      "codepoint": 62256,
       "source": "svg/bell-ringing-o.svg"
     },
     "bell-slash": {
@@ -3019,9 +3019,9 @@
       "codepoint": 61758,
       "source": "svg/unlock-alt.svg"
     },
-    "unslpash": {
+    "unsplash": {
       "codepoint": 62245,
-      "source": "svg/unslpash.svg"
+      "source": "svg/unsplash.svg"
     },
     "upload": {
       "codepoint": 61587,
