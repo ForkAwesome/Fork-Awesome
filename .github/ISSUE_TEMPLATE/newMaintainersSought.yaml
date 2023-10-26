@@ -16,3 +16,8 @@ body:
         - label: I am aware that this issue will not be worked on unless other maintainers take over the project.
           required: true
 
+  - type: textarea
+    attributes:
+      label: Issue body
+      description: |
+        Write the content of your issue here.
