@@ -101,12 +101,17 @@ Then, run the Docker container:
     $ docker run --rm -it \
         -u $(id -u):$(id -g) \
         -v $(pwd):/workspace \
+        -p 7998:7998 \
         fa-builder
 
 Within the container, build the font:
 
     $ npm ci
     $ make -C src/icons
+
+Build the web documentation and serve it on a local server on http://localhost:7998:
+
+    $ npm run dev
 
 <!--- reference links for badges -->
 

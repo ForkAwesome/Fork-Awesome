@@ -1,6 +1,7 @@
 safe:             false
 port:             7998
-url:              http://localhost:7998
+host: 0.0.0.0
+url:              http://0.0.0.0:7998
 
 source:           src/doc/
 destination:      _site
