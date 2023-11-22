@@ -100,13 +100,11 @@ Then, run the Docker container:
 
     $ docker run --rm -it \
         -u $(id -u):$(id -g) \
-        -v $(pwd):$(pwd) \
-        -w $(pwd) \
+        -v $(pwd):/workspace \
         fa-builder
 
 Within the container, build the font:
 
-    $ bundle install --path vendor/bundle
     $ npm ci
     $ make -C src/icons
 

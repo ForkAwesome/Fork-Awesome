@@ -10,4 +10,8 @@ RUN apt-get update -y \
     woff-tools \
     woff2
 
+WORKDIR /workspace
+COPY Gemfile /workspace
+COPY Gemfile.lock /workspace
+RUN bundle install
 CMD bash
