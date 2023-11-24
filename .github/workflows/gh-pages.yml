@@ -26,7 +26,7 @@ jobs:
     - name: build Pages
       run: |
         mkdir _site
-        docker run -u $(id -u):$(id -g) -v $(pwd):/workspace fa-builder npm run build
+        docker run -u $(id -u):$(id -g) -v $(pwd):/workspace fa-builder bash -c "env; npm install; npm run build"
     - name: Upload GitHub Pages artifact
       uses: actions/upload-pages-artifact@v1
     - name: Deploy to GitHub Pages
