@@ -14,4 +14,7 @@ WORKDIR /workspace
 COPY Gemfile /workspace
 COPY Gemfile.lock /workspace
 RUN bundle install
+COPY package.json /workspace
+COPY package-lock.json /workspace
+RUN npm ci
 CMD bash
