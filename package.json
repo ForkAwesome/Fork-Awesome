@@ -26,7 +26,7 @@
     "all-contributors-cli": "^6.16.0",
     "less": "^3.11.3",
     "less-plugin-clean-css": "less/less-plugin-clean-css#master",
-    "svgo": "^1.3.2"
+    "svgo": "^3.0.0"
   },
   "engines": {
     "node": ">=0.10.3"
