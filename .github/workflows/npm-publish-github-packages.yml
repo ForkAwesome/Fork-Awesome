@@ -1,0 +1,58 @@
+# This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
+# For more information see: https://help.github.com/actions/language-and-framework-guides/publishing-nodejs-packages
+
+name: Node.js Package
+
+on:
+  push:
+    branches: [ master ]
+  release:
+    types:
+      - published
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # - name: Set up Ruby 2.6
+      #   uses: actions/setup-ruby@v1
+      #   with:
+      #     ruby-version: 2.6.x
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 17
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -y  && sudo apt-get install -y --no-install-recommends \
+            fontforge  \
+            woff-tools \
+            woff2
+          sudo gem install bundler:1.17.3
+          sudo bundle install
+      - name: Build fonts and CSS
+        run: |
+          npm ci
+          make -C src/icons
+          npm run build
+      - name: prepare for publish
+        run: |
+          mkdir fork-awesome
+          cp -r css less fonts scss fork-awesome/
+          tar zcvf fork-awesome.tgz fork-awesome/
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2.3.1
+        with:
+          path: fork-awesome.tgz
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: github.event_name == 'release'
+        with:
+          upload_url: ${{ github.event.release.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: ./fork-awesome.tgz
+          asset_name: fork-awesome.tgz
+          asset_content_type: application/tar+gzip
