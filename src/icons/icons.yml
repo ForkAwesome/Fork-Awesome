@@ -7913,6 +7913,10 @@ icons:
     categories:
       - Brand Icons
 
-
-
-
+  - name:       SourceHut
+    id:         sourcehut
+    unicode:    f36c
+    created:    1.3
+    url:        sourcehut.org
+    categories:
+      - Brand Icons
