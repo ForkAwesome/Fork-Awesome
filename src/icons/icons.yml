@@ -7873,6 +7873,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Vue.js
+    id:         vuejs
+    unicode:    f36c
+    created:    1.3
+    url:        vuejs.org
+    categories:
+      - Brand Icons
+
   - name:       JavaScript
     id:         javascript
     unicode:    f370
