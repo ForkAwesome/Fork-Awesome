@@ -1,12 +1,19 @@
-# Fork Awesome
-
-_A fork of the iconic font and CSS toolkit, Font Awesome_
-
-⚠️ **This project has not had a release for ~2 years, and another release is not planned. Rather, this project will be archived by mid 2024 unless someone else takes over maintenance. This is because:**
+⚠️ **This project is deprecated!** ⚠️
 
 > The driving force for forking—to have a community run icon set—has not been realized. The site and font build processes are broken. The source icon files need to be reworked or remade. The project focuses on icon fonts, despite icon fonts as a technology being outdated. Many other free icon sets now exist.
 
-**Read the full [retrospective here](posts/2023-04-10_forkawesomeIntrospection/forkawesomeIntrospection.md). People interested in taking over maintenance can write in the [matrix room](https://matrix.to/#/#forkawesome:matrix.org), mention me (`@douginamug`) in an issue or write to me on on [mastodon](https://mastodon.xyz/@douginamug).** ⚠️
+**For more details, read the full [retrospective](posts/2023-04-10_forkawesomeIntrospection/forkawesomeIntrospection.md). If you would like to reanimate this project, join the [matrix room](https://matrix.to/#/#forkawesome:matrix.org) and say hi.**
+
+There are many other icons project out there!
+* For fediverse iconography, see https://fediverse.wake.st/
+* For a curated list of icon project, see https://github.com/vkarampinis/awesome-icons
+* For a similar style, see the project this was forked from https://fontawesome.com/
+
+---
+
+# Fork Awesome
+
+_A fork of the iconic font and CSS toolkit, Font Awesome_
 
 [![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link] [![matrix-badge]][matrix-link]
 
