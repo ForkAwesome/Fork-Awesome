@@ -1,14 +1,12 @@
+# Fork Awesome
+
+_A fork of the iconic font and CSS toolkit, Font Awesome_
+
 ⚠️ **This project has not had a release for ~2 years, and another release is not planned. Rather, this project will be archived by mid 2024 unless someone else takes over maintenance. This is because:**
 
 > The driving force for forking—to have a community run icon set—has not been realized. The site and font build processes are broken. The source icon files need to be reworked or remade. The project focuses on icon fonts, despite icon fonts as a technology being outdated. Many other free icon sets now exist.
 
 **Read the full [retrospective here](posts/2023-04-10_forkawesomeIntrospection/forkawesomeIntrospection.md). People interested in taking over maintenance can write in the [matrix room](https://matrix.to/#/#forkawesome:matrix.org), mention me (`@douginamug`) in an issue or write to me on on [mastodon](https://mastodon.xyz/@douginamug).** ⚠️
-
----
-
-# Fork Awesome
-
-_A fork of the iconic font and CSS toolkit, Font Awesome_
 
 [![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link] [![matrix-badge]][matrix-link]
 
