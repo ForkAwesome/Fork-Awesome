@@ -1,55 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <!-- Basic Page Needs
+  <head>
+    <!-- Basic Page Needs
  ================================================== -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Fork Awesome, a fork of the iconic font and CSS framework">
-  <meta name="author" content="The Fork Awesome community">
-  <link rel="shortcut icon" href="{{ page.relative_path }}assets/ico/favicon.ico">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="Fork Awesome, a fork of the iconic font and CSS framework"
+    />
+    <meta name="author" content="The Fork Awesome community" />
+    <link
+      rel="shortcut icon"
+      href="{{ page.relative_path }}assets/ico/favicon.ico"
+    />
 
-  <title>{% if page.title %}{{ page.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }}{% endif %}</title>
 
-  <!-- CSS
+    <!-- CSS
   ================================================== -->
-  <link rel="stylesheet" href="{{ page.relative_path }}assets/css/site.css">
-  <link rel="stylesheet" href="{{ page.relative_path }}assets/css/pygments.css">
-  <link rel="stylesheet" href="{{ page.relative_path }}assets/css/share.min.css">
-  <link rel="stylesheet" href="{{ page.relative_path }}assets/fork-awesome/css/fork-awesome.css">
+    <link rel="stylesheet" href="{{ page.relative_path }}assets/css/site.css" />
+    <link
+      rel="stylesheet"
+      href="{{ page.relative_path }}assets/css/pygments.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ page.relative_path }}assets/css/share.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ page.relative_path }}assets/fork-awesome/css/fork-awesome.css"
+    />
 
-  <!-- Twitter
+    <!-- Twitter
   ================================================== -->
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% endif %}">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:description" content="Fork Awesome, a fork of the iconic font and CSS toolkit">
-  <meta name="twitter:image" content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg">
+    <meta
+      name="twitter:title"
+      content="{% if page.title %}{{ page.title }}{% endif %}"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:description"
+      content="Fork Awesome, a fork of the iconic font and CSS toolkit"
+    />
+    <meta
+      name="twitter:image"
+      content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg"
+    />
 
-  <!-- FACEBOOK
+    <!-- FACEBOOK
   ================================================== -->
-  <meta property="og:url" content="https://forkawesome.github.io/Fork-Awesome/">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}">
-  <meta name="description" property="og:description" content="Fork Awesome, a fork of the iconic font and CSS toolkit" />
-  <meta property="og:image" content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg">
+    <meta
+      property="og:url"
+      content="https://forkawesome.github.io/Fork-Awesome/"
+    />
+    <meta
+      property="og:title"
+      content="{% if page.title %}{{ page.title }}{% endif %}"
+    />
+    <meta
+      name="description"
+      property="og:description"
+      content="Fork Awesome, a fork of the iconic font and CSS toolkit"
+    />
+    <meta
+      property="og:image"
+      content="https://forkawesome.github.io/Fork-Awesome/assets/images/banner.jpg"
+    />
 
-  <!--[if lt IE 9]>
-    <script src="{{ page.relative_path }}assets/js/html5shiv.js"></script>
-    <script src="{{ page.relative_path }}assets/js/respond.min.js"></script>
-  <![endif]-->
-
-</head>
-<body class="font-awesome {{ page.view_class }}">
-  <div id="wrap"> <!-- necessary for sticky footer. wrap all content except footer -->
-    {% include navbar.html %}
-
-    {{ content }}
-  </div>
-  {% include footer.html %}
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/{{ site.jquery.version }}/jquery.min.js"></script>
-  <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/{{ site.jquery_validate.version }}/jquery.validate.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/{{ site.bootstrap.version }}/js/bootstrap.min.js"></script>
-  <script src="{{ page.relative_path }}assets/js/site.js"></script>
-  <script src="{{ page.relative_path }}assets/js/share.min.js"></script>
-
+    <!--[if lt IE 9]>
+      <script src="{{ page.relative_path }}assets/js/html5shiv.js"></script>
+      <script src="{{ page.relative_path }}assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body class="font-awesome {{ page.view_class }}">
+    <div id="wrap">
+      <!-- necessary for sticky footer. wrap all content except footer -->
+      <p
+        style="
+          background: #f2dede;
+          border: 0.5rem solid #a94442;
+          padding: 1rem;
+          margin: 0;
+          font-size: 2.5rem;
+          text-align: center;
+        "
+      >
+        <b>Fork Awesome is deprecated!</b> Please use a different icon system. See <a href="https://github.com/ForkAwesome/Fork-Awesome">github</a> for more details.
+      </p>
+      {% include navbar.html %} {{ content }}
+    </div>
+    {% include footer.html %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/{{ site.jquery.version }}/jquery.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/{{ site.jquery_validate.version }}/jquery.validate.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/{{ site.bootstrap.version }}/js/bootstrap.min.js"></script>
+    <script src="{{ page.relative_path }}assets/js/site.js"></script>
+    <script src="{{ page.relative_path }}assets/js/share.min.js"></script>
   </body>
 </html>
