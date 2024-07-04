@@ -7706,14 +7706,6 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Nordcast
-    id:         nordcast
-    unicode:    f355
-    created:    1.2
-    url:        nordcast.app
-    categories:
-      - Brand Icons
-
   - name:       Plume
     id:         plume
     unicode:    f356
