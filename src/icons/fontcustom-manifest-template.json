@@ -1,0 +1,49 @@
+{
+  "checksum": {
+    "previous": "",
+    "current": ""
+  },
+  "fonts": [
+    "forkawesome/forkawesome.ttf",
+    "forkawesome/forkawesome.svg",
+    "forkawesome/forkawesome.woff",
+    "forkawesome/forkawesome.eot",
+    "forkawesome/forkawesome.woff2"
+  ],
+  "glyphs": {
+  },
+  "options": {
+    "autowidth": true,
+    "config": "fontcustom.yml",
+    "copyright": "The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io",
+    "css3": false,
+    "css_selector": ".fa-{{glyph}}",
+    "debug": false,
+    "font_ascent": 1536,
+    "font_descent": 256,
+    "font_design_size": 16,
+    "font_em": 1792,
+    "font_name": "forkawesome",
+    "force": false,
+    "input": {
+      "templates": "svg",
+      "vectors": "svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "forkawesome",
+      "fonts": "forkawesome",
+      "preview": "forkawesome"
+    },
+    "preprocessor_path": "",
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "forkawesome/forkawesome.css",
+    "forkawesome/forkawesome-preview.html"
+  ]
+}
