@@ -7913,6 +7913,13 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Blogger
+    id:         blogger
+    unicode:    f371
+    created:    1.3
+    url:        blogger.com
+    categories:
+      - Brand Icons
 
 
 
