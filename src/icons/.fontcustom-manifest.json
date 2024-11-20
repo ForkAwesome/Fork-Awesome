@@ -2559,6 +2559,10 @@
       "codepoint": 61886,
       "source": "svg/soundcloud.svg"
     },
+    "sourcehut": {
+      "codepoint": 62319,
+      "source": "svg/sourcehut.svg"
+    },
     "space-shuttle": {
       "codepoint": 61847,
       "source": "svg/space-shuttle.svg"
