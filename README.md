@@ -1,13 +1,6 @@
-⚠️ **This project is deprecated!** ⚠️
+⚠️ **This project is being resurrected!** ⚠️
 
-> The driving force for forking—to have a community run icon set—has not been realized. The site and font build processes are broken. The source icon files need to be reworked or remade. The project focuses on icon fonts, despite icon fonts as a technology being outdated. Many other free icon sets now exist.
-
-**For more details, read the full [retrospective](posts/2023-04-10_forkawesomeIntrospection/forkawesomeIntrospection.md). If you would like to reanimate this project, join the [matrix room](https://matrix.to/#/#forkawesome:matrix.org) and say hi.**
-
-There are many other icons project out there!
-* For fediverse iconography, see https://fediverse.wake.st/
-* For a curated list of icon project, see https://github.com/vkarampinis/awesome-icons
-* For a similar style, see the project this was forked from https://fontawesome.com/
+We are in the process of creating a new website for Fork Awesome, where we will be featuring the SVG files for use in your projects. More news coming soon!
 
 ---
 
