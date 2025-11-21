@@ -7913,6 +7913,12 @@ icons:
     categories:
       - Brand Icons
 
-
+  - name:       Itch-io
+    id:         itch-io
+    unicode:    f370
+    created:    1.3
+    url:        itch.io
+    categories:
+      - Brand Icons
 
 
