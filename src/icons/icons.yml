@@ -7913,6 +7913,13 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Qiita
+    id:         qiita
+    unicode:    f36f
+    created:    1.3
+    url:        qiita.com
+    categories:
+      - Brand Icons
 
 
 
