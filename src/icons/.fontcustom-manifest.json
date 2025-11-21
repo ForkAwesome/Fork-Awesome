@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "74bef76ed80b2ec8eafda938cd299dabecaa37ff350efc6db09585b834fea202",
-    "current": "74bef76ed80b2ec8eafda938cd299dabecaa37ff350efc6db09585b834fea202"
+    "previous": "0a5cfbcc5436ea854eb765f3a613bd2bfa7e06ec419c31ef81c337987d577e9f",
+    "current": "0a5cfbcc5436ea854eb765f3a613bd2bfa7e06ec419c31ef81c337987d577e9f"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -296,11 +296,11 @@
       "source": "svg/behance-square.svg"
     },
     "bell": {
-      "codepoint": 61683,
+      "codepoint": 61602,
       "source": "svg/bell.svg"
     },
     "bell-o": {
-      "codepoint": 61602,
+      "codepoint": 61683,
       "source": "svg/bell-o.svg"
     },
     "bell-ringing": {
@@ -308,7 +308,7 @@
       "source": "svg/bell-ringing.svg"
     },
     "bell-ringing-o": {
-      "codepoint": 62304,
+      "codepoint": 62256,
       "source": "svg/bell-ringing-o.svg"
     },
     "bell-slash": {
@@ -482,6 +482,10 @@
     "camera-retro": {
       "codepoint": 61571,
       "source": "svg/camera-retro.svg"
+    },
+    "canonical": {
+      "codepoint": 62314,
+      "source": "svg/canonical.svg"
     },
     "car": {
       "codepoint": 61881,
@@ -731,6 +735,10 @@
       "codepoint": 61734,
       "source": "svg/code-fork.svg"
     },
+    "codeberg": {
+      "codepoint": 62310,
+      "source": "svg/codeberg.svg"
+    },
     "codepen": {
       "codepoint": 61899,
       "source": "svg/codepen.svg"
@@ -899,6 +907,14 @@
       "codepoint": 62191,
       "source": "svg/discord-alt.svg"
     },
+    "discourse": {
+      "codepoint": 62311,
+      "source": "svg/discourse.svg"
+    },
+    "docker": {
+      "codepoint": 62316,
+      "source": "svg/docker.svg"
+    },
     "dogmazic": {
       "codepoint": 62211,
       "source": "svg/dogmazic.svg"
@@ -1043,6 +1059,14 @@
       "codepoint": 61947,
       "source": "svg/eyedropper.svg"
     },
+    "eyeem": {
+      "codepoint": 62308,
+      "source": "svg/eyeem.svg"
+    },
+    "eyeem-o": {
+      "codepoint": 62309,
+      "source": "svg/eyeem-o.svg"
+    },
     "f-droid": {
       "codepoint": 62250,
       "source": "svg/f-droid.svg"
@@ -1074,6 +1098,10 @@
     "fax": {
       "codepoint": 61868,
       "source": "svg/fax.svg"
+    },
+    "fediverse": {
+      "codepoint": 62305,
+      "source": "svg/fediverse.svg"
     },
     "female": {
       "codepoint": 61826,
@@ -1246,6 +1274,10 @@
     "free-code-camp": {
       "codepoint": 62149,
       "source": "svg/free-code-camp.svg"
+    },
+    "freedesktop": {
+      "codepoint": 62313,
+      "source": "svg/freedesktop.svg"
     },
     "freedombox": {
       "codepoint": 62205,
@@ -1503,6 +1535,10 @@
       "codepoint": 61982,
       "source": "svg/heartbeat.svg"
     },
+    "hedgedoc": {
+      "codepoint": 62304,
+      "source": "svg/hedgedoc.svg"
+    },
     "heroku": {
       "codepoint": 62287,
       "source": "svg/heroku.svg"
@@ -1619,6 +1655,10 @@
       "codepoint": 61960,
       "source": "svg/ioxhost.svg"
     },
+    "ipfs": {
+      "codepoint": 62322,
+      "source": "svg/ipfs.svg"
+    },
     "italic": {
       "codepoint": 61491,
       "source": "svg/italic.svg"
@@ -1626,6 +1666,10 @@
     "java": {
       "codepoint": 62289,
       "source": "svg/java.svg"
+    },
+    "javascript": {
+      "codepoint": 62320,
+      "source": "svg/javascript.svg"
     },
     "jirafeau": {
       "codepoint": 62232,
@@ -1702,6 +1746,10 @@
     "leanpub": {
       "codepoint": 61970,
       "source": "svg/leanpub.svg"
+    },
+    "lemmy": {
+      "codepoint": 62321,
+      "source": "svg/lemmy.svg"
     },
     "lemon-o": {
       "codepoint": 61588,
@@ -1967,6 +2015,10 @@
       "codepoint": 62021,
       "source": "svg/mouse-pointer.svg"
     },
+    "mumble": {
+      "codepoint": 62312,
+      "source": "svg/mumble.svg"
+    },
     "music": {
       "codepoint": 61441,
       "source": "svg/music.svg"
@@ -2038,6 +2090,10 @@
     "orcid": {
       "codepoint": 62263,
       "source": "svg/orcid.svg"
+    },
+    "osi": {
+      "codepoint": 62307,
+      "source": "svg/osi.svg"
     },
     "outdent": {
       "codepoint": 61499,
@@ -2210,6 +2266,10 @@
     "product-hunt": {
       "codepoint": 62088,
       "source": "svg/product-hunt.svg"
+    },
+    "proftpd": {
+      "codepoint": 62306,
+      "source": "svg/proftpd.svg"
     },
     "puzzle-piece": {
       "codepoint": 61742,
@@ -2923,6 +2983,10 @@
       "codepoint": 61569,
       "source": "svg/twitter-square.svg"
     },
+    "ubuntu": {
+      "codepoint": 62315,
+      "source": "svg/ubuntu.svg"
+    },
     "umbrella": {
       "codepoint": 61673,
       "source": "svg/umbrella.svg"
@@ -2955,9 +3019,9 @@
       "codepoint": 61758,
       "source": "svg/unlock-alt.svg"
     },
-    "unslpash": {
+    "unsplash": {
       "codepoint": 62245,
-      "source": "svg/unslpash.svg"
+      "source": "svg/unsplash.svg"
     },
     "upload": {
       "codepoint": 61587,
